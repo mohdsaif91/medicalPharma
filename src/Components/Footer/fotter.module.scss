@@ -1,0 +1,61 @@
+@import "../../variable.module.scss";
+
+.footerContainer {
+  background-color: $headerPrimaryColor;
+  padding: 16px;
+  .conatinerOne {
+    display: flex;
+    flex-direction: row;
+    margin: 24px 40px;
+    justify-content: space-between;
+    align-items: center;
+    .footerLogoContainer {
+      .footerLogo {
+        width: 160px;
+        height: 90px;
+      }
+    }
+    .footerLinks {
+      font-weight: 600;
+      cursor: pointer;
+      font-size: 18px;
+    }
+    .mobileMoneyContainer {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      .mobileLabel {
+        font-weight: 600;
+        margin-right: 8px;
+      }
+      .mobileNumber {
+        text-decoration: none;
+        font-size: 20px;
+        margin-bottom: 8px;
+      }
+      .paymentContainer {
+        margin-top: 16px;
+        display: flex;
+        flex-direction: row;
+        .paymentMedium {
+          margin-right: 24px;
+        }
+      }
+    }
+  }
+  .conatinerTwo {
+    // background-color: #f5f3f0;
+    margin: 24px 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    .copyRightLabel {
+      margin-bottom: 8px;
+    }
+    .copyRightDescription {
+      text-align: center;
+    }
+  }
+}

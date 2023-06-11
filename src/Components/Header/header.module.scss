@@ -1,0 +1,83 @@
+@import "../../variable.module.scss";
+
+.headerContainer {
+  background-color: $headerPrimaryColor;
+  padding: 8px;
+  height: 120px;
+  .firstRow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    height: 30%;
+    .redHeading {
+      color: $redColor;
+      margin-right: 4px;
+    }
+  }
+  .secondRow {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 40%;
+    .secondaryItems {
+      padding: 16px;
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+      width: 850px;
+      .inputContainer {
+        width: 60%;
+        .searchInput {
+          width: 100%;
+        }
+      }
+      .rigthCornerContainer {
+        padding-left: 40px;
+        width: 40%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        .iconContainer {
+          font-weight: 600;
+          cursor: pointer;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          .removeUnderLine {
+            color: $primaryButtonColor !important;
+            text-decoration: none;
+          }
+        }
+      }
+    }
+  }
+  .thirdRow {
+    height: 30%;
+    padding-bottom: 16px;
+    .thirdRowItem {
+      padding-left: 0 !important;
+      list-style: none;
+      display: flex;
+      align-items: center;
+      // justify-content: center;
+      flex-direction: row;
+      .listItem {
+        font-size: 20px;
+        text-decoration: none;
+        margin-right: 16px;
+        .listItemLink {
+          font-weight: 600;
+          color: $primaryButtonColor !important;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
+
+.headerIcon {
+  margin-right: 8px;
+  height: 32px;
+  width: 32px;
+}

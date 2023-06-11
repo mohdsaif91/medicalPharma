@@ -1,0 +1,28 @@
+@import "./variable.module.scss";
+
+body {
+  margin: 0;
+  background-color: $primaryBackgroundColor;
+}
+
+.appContainer {
+  font-family: "Raleway", sans-serif;
+}
+
+.input {
+  border-radius: 4px;
+  outline: none;
+  border: 1px solid #333;
+  height: 32px;
+  font-size: 20px;
+  &:focus {
+    outline: none;
+  }
+}
+.btn {
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-size: 15px;
+  border: 1px solid $primaryBackgroundColor;
+  cursor: pointer;
+}

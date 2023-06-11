@@ -1,0 +1,135 @@
+@import "../../variable.module.scss";
+
+.homeContainer {
+  .heroContainer {
+  }
+  .serviceCards {
+    background-color: $headerPrimaryColor;
+    margin: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    .serviceCardsItem {
+      padding: 40px;
+      display: flex;
+      flex-direction: row;
+      border-right: 1px solid $borderColor;
+      &:last-of-type {
+        border-right: none;
+      }
+      .cardIcon {
+        margin-right: 16px;
+        height: 30px;
+        width: 30px;
+      }
+      .serviceCardText {
+        .serviceCardTextMain {
+          font-size: 18px;
+          font-weight: 600;
+        }
+      }
+    }
+  }
+  .container {
+    margin: 24px;
+    background-color: $headerPrimaryColor;
+    padding: 24px 16px;
+
+    .categoryContainerParent {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      .categoryContainer {
+        list-style: none;
+        display: grid;
+        grid-template-columns: auto auto auto auto auto auto;
+        .categoryItem {
+          cursor: pointer;
+          padding: 16px;
+          border-radius: 4px;
+          border: 1px solid $borderColor;
+          margin: 12px;
+          color: $primaryButtonColor;
+          text-align: center;
+          font-weight: 600;
+          &:hover {
+            color: #fff;
+            background-color: $primaryButtonColor;
+            border: none;
+          }
+        }
+      }
+    }
+    .dealContainer {
+      display: grid;
+      grid-template-columns: 19% 19% 19% 19% 19%;
+      grid-gap: 1%;
+      padding: 24px 8px;
+      .dealCard {
+        border: 1px solid $borderColor;
+        padding: 16px 20px;
+        border-radius: 4px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        .cardTitle {
+          font-weight: 600;
+          font-size: 24px;
+        }
+        .dealCardImage {
+          height: 100px;
+          width: 100px;
+        }
+        .cardSubTitle {
+          font-size: 18px;
+          margin-bottom: 24px;
+          .cardTitleMain {
+            font-weight: 600;
+            color: $primaryButtonColor;
+          }
+        }
+        .starRating {
+          .starItem {
+            font-size: 16px;
+          }
+          .on {
+            color: $primaryButtonColor;
+          }
+          .of {
+            color: $borderColor;
+          }
+        }
+        .homeBtnContainer {
+          margin: 24px 16px;
+          display: flex;
+          flex-direction: column;
+          justify-content: space-between;
+          .buyBtn {
+            margin-bottom: 12px;
+            background-color: $primaryButtonColor;
+          }
+          .cartBtn {
+            background-color: $secondaryButtonColor;
+          }
+        }
+      }
+    }
+    .certificatesList {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-around;
+      margin-top: 24px;
+    }
+  }
+}
+.containerHeading {
+  font-weight: 600;
+  font-size: 20px;
+}
+.borderBottom {
+  padding-top: 24px;
+  border-bottom: 1px solid #333;
+}
