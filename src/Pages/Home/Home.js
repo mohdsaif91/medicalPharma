@@ -20,10 +20,15 @@ import checker from "../../images/certificates/checker.png";
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import style from "./home.module.scss";
 import globalStyle from "../../app.module.scss";
+import { category } from "../../data/masterData";
+import { useNavigate } from "react-router-dom";
 
 const Home = () => {
+  const navigate = useNavigate();
+
   const handleCategoryClick = (categoryValue) => {
-    console.log(categoryValue);
+    const formatedcategoryValue = categoryValue.split(" ").join("-");
+    navigate(`/productByCategory/${formatedcategoryValue}`);
   };
   return (
     <div className={style.homeContainer}>
@@ -79,186 +84,15 @@ const Home = () => {
         <div className={style.containerHeading}>Shop by Category</div>
         <div className={style.categoryContainerParent}>
           <ul className={style.categoryContainer}>
-            <li
-              onClick={() => handleCategoryClick("AIDS or HIV Treatment")}
-              className={style.categoryItem}
-            >
-              AIDS or HIV Treatment
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Anesthetics")}
-              className={style.categoryItem}
-            >
-              Anesthetics
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Anti Viral")}
-              className={style.categoryItem}
-            >
-              Anti Viral
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Anti-Acidity")}
-              className={style.categoryItem}
-            >
-              Anti-Acidity
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Anti-Acne")}
-              className={style.categoryItem}
-            >
-              Anti-Acne
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Anti-Allergic or Asthma")}
-              className={style.categoryItem}
-            >
-              Anti-Allergic or Asthma
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Anti-Depressant")}
-              className={style.categoryItem}
-            >
-              Anti-Depressant
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Anti-Diabetic")}
-              className={style.categoryItem}
-            >
-              Anti-Diabetic
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Anti-Fungus")}
-              className={style.categoryItem}
-            >
-              Anti-Fungus
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Anti-Hair loss")}
-              className={style.categoryItem}
-            >
-              Anti-Hair loss
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Anti-Herpes")}
-              className={style.categoryItem}
-            >
-              Anti-Herpes
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Anti-Muscular Dystrophy")}
-              className={style.categoryItem}
-            >
-              Anti-Muscular Dystrophy
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Antibiotics")}
-              className={style.categoryItem}
-            >
-              Antibiotics
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Antioxidant")}
-              className={style.categoryItem}
-            >
-              Antioxidant
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Blood Pressure")}
-              className={style.categoryItem}
-            >
-              Blood Pressure
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Cholesterol")}
-              className={style.categoryItem}
-            >
-              Cholesterol
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Erectile Dysfunction")}
-              className={style.categoryItem}
-            >
-              Erectile Dysfunction
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Eye Care")}
-              className={style.categoryItem}
-            >
-              Eye Care
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Gastrointestinal")}
-              className={style.categoryItem}
-            >
-              Gastrointestinal
-            </li>
-            <li
-              onClick={() => handleCategoryClick("General Health")}
-              className={style.categoryItem}
-            >
-              General Health
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Healthy Bones")}
-              className={style.categoryItem}
-            >
-              Healthy Bones
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Hepatitis B")}
-              className={style.categoryItem}
-            >
-              Hepatitis B
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Men`s Health</")}
-              className={style.categoryItem}
-            >
-              Men`s Health
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Pain Relief")}
-              className={style.categoryItem}
-            >
-              Pain Relief
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Premature Ejaculation")}
-              className={style.categoryItem}
-            >
-              Premature Ejaculation
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Skin Care")}
-              className={style.categoryItem}
-            >
-              Skin Care
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Sleeping Aid")}
-              className={style.categoryItem}
-            >
-              Sleeping Aid
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Vitamins")}
-              className={style.categoryItem}
-            >
-              Vitamins
-            </li>
-            <li
-              onClick={() => handleCategoryClick("Weight Loss")}
-              className={style.categoryItem}
-            >
-              Weight Loss
-            </li>
-            <li
-              onClick={() => handleCategoryClick(`Women's Health`)}
-              className={style.categoryItem}
-            >
-              Women's Health
-            </li>
+            {category.map((m, index) => (
+              <li
+                key={index}
+                onClick={() => handleCategoryClick(m)}
+                className={style.categoryItem}
+              >
+                {m}
+              </li>
+            ))}
           </ul>
         </div>
       </div>

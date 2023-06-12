@@ -5,6 +5,7 @@ import Home from "./Pages/Home/Home";
 import About from "./Pages/About/About";
 import Contact from "./Pages/Contact/contact";
 import Product from "./Pages/Product/product";
+import ProductByCategory from "./Pages/ProductByCategory/ProductByCategory";
 
 import style from "./app.module.scss";
 import Footer from "./Components/Footer/Footer";
@@ -18,6 +19,10 @@ function App() {
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/product" element={<Product />} />
+        <Route
+          path="/productByCategory/:categoryName"
+          element={<ProductByCategory />}
+        />
       </Routes>
       <Footer />
     </div>

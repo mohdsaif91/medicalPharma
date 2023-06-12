@@ -1,0 +1,25 @@
+@import "../../variable.module.scss";
+
+.productItem {
+  padding: 8px;
+  border: 1px solid $borderColor;
+  border-radius: 8px;
+  text-align: center;
+  .cardHeader {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-weight: 600;
+    padding-right: 4px;
+    .dataRatingContainer {
+      border-radius: 50%;
+      padding: 6px;
+      background-color: $primaryBackgroundColor;
+    }
+  }
+  .productName {
+    font-weight: 600;
+    font-size: 20px;
+    padding: 8px;
+  }
+}

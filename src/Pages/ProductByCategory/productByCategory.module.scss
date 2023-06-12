@@ -1,0 +1,18 @@
+@import "../../variable.module.scss";
+
+.productByCategoryContainer {
+  margin: 16px;
+  background-color: $headerPrimaryColor;
+  .pageHeading {
+    font-weight: 600;
+    font-size: 20px;
+    padding: 24px 16px;
+    border-bottom: 1px solid $borderColor;
+  }
+  .productConatienr {
+    padding: 32px;
+    display: grid;
+    grid-template-columns: 24% 24% 24% 24%;
+    gap: 1%;
+  }
+}
