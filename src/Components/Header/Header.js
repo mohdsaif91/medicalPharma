@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import Phone from "../../images/icon/telephone.png";
 import Cart from "../../images/icon/shopping-cart-empty-side-view.png";
 import Auth from "../../images/icon/user.png";
+import Logo from "../../images/logo.jpg";
 
 import style from "./header.module.scss";
 import globalStyle from "../../app.module.scss";
@@ -19,7 +20,9 @@ const Header = () => {
         Know more
       </div>
       <div className={style.secondRow}>
-        <div className={style.primaryItems}>Logo</div>
+        <div className={style.primaryItems}>
+          <img alt="" className={style.logoImage} src={Logo} />
+        </div>
         <div className={style.secondaryItems}>
           <div className={style.inputContainer}>
             <input

@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useLayoutEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 
 import { masterData } from "../../data/masterData";
@@ -13,9 +13,14 @@ import style from "./singleProductView.module.scss";
 import globalStyle from "../../app.module.scss";
 
 const SingleProductView = () => {
+  const [productData, setProductData] = useState(masterData);
   const location = useLocation();
 
-  const gotProduct = masterData.find(
+  useLayoutEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
+  const gotProduct = productData.find(
     (f) => f.productId === parseInt(location.pathname.split("/").pop())
   );
   console.log(gotProduct);
@@ -99,7 +104,11 @@ const SingleProductView = () => {
                   <td className={style.tabledata}>
                     <div className={style.inputContainer}>
                       <img src={Minus} alt="" className={style.minusBtn} />
-                      <input className={style.input} type="number" />
+                      <input
+                        value={bm.quantity || 0}
+                        className={style.input}
+                        type="number"
+                      />
                       <img src={Plus} alt="" className={style.plusBtn} />
                     </div>
                   </td>

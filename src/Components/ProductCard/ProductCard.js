@@ -27,10 +27,6 @@ const ProductCard = ({ data }) => {
         src={data.image === "" ? noImage : data.image}
         className={style.productImage}
       />
-      <div className={style.cardSubTitle}>
-        <div className={style.cardTitleLabel}>Active ingredient:</div>
-        <span className={style.cardTitleMain}>Sildenafil Citrate</span>
-      </div>
       <div className={style.dataRatingContainer}>
         <span className={style.ratingLabel}>Rating</span>
         <span className={style.circleRating}>{data.rating}</span>
