@@ -1,0 +1,129 @@
+@import "../../variable.module.scss";
+
+.singleProductContainer {
+  margin: 16px 8px 0 8px;
+  padding: 16px;
+  background-color: $headerPrimaryColor;
+  display: flex;
+  align-items: center;
+  .productImageContainer {
+    margin-left: 40px;
+    .productImage {
+      height: 200px;
+      width: 250px;
+    }
+  }
+  .productDetialsContainer {
+    margin-left: 64px;
+    padding: 16px 0 24px 0;
+    width: 80%;
+    .porductConatinerOne {
+      border-bottom: 1px solid $borderColor;
+      .productName {
+        font-weight: 600;
+        font-size: 32px;
+      }
+      .reviewAndStar {
+        display: flex;
+        flex-direction: row;
+        margin-top: 4px;
+        .rating {
+          margin-left: 8px;
+        }
+      }
+    }
+    .productPriceContainer {
+      margin-top: 16px;
+      .productPrice {
+        font-size: 24px;
+        font-weight: 600;
+      }
+    }
+  }
+  .productDeliveryMessage {
+    margin-left: 16px;
+    width: 600px;
+    font-size: 16px;
+    border: 1px solid $borderColor;
+    padding: 16px 8px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: $primaryBackgroundColor;
+    .productDetialsItem {
+      display: flex;
+      //   justify-content: center;
+      flex-direction: row;
+      margin-bottom: 12px;
+      .productDeliveryIcon {
+        height: 25px;
+        margin-right: 6px;
+      }
+    }
+  }
+}
+
+.productquantity {
+  background-color: $headerPrimaryColor;
+  padding: 16px;
+  margin: 0 8px 16px 8px;
+  .productTableContainer {
+    .productNameAndMg {
+      padding: 8px;
+      text-align: left;
+      //   background-color: $primaryBackgroundColor;
+      font-size: 20px;
+      font-weight: 600;
+      border-radius: 4px;
+    }
+    .productQuantityTable {
+      margin-top: 32px;
+      border-radius: 8px;
+      width: 100%;
+      margin-bottom: 32px;
+      .tableHeaderRow {
+        background-color: $primaryBackgroundColor;
+        text-align: left;
+        font-size: 24px;
+        border-bottom: 1px solid $borderColor;
+        padding: 4px;
+      }
+      .tabledata {
+        padding: 4px;
+        font-size: 20px;
+        .inputContainer {
+          display: flex;
+          align-items: center;
+          .minusBtn {
+            height: 20px;
+          }
+          .input {
+            padding: 0 4px;
+            width: 50px;
+            border-radius: 10%;
+            height: 30px;
+          }
+          .plusBtn {
+            height: 20px;
+          }
+        }
+        .orderBtn {
+          color: $headerPrimaryColor;
+          background-color: $primaryButtonColor;
+        }
+      }
+    }
+  }
+  .medicenDescription {
+    //   display: flex;
+    .descriptionTitle {
+      margin-bottom: 16px;
+      font-size: 24px;
+    }
+    .howToUseValue {
+      font-size: 18px;
+      margin-bottom: 16px;
+    }
+  }
+}

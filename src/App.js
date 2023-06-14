@@ -6,6 +6,7 @@ import About from "./Pages/About/About";
 import Contact from "./Pages/Contact/contact";
 import Product from "./Pages/Product/product";
 import ProductByCategory from "./Pages/ProductByCategory/ProductByCategory";
+import SingleProductView from "./Pages/SingleProductView/SingleProductView";
 
 import style from "./app.module.scss";
 import Footer from "./Components/Footer/Footer";
@@ -23,6 +24,7 @@ function App() {
           path="/productByCategory/:categoryName"
           element={<ProductByCategory />}
         />
+        <Route path="productView/:productId" element={<SingleProductView />} />
       </Routes>
       <Footer />
     </div>

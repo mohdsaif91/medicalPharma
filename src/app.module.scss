@@ -26,3 +26,13 @@ body {
   border: 1px solid $primaryBackgroundColor;
   cursor: pointer;
 }
+
+.on {
+  color: $primaryButtonColor;
+}
+.of {
+  color: $borderColor;
+}
+.bold {
+  font-weight: 600;
+}

@@ -5,21 +5,63 @@
   border: 1px solid $borderColor;
   border-radius: 8px;
   text-align: center;
-  .cardHeader {
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    font-weight: 600;
-    padding-right: 4px;
-    .dataRatingContainer {
-      border-radius: 50%;
+  margin-bottom: 64px;
+  .activeIngradient {
+    .activeIngredientLabel {
+      margin-right: 3px;
+      font-weight: 600;
+    }
+    .activeIngredientvalue {
+      font-weight: 600;
+    }
+  }
+  .dataRatingContainer {
+    padding: 6px;
+    margin-top: 8px;
+    .ratingLabel {
+      font-weight: 600;
+    }
+    .circleRating {
+      margin-left: 8px;
       padding: 6px;
+      border-radius: 50%;
       background-color: $primaryBackgroundColor;
+    }
+    .starRating {
+      margin-top: 8px;
+      align-items: center;
+      justify-content: center;
+      display: flex;
+      flex-direction: row;
+    }
+    .on {
+      color: $primaryButtonColor;
+    }
+    .of {
+      color: $borderColor;
     }
   }
   .productName {
     font-weight: 600;
     font-size: 20px;
     padding: 8px;
+    color: $primaryButtonColor;
+  }
+  .productImage {
+    height: 80px;
+    width: 90px;
+  }
+  .btnContainer {
+    margin: 16px 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    .viewBtn {
+      width: 150px;
+      background-color: $primaryButtonColor;
+      font-weight: 600;
+      color: $headerPrimaryColor;
+    }
   }
 }

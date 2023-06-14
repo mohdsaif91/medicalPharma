@@ -17,6 +17,7 @@ export const masterData = [
     typeName: "Tab",
     ManufacturedBy: "Cipla",
     image: Abamune,
+    productCount: 30,
     productVariants: [
       {
         mg: 300,
@@ -47,6 +48,7 @@ export const masterData = [
     typeName: "Tab",
     ManufacturedBy: "Cipla",
     image: "",
+    productCount: 30,
     productVariants: [
       {
         mg: 300,
@@ -84,6 +86,7 @@ export const masterData = [
     typeName: "Caps",
     ManufacturedBy: "Emcure Pharmaceuticals Ltd.",
     image: "",
+    productCount: 30,
     productVariants: [
       {
         mg: 300,
@@ -113,6 +116,7 @@ export const masterData = [
     typeName: "tube",
     ManufacturedBy: "Emcure Pharmaceuticals Ltd.",
     image: GenericLidoderm,
+    productCount: 30,
     productVariants: [
       {
         mg: "5% 30",
@@ -144,6 +148,7 @@ export const masterData = [
     typeName: "tube",
     ManufacturedBy: "Any on stock available manufacture.",
     image: GenericOraqixGel,
+    productCount: 30,
     productVariants: [
       {
         mg: "2.5% / 2.5% 5",
@@ -184,6 +189,7 @@ export const masterData = [
     typeName: "pill",
     ManufacturedBy: "Any on stock available manufacture.",
     image: GenericCopegus,
+    productCount: 30,
     productVariants: [
       {
         mg: "200",
@@ -215,6 +221,7 @@ export const masterData = [
     typeName: "pill",
     ManufacturedBy: "Any on stock available manufacture.",
     image: GenericSymmetrel,
+    productCount: 30,
     productVariants: [
       {
         mg: "100",
