@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useLayoutEffect } from "react";
 import { useParams } from "react-router-dom";
 
 import { masterData } from "../../data/masterData";
@@ -8,6 +8,11 @@ import style from "./productByCategory.module.scss";
 
 const ProductByCategory = () => {
   const { categoryName } = useParams();
+
+  useLayoutEffect(() => {
+    window.scroll(0, 0);
+  }, []);
+
   const formatedCategoryName = categoryName.split("-").join(" ").toUpperCase();
   const productContainingCategory = masterData.filter(
     (m) => m.categoryName === formatedCategoryName

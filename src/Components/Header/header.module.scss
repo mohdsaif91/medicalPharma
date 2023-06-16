@@ -2,17 +2,14 @@
 
 .headerContainer {
   background-color: $headerPrimaryColor;
-  // padding: 8px;
-  height: 120px;
-
   .firstRow {
     display: flex;
     align-items: center;
     justify-content: center;
     font-weight: 600;
-    height: 30%;
     color: #472673;
-    // background-color: $headermessagebackgroundColor;
+    border-bottom: 1px solid #ececec;
+    padding-bottom: 4px;
     .redHeading {
       color: $redColor;
       margin-right: 4px;
@@ -24,63 +21,78 @@
     justify-content: space-between;
     height: 40%;
     .primaryItems {
-      .logoImage {
-        height: 120px;
+      display: flex;
+      align-items: center;
+      .logoAndNameContainer {
+        display: flex;
+        flex-direction: column;
+        padding-left: 8px;
+        padding-right: 8px;
+        padding-bottom: 4px;
+        margin-right: 8px;
+        .logoImage {
+          padding: 0 8px 8px 8px;
+          height: 50px;
+          cursor: pointer;
+          width: 70px;
+        }
+        .logoName {
+          font-size: 18px;
+        }
+      }
+      .inputContainer {
+        margin-right: 24px;
+        .searchInput {
+          padding: 8px;
+          width: 100%;
+          border-radius: 8px !important;
+          font-family: inherit;
+        }
       }
     }
     .secondaryItems {
-      padding: 16px;
       display: flex;
       align-items: center;
       flex-direction: row;
-      width: 850px;
-      .inputContainer {
-        width: 60%;
-        .searchInput {
-          width: 100%;
+      justify-content: space-between;
+      width: 800px;
+
+      .thirdRow {
+        display: flex;
+        flex-direction: row;
+        .thirdRowItem {
+          padding-left: 0 !important;
+          list-style: none;
+          display: flex;
+          align-items: center;
+          flex-direction: row;
+          .listItem {
+            font-size: 20px;
+            text-decoration: none;
+            margin-right: 16px;
+            .listItemLink {
+              padding-bottom: 4px;
+              font-weight: 600;
+              color: $primaryButtonColor;
+              text-decoration: none;
+            }
+          }
         }
       }
       .rigthCornerContainer {
-        padding-left: 40px;
-        width: 40%;
         display: flex;
         flex-direction: row;
-        justify-content: space-around;
         .iconContainer {
           font-weight: 600;
           cursor: pointer;
           display: flex;
           justify-content: center;
           align-items: center;
+          margin-right: 12px;
           .removeUnderLine {
             color: $primaryButtonColor !important;
             text-decoration: none;
           }
-        }
-      }
-    }
-  }
-  .thirdRow {
-    display: flex;
-    flex-direction: row;
-    justify-content: end;
-    height: 30%;
-    padding-bottom: 16px;
-    .thirdRowItem {
-      padding-left: 0 !important;
-      list-style: none;
-      display: flex;
-      align-items: center;
-      // justify-content: center;
-      flex-direction: row;
-      .listItem {
-        font-size: 20px;
-        text-decoration: none;
-        margin-right: 16px;
-        .listItemLink {
-          font-weight: 600;
-          color: $primaryButtonColor !important;
-          text-decoration: none;
         }
       }
     }
@@ -91,4 +103,10 @@
   margin-right: 8px;
   height: 32px;
   width: 32px;
+}
+
+.active {
+  // margin-top: 4px;
+  color: #000 !important;
+  border-bottom: 2.5px solid #333;
 }

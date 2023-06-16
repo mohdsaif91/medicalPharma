@@ -3,6 +3,8 @@ import GenericLidoderm from "../images/products/GenericLidoderm.gif";
 import GenericOraqixGel from "../images/products/GenericOraqixGel.gif";
 import GenericCopegus from "../images/products/GenericCopegus.gif";
 import GenericSymmetrel from "../images/products/GenericSymmetrel.gif";
+import Duovir from "../images/products/duovir.gif";
+import genericEpivir from "../images/products/genericepivir.gif";
 
 export const masterData = [
   {
@@ -104,6 +106,202 @@ export const masterData = [
     additionalDetials:
       "Atazanavir powder may be added to foods such as applesauce or yogurt, or liquids such as water, milk, or infant formula. Mix well, and take all of the mixture right away in order to take the full dose. If mixed with water, eat a snack or meal right away after taking the powder mixture. For infants (older than 3 months of age) unable to drink from a cup, the powder can be mixed with infant formula and given with an oral dosing syringe; do not give the mixture to the infant in a baby bottle. If the mixture is not taken immediately it must be stored at room temperature and taken within 1 hour. Carefully read the manufacturer's instructions that describe how to mix and take a dose of atazanavir. Be sure to ask your pharmacist or doctor if you have any questions about how to mix or take this medication.Talk to the doctor about what to do if your baby vomits, spits up, or only takes part of the dose of atazanavir.      Atazanavir helps to control HIV infection, but it does not cure it. Continue to take atazanavir even if you feel well. Do not stop taking atazanavir without talking to your doctor. When your supply of atazanavir starts to run low, get more from your doctor or pharmacist. If you stop taking atazanavir or skip doses, your condition may become more difficult to treat. Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient. Read this information carefully and ask your doctor or pharmacist if you have any questions",
   },
+  {
+    productId: 3,
+    name: "Dinex - EC",
+    categoryName: "AIDS OR HIV TREATMENT",
+    activeIngredient: "Didanosine",
+    rating: 74,
+    star: 4,
+    price: "203.41",
+    type: "bottle",
+    typeName: "Caps",
+    ManufacturedBy: "Cipla",
+    image: "",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: 400,
+        bottle: [
+          { count: 1, price: 209.79, pricePerBottle: 209.79 },
+          { count: 2, price: 411.06, pricePerBottle: 205.53 },
+          { count: 4, price: 813.62, pricePerBottle: 203.41 },
+        ],
+      },
+    ],
+    prescription:
+      "Didanosine is used along with other medications to treat human immunodeficiency virus (HIV) infection. Didanosine is in a class of medications called nucleoside reverse transcriptase inhibitors (NRTIs). It works by decreasing the amount of HIV in the blood. Although didanosine does not cure HIV, it may decrease your chance of developing acquired immunodeficiency syndrome (AIDS) and HIV-related illnesses such as serious infections or cancer. Taking these medications along with practicing safer sex and making other life-style changes may decrease the risk of transmitting (spreading) the HIV virus to other people.",
+    howToUse:
+      "Didanosine comes as extended-release (long-acting) capsules and as an oral solution (liquid) to take by mouth. The oral solution is usually taken once or twice a day 30 minutes before or 2 hours after eating. The extended-release capsules are usually taken once a day on an empty stomach. Take didanosine around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take didanosine exactly as directed. Do not take more or less of it, or take it more often than prescribed by your doctor.",
+    additionalDetials:
+      "If you are using the extended-release capsules, swallow them whole; do not split, chew, crush, break, or dissolve them. Tell your doctor if you are unable to swallow the extended-release capsules whole.  If you are taking the oral solution, you should shake it well before each use to mix the medication evenly. Use a dose-measuring spoon or cup to measure the correct amount of liquid for each dose, not a regular household spoon.Didanosine controls HIV infection but does not cure it. Continue to take didanosine even if you feel well. Do not stop taking didanosine without talking to your doctor. If you miss doses or stop taking didanosine, your condition may become more difficult to treat.",
+  },
+  {
+    productId: 4,
+    name: "Duovir",
+    categoryName: "AIDS OR HIV TREATMENT",
+    activeIngredient: "Lamivudine + Zidovudine",
+    rating: 82,
+    star: 4,
+    price: "143.75",
+    type: "bottle",
+    typeName: "Caps",
+    ManufacturedBy: "Cipla",
+    image: Duovir,
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "150mg / 300",
+        bottle: [
+          { count: 1, price: 153.63, pricePerBottle: 153.63 },
+          { count: 2, price: 292.44, pricePerBottle: 146.22 },
+          { count: 3, price: 431.26, pricePerBottle: 143.75 },
+        ],
+      },
+    ],
+    prescription:
+      "The combination of lamivudine and zidovudine is used along with other medications to treat human immunodeficiency virus (HIV) infection. Lamivudine and zidovudine are in a class of medications called nucleoside reverse transcriptase inhibitors (NRTIs). They work by decreasing the amount of HIV in the blood. Although the combination of lamivudine and zidovudine does not cure HIV, it may decrease your chance of developing acquired immunodeficiency syndrome (AIDS) and HIV-related illnesses such as serious infections or cancer. Taking these medications along with practicing safer sex and making other life-style changes may decrease the risk of transmitting (spreading) the HIV virus to other people.",
+    howToUse:
+      "The combination of lamivudine and zidovudine comes as a tablet to take by mouth. It is usually taken twice a day with or without food. Take lamivudine and zidovudine at around the same times every day. Follow the directions on your prescription label carefully and ask your doctor or pharmacist to explain any part you do not understand. Take this medication exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.",
+    additionalDetials:
+      "Lamivudine and zidovudine controls HIV infection but does not cure it. Continue to take lamivudine and zidovudine even if you feel well. Do not stop taking lamivudine and zidovudine without talking to your doctor. When your supply of lamivudine and zidovudine starts to run low, get more from your doctor or pharmacist. If you miss doses or stop taking lamivudine and zidovudine, your condition may become more difficult to treat.",
+  },
+  {
+    productId: 5,
+    name: "Duovir N",
+    categoryName: "AIDS OR HIV TREATMENT",
+    activeIngredient: "Lamivudine + Zidovudine + Nevirapine",
+    rating: 104,
+    star: 5,
+    price: "75.19",
+    type: "bottle",
+    typeName: "Caps",
+    ManufacturedBy: "Cipla",
+    image: "",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "150mg / 300mg / 200",
+        bottle: [
+          { count: 1, price: 88.15, pricePerBottle: 88.15 },
+          { count: 2, price: 161.48, pricePerBottle: 80.74 },
+          { count: 4, price: 308.15, pricePerBottle: 77.04 },
+          { count: 8, price: 601.48, pricePerBottle: 75.19 },
+        ],
+      },
+    ],
+    prescription:
+      "The combination of lamivudine and zidovudine is used along with other medications to treat human immunodeficiency virus (HIV) infection. Lamivudine and zidovudine are in a class of medications called nucleoside reverse transcriptase inhibitors (NRTIs). They work by decreasing the amount of HIV in the blood. Although the combination of lamivudine and zidovudine does not cure HIV, it may decrease your chance of developing acquired immunodeficiency syndrome (AIDS) and HIV-related illnesses such as serious infections or cancer. Taking these medications along with practicing safer sex and making other life-style changes may decrease the risk of transmitting (spreading) the HIV virus to other people.",
+    howToUse:
+      "The combination of lamivudine and zidovudine comes as a tablet to take by mouth. It is usually taken twice a day with or without food. Take lamivudine and zidovudine at around the same times every day. Follow the directions on your prescription label carefully and ask your doctor or pharmacist to explain any part you do not understand. Take this medication exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.",
+    additionalDetials:
+      "Lamivudine and zidovudine controls HIV infection but does not cure it. Continue to take lamivudine and zidovudine even if you feel well. Do not stop taking lamivudine and zidovudine without talking to your doctor. When your supply of lamivudine and zidovudine starts to run low, get more from your doctor or pharmacist. If you miss doses or stop taking lamivudine and zidovudine, your condition may become more difficult to treat.",
+  },
+  {
+    productId: 6,
+    name: "Efavir",
+    categoryName: "AIDS OR HIV TREATMENT",
+    activeIngredient: "Efavirenz",
+    rating: 150,
+    star: 4,
+    price: "49.85",
+    type: "bottle",
+    typeName: "Caps",
+    ManufacturedBy: "Cipla",
+    image: "",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "600",
+        bottle: [
+          { count: 1, price: 143.66, pricePerBottle: 143.66 },
+          { count: 2, price: 278.81, pricePerBottle: 139.41 },
+          { count: 4, price: 549.11, pricePerBottle: 137.28 },
+        ],
+      },
+      {
+        mg: "200",
+        bottle: [
+          { count: 1, price: 57.83, pricePerBottle: 57.83 },
+          { count: 2, price: 107.15, pricePerBottle: 53.58 },
+          { count: 4, price: 205.79, pricePerBottle: 51.45 },
+          { count: 8, price: 403.06, pricePerBottle: 50.38 },
+          { count: 16, price: 797.62, pricePerBottle: 49.85 },
+        ],
+      },
+    ],
+    prescription:
+      "The combination of lamivudine and zidovudine is used along with other medications to treat human immunodeficiency virus (HIV) infection. Lamivudine and zidovudine are in a class of medications called nucleoside reverse transcriptase inhibitors (NRTIs). They work by decreasing the amount of HIV in the blood. Although the combination of lamivudine and zidovudine does not cure HIV, it may decrease your chance of developing acquired immunodeficiency syndrome (AIDS) and HIV-related illnesses such as serious infections or cancer. Taking these medications along with practicing safer sex and making other life-style changes may decrease the risk of transmitting (spreading) the HIV virus to other people.",
+    howToUse:
+      "The combination of lamivudine and zidovudine comes as a tablet to take by mouth. It is usually taken twice a day with or without food. Take lamivudine and zidovudine at around the same times every day. Follow the directions on your prescription label carefully and ask your doctor or pharmacist to explain any part you do not understand. Take this medication exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.",
+    additionalDetials:
+      "Lamivudine and zidovudine controls HIV infection but does not cure it. Continue to take lamivudine and zidovudine even if you feel well. Do not stop taking lamivudine and zidovudine without talking to your doctor. When your supply of lamivudine and zidovudine starts to run low, get more from your doctor or pharmacist. If you miss doses or stop taking lamivudine and zidovudine, your condition may become more difficult to treat.",
+  },
+  {
+    productId: 7,
+    name: "Generic Combivir",
+    categoryName: "AIDS OR HIV TREATMENT",
+    activeIngredient: "Lamivudine + Zidovudine",
+    rating: 196,
+    star: 5,
+    price: "1.99",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Cipla",
+    image: "",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "150 mg / 300",
+        bottle: [
+          { count: 30, price: 67.23, pricePerBottle: 2.24 },
+          { count: 60, price: 125.96, pricePerBottle: 2.1 },
+          { count: 120, price: 243.4, pricePerBottle: 2.03 },
+          { count: 240, price: 478.3, pricePerBottle: 1.99 },
+          { count: 300, price: 595.74, pricePerBottle: 1.99 },
+        ],
+      },
+    ],
+    prescription:
+      "The combination of lamivudine and zidovudine is used along with other medications to treat human immunodeficiency virus (HIV) infection. Lamivudine and zidovudine are in a class of medications called nucleoside reverse transcriptase inhibitors (NRTIs). They work by decreasing the amount of HIV in the blood. Although the combination of lamivudine and zidovudine does not cure HIV, it may decrease your chance of developing acquired immunodeficiency syndrome (AIDS) and HIV-related illnesses such as serious infections or cancer. Taking these medications along with practicing safer sex and making other life-style changes may decrease the risk of transmitting (spreading) the HIV virus to other people.",
+    howToUse:
+      "The combination of lamivudine and zidovudine comes as a tablet to take by mouth. It is usually taken twice a day with or without food. Take lamivudine and zidovudine at around the same times every day. Follow the directions on your prescription label carefully and ask your doctor or pharmacist to explain any part you do not understand. Take this medication exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.",
+    additionalDetials:
+      "Lamivudine and zidovudine controls HIV infection but does not cure it. Continue to take lamivudine and zidovudine even if you feel well. Do not stop taking lamivudine and zidovudine without talking to your doctor. When your supply of lamivudine and zidovudine starts to run low, get more from your doctor or pharmacist. If you miss doses or stop taking lamivudine and zidovudine, your condition may become more difficult to treat.",
+  },
+  {
+    productId: 8,
+    name: "Generic Epivir",
+    categoryName: "AIDS OR HIV TREATMENT",
+    activeIngredient: "Lamivudine",
+    rating: 144,
+    star: 5,
+    price: "1.90",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericEpivir,
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "150",
+        bottle: [
+          { count: 30, price: 70.37, pricePerBottle: 2.35 },
+          { count: 60, price: 125.93, pricePerBottle: 2.1 },
+          { count: 120, price: 237.04, pricePerBottle: 1.98 },
+          { count: 240, price: 459.26, pricePerBottle: 1.91 },
+          { count: 300, price: 570.37, pricePerBottle: 1.9 },
+        ],
+      },
+    ],
+    prescription:
+      "The combination of lamivudine and zidovudine is used along with other medications to treat human immunodeficiency virus (HIV) infection. Lamivudine and zidovudine are in a class of medications called nucleoside reverse transcriptase inhibitors (NRTIs). They work by decreasing the amount of HIV in the blood. Although the combination of lamivudine and zidovudine does not cure HIV, it may decrease your chance of developing acquired immunodeficiency syndrome (AIDS) and HIV-related illnesses such as serious infections or cancer. Taking these medications along with practicing safer sex and making other life-style changes may decrease the risk of transmitting (spreading) the HIV virus to other people.",
+    howToUse:
+      "The combination of lamivudine and zidovudine comes as a tablet to take by mouth. It is usually taken twice a day with or without food. Take lamivudine and zidovudine at around the same times every day. Follow the directions on your prescription label carefully and ask your doctor or pharmacist to explain any part you do not understand. Take this medication exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.",
+    additionalDetials:
+      "Lamivudine and zidovudine controls HIV infection but does not cure it. Continue to take lamivudine and zidovudine even if you feel well. Do not stop taking lamivudine and zidovudine without talking to your doctor. When your supply of lamivudine and zidovudine starts to run low, get more from your doctor or pharmacist. If you miss doses or stop taking lamivudine and zidovudine, your condition may become more difficult to treat.",
+  },
+  //
   {
     productId: 3,
     name: "Generic Lidoderm",

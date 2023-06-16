@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import { Link } from "react-router-dom";
+import { Link, useLocation, useNavigate } from "react-router-dom";
 
 import Phone from "../../images/icon/telephone.png";
 import Cart from "../../images/icon/shopping-cart-empty-side-view.png";
@@ -11,6 +11,9 @@ import globalStyle from "../../app.module.scss";
 
 const Header = () => {
   const inputRef = useRef();
+  const navigate = useNavigate();
+  const loacation = useLocation();
+  console.log(loacation.pathname);
 
   return (
     <div className={style.headerContainer}>
@@ -21,9 +24,18 @@ const Header = () => {
       </div>
       <div className={style.secondRow}>
         <div className={style.primaryItems}>
-          <img alt="" className={style.logoImage} src={Logo} />
-        </div>
-        <div className={style.secondaryItems}>
+          <div className={style.logoAndNameContainer}>
+            <div>
+              <img
+                onClick={() => navigate("/")}
+                alt=""
+                className={style.logoImage}
+                src={Logo}
+              />
+              <span>united</span>
+            </div>
+            <div className={style.logoName}> healthcare pharmacy</div>
+          </div>
           <div className={style.inputContainer}>
             <input
               placeholder="Search medicens"
@@ -31,49 +43,70 @@ const Header = () => {
               className={`${globalStyle.input} ${style.searchInput}`}
             />
           </div>
+        </div>
+        <div className={style.secondaryItems}>
+          <div className={style.thirdRow}>
+            <ul className={style.thirdRowItem}>
+              <li className={style.listItem}>
+                <Link
+                  className={`${style.listItemLink} ${
+                    loacation.pathname === "/" && style.active
+                  }`}
+                  to="/"
+                >
+                  Home
+                </Link>
+              </li>
+              <li className={style.listItem}>
+                <Link
+                  className={`${style.listItemLink} ${
+                    loacation.pathname === "/product" && style.active
+                  }`}
+                  to="/product"
+                >
+                  Product
+                </Link>
+              </li>
+              <li className={style.listItem}>
+                <Link
+                  className={`${style.listItemLink} ${
+                    loacation.pathname === "/about" && style.active
+                  }`}
+                  to="/about"
+                >
+                  About us
+                </Link>
+              </li>
+              <li className={style.listItem}>
+                <Link
+                  className={`${style.listItemLink} ${
+                    loacation.pathname === "/contact" && style.active
+                  }`}
+                  to="/contact"
+                >
+                  Contact us
+                </Link>
+              </li>
+            </ul>
+          </div>
           <div className={style.rigthCornerContainer}>
             <div className={style.iconContainer}>
               <img className={style.headerIcon} src={Phone} alt="phone" />
-              <a className={style.removeUnderLine} href="tel:555-666-7777">
-                555-666-7777
+              <a className={style.removeUnderLine} href="tel:7577675778">
+                757-7675778
               </a>
+              {/* <a className={style.removeUnderLine} href="tel:555-666-7777">
+                555-666-7777
+              </a> */}
             </div>
             <div className={style.iconContainer}>
               <img className={style.headerIcon} src={Cart} alt="Cart" />
             </div>
             <div className={style.iconContainer}>
               <img className={style.headerIcon} src={Auth} alt="Auth" />
-              <span>
-                <div>Login</div>
-                <div>Register</div>
-              </span>
             </div>
           </div>
         </div>
-      </div>
-      <div className={style.thirdRow}>
-        <ul className={style.thirdRowItem}>
-          <li className={style.listItem}>
-            <Link className={style.listItemLink} to="/">
-              Home
-            </Link>
-          </li>
-          <li className={style.listItem}>
-            <Link className={style.listItemLink} to="/product">
-              Product
-            </Link>
-          </li>
-          <li className={style.listItem}>
-            <Link className={style.listItemLink} to="/about">
-              About us
-            </Link>
-          </li>
-          <li className={style.listItem}>
-            <Link className={style.listItemLink} to="/contact">
-              Contact us
-            </Link>
-          </li>
-        </ul>
       </div>
     </div>
   );

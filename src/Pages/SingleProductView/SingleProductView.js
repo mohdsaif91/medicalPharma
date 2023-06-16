@@ -13,7 +13,7 @@ import style from "./singleProductView.module.scss";
 import globalStyle from "../../app.module.scss";
 
 const SingleProductView = () => {
-  const [productData, setProductData] = useState(masterData);
+  const [productData] = useState(masterData);
   const location = useLocation();
 
   useLayoutEffect(() => {
@@ -86,7 +86,9 @@ const SingleProductView = () => {
               <tr>
                 <th className={style.tableHeaderRow}>Package</th>
                 <th className={style.tableHeaderRow}>Price</th>
-                <th className={style.tableHeaderRow}>Price p.bottle</th>
+                <th className={style.tableHeaderRow}>
+                  Price {`p.${gotProduct.type}`}
+                </th>
                 <th className={style.tableHeaderRow}>Quantity</th>
                 <th className={style.tableHeaderRow}>Order</th>
               </tr>
@@ -94,7 +96,7 @@ const SingleProductView = () => {
                 <tr>
                   <td
                     className={style.tabledata}
-                  >{`${gotProduct.productCount} tabs / bottle ${m.mg} x ${bm.count}`}</td>
+                  >{`${gotProduct.productCount} tabs / ${gotProduct.type} ${m.mg} mg x ${bm.count}`}</td>
                   <td className={`${style.tabledata} ${globalStyle.bold}`}>
                     {bm.price}
                   </td>

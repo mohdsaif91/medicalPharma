@@ -1,10 +1,12 @@
 import React from "react";
 
-import footerLogo from "../../images/logo-social.png";
+import Logo from "../../images/logo.jpg";
 import Visa from "../../images/visaOg.png";
 import masterCard from "../../images/masterCard.png";
 import wUnion from "../../images/wunion.png";
 import moneyGram from "../../images/moneyGram.png";
+import Facebook from "../../images/icon/facebook.png";
+import Instagram from "../../images/icon/instagram.png";
 
 import style from "./fotter.module.scss";
 
@@ -13,7 +15,7 @@ const Footer = () => {
     <div className={style.footerContainer}>
       <div className={style.conatinerOne}>
         <div className={style.footerLogoContainer}>
-          <img src={footerLogo} alt="" className={style.footerLogo} />
+          <img src={Logo} alt="" className={style.footerLogo} />
         </div>
         <div className={style.footerLinks}>
           <div>Refund and Shipping policy</div>
@@ -21,8 +23,8 @@ const Footer = () => {
         <div className={style.mobileMoneyContainer}>
           <div>
             <span className={style.mobileLabel}>Call us</span>
-            <a className={style.mobileNumber} href="tel:555-666-7777">
-              555-666-7777
+            <a className={style.mobileNumber} href="tel:7577675778">
+              757-7675778
             </a>
           </div>
           <div className={style.paymentContainer}>
@@ -34,9 +36,6 @@ const Footer = () => {
         </div>
       </div>
       <div className={style.conatinerTwo}>
-        <div className={style.copyRightLabel}>
-          © Copyright All rights reserved 2021, BB Meds, 3012 Bern, CHE.
-        </div>
         <div className={style.copyRightDescription}>
           Disclaimer BB Meds have taken reasonable care in producing the
           information on this website for your convenience. The information
@@ -45,6 +44,19 @@ const Footer = () => {
           to you. All health facts and information contained herein should not
           be a substitute for medical advice. The use of this site is subject to
           these Terms and Conditions.
+        </div>
+      </div>
+      <div className={style.conatinerThree}>
+        <img
+          alt=""
+          src={Facebook}
+          className={`${style.footerIcon} ${style.footerIconMargin}`}
+        />
+        <img alt="" src={Instagram} className={style.footerIcon} />
+      </div>
+      <div className={style.conatinerFour}>
+        <div className={style.copyRightLabel}>
+          © Copyright All rights reserved 2021, BB Meds, 3012 Bern, CHE.
         </div>
       </div>
     </div>

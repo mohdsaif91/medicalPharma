@@ -27,6 +27,7 @@ const ProductCard = ({ data }) => {
         src={data.image === "" ? noImage : data.image}
         className={style.productImage}
       />
+      <div className={style.priceContainer}>$ {data.price}</div>
       <div className={style.dataRatingContainer}>
         <span className={style.ratingLabel}>Rating</span>
         <span className={style.circleRating}>{data.rating}</span>

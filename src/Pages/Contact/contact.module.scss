@@ -1,0 +1,63 @@
+@import "../../variable.module.scss";
+
+.contactContainer {
+  margin: 24px 16px;
+  background-color: $headerPrimaryColor;
+  border-radius: 8px;
+  padding: 16px;
+
+  .contactusHeading {
+    font-weight: 600;
+    font-size: 20px;
+  }
+  .contactusDetails {
+    .contactusDetailsHeading {
+      margin-top: 16px;
+      font-size: 18px;
+      .fw600 {
+        font-weight: 600;
+      }
+      .numberSpacing {
+        margin-right: 8px;
+        margin-left: 8px;
+      }
+    }
+    .contactusForm {
+      margin-top: 24px;
+      border-radius: 8px;
+      margin: 24px 104px;
+      padding: 40px;
+      display: flex;
+      flex-direction: column;
+      background-color: $secondaryBorderColor;
+      .formItemRow {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 40px;
+        .textArea {
+          font-family: inherit;
+          padding: 8px;
+          height: 120px;
+          width: 400px;
+          border-radius: 8px;
+          border: none;
+        }
+        .contactInput {
+          width: 280px;
+          font-family: inherit;
+          margin-right: 32px;
+          padding: 4px;
+          font-size: 16px;
+        }
+        .sendBtn {
+          width: 200px;
+          height: 60px;
+          font-size: 20px;
+          background-color: $primaryButtonColor;
+          color: $headerPrimaryColor;
+        }
+      }
+    }
+  }
+}

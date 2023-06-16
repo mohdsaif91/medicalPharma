@@ -1,0 +1,27 @@
+@import "../../variable.module.scss";
+
+.aboutContainer {
+  margin: 24px 16px;
+  padding: 16px;
+  background-color: $headerPrimaryColor;
+  border-radius: 8px;
+  .aboutusHeadingContainer {
+    margin: 12px 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+
+    .aboutusHeading {
+      font-weight: 600;
+      font-size: 24px;
+    }
+    .headingBorder {
+      border: 1px solid $borderColor;
+    }
+  }
+  .aboutDetails {
+    font-size: 18px;
+    margin: 8px 0 24px 0;
+  }
+}
