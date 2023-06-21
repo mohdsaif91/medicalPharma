@@ -295,12 +295,53 @@ export const masterData = [
       },
     ],
     prescription:
-      "The combination of lamivudine and zidovudine is used along with other medications to treat human immunodeficiency virus (HIV) infection. Lamivudine and zidovudine are in a class of medications called nucleoside reverse transcriptase inhibitors (NRTIs). They work by decreasing the amount of HIV in the blood. Although the combination of lamivudine and zidovudine does not cure HIV, it may decrease your chance of developing acquired immunodeficiency syndrome (AIDS) and HIV-related illnesses such as serious infections or cancer. Taking these medications along with practicing safer sex and making other life-style changes may decrease the risk of transmitting (spreading) the HIV virus to other people.",
+      "Lamivudine (Epivir) is used along with other medications to treat human immunodeficiency virus (HIV) infection in adults and children 3 months of age and older. Lamivudine (Epivir-HBV) is used to treat hepatitis B infection. Lamivudine is in a class of medications called nucleoside reverse transcriptase inhibitors (NRTIs). It works by decreasing the amount of HIV and hepatitis B in the blood. Although lamivudine does not cure HIV, it may decrease your chance of developing acquired immunodeficiency syndrome (AIDS) and HIV-related illnesses such as serious infections or cancer. Taking these medications along with practicing safer sex and making other lifestyle changes may decrease the risk of transmitting (spreading) the HIV or hepatitis B virus to other people.",
     howToUse:
-      "The combination of lamivudine and zidovudine comes as a tablet to take by mouth. It is usually taken twice a day with or without food. Take lamivudine and zidovudine at around the same times every day. Follow the directions on your prescription label carefully and ask your doctor or pharmacist to explain any part you do not understand. Take this medication exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.",
+      "Lamivudine comes as a tablet and oral solution (liquid) to take by mouth. Lamivudine (Epivir) is usually taken once or twice a day with or without food. Lamivudine (Epivir-HBV) is usually taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take lamivudine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.",
     additionalDetials:
-      "Lamivudine and zidovudine controls HIV infection but does not cure it. Continue to take lamivudine and zidovudine even if you feel well. Do not stop taking lamivudine and zidovudine without talking to your doctor. When your supply of lamivudine and zidovudine starts to run low, get more from your doctor or pharmacist. If you miss doses or stop taking lamivudine and zidovudine, your condition may become more difficult to treat.",
+      "Lamivudine controls HIV and hepatitis B infection and but does not cure them. Continue to take lamivudine even if you feel well. Do not stop taking lamivudine without talking to your doctor. When your supply of lamivudine starts to run low, get more from your doctor or pharmacist. If you miss doses or stop taking lamivudine, your condition may become more difficult to treat.",
   },
+  {
+    productId: 9,
+    name: "Generic Retrovir",
+    categoryName: "AIDS OR HIV TREATMENT",
+    activeIngredient: "Zidovudine",
+    rating: 49,
+    star: 4,
+    price: "2.72",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericEpivir,
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "300",
+        bottle: [
+          { count: 30, price: 101.62, pricePerBottle: 3.39 },
+          { count: 60, price: 192.43, pricePerBottle: 3.21 },
+          { count: 120, price: 374.05, pricePerBottle: 3.12 },
+          { count: 240, price: 737.3, pricePerBottle: 3.07 },
+        ],
+      },
+      {
+        mg: "300",
+        bottle: [
+          { count: 30, price: 101.62, pricePerBottle: 3.39 },
+          { count: 60, price: 192.43, pricePerBottle: 3.21 },
+          { count: 120, price: 374.05, pricePerBottle: 3.12 },
+          { count: 240, price: 737.3, pricePerBottle: 3.07 },
+        ],
+      },
+    ],
+    prescription:
+      "Lamivudine (Epivir) is used along with other medications to treat human immunodeficiency virus (HIV) infection in adults and children 3 months of age and older. Lamivudine (Epivir-HBV) is used to treat hepatitis B infection. Lamivudine is in a class of medications called nucleoside reverse transcriptase inhibitors (NRTIs). It works by decreasing the amount of HIV and hepatitis B in the blood. Although lamivudine does not cure HIV, it may decrease your chance of developing acquired immunodeficiency syndrome (AIDS) and HIV-related illnesses such as serious infections or cancer. Taking these medications along with practicing safer sex and making other lifestyle changes may decrease the risk of transmitting (spreading) the HIV or hepatitis B virus to other people.",
+    howToUse:
+      "Lamivudine comes as a tablet and oral solution (liquid) to take by mouth. Lamivudine (Epivir) is usually taken once or twice a day with or without food. Lamivudine (Epivir-HBV) is usually taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take lamivudine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.",
+    additionalDetials:
+      "Lamivudine controls HIV and hepatitis B infection and but does not cure them. Continue to take lamivudine even if you feel well. Do not stop taking lamivudine without talking to your doctor. When your supply of lamivudine starts to run low, get more from your doctor or pharmacist. If you miss doses or stop taking lamivudine, your condition may become more difficult to treat.",
+  },
+
   //
   {
     productId: 3,

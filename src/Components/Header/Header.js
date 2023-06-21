@@ -1,19 +1,41 @@
-import React, { useRef } from "react";
+import React, { useLayoutEffect, useState } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
+import Select from "react-select";
 
 import Phone from "../../images/icon/telephone.png";
 import Cart from "../../images/icon/shopping-cart-empty-side-view.png";
 import Auth from "../../images/icon/user.png";
 import Logo from "../../images/logo.jpg";
+import { masterData } from "../../data/masterData";
 
 import style from "./header.module.scss";
-import globalStyle from "../../app.module.scss";
+// import globalStyle from "../../app.module.scss";
 
 const Header = () => {
-  const inputRef = useRef();
+  const [selectValue, setSelectedValue] = useState(null);
+  const [options, setOptions] = useState([]);
+
   const navigate = useNavigate();
   const loacation = useLocation();
-  console.log(loacation.pathname);
+
+  useLayoutEffect(() => {
+    if (options.length === 0) {
+      setOptions(
+        masterData.map((m) => {
+          return { value: m.productId, label: m.name };
+        })
+      );
+    }
+  }, [options.length]);
+
+  console.log(options);
+
+  const handleChange = (selectedOption) => {
+    setSelectedValue(selectedOption);
+    // this.setState({ selectedOption }, () =>
+    //   console.log(`Option selected:`, this.state.selectedOption)
+    // );
+  };
 
   return (
     <div className={style.headerContainer}>
@@ -37,10 +59,15 @@ const Header = () => {
             <div className={style.logoName}> healthcare pharmacy</div>
           </div>
           <div className={style.inputContainer}>
-            <input
-              placeholder="Search medicens"
-              value={inputRef.current}
-              className={`${globalStyle.input} ${style.searchInput}`}
+            <Select
+              placeholder="Search Medicines"
+              value={selectValue}
+              onChange={handleChange}
+              options={options}
+              components={{
+                DropdownIndicator: () => null,
+                IndicatorSeparator: () => null,
+              }}
             />
           </div>
         </div>
