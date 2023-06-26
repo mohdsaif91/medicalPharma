@@ -14,6 +14,7 @@ const ProductByCategory = () => {
   }, []);
 
   const formatedCategoryName = categoryName.split("-").join(" ").toUpperCase();
+  console.log(formatedCategoryName);
   const productContainingCategory = masterData.filter(
     (m) => m.categoryName === formatedCategoryName
   );

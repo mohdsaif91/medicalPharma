@@ -59,6 +59,12 @@ const SingleProductView = () => {
           </div>
           <div className={style.productPriceContainer}>
             <div className={style.productPrice}>$ {gotProduct.price}</div>
+            <div className={style.productdetials}>
+              Manufactured By: {gotProduct.ManufacturedBy}
+            </div>
+            <div className={style.productdetials}>
+              Active Ingredient: {gotProduct.activeIngredient}
+            </div>
           </div>
         </div>
         <div className={style.productDeliveryMessage}>
@@ -81,7 +87,7 @@ const SingleProductView = () => {
           <div className={style.productTableContainer}>
             <div
               className={style.productNameAndMg}
-            >{`${gotProduct.name} ${gotProduct.productCount} tabs/bottle ${m.mg} mg`}</div>
+            >{`${gotProduct.name} ${gotProduct.productCount} tabs/bottle ${m.mg} ${m.unit}`}</div>
             <table className={style.productQuantityTable}>
               <tr>
                 <th className={style.tableHeaderRow}>Package</th>
@@ -96,7 +102,7 @@ const SingleProductView = () => {
                 <tr>
                   <td
                     className={style.tabledata}
-                  >{`${gotProduct.productCount} tabs / ${gotProduct.type} ${m.mg} mg x ${bm.count}`}</td>
+                  >{`${gotProduct.productCount} tabs / ${gotProduct.type} ${m.mg} ${m.unit} x ${bm.count}`}</td>
                   <td className={`${style.tabledata} ${globalStyle.bold}`}>
                     {bm.price}
                   </td>

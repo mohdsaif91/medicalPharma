@@ -28,13 +28,9 @@ const Header = () => {
     }
   }, [options.length]);
 
-  console.log(options);
-
   const handleChange = (selectedOption) => {
     setSelectedValue(selectedOption);
-    // this.setState({ selectedOption }, () =>
-    //   console.log(`Option selected:`, this.state.selectedOption)
-    // );
+    navigate(`/productView/${selectedOption.value}`);
   };
 
   return (
