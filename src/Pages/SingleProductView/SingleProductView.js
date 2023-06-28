@@ -104,10 +104,10 @@ const SingleProductView = () => {
                     className={style.tabledata}
                   >{`${gotProduct.productCount} tabs / ${gotProduct.type} ${m.mg} ${m.unit} x ${bm.count}`}</td>
                   <td className={`${style.tabledata} ${globalStyle.bold}`}>
-                    {bm.price}
+                    {`${gotProduct.currency} ${bm.price}`}
                   </td>
                   <td className={`${style.tabledata} ${globalStyle.bold}`}>
-                    {bm.pricePerBottle}
+                    {`${gotProduct.currency} ${bm.pricePerBottle}`}
                   </td>
                   <td className={style.tabledata}>
                     <div className={style.inputContainer}>

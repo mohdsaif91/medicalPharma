@@ -20,6 +20,65 @@ import genericReglan from "../images/products/genericReglan.gif";
 import genericZantac from "../images/products/genericZantac.gif";
 import genericZyloprim from "../images/products/genericZyloprim.gif";
 import adapenGel from "../images/products/adapenGel.gif";
+import allegra from "../images/products/allegra.gif";
+import asthalin from "../images/products/Asthalin.gif";
+import beclateRotacaps from "../images/products/beclateRotacaps.gif";
+import budezCR from "../images/products/budezCR.gif";
+import duolin from "../images/products/duolin.gif";
+import foracort from "../images/products/Foracort.gif";
+import genericAdvairDiskusAccuhaler from "../images/products/genericAdvairDiskusAccuhaler.gif";
+import genericAristocort from "../images/products/genericAristocort.gif";
+import genericAstelin from "../images/products/genericAstelin.gif";
+import genericClarinex from "../images/products/genericClarinex.gif";
+import genericClaritin from "../images/products/genericClaritin.gif";
+import deltasonePrednisone from "../images/products/deltasone(Prednisone).png";
+import genericDepoMedrol from "../images/products/genericDepoMedrol.gif";
+import genericKetotifen from "../images/products/genericKetotifen.gif";
+import genericPeriactin from "../images/products/genericPeriactin.gif";
+import genericPhenergan from "../images/products/genericPhenergan.gif";
+import genericPrednisolone from "../images/products/genericPrednisolone.gif";
+import genericSingulair from "../images/products/genericSingulair.gif";
+import genericTiova from "../images/products/genericTiova.jpg";
+import genericZyrtec from "../images/products/genericZyrtec.gif";
+import serofloRotacap from "../images/products/serofloRotacap.gif";
+import amitone from "../images/products/Amitone.gif";
+import bupronSR from "../images/products/bupronSR.gif";
+import Buspin from "../images/products/Buspin.gif";
+import Cadflo from "../images/products/Cadflo.gif";
+import Cymbalta from "../images/products/Cymbalta.gif";
+
+export const category = [
+  "AIDS or HIV Treatment",
+  "ANESTHETICS",
+  "ANTI VIRAL",
+  "ANTI-ACIDITY",
+  "ANTI-ACNE",
+  "ANTI-ALLERGIC OR ASTHMA",
+  "ANTI-DEPRESSANT",
+  "ANTI-DIABETIC",
+  "ANTI-FUNGUS",
+  "ANTI-HAIR LOSS",
+  "ANTI-HERPES",
+  "ANTI-MUSCULAR DYSTROPHY",
+  "ANTIBIOTICS",
+  "ANTIOXIDANT",
+  "BLOOD PRESSURE",
+  "CHOLESTEROL",
+  "ERECTILE DYSFUNCTION",
+  "EYE CARE",
+  "GASTROINTESTINAL",
+  "GENERAL HEALTH",
+  "HEALTHY BONES",
+  "HEPATITIS B",
+  "MEN`S HEALTH",
+  "PAIN RELIEF",
+  "PREMATURE EJACULATION",
+  "SKIN CARE",
+  "SLEEPING AID",
+  "VITAMINS",
+  "WEIGHT LOSS",
+  "WOMEN'S HEALTH",
+];
 
 export const masterData = [
   {
@@ -34,7 +93,8 @@ export const masterData = [
     typeName: "Tab",
     ManufacturedBy: "Cipla",
     image: Abamune,
-    productCount: 30,
+    productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: 300,
@@ -66,7 +126,8 @@ export const masterData = [
     typeName: "Tab",
     ManufacturedBy: "Cipla",
     image: "",
-    productCount: 30,
+    productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: 300,
@@ -106,7 +167,8 @@ export const masterData = [
     typeName: "Caps",
     ManufacturedBy: "Emcure Pharmaceuticals Ltd.",
     image: "",
-    productCount: 30,
+    productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: 300,
@@ -138,6 +200,7 @@ export const masterData = [
     ManufacturedBy: "Cipla",
     image: "",
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: 400,
@@ -169,6 +232,7 @@ export const masterData = [
     ManufacturedBy: "Cipla",
     image: Duovir,
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "150mg / 300",
@@ -200,6 +264,7 @@ export const masterData = [
     ManufacturedBy: "Cipla",
     image: "",
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "150mg / 300mg / 200",
@@ -232,6 +297,7 @@ export const masterData = [
     ManufacturedBy: "Cipla",
     image: "",
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "600",
@@ -274,6 +340,7 @@ export const masterData = [
     ManufacturedBy: "Cipla",
     image: "",
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "150 mg / 300",
@@ -307,6 +374,7 @@ export const masterData = [
     ManufacturedBy: "Any on stock available manufacturer",
     image: genericEpivir,
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "150",
@@ -340,6 +408,7 @@ export const masterData = [
     ManufacturedBy: "Any on stock available manufacturer",
     image: genericRetrovir,
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "300",
@@ -382,6 +451,7 @@ export const masterData = [
     ManufacturedBy: "Any on stock available manufacturer",
     image: genericSustiva,
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "200",
@@ -423,6 +493,7 @@ export const masterData = [
     ManufacturedBy: "MSD",
     image: "",
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "400",
@@ -450,6 +521,7 @@ export const masterData = [
     ManufacturedBy: "Cipla",
     image: genericEpivir,
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "150",
@@ -483,6 +555,7 @@ export const masterData = [
     ManufacturedBy: "Cipla",
     image: "",
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "100",
@@ -516,6 +589,7 @@ export const masterData = [
     ManufacturedBy: "Cipla",
     image: Lopimune,
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "60 tabs / bottle 200mg/ 50",
@@ -547,6 +621,7 @@ export const masterData = [
     ManufacturedBy: "Cipla",
     image: "",
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "200",
@@ -580,6 +655,7 @@ export const masterData = [
     ManufacturedBy: "Cipla",
     image: "",
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "100",
@@ -611,6 +687,7 @@ export const masterData = [
     ManufacturedBy: "Cipla",
     image: "",
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "60 tabs / bottle 200mg/ 50",
@@ -638,6 +715,7 @@ export const masterData = [
     ManufacturedBy: "Cipla",
     image: Tenvir,
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "300",
@@ -666,6 +744,7 @@ export const masterData = [
     ManufacturedBy: "Cipla",
     image: Tenvir,
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "200",
@@ -694,6 +773,7 @@ export const masterData = [
     ManufacturedBy: "Cipla",
     image: "",
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "600",
@@ -724,6 +804,7 @@ export const masterData = [
     ManufacturedBy: "Cipla",
     image: "",
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "40",
@@ -764,6 +845,7 @@ export const masterData = [
     ManufacturedBy: "Cipla",
     image: Viraday,
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         unit: "mg",
@@ -791,6 +873,7 @@ export const masterData = [
     ManufacturedBy: "Cipla",
     image: "",
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "400",
@@ -818,6 +901,7 @@ export const masterData = [
     ManufacturedBy: "Cipla",
     image: genericRetrovir,
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "300",
@@ -850,7 +934,8 @@ export const masterData = [
     typeName: "tube",
     ManufacturedBy: "Emcure Pharmaceuticals Ltd.",
     image: GenericLidoderm,
-    productCount: 30,
+    productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "5% 30",
@@ -883,7 +968,8 @@ export const masterData = [
     typeName: "tube",
     ManufacturedBy: "Any on stock available manufacture.",
     image: GenericOraqixGel,
-    productCount: 30,
+    productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "2.5% / 2.5% 5",
@@ -926,7 +1012,8 @@ export const masterData = [
     typeName: "pill",
     ManufacturedBy: "Any on stock available manufacture.",
     image: GenericCopegus,
-    productCount: 30,
+    productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "200",
@@ -959,7 +1046,8 @@ export const masterData = [
     typeName: "pill",
     ManufacturedBy: "Any on stock available manufacture.",
     image: GenericSymmetrel,
-    productCount: 30,
+    productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "100",
@@ -993,6 +1081,7 @@ export const masterData = [
     ManufacturedBy: "Any on stock available manufacturer",
     image: genericAllopurinol,
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "100",
@@ -1037,6 +1126,7 @@ export const masterData = [
     ManufacturedBy: "Any on stock available manufacturer",
     image: genericCytotec,
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "100",
@@ -1070,6 +1160,7 @@ export const masterData = [
     ManufacturedBy: "Any on stock available manufacturer",
     image: genericNexium,
     productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "20",
@@ -1112,7 +1203,8 @@ export const masterData = [
     typeName: "pill",
     ManufacturedBy: "Any on stock available manufacture.",
     image: genericPepcid,
-    productCount: 30,
+    productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "2.5",
@@ -1167,7 +1259,8 @@ export const masterData = [
     typeName: "pill",
     ManufacturedBy: "Any on stock available manufacture.",
     image: genericPrilosec,
-    productCount: 30,
+    productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "10",
@@ -1222,7 +1315,8 @@ export const masterData = [
     typeName: "pill",
     ManufacturedBy: "Any on stock available manufacture.",
     image: genericProtonix,
-    productCount: 30,
+    productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "20",
@@ -1265,7 +1359,8 @@ export const masterData = [
     typeName: "pill",
     ManufacturedBy: "Any on stock available manufacture.",
     image: genericReglan,
-    productCount: 30,
+    productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "10",
@@ -1297,7 +1392,8 @@ export const masterData = [
     typeName: "pill",
     ManufacturedBy: "Any on stock available manufacture.",
     image: genericZantac,
-    productCount: 30,
+    productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "150",
@@ -1338,7 +1434,8 @@ export const masterData = [
     typeName: "pill",
     ManufacturedBy: "Any on stock available manufacture.",
     image: genericZyloprim,
-    productCount: 30,
+    productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "300",
@@ -1370,7 +1467,8 @@ export const masterData = [
     typeName: "pill",
     ManufacturedBy: "Cipla",
     image: "",
-    productCount: 30,
+    productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "200",
@@ -1403,7 +1501,8 @@ export const masterData = [
     typeName: "pill",
     ManufacturedBy: "Any on stock available manufacture.",
     image: genericNexium,
-    productCount: 30,
+    productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "20",
@@ -1436,7 +1535,8 @@ export const masterData = [
     typeName: "pill",
     ManufacturedBy: "Any on stock available manufacture.",
     image: adapenGel,
-    productCount: 30,
+    productCount: 100,
+    currency: "$",
     productVariants: [
       {
         mg: "0.1% w/w 15",
@@ -1457,68 +1557,2389 @@ export const masterData = [
     additionalDetials:
       "Gently wash the affected skin with a mild soap or soapless cleanser and pat dry with a soft towel. Do not use harsh or abrasive cleansers, and do not scrub your skin vigorously. Ask your doctor or pharmacist to recommend a gentle cleanser. If you are using the gel or cream, use your fingers to spread a thin film of medication over the affected area. If you are using a pledget, remove it from the foil pouch and gently wipe the affected area. If you are using the glass bottle of solution, apply a thin layer to the affected area using the applicator provided. Adapalene should be applied to the entire affected area, not only to a single pimple or spot. You may feel a slight warmth or stinging in the place where you applied adapalene. This feeling is normal and should go away by itself in a short time. If you used a pledget, discard it after use. Do not save it to use again.",
   },
-];
+  {
+    productId: 41,
+    name: "Allegra",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Fexofenadine",
+    rating: 151,
+    star: 4,
+    price: "0.71",
+    type: "tab",
+    typeName: "pill",
+    ManufacturedBy: "Aventis Pharma Limited",
+    image: allegra,
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "30",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.12, pricePerBottle: 1.07 },
+          { count: 60, price: 52.12, pricePerBottle: 0.87 },
+          { count: 120, price: 92.12, pricePerBottle: 0.77 },
+          { count: 240, price: 172.12, pricePerBottle: 0.72 },
+          { count: 300, price: 212.12, pricePerBottle: 0.71 },
+        ],
+      },
+      {
+        mg: "120",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 44.88, pricePerBottle: 1.5 },
+          { count: 60, price: 80.0, pricePerBottle: 1.33 },
+          { count: 120, price: 150.24, pricePerBottle: 1.25 },
+          { count: 240, price: 290.73, pricePerBottle: 1.21 },
+          { count: 300, price: 360.98, pricePerBottle: 1.2 },
+        ],
+      },
+      {
+        mg: "180",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 52.89, pricePerBottle: 1.71 },
+          { count: 60, price: 96.89, pricePerBottle: 1.61 },
+          { count: 120, price: 184.89, pricePerBottle: 1.54 },
+          { count: 240, price: 360.89, pricePerBottle: 1.5 },
+          { count: 300, price: 448.89, pricePerBottle: 1.5 },
+        ],
+      },
+    ],
+    prescription:
+      "The combination of fexofenadine and pseudoephedrine is used in adults and children 12 years of age and older to relieve the allergy symptoms of seasonal allergic rhinitis ('hay fever'), including runny nose; sneezing; congestion (stuffy nose); red, itchy, or watery eyes; or itching of the nose, throat, or roof of the mouth. Fexofenadine is in a class of medications called antihistamines. It works by blocking the effects of histamine, a substance in the body that causes allergy symptoms. Pseudoephedrine is in a class of medications called decongestants. It works by drying up the nasal passages.",
+    howToUse:
+      "The combination of fexofenadine and pseudoephedrine comes as an extended-release (long-acting) tablet to take by mouth. The fexofenadine and pseudoephedrine 12-hour tablet is usually taken once or twice a day on an empty stomach with water. The fexofenadine and pseudoephedrine 24-hour tablet is usually taken once a day on an empty stomach with water. Fexofenadine and pseudoephedrine will work better if it is not taken with fruit juices such as orange, grapefruit, or apple juice. Take fexofenadine and pseudoephedrine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take fexofenadine and pseudoephedrine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.Fexofenadine and pseudoephedrine controls the symptoms of seasonal allergic rhinitis but does not cure this condition. Continue to take fexofenadine and pseudoephedrine even if you feel well and are not experiencing these symptoms. If you wait too long between doses, your symptoms may become worse.",
+    additionalDetials:
+      "Swallow the tablets whole; do not split, chew, or crush them.",
+  },
+  {
+    productId: 42,
+    name: "Asthafen",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Ketotifen",
+    rating: 90,
+    star: 4,
+    price: "1.75",
+    type: "tab",
+    typeName: "pill",
+    ManufacturedBy: "Torrent Pharma",
+    image: "",
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "1",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 65.93, pricePerBottle: 2.2 },
+          { count: 60, price: 117.04, pricePerBottle: 1.95 },
+          { count: 120, price: 219.26, pricePerBottle: 1.83 },
+          { count: 240, price: 423.7, pricePerBottle: 1.77 },
+          { count: 300, price: 525.93, pricePerBottle: 1.75 },
+        ],
+      },
+    ],
+    prescription:
+      "Ophthalmic ketotifen is used to relieve the itching of allergic pinkeye. Ketotifen is in a class of medications called antihistamines. It works by blocking histamine, a substance in the body that causes allergic symptoms.",
+    howToUse:
+      "Ophthalmic ketotifen comes as a solution (liquid) to instill in the eye. It is usually instilled in the affected eye(s) twice daily, 8 to 12 hours apart. Instill ketotifen eye drops at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use ketotifen exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.",
+    additionalDetials: `Wash your hands thoroughly with soap and water.
+      Check the dropper tip to make sure that it is not chipped or cracked.
+      Avoid touching the dropper tip against your eye or anything else; eye drops and droppers must be kept clean.
+      While tilting your head back, pull down the lower lid of your eye with your index finger to form a pocket.
+      Hold the dropper (tip down) with the other hand, as close to the eye as possible without touching it.
+      Brace the remaining fingers of that hand against your face.
+      While looking up, gently squeeze the dropper so that a single drop falls into the pocket made by the lower eyelid. Remove your index finger from the lower eyelid.
+      Close your eye for 2 to 3 minutes and tip your head down as though looking at the floor. Try not to blink or squeeze your eyelids.
+      Place a finger on the tear duct and apply gentle pressure.
+      Wipe any excess liquid from your face with a tissue.
+      If you are to use more than one drop in the same eye, wait at least 5 minutes before instilling the next drop.
+      Replace and tighten the cap on the dropper bottle. Do not wipe or rinse the dropper tip.
+      Wash your hands to remove any medication.`,
+  },
+  {
+    productId: 43,
+    name: "Asthalin",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Salbutamol",
+    rating: 57,
+    star: 5,
+    price: "0.43",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Cipla",
+    image: asthalin,
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "Respule 2.5ml/ 2.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 36.47, pricePerBottle: 3.65 },
+          { count: 60, price: 49.41, pricePerBottle: 2.47 },
+          { count: 120, price: 62.35, pricePerBottle: 2.08 },
+          { count: 240, price: 75.29, pricePerBottle: 1.88 },
+          { count: 300, price: 88.24, pricePerBottle: 1.76 },
+        ],
+      },
+      {
+        mg: "4",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.12, pricePerBottle: 1.14 },
+          { count: 60, price: 44.71, pricePerBottle: 0.75 },
+          { count: 120, price: 65.88, pricePerBottle: 0.55 },
+          { count: 240, price: 108.24, pricePerBottle: 0.45 },
+          { count: 300, price: 129.41, pricePerBottle: 0.43 },
+        ],
+      },
+    ],
+    prescription:
+      "Albuterol is used to prevent and treat difficulty breathing, wheezing, shortness of breath, coughing, and chest tightness caused by lung diseases such as asthma and chronic obstructive pulmonary disease (COPD; a group of diseases that affect the lungs and airways). Albuterol inhalation aerosol and powder for oral inhalation is also used to prevent breathing difficulties during exercise. Albuterol inhalation aerosol (Proair HFA, Proventil HFA, Ventolin HFA) is used in adults and children 4 years of age and older. Albuterol powder for oral inhalation (Proair Respiclick) is used in children 12 years of age and older. Albuterol solution for oral inhalation is used in adults and children 2 years of age and older. Albuterol is in a class of medications called bronchodilators. It works by relaxing and opening air passages to the lungs to make breathing easier.",
+    howToUse: `Albuterol comes as a solution (liquid) to inhale by mouth using a special jet nebulizer (machine that turns medication into a mist that can be inhaled) and as an aerosol or powder to inhale by mouth using an inhaler. When the inhalation aerosol or powder for oral inhalation is used to treat or prevent symptoms of lung disease, it is usually used every 4 to 6 hours as needed. When the inhalation aerosol or powder for oral inhalation is used to prevent breathing difficulty during exercise, it is usually used 15 to 30 minutes before exercise. The nebulizer solution is usually used three or four times a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use albuterol exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
 
-export const category = [
-  "AIDS or HIV Treatment",
-  "ANESTHETICS",
-  "ANTI VIRAL",
-  "ANTI-ACIDITY",
-  "ANTI-ACNE",
-  "ANTI-ALLERGIC OR ASTHMA",
-  "ANTI-DEPRESSANT",
-  "ANTI-DIABETIC",
-  "ANTI-FUNGUS",
-  "ANTI-HAIR LOSS",
-  "ANTI-HERPES",
-  "ANTI-MUSCULAR DYSTROPHY",
-  "ANTIBIOTICS",
-  "ANTIOXIDANT",
-  "BLOOD PRESSURE",
-  "CHOLESTEROL",
-  "ERECTILE DYSFUNCTION",
-  "EYE CARE",
-  "GASTROINTESTINAL",
-  "GENERAL HEALTH",
-  "HEALTHY BONES",
-  "HEPATITIS B",
-  "MEN`S HEALTH",
-  "PAIN RELIEF",
-  "PREMATURE EJACULATION",
-  "SKIN CARE",
-  "SLEEPING AID",
-  "VITAMINS",
-  "WEIGHT LOSS",
-  "WOMEN'S HEALTH",
-];
+      Call your doctor if your symptoms worsen or if you feel that albuterol inhalation no longer controls your symptoms. If you were told to use albuterol as needed to treat your symptoms and you find that you need to use the medication more often than usual, call your doctor.
+      
+      Albuterol controls symptoms of asthma and other lung diseases but does not cure them. Do not stop using albuterol without talking to your doctor.
+      
+      Each albuterol aerosol inhaler is designed to provide 60 or 200 inhalations, depending on its size. Each albuterol powder inhaler is designed to provide 200 inhalations. After the labeled number of inhalations has been used, later inhalations may not contain the correct amount of medication. Dispose of the aerosol inhaler after you have used the labeled number of inhalations, even if it still contains some liquid and continues to release a spray when it is pressed. Dispose of the powder inhaler 13 months after you open the foil wrapper, after the expiration date on the package, or after you have used the labeled number of inhalation, whichever comes first.
+      
+      Your inhaler may come with an attached counter that keeps track of the number of inhalations you have used. The counter also tells you when to call your doctor or pharmacist to refill your prescription and when there are no inhalations left in the inhaler. Read the manufacturer's instructions to learn how to use the counter. If you have this type of inhaler, you should not try to change the numbers or remove the counter from the inhaler.
+      
+      If your inhaler does not come with an attached counter, you will need to keep track of the number of inhalations you have used. You can divide the number of inhalations in your inhaler by the number of inhalations you use each day to find out how many days your inhaler will last. Do not float the canister in water to see if it still contains medication.
+      
+      The inhaler that comes with albuterol aerosol is designed for use only with a canister of albuterol. Never use it to inhale any other medication, and do not use any other inhaler to inhale albuterol.
+      
+      Be careful not to get albuterol inhalation into your eyes.
+      
+      Do not use your albuterol inhaler when you are near a flame or source of heat. The inhaler may explode if it is exposed to very high temperatures.
+      
+      Before you use albuterol inhaler or jet nebulizer for the first time, read the written instructions that come with the inhaler or nebulizer. Ask your doctor, pharmacist, or respiratory therapist to show you how to use it. Practice using the inhaler or nebulizer while he or she watches.
+      
+      If your child will be using the inhaler, be sure that he or she knows how to use it. Watch your child each time he or she uses the inhaler to be sure that he or she is using it correctly.`,
+    additionalDetials: `Remove the protective dust cap from the end of the mouthpiece. If the dust cap was not placed on the mouthpiece, check the mouthpiece for dirt or other objects. Be sure that the canister is fully and firmly inserted in the mouthpiece.
+      If you are using the inhaler for the first time or if you have not used the inhaler in more than 14 days, you will need to prime it. You may also need to prime the inhaler if it has been dropped. Ask your pharmacist or check the manufacturer's information if this happens. To prime the inhaler, shake it well and then press down on the canister 4 times to release 4 sprays into the air, away from your face. Be careful not to get albuterol in your eyes.
+      Shake the inhaler well.
+      Breathe out as completely as possible through your mouth.
+      Hold the canister with the mouthpiece on the bottom, facing you and the canister pointing upward. Place the open end of the mouthpiece into your mouth. Close your lips tightly around the mouthpiece.
+      Breathe in slowly and deeply through the mouthpiece.At the same time, press down once on the container to spray the medication into your mouth.
+      Try to hold your breath for 10 seconds. remove the inhaler, and breathe out slowly.
+      If you were told to use 2 puffs, wait 1 minute and then repeat steps 3-7.
+      Replace the protective cap on the inhaler.
+      Clean your inhaler regularly. Follow the manufacturer's directions carefully and ask your doctor or pharmacist if you have any questions about cleaning your inhaler.
+      To inhale the powder using the inhaler, follow these steps. Do not use the Respiclick inhaler with a spacer:
+      If you will be using a new inhaler for the first time, remove it from the foil wrapper. Look at the dose counter at the back of the inhaler and check that you see the number 200 in the window.
+      Holding the inhaler upright, with the cap on the bottom and the inhaler pointing upwards, load the dose by opening the protective dust cap at the end of the mouthpiece until it clicks. Do not open the cap unless you are ready to use the inhaler. Every time the protective cap is opened, a dose is ready to inhale. You will see the number in the dose counter go down. Do not waste doses by opening the inhaler unless you are inhaling a dose.
+      Breathe out as completely as possible through your mouth. Do not blow or exhale into the inhaler.
+      Place the mouthpiece between your lips well into your mouth. Close your lips tightly around the mouthpiece. Inhale slowly and deeply through your mouth. Do not breath in through your nose. Make sure that your fingers or lips do not block the vent above the mouthpiece.
+      Remove the inhaler from your mouth and hold your breath for 10 seconds or as long as you comfortably can. Do not blow or exhale through the inhaler.
+      Close the cap firmly over the mouthpiece.
+      If you are to inhale 2 puffs, repeat steps 2-6.
+      Keep the inhaler clean and dry at all times. To clean your inhaler, use a clean, dry tissue or cloth. Do not wash or put any part of your inhaler in water.
+      To inhale the solution using a nebulizer, follow these steps;
+      Remove one vial of albuterol solution from the foil pouch. Leave the rest of the vials in the pouch until you are ready to use them.
+      Look at the liquid in the vial. It should be clear and colorless. Do not use the vial if the liquid is cloudy or discolored.
+      Twist off the top of the vial and squeeze all of the liquid into the nebulizer reservoir. If you are using your nebulizer to inhale other medications, ask your doctor or pharmacist if you can place the other medications in the reservoir along with albuterol.
+      Connect the nebulizer reservoir to the mouthpiece or face mask.
+      Connect the nebulizer to the compressor.
+      Place the mouthpiece in your mouth or put on the face mask. Sit in an upright, comfortable position and turn on the compressor.
+      Breathe in calmly, deeply, and evenly for about 5-15 minutes until mist stops forming in the nebulizer chamber.
+      Clean your nebulizer regularly. Follow the manufacturer's directions carefully and ask your doctor or pharmacist if you have any questions about cleaning your nebulizer.`,
+  },
+  {
+    productId: 44,
+    name: "Beclate",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Beclomethasone Dipropionate",
+    rating: 180,
+    star: 4,
+    price: "49.89",
+    type: "inhaler",
+    typeName: "pill",
+    ManufacturedBy: "Cipla",
+    image: "",
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "Inhaler 200MD 200",
+        unit: "mcg",
+        bottle: [
+          { count: 1, price: 63.78, pricePerBottle: 63.78 },
+          { count: 2, price: 112.74, pricePerBottle: 56.37 },
+          { count: 4, price: 210.67, pricePerBottle: 52.67 },
+          { count: 8, price: 406.52, pricePerBottle: 50.82 },
+          { count: 16, price: 798.22, pricePerBottle: 49.89 },
+        ],
+      },
+    ],
+    prescription:
+      "Beclomethasone nasal spray is used to relieve symptoms of sneezing, runny, stuffy, or itchy nose (rhinitis) caused by hay fever, other allergies, or vasomotor (nonallergic) rhinitis. It is also used to prevent nasal polyps (swelling of the lining of the nose) after nasal polyp removal surgery. Beclomethasone nasal spray should not be used to treat symptoms (e.g., sneezing, stuffy, runny, itchy nose) caused by the common cold. Beclomethasone nasal spray is in a class of medications called corticosteroids. It works by blocking the release of certain natural substances that cause allergy symptoms",
+    howToUse: `Beclomethasone comes as a suspension (liquid) to spray in the nose. It is usually sprayed in each nostril twice a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use beclomethasone exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
 
-// ANESTHETICS
-// ANTI VIRAL
-// ANTI-ACIDITY
-// ANTI-ACNE
-// ANTI-ALLERGIC OR ASTHMA
-// ANTI-DEPRESSANT
-// ANTI-DIABETIC
-// ANTI-FUNGUS
-// ANTI-HAIR LOSS
-// ANTI-HERPES
-// ANTI-MUSCULAR DYSTROPHY
-// ANTIBIOTICS
-// ANTIOXIDANT
-// BLOOD PRESSURE
-// CHOLESTEROL
-// ERECTILE DYSFUNCTION
-// EYE CARE
-// GASTROINTESTINAL
-// GENERAL HEALTH
-// HEALTHY BONES
-// HEPATITIS B
-// MEN`S HEALTH
-// PAIN RELIEF
-// PREMATURE EJACULATION
-// SKIN CARE
-// SLEEPING AID
-// VITAMINS
-// WEIGHT LOSS
-// WOMEN'S HEALTH
-// Refund and Shipping policy
+      An adult should help children younger than 12 years old to use beclomethasone nasal spray. Children younger than 6 years of age should not use this medication.
+      
+      Beclomethasone nasal spray is only for use in the nose. Do not swallow the nasal spray and be careful not to spray it into your mouth or eyes.
+      
+      Each bottle of beclomethasone nasal spray should only be used by one person. Do not share beclomethasone nasal spray because this may spread germs.
+      
+      Beclomethasone nasal spray controls the symptoms of hay fever or allergies but does not cure these conditions. Your symptoms may begin to improve a few days after you first use beclomethasone, but it may take 1 to 2 weeks before you feel the full benefit of beclomethasone. Beclomethasone works best when used regularly. Use beclomethasone on a regular schedule unless your doctor has told you to use it as needed. Call your doctor if your symptoms get worse or do not improve after you use beclomethasone nasal spray for 3 weeks. If you are using beclomethasone nasal spray to prevent the recurrence of nasal polyps after surgery, you may have to continue treatment for several weeks as directed by your doctor.
+      
+      Beclomethasone nasal spray is designed to provide a certain number of sprays. After the marked number of sprays has been used, the remaining sprays in the bottle might not contain the correct amount of medication. You should keep track of the number of sprays you have used and throw away the bottle after you have used the marked number of sprays even if it still contains some liquid.`,
+    additionalDetials: `Shake the bottle gently before each use.
+      Remove the dust cover.
+      If you are using the pump for the first time or have not used it for a week or more, you must prime it by following steps 4 to 5 below. If you have used the pump in the past week, skip to step 6.
+      Hold the spray with the applicator between your forefinger and middle finger and the bottom of the bottle resting on your thumb. Point the applicator away from your face.
+      If you are using the spray for the first time, press down and release the pump six times. If you have used the pump before, but not within the past week or have just cleaned the nozzle, press down and release the spray until you see a fine spray.
+      Gently blow your nose to clear the nostrils.
+      Hold one nostril closed with your finger.
+      Tilt your head slightly forward and carefully put the nasal applicator tip into your other nostril. Be sure to keep the bottle upright.
+      Hold the pump with the applicator between your forefinger and middle finger and the bottom resting on your thumb.
+      Begin to breathe in through your nose.
+      While you are breathing in, use your forefinger and middle finger to press firmly down on the applicator and release a spray.
+      Breathe gently in through the nostril and breathe out through your mouth.
+      If your doctor told you to use two sprays in that nostril, repeat steps 6 to 12.
+      Repeat steps 6 to 13 in the other nostril.
+      Wipe the applicator with a clean tissue and cover it with the dust cover.
+      Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 45,
+    name: "Beclate Rotacaps",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Amantadine",
+    rating: 196,
+    star: 4,
+    price: "13.89",
+    type: "bottle",
+    typeName: "pill",
+    ManufacturedBy: "Cipla",
+    image: beclateRotacaps,
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "30 rotacaps bottle 200",
+        unit: "mcg",
+        bottle: [
+          { count: 2, price: 40.74, pricePerBottle: 20.37 },
+          { count: 4, price: 66.67, pricePerBottle: 16.67 },
+          { count: 8, price: 118.52, pricePerBottle: 14.82 },
+          { count: 16, price: 222.22, pricePerBottle: 13.89 },
+        ],
+      },
+    ],
+    prescription:
+      "Beclomethasone nasal spray is used to relieve symptoms of sneezing, runny, stuffy, or itchy nose (rhinitis) caused by hay fever, other allergies, or vasomotor (nonallergic) rhinitis. It is also used to prevent nasal polyps (swelling of the lining of the nose) after nasal polyp removal surgery. Beclomethasone nasal spray should not be used to treat symptoms (e.g., sneezing, stuffy, runny, itchy nose) caused by the common cold. Beclomethasone nasal spray is in a class of medications called corticosteroids. It works by blocking the release of certain natural substances that cause allergy symptoms.",
+    howToUse: `Beclomethasone comes as a suspension (liquid) to spray in the nose. It is usually sprayed in each nostril twice a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use beclomethasone exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+      An adult should help children younger than 12 years old to use beclomethasone nasal spray. Children younger than 6 years of age should not use this medication.
+      
+      Beclomethasone nasal spray is only for use in the nose. Do not swallow the nasal spray and be careful not to spray it into your mouth or eyes.
+      
+      Each bottle of beclomethasone nasal spray should only be used by one person. Do not share beclomethasone nasal spray because this may spread germs.
+      
+      Beclomethasone nasal spray controls the symptoms of hay fever or allergies but does not cure these conditions. Your symptoms may begin to improve a few days after you first use beclomethasone, but it may take 1 to 2 weeks before you feel the full benefit of beclomethasone. Beclomethasone works best when used regularly. Use beclomethasone on a regular schedule unless your doctor has told you to use it as needed. Call your doctor if your symptoms get worse or do not improve after you use beclomethasone nasal spray for 3 weeks. If you are using beclomethasone nasal spray to prevent the recurrence of nasal polyps after surgery, you may have to continue treatment for several weeks as directed by your doctor.
+      
+      Beclomethasone nasal spray is designed to provide a certain number of sprays. After the marked number of sprays has been used, the remaining sprays in the bottle might not contain the correct amount of medication. You should keep track of the number of sprays you have used and throw away the bottle after you have used the marked number of sprays even if it still contains some liquid`,
+    additionalDetials: `Shake the bottle gently before each use.
+      Remove the dust cover.
+      If you are using the pump for the first time or have not used it for a week or more, you must prime it by following steps 4 to 5 below. If you have used the pump in the past week, skip to step 6.
+      Hold the spray with the applicator between your forefinger and middle finger and the bottom of the bottle resting on your thumb. Point the applicator away from your face.
+      If you are using the spray for the first time, press down and release the pump six times. If you have used the pump before, but not within the past week or have just cleaned the nozzle, press down and release the spray until you see a fine spray.
+      Gently blow your nose to clear the nostrils.
+      Hold one nostril closed with your finger.
+      Tilt your head slightly forward and carefully put the nasal applicator tip into your other nostril. Be sure to keep the bottle upright.
+      Hold the pump with the applicator between your forefinger and middle finger and the bottom resting on your thumb.
+      Begin to breathe in through your nose.
+      While you are breathing in, use your forefinger and middle finger to press firmly down on the applicator and release a spray.
+      Breathe gently in through the nostril and breathe out through your mouth.
+      If your doctor told you to use two sprays in that nostril, repeat steps 6 to 12.
+      Repeat steps 6 to 13 in the other nostril.
+      Wipe the applicator with a clean tissue and cover it with the dust cover.
+      Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient`,
+  },
+  {
+    productId: 45,
+    name: "Generic Symmetrel",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Budesonide",
+    rating: 186,
+    star: 4,
+    price: "48.63",
+    type: "Inhaler",
+    typeName: "pill",
+    ManufacturedBy: "Cipla",
+    image: asthalin,
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 62.52, pricePerBottle: 62.52 },
+          { count: 2, price: 110.22, pricePerBottle: 55.11 },
+          { count: 4, price: 205.63, pricePerBottle: 51.41 },
+          { count: 8, price: 396.44, pricePerBottle: 49.56 },
+          { count: 16, price: 778.07, pricePerBottle: 48.63 },
+        ],
+      },
+    ],
+    prescription:
+      "Budesonide is used to prevent difficulty breathing, chest tightness, wheezing, and coughing caused by asthma. Budesonide powder for oral inhalation (Pulmicort Flexhaler) is used in adults and children 6 years of age and older. Budesonide suspension (liquid) for oral inhalation (Pulmicort Respules) is used in children 12 months to 8 years of age. Budesonide belongs to a class of medications called corticosteroids. It works by decreasing swelling and irritation in the airways to allow for easier breathing.",
+    howToUse: `Budesonide comes as a powder to inhale by mouth using an inhaler and as a suspension to inhale by mouth using a special jet nebulizer (machine that turns medication into a mist that can be inhaled). Budesonide powder for oral inhalation is usually inhaled twice a day. Budesonide suspension for oral inhalation is usually inhaled once or twice a day. Try to use budesonide at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use budesonide exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+      Talk to your doctor about how you should use your other oral and inhaled medications for asthma during your treatment with budesonide inhalation. If you were taking an oral steroid such as dexamethasone, methylprednisolone (Medrol), or prednisone (Rayos), your doctor may want to gradually decrease your steroid dose starting after you begin to use budesonide.
+      
+      Budesonide controls symptoms of asthma but does not cure it. Improvement in your asthma may occur as soon after using the medication, but full effects of may not be seen for 1 to 2 weeks after using the powder and 4 to 6 weeks after using the suspension on a regular basis. Continue to use budesonide even if you feel well. Do not stop using budesonide without talking to your doctor. Call your doctor if your symptoms or your child's symptoms do not improve during the first 2 weeks (powder) or first 6 weeks (suspension) or if they get worse.
+      
+      Budesonide helps to prevent asthma attacks (sudden episodes of shortness of breath, wheezing, and coughing) but will not stop an asthma attack that has already started. Your doctor will prescribe a short-acting inhaler to use during asthma attacks. Tell your doctor if your asthma worsens during your treatment.
+      
+      Each budesonide inhaler is designed to provide 60 or 120 inhalations, depending on its size. After the labeled number of inhalations has been used, later inhalations may not contain the correct amount of medication. You should keep track of the number of inhalations you have used. You can divide the number of inhalations in your inhaler by the number of inhalations you use each day to find out how many days your inhaler will last. Dispose of the inhaler after you have used the labeled number of inhalations even if it still contains some liquid and continues to release a spray when it is pressed.
+      
+      Do not swallow budesonide nebulizer suspension.
+      
+      Before you use budesonide inhaler or jet nebulizer the first time, read the written instructions that come with it. Look at the diagrams carefully and be sure that you recognize all the parts of the inhaler or nebulizer. Ask your doctor, pharmacist, or respiratory therapist to show you the right way to use the inhaler or nebulizer. Practice using the inhaler or nebulizer in front of him or her, so you are sure you are doing it the right way.`,
+    additionalDetials: `To inhale the powder using the inhaler, follow these steps:
+      Turn the protective cover and lift it off.
+      The first time you use a new budesonide inhaler you must prime it. To do this, hold the inhaler upright (with mouthpiece up), then twist the brown grip fully to the right as far as it will go, then back again fully to the left. You will hear a click. Repeat. The unit is now primed and ready to load the first dose. You do not have to prime the inhaler again after this, even if you do not use it for a long time.
+      Holding the inhaler upright, load the first dose by turning the grip fully to the right and fully to the left until it clicks.
+      Turn your head away from the inhaler and breathe out. Do not blow or exhale into the inhaler. Do not shake the inhaler after loading it.
+      Hold the inhaler in the upright (mouthpiece up) or horizontal position. Place the mouthpiece between your lips well into your mouth. Tilt your head slightly back. Close your lips tightly around the mouthpiece, but do not bite or chew the mouthpiece. Inhale deeply and forcefully. Be sure that the mist goes into your throat and is not blocked by your teeth or tongue.
+      Remove the inhaler from your mouth and hold your breath for about 10 seconds. Do not blow or exhale through the inhaler.
+      If you are to inhale two puffs, repeat steps 4-6. For the next puff the inhaler must be loaded in the upright position right before its use. Turn the grip fully to the right and then fully to the left until it clicks.
+      Replace the protective cap on the inhaler and twist it shut.
+      After each treatment, rinse your mouth with water and spit. Do not swallow the water.
+      Keep the inhaler clean and dry with the cover tightly in place at all times.`,
+  },
+  {
+    productId: 46,
+    name: "Sun Pharmaceuticals Industries",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Budesonide",
+    rating: 180,
+    star: 4,
+    price: "124.69",
+    type: "pack",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacture.",
+    image: budezCR,
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 137.04, pricePerBottle: 137.04 },
+          { count: 2, price: 259.26, pricePerBottle: 129.63 },
+          { count: 4, price: 503.7, pricePerBottle: 125.93 },
+          { count: 6, price: 748.15, pricePerBottle: 124.69 },
+        ],
+      },
+    ],
+    prescription:
+      "Budesonide is used to prevent difficulty breathing, chest tightness, wheezing, and coughing caused by asthma. Budesonide powder for oral inhalation (Pulmicort Flexhaler) is used in adults and children 6 years of age and older. Budesonide suspension (liquid) for oral inhalation (Pulmicort Respules) is used in children 12 months to 8 years of age. Budesonide belongs to a class of medications called corticosteroids. It works by decreasing swelling and irritation in the airways to allow for easier breathing",
+    howToUse: `Budesonide comes as a powder to inhale by mouth using an inhaler and as a suspension to inhale by mouth using a special jet nebulizer (machine that turns medication into a mist that can be inhaled). Budesonide powder for oral inhalation is usually inhaled twice a day. Budesonide suspension for oral inhalation is usually inhaled once or twice a day. Try to use budesonide at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use budesonide exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+      Talk to your doctor about how you should use your other oral and inhaled medications for asthma during your treatment with budesonide inhalation. If you were taking an oral steroid such as dexamethasone, methylprednisolone (Medrol), or prednisone (Rayos), your doctor may want to gradually decrease your steroid dose starting after you begin to use budesonide.
+      
+      Budesonide controls symptoms of asthma but does not cure it. Improvement in your asthma may occur as soon after using the medication, but full effects of may not be seen for 1 to 2 weeks after using the powder and 4 to 6 weeks after using the suspension on a regular basis. Continue to use budesonide even if you feel well. Do not stop using budesonide without talking to your doctor. Call your doctor if your symptoms or your child's symptoms do not improve during the first 2 weeks (powder) or first 6 weeks (suspension) or if they get worse.
+      
+      Budesonide helps to prevent asthma attacks (sudden episodes of shortness of breath, wheezing, and coughing) but will not stop an asthma attack that has already started. Your doctor will prescribe a short-acting inhaler to use during asthma attacks. Tell your doctor if your asthma worsens during your treatment.
+      
+      Each budesonide inhaler is designed to provide 60 or 120 inhalations, depending on its size. After the labeled number of inhalations has been used, later inhalations may not contain the correct amount of medication. You should keep track of the number of inhalations you have used. You can divide the number of inhalations in your inhaler by the number of inhalations you use each day to find out how many days your inhaler will last. Dispose of the inhaler after you have used the labeled number of inhalations even if it still contains some liquid and continues to release a spray when it is pressed.
+      
+      Do not swallow budesonide nebulizer suspension.
+      
+      Before you use budesonide inhaler or jet nebulizer the first time, read the written instructions that come with it. Look at the diagrams carefully and be sure that you recognize all the parts of the inhaler or nebulizer. Ask your doctor, pharmacist, or respiratory therapist to show you the right way to use the inhaler or nebulizer. Practice using the inhaler or nebulizer in front of him or her, so you are sure you are doing it the right way.`,
+    additionalDetials: `Turn the protective cover and lift it off.
+      The first time you use a new budesonide inhaler you must prime it. To do this, hold the inhaler upright (with mouthpiece up), then twist the brown grip fully to the right as far as it will go, then back again fully to the left. You will hear a click. Repeat. The unit is now primed and ready to load the first dose. You do not have to prime the inhaler again after this, even if you do not use it for a long time.
+      Holding the inhaler upright, load the first dose by turning the grip fully to the right and fully to the left until it clicks.
+      Turn your head away from the inhaler and breathe out. Do not blow or exhale into the inhaler. Do not shake the inhaler after loading it.
+      Hold the inhaler in the upright (mouthpiece up) or horizontal position. Place the mouthpiece between your lips well into your mouth. Tilt your head slightly back. Close your lips tightly around the mouthpiece, but do not bite or chew the mouthpiece. Inhale deeply and forcefully. Be sure that the mist goes into your throat and is not blocked by your teeth or tongue.
+      Remove the inhaler from your mouth and hold your breath for about 10 seconds. Do not blow or exhale through the inhaler.
+      If you are to inhale two puffs, repeat steps 4-6. For the next puff the inhaler must be loaded in the upright position right before its use. Turn the grip fully to the right and then fully to the left until it clicks.
+      Replace the protective cap on the inhaler and twist it shut.
+      After each treatment, rinse your mouth with water and spit. Do not swallow the water.
+      Keep the inhaler clean and dry with the cover tightly in place at all times.`,
+  },
+  {
+    productId: 47,
+    name: "Combimist L",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Levosalbutamol 50mcg /Ipratropium 20mcg",
+    rating: 113.04,
+    star: 4,
+    price: "32.04",
+    type: "Inhaler",
+    typeName: "pill",
+    ManufacturedBy: "Zydus Cadila",
+    image: "",
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mcg",
+        bottle: [
+          { count: 1, price: 45.93, pricePerBottle: 45.93 },
+          { count: 2, price: 77.04, pricePerBottle: 38.52 },
+          { count: 4, price: 139.26, pricePerBottle: 34.92 },
+          { count: 8, price: 263.7, pricePerBottle: 32.96 },
+          { count: 16, price: 512.59, pricePerBottle: 32.04 },
+        ],
+      },
+    ],
+    prescription:
+      "Amantadine is used to treat the symptoms of Parkinson's disease (PD; a disorder of the nervous system that causes difficulties with movement, muscle control, and balance) and other similar conditions. It is also used to control movement problems that are a side effect of certain medications used to treat Parkinson's disease. It also is used to prevent symptoms of influenza A virus infection and for treatment of respiratory infections caused by influenza A virus. Amantadine is in a class of medications called adamantanes. It is thought to work to control movement problems by increasing the amount of dopamine in certain parts of the body. It works against influenza A virus by stopping the spread of the virus in the body.",
+    howToUse:
+      "Amantadine comes as a capsule, extended-release capsule (Gocovri), tablet, and liquid to take by mouth. The capsules, tablets, and liquid medications are usually taken once or twice a day. The extended-release capsules are taken once a day at bedtime. Take amantadine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take amantadine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor. Swallow the extended-release capsules whole; do not split, chew, or crush them. If you have difficulty swallowing, you may open the extended-release capsule and sprinkle the entire contents on a teaspoonful of soft food, like applesauce. Eat the mixture right away and swallow without chewing. If you are taking amantadine for Parkinson's disease, your doctor may start you on a low dose of amantadine and gradually increase your dose.",
+    additionalDetials:
+      "Do not stop taking amantadine without talking to your doctor. If you suddenly stop taking amantadine, you may experience fever, confusion, changes in mental state, or severe muscle stiffness. Your doctor will probably decrease your dose gradually. Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.",
+  },
+  {
+    productId: 48,
+    name: "Duolin",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Levosalbutamol 50mcg /Ipratropium 20mcg",
+    rating: 63,
+    star: 4,
+    price: "33.52",
+    type: "Inhaler",
+    typeName: "pill",
+    ManufacturedBy: "Cipla",
+    image: duolin,
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "200 MD 50 mcg 20",
+        unit: "mcg",
+        bottle: [
+          { count: 1, price: 47.41, pricePerBottle: 47.41 },
+          { count: 2, price: 80.0, pricePerBottle: 40.0 },
+          { count: 4, price: 145.19, pricePerBottle: 36.3 },
+          { count: 8, price: 275.56, pricePerBottle: 34.45 },
+          { count: 16, price: 536.3, pricePerBottle: 33.52 },
+        ],
+      },
+    ],
+    prescription: "",
+    howToUse: "",
+    additionalDetials: "",
+  },
+  {
+    productId: 49,
+    name: "Foracort",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Formaterol Fumarate",
+    rating: 136,
+    star: 5,
+    price: "17.96",
+    type: "bottle",
+    typeName: "pill",
+    ManufacturedBy: "Cipla",
+    image: foracort,
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "Rotacaps 30 caps/bottle 12",
+        unit: "mcg",
+        bottle: [
+          { count: 1, price: 31.85, pricePerBottle: 31.85 },
+          { count: 2, price: 48.89, pricePerBottle: 24.45 },
+          { count: 4, price: 82.96, pricePerBottle: 20.74 },
+          { count: 8, price: 151.11, pricePerBottle: 18.89 },
+          { count: 16, price: 287.41, pricePerBottle: 17.96 },
+        ],
+      },
+    ],
+    prescription: "",
+    howToUse: "",
+    additionalDetials: "",
+  },
+  {
+    productId: 50,
+    name: "Formoflo 125",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Fluticasone + Formoterol",
+    rating: 151,
+    star: 4,
+    price: "49.82",
+    type: "inhaler",
+    typeName: "pill",
+    ManufacturedBy: "Lupin Ltd.",
+    image: "",
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 63.7, pricePerBottle: 63.7 },
+          { count: 2, price: 112.59, pricePerBottle: 56.3 },
+          { count: 4, price: 210.37, pricePerBottle: 52.59 },
+          { count: 8, price: 405.93, pricePerBottle: 50.74 },
+          { count: 16, price: 797.04, pricePerBottle: 49.82 },
+        ],
+      },
+    ],
+    prescription:
+      "Salmeterol is used to treat wheezing, shortness of breath, coughing, and chest tightness caused by asthma and chronic obstructive pulmonary disease (COPD; a group of lung diseases that includes chronic bronchitis and emphysema). It also is used to prevent bronchospasm (breathing difficulties) during exercise. Salmeterol is in a class of medications called long-acting beta agonists (LABAs). It works by relaxing and opening air passages in the lungs, making it easier to breathe.",
+    howToUse: `Salmeterol comes as a dry powder to inhale by mouth using a specially designed inhaler. When salmeterol is used to treat asthma or COPD, it is usually used twice a day, in the morning and evening, about 12 hours apart. Use salmeterol at around the same times every day. When salmeterol is used to prevent breathing difficulties during exercise, it is usually used at least 30 minutes before exercise, but not more often than once every 12 hours. If you are using salmeterol twice a day on a regular basis, do not use another dose before exercising. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use salmeterol exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+      Talk to your doctor about how you should take your other oral or inhaled medications for asthma during your treatment with salmeterol. If you were taking a corticosteroid (a type of medication used to prevent airway swelling in patients with asthma), you doctor will probably tell you to continue taking it just as you did before you began using salmeterol. If you were using a short acting beta agonist inhaler such as albuterol (Proventil, Ventolin) on a regular basis, your doctor will probably tell you to stop using it regularly, but to continue to use it to treat sudden attacks of asthma symptoms. Follow these directions carefully. Do not change the way you use any of your medications without talking to your doctor.
+      
+      Do not use salmeterol during an attack of asthma or COPD. Your doctor will prescribe a short-acting inhaler to use during attacks.
+      
+      Salmeterol controls the symptoms of asthma and other lung diseases but does not cure these conditions. Do not stop using salmeterol without talking to your doctor. If you suddenly stop using salmeterol, your symptoms may worsen.
+      
+      Before you use the salmeterol inhaler the first time, ask your doctor, pharmacist, or respiratory therapist to show you how to use it. Practice using the inhaler while he or she watches.`,
+    additionalDetials: `If you will be using a new inhaler for the first time, remove it from the box and the foil wrapper. Fill in the blanks on the inhaler label with the date that you opened the pouch and the date 6 weeks later when you must replace the inhaler.
+      Hold the inhaler in one hand, and put the thumb of your other hand on the thumbgrip. Push your thumb away from you as far as it will go until the mouthpiece appears and snaps into position.
+      Hold the inhaler in a level, horizontal position with the mouthpiece toward you. Slide the lever away from you as far as it will go until it clicks.
+      Every time the lever is pushed back, a dose is ready to inhale. You will see the number in the dose counter go down. Do not waste doses by closing or tilting the inhaler, playing with the lever, or advancing the lever more than once.
+      Hold the inhaler level and away from your mouth, and breathe out as far as you comfortably can.
+      Keep the inhaler in a level, flat position. Put the mouthpiece to your lips. Breathe in quickly and deeply though the inhaler, not through your nose.
+      Remove the inhaler from your mouth, and hold your breath for 10 seconds or as long as you comfortably can. Breathe out slowly.
+      You will probably taste or feel the salmeterol powder released by the inhaler. Even if you do not, do not inhale another dose. If you are not sure you are getting your dose of salmeterol, call your doctor or pharmacist.
+      Put your thumb on the thumbgrip and slide it back toward you as far as it will go. The device will click shut.
+      Never exhale into the inhaler, take the inhaler apart, or wash the mouthpiece or any part of the inhaler. Keep the inhaler dry. Do not use the inhaler with a spacer.`,
+  },
+  {
+    productId: 51,
+    name: "Formonide Inhaler",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Budesonide + Formoterol",
+    rating: 61,
+    star: 4,
+    price: "45.96",
+    type: "inhaler",
+    typeName: "pill",
+    ManufacturedBy: "Cadila Healthcare Limited",
+    image: asthalin,
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "Inhaler 120 MD 200",
+        unit: "mcg",
+        bottle: [
+          { count: 1, price: 59.85, pricePerBottle: 59.85 },
+          { count: 2, price: 104.89, pricePerBottle: 52.45 },
+          { count: 4, price: 194.96, pricePerBottle: 48.74 },
+          { count: 8, price: 375.11, pricePerBottle: 46.89 },
+          { count: 16, price: 735.41, pricePerBottle: 45.96 },
+        ],
+      },
+    ],
+    prescription:
+      "Budesonide is used to prevent difficulty breathing, chest tightness, wheezing, and coughing caused by asthma. Budesonide powder for oral inhalation (Pulmicort Flexhaler) is used in adults and children 6 years of age and older. Budesonide suspension (liquid) for oral inhalation (Pulmicort Respules) is used in children 12 months to 8 years of age. Budesonide belongs to a class of medications called corticosteroids. It works by decreasing swelling and irritation in the airways to allow for easier breathing.",
+    howToUse: `Budesonide comes as a powder to inhale by mouth using an inhaler and as a suspension to inhale by mouth using a special jet nebulizer (machine that turns medication into a mist that can be inhaled). Budesonide powder for oral inhalation is usually inhaled twice a day. Budesonide suspension for oral inhalation is usually inhaled once or twice a day. Try to use budesonide at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use budesonide exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Talk to your doctor about how you should use your other oral and inhaled medications for asthma during your treatment with budesonide inhalation. If you were taking an oral steroid such as dexamethasone, methylprednisolone (Medrol), or prednisone (Rayos), your doctor may want to gradually decrease your steroid dose starting after you begin to use budesonide.
+    
+    Budesonide controls symptoms of asthma but does not cure it. Improvement in your asthma may occur as soon after using the medication, but full effects of may not be seen for 1 to 2 weeks after using the powder and 4 to 6 weeks after using the suspension on a regular basis. Continue to use budesonide even if you feel well. Do not stop using budesonide without talking to your doctor. Call your doctor if your symptoms or your child's symptoms do not improve during the first 2 weeks (powder) or first 6 weeks (suspension) or if they get worse.
+    
+    Budesonide helps to prevent asthma attacks (sudden episodes of shortness of breath, wheezing, and coughing) but will not stop an asthma attack that has already started. Your doctor will prescribe a short-acting inhaler to use during asthma attacks. Tell your doctor if your asthma worsens during your treatment.
+    
+    Each budesonide inhaler is designed to provide 60 or 120 inhalations, depending on its size. After the labeled number of inhalations has been used, later inhalations may not contain the correct amount of medication. You should keep track of the number of inhalations you have used. You can divide the number of inhalations in your inhaler by the number of inhalations you use each day to find out how many days your inhaler will last. Dispose of the inhaler after you have used the labeled number of inhalations even if it still contains some liquid and continues to release a spray when it is pressed.
+    
+    Do not swallow budesonide nebulizer suspension.
+    
+    Before you use budesonide inhaler or jet nebulizer the first time, read the written instructions that come with it. Look at the diagrams carefully and be sure that you recognize all the parts of the inhaler or nebulizer. Ask your doctor, pharmacist, or respiratory therapist to show you the right way to use the inhaler or nebulizer. Practice using the inhaler or nebulizer in front of him or her, so you are sure you are doing it the right way.`,
+    additionalDetials: `To inhale the powder using the inhaler, follow these steps:
+    Turn the protective cover and lift it off.
+    The first time you use a new budesonide inhaler you must prime it. To do this, hold the inhaler upright (with mouthpiece up), then twist the brown grip fully to the right as far as it will go, then back again fully to the left. You will hear a click. Repeat. The unit is now primed and ready to load the first dose. You do not have to prime the inhaler again after this, even if you do not use it for a long time.
+    Holding the inhaler upright, load the first dose by turning the grip fully to the right and fully to the left until it clicks.
+    Turn your head away from the inhaler and breathe out. Do not blow or exhale into the inhaler. Do not shake the inhaler after loading it.
+    Hold the inhaler in the upright (mouthpiece up) or horizontal position. Place the mouthpiece between your lips well into your mouth. Tilt your head slightly back. Close your lips tightly around the mouthpiece, but do not bite or chew the mouthpiece. Inhale deeply and forcefully. Be sure that the mist goes into your throat and is not blocked by your teeth or tongue.
+    Remove the inhaler from your mouth and hold your breath for about 10 seconds. Do not blow or exhale through the inhaler.
+    If you are to inhale two puffs, repeat steps 4-6. For the next puff the inhaler must be loaded in the upright position right before its use. Turn the grip fully to the right and then fully to the left until it clicks.
+    Replace the protective cap on the inhaler and twist it shut.
+    After each treatment, rinse your mouth with water and spit. Do not swallow the water.
+    Keep the inhaler clean and dry with the cover tightly in place at all times.
+    To inhale the suspension using the jet nebulizer, follow these steps:
+    Remove one ampule of inhalation suspension from the foil pouch.
+    Gently shake the ampule in a circular motion.
+    Hold the ampule upright and twist off the top of the ampule. Pour all of the liquid into the nebulizer reservoir. Do not mix other medications with budesonide in the reservoir.
+    Connect the nebulizer reservoir to the mouthpiece or face mask.
+    Connect the nebulizer to the compressor.
+    Place the mouthpiece in your child's mouth or use the face mask. Have your child sit in an upright, comfortable position and turn on the compressor.
+    Tell your child to breathe in calmly, deeply, and evenly until mist stops forming in the chamber.
+    After each treatment, have your child rinse their mouth with water and spit; do not swallow the water.
+    Dispose of the empty ampule and its top in a trash can that is out of the reach of children and pets.
+    Clean your nebulizer regularly. Follow the manufacturer's directions carefully and ask your doctor or pharmacist if you have any questions about cleaning your nebulizer.`,
+  },
+  {
+    productId: 52,
+    name: "Generic Advair Diskus Accuhaler",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Fluticasone + Salmeterol",
+    rating: 59,
+    star: 4,
+    price: "95.56",
+    type: "Accuhaler",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericAdvairDiskusAccuhaler,
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "60 doses 500 mcg / 50",
+        unit: "mcg",
+        bottle: [
+          { count: 1, price: 160.26, pricePerBottle: 160.26 },
+          { count: 2, price: 303.13, pricePerBottle: 151.57 },
+          { count: 4, price: 588.87, pricePerBottle: 147.22 },
+        ],
+      },
+      {
+        mg: "60 doses 250 mcg / 50",
+        unit: "mcg",
+        bottle: [
+          { count: 1, price: 137.91, pricePerBottle: 137.91 },
+          { count: 2, price: 258.43, pricePerBottle: 1229.22 },
+          { count: 4, price: 499.48, pricePerBottle: 124.87 },
+        ],
+      },
+      {
+        mg: "60 doses 100 mcg / 50",
+        unit: "mcg",
+        bottle: [
+          { count: 1, price: 108.52, pricePerBottle: 108.52 },
+          { count: 2, price: 202.22, pricePerBottle: 101.11 },
+          { count: 4, price: 389.63, pricePerBottle: 97.41 },
+          { count: 8, price: 764.44, pricePerBottle: 95.56 },
+        ],
+      },
+    ],
+    prescription:
+      "The combination of fluticasone and salmeterol (Advair Diskus, Advair HFA) is used to treat difficulty breathing, wheezing, shortness of breath, coughing, and chest tightness caused by asthma. The combination of fluticasone and salmeterol (Advair Diskus) is also used to prevent and treat wheezing, shortness of breath, coughing, and chest tightness caused by chronic obstructive pulmonary disease (COPD; a group of lung diseases that includes chronic bronchitis and emphysema). The combination of fluticasone and salmeterol (Advair Diskus) is used in adults and children 4 years of age and older. The combination of fluticasone and salmeterol (Advair HFA) is used in children 12 years of age and older. Fluticasone is in a class of medications called steroids. It works by reducing swelling in the airways. Salmeterol is in a class of medications called long-acting beta-agonists (LABAs). It works by relaxing and opening air passages in the lungs, making it easier to breathe.",
+    howToUse: `The combination of fluticasone and salmeterol comes as a powder and as an inhalation solution to inhale by mouth using a specially designed inhaler. It is usually used twice a day, in the morning and evening, about 12 hours apart. Use fluticasone and salmeterol at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use fluticasone and salmeterol exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Talk to your doctor about how you should take your other oral or inhaled medications for asthma during your treatment with salmeterol and fluticasone inhalation. If you were using a short-acting beta agonist inhaler such as albuterol (Proventil, Ventolin) on a regular basis, your doctor will probably tell you to stop using it regularly but to continue to use it to treat sudden attacks of asthma symptoms. Follow these directions carefully. Do not change the way you use any of your medications or stop taking any of your medications without talking to your doctor.
+    
+    Do not use fluticasone and salmeterol during an attack of asthma or COPD. Your doctor will prescribe a short-acting inhaler to use during attacks.
+    
+    Fluticasone and salmeterol inhalation controls the symptoms of certain lung diseases but does not cure these conditions. It may take a week or longer before you feel the full benefit of fluticasone and salmeterol. Continue to use fluticasone and salmeterol even if you feel well. Do not stop using fluticasone and salmeterol without talking to your doctor. If you stop using fluticasone and salmeterol inhalation, your symptoms may return.
+    
+    Before you use fluticasone and salmeterol inhalation (Advair Diskus or Advair HFA) for the first time, read the written package instructions that come with it. Look at the diagrams and package instructions carefully and be sure that you recognize all the parts of the inhaler. Ask your doctor, pharmacist, or respiratory therapist to show you how to use the inhaler. Practice using your inhaler while he or she watches, so you are sure you are doing it the right way.
+    
+    If your child will be using fluticasone and salmeterol inhalation, be sure that he or she knows how to use it. Watch your child each time he or she uses the inhaler to be sure that he or she is using it correctly.`,
+    additionalDetials: `Never exhale into the inhaler, take the inhaler apart, or wash the mouthpiece or any part of the inhaler. Keep the inhaler dry. Do not use the inhaler with a spacer.
+
+    Ask your pharmacist or doctor for a copy of the fluticasone and salmeterol inhalation (Advair Diskus or Advair HFA) manufacturer's information for the patient.`,
+  },
+  {
+    productId: 53,
+    name: "Generic Advair Diskus Rotacap",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Fluticasone + Salmeterol",
+    rating: 130,
+    star: 4,
+    price: "58.89",
+    type: "unit",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericAdvairDiskusAccuhaler,
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "250 mcg / 50 mcg 30",
+        unit: "Dose",
+        bottle: [
+          { count: 1, price: 71.85, pricePerBottle: 71.85 },
+          { count: 2, price: 128.89, pricePerBottle: 64.45 },
+          { count: 4, price: 242.96, pricePerBottle: 60.74 },
+          { count: 8, price: 471.11, pricePerBottle: 147.22 },
+        ],
+      },
+    ],
+    prescription:
+      "The combination of fluticasone and salmeterol (Advair Diskus, Advair HFA) is used to treat difficulty breathing, wheezing, shortness of breath, coughing, and chest tightness caused by asthma. The combination of fluticasone and salmeterol (Advair Diskus) is also used to prevent and treat wheezing, shortness of breath, coughing, and chest tightness caused by chronic obstructive pulmonary disease (COPD; a group of lung diseases that includes chronic bronchitis and emphysema). The combination of fluticasone and salmeterol (Advair Diskus) is used in adults and children 4 years of age and older. The combination of fluticasone and salmeterol (Advair HFA) is used in children 12 years of age and older. Fluticasone is in a class of medications called steroids. It works by reducing swelling in the airways. Salmeterol is in a class of medications called long-acting beta-agonists (LABAs). It works by relaxing and opening air passages in the lungs, making it easier to breathe.",
+    howToUse: `The combination of fluticasone and salmeterol comes as a powder and as an inhalation solution to inhale by mouth using a specially designed inhaler. It is usually used twice a day, in the morning and evening, about 12 hours apart. Use fluticasone and salmeterol at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use fluticasone and salmeterol exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Talk to your doctor about how you should take your other oral or inhaled medications for asthma during your treatment with salmeterol and fluticasone inhalation. If you were using a short-acting beta agonist inhaler such as albuterol (Proventil, Ventolin) on a regular basis, your doctor will probably tell you to stop using it regularly but to continue to use it to treat sudden attacks of asthma symptoms. Follow these directions carefully. Do not change the way you use any of your medications or stop taking any of your medications without talking to your doctor.
+    
+    Do not use fluticasone and salmeterol during an attack of asthma or COPD. Your doctor will prescribe a short-acting inhaler to use during attacks.
+    
+    Fluticasone and salmeterol inhalation controls the symptoms of certain lung diseases but does not cure these conditions. It may take a week or longer before you feel the full benefit of fluticasone and salmeterol. Continue to use fluticasone and salmeterol even if you feel well. Do not stop using fluticasone and salmeterol without talking to your doctor. If you stop using fluticasone and salmeterol inhalation, your symptoms may return.
+    
+    Before you use fluticasone and salmeterol inhalation (Advair Diskus or Advair HFA) for the first time, read the written package instructions that come with it. Look at the diagrams and package instructions carefully and be sure that you recognize all the parts of the inhaler. Ask your doctor, pharmacist, or respiratory therapist to show you how to use the inhaler. Practice using your inhaler while he or she watches, so you are sure you are doing it the right way.
+    
+    If your child will be using fluticasone and salmeterol inhalation, be sure that he or she knows how to use it. Watch your child each time he or she uses the inhaler to be sure that he or she is using it correctly.`,
+    additionalDetials: `Never exhale into the inhaler, take the inhaler apart, or wash the mouthpiece or any part of the inhaler. Keep the inhaler dry. Do not use the inhaler with a spacer.
+
+    Ask your pharmacist or doctor for a copy of the fluticasone and salmeterol inhalation (Advair Diskus or Advair HFA) manufacturer's information for the patient.`,
+  },
+  {
+    productId: 54,
+    name: "Generic Allegra",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Fexofenadine",
+    rating: 190,
+    star: 4,
+    price: "0.86",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Cadila Healthcare Limited",
+    image: allegra,
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "120",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "180",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.48, pricePerBottle: 1.38 },
+          { count: 60, price: 68.15, pricePerBottle: 1.14 },
+          { count: 120, price: 121.48, pricePerBottle: 1.01 },
+          { count: 240, price: 228.15, pricePerBottle: 0.95 },
+          { count: 300, price: 281.48, pricePerBottle: 0.94 },
+        ],
+      },
+    ],
+    prescription:
+      "The combination of fexofenadine and pseudoephedrine is used in adults and children 12 years of age and older to relieve the allergy symptoms of seasonal allergic rhinitis ('hay fever'), including runny nose; sneezing; congestion (stuffy nose); red, itchy, or watery eyes; or itching of the nose, throat, or roof of the mouth. Fexofenadine is in a class of medications called antihistamines. It works by blocking the effects of histamine, a substance in the body that causes allergy symptoms. Pseudoephedrine is in a class of medications called decongestants. It works by drying up the nasal passages.",
+    howToUse: `The combination of fexofenadine and pseudoephedrine comes as an extended-release (long-acting) tablet to take by mouth. The fexofenadine and pseudoephedrine 12-hour tablet is usually taken once or twice a day on an empty stomach with water. The fexofenadine and pseudoephedrine 24-hour tablet is usually taken once a day on an empty stomach with water. Fexofenadine and pseudoephedrine will work better if it is not taken with fruit juices such as orange, grapefruit, or apple juice. Take fexofenadine and pseudoephedrine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take fexofenadine and pseudoephedrine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Fexofenadine and pseudoephedrine controls the symptoms of seasonal allergic rhinitis but does not cure this condition. Continue to take fexofenadine and pseudoephedrine even if you feel well and are not experiencing these symptoms. If you wait too long between doses, your symptoms may become worse.
+
+    Swallow the tablets whole; do not split, chew, or crush them.`,
+  },
+  {
+    productId: 55,
+    name: "Generic Aristocort",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Triamcinolone",
+    rating: 56,
+    star: 4,
+    price: "1.01",
+    type: "ml vial",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericAristocort,
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "(1 ml injection) 10 mg",
+        unit: "ml vials",
+        bottle: [
+          { count: 10, price: 105.22, pricePerBottle: 10.52 },
+          { count: 20, price: 193.04, pricePerBottle: 9.65 },
+          { count: 30, price: 280.87, pricePerBottle: 9.36 },
+          { count: 40, price: 368.7, pricePerBottle: 9.22 },
+          { count: 50, price: 456.52, pricePerBottle: 9.13 },
+        ],
+      },
+      {
+        mg: "(1 ml injection) 40 mg",
+        unit: "ml vials",
+        bottle: [
+          { count: 10, price: 154.78, pricePerBottle: 15.48 },
+          { count: 20, price: 292.17, pricePerBottle: 14.61 },
+          { count: 30, price: 429.57, pricePerBottle: 14.32 },
+          { count: 40, price: 566.96, pricePerBottle: 14.17 },
+          { count: 50, price: 704.35, pricePerBottle: 14.09 },
+        ],
+      },
+      {
+        mg: "4 mg",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 46.09, pricePerBottle: 1.54 },
+          { count: 60, price: 74.78, pricePerBottle: 1.25 },
+          { count: 120, price: 132.17, pricePerBottle: 1.1 },
+          { count: 240, price: 246.96, pricePerBottle: 1.03 },
+          { count: 300, price: 304.35, pricePerBottle: 1.01 },
+        ],
+      },
+    ],
+    prescription:
+      "Triamcinolone nasal spray is used to relieve sneezing, runny, stuffy, or itchy nose and itchy, watery eyes caused by hay fever or other allergies. Triamcinolone nasal spray should not be used to treat symptoms (e.g., sneezing, stuffy, runny, or itchy nose) caused by the common cold. Triamcinolone is in a class of medications called corticosteroids. It works by blocking the release of certain natural substances that cause allergy symptoms.",
+    howToUse: `Triamcinolone comes as a liquid (prescription and nonprescription) to spray in the nose. It is usually sprayed in each nostril once daily. If you are an adult, you will begin your treatment with a higher dose of triamcinolone nasal spray and then decrease your dose when your symptoms improve. If you are giving triamcinolone nasal spray to a child, treatment will begin with a lower dose of the medication and then the dose may increase if the child's symptoms do not improve. You will decrease the dose when the child's symptoms improve. Follow the directions on the package or product label carefully and ask your doctor or pharmacist if you have any questions. Use triamcinolone spray exactly as directed. Do not use more or less of it or use it more often than directed on the package label or prescribed by your doctor.
+
+    An adult should help children under 12 years old to use triamcinolone nasal spray. Children younger than 2 years of age should not use this medication.
+    
+    Triamcinolone nasal spray is only for use in the nose. Do not swallow the nasal spray and be careful not to spray it in your eyes. If you accidentally get triamcinolone nasal spray in your eyes, rinse your eyes well with water.
+    
+    Each bottle of triamcinolone nasal spray should only be used by one person. Do not share triamcinolone nasal spray because this may spread germs.
+    
+    Triamcinolone nasal spray controls the symptoms of hay fever and allergies but does not cure these conditions. Your symptoms may improve on the day that you begin using triamcinolone nasal spray, but it may take up to 1 week of daily use before you feel the full benefit of this medication. If you use the prescription triamcinolone nasal spray daily and your symptoms do not improve after 3 weeks, call your doctor. If you use the nonprescription triamcinolone nasal spray daily and your symptoms do not improve after 1 week, call your doctor.
+    
+    Triamcinolone nasal spray is designed to provide a certain number of sprays. After the marked number of sprays have been used, the remaining sprays in the bottle might not contain the correct amount of medication. You should keep track of the number of sprays you have used and dispose of the bottle after you have used the marked number of sprays even if it still contains some liquid.`,
+    additionalDetials: `To use the nasal spray, follow these steps:
+    Remove the cap from the bottle and shake the bottle gently.
+    If you are using the pump for the first time you must prime the pump. Press and release the nozzle to release 5 sprays into the air away from the face. If you have not used it for 2 weeks or longer, press and release 1 spray into the air away from the face.
+    Gently blow your nose until your nostrils are clear. A small child may need help to gently blow his or her nose.
+    Remove the bottle cap and gently shake the bottle.
+    Hold the pump with the applicator between your forefinger and middle finger and the bottom resting on your thumb.
+    Press one finger on the other hand against the side of one of your nostrils to hold it closed.
+    Put the spray tip into your other nostril. Aim the tip toward the back of your nose, but do not push the tip deep into your nose. Do not point the tip toward your nasal septum (divider between your nostrils).
+    Sniff gently. While you are sniffing, use your forefinger and middle finger to press firmly down on the applicator and release a spray.
+    If you are using 2 sprays, repeat steps 6 to 8.
+    Repeat steps 6 to 8 in the other nostril.
+    Do not blow your nose for 15 minutes after using the spray.
+    Wipe the applicator with a clean tissue and cover it with the cap.`,
+  },
+  {
+    productId: 56,
+    name: "Generic Astelin",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Azelastine nasal",
+    rating: 89,
+    star: 5,
+    price: "25.22",
+    type: "10 ml bottle",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericAstelin,
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "10 ml spray",
+        unit: "ml bottles",
+        bottle: [
+          { count: 1, price: 35.35, pricePerBottle: 35.35 },
+          { count: 2, price: 59.89, pricePerBottle: 29.95 },
+          { count: 4, price: 108.97, pricePerBottle: 27.24 },
+          { count: 8, price: 207.14, pricePerBottle: 25.89 },
+          { count: 16, price: 403.46, pricePerBottle: 25.22 },
+        ],
+      },
+    ],
+    prescription: `Azelastine, an antihistamine, is used to treat hay fever and allergy symptoms including runny nose, sneezing, and itchy nose.
+
+      This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Azelastine comes as a nasal spray. Azelastine usually is sprayed in each nostril two times a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use azelastine exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.`,
+    additionalDetials: `Before using azelastine for the first time, remove the child-resistant screw cap and replace with the pump unit. Prime the delivery system (pump unit) with four sprays or until a fine mist appears. If 3 days or more have elapsed since your last use of the nasal spray, reprime the pump with two sprays or until a fine mist appears.`,
+  },
+  {
+    productId: 57,
+    name: "Generic Clarinex",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Desloratadine",
+    rating: 83,
+    star: 5,
+    price: "0.75",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericClarinex,
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.19, pricePerBottle: 1.53 },
+          { count: 60, price: 55.48, pricePerBottle: 1.28 },
+          { count: 120, price: 98.06, pricePerBottle: 1.16 },
+          { count: 240, price: 183.23, pricePerBottle: 1.1 },
+          { count: 300, price: 225.81, pricePerBottle: 1.09 },
+        ],
+      },
+    ],
+    prescription: `Loratadine is used to temporarily relieve the symptoms of hay fever (allergy to pollen, dust, or other substances in the air) and other allergies. These symptoms include sneezing, runny nose, and itchy eyes, nose, or throat. Loratadine is also used to treat itching and redness caused by hives. However, loratadine does not prevent hives or other allergic skin reactions. Loratadine is in a class of medications called antihistamines. It works by blocking the action of histamine, a substance in the body that causes allergic symptoms.
+
+    Loratadine is also available in combination with pseudoephedrine (Sudafed, others). This monograph only includes information about the use of loratadine alone. If you are taking the loratadine and pseudoephedrine combination product, read the information on the package label or ask your doctor or pharmacist for more information.`,
+    howToUse: `Loratadine is used to temporarily relieve the symptoms of hay fever (allergy to pollen, dust, or other substances in the air) and other allergies. These symptoms include sneezing, runny nose, and itchy eyes, nose, or throat. Loratadine is also used to treat itching and redness caused by hives. However, loratadine does not prevent hives or other allergic skin reactions. Loratadine is in a class of medications called antihistamines. It works by blocking the action of histamine, a substance in the body that causes allergic symptoms.
+
+    Loratadine is also available in combination with pseudoephedrine (Sudafed, others). This monograph only includes information about the use of loratadine alone. If you are taking the loratadine and pseudoephedrine combination product, read the information on the package label or ask your doctor or pharmacist for more information.
+    
+    How should this medicine be used?
+    Loratadine comes as a syrup (liquid), an immediate acting and extended release tablet, and a rapidly disintegrating (dissolving) tablet to take by mouth. It is usually taken once a day with or without food. Follow the directions on the package label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take loratadine exactly as directed. Do not take more or less of it or take it more often than directed on the package label or recommended by your doctor. If you take more loratadine than directed, you may experience drowsiness.
+    
+    If you are taking the rapidly disintegrating tablet, follow the package directions to remove the tablet from the blister package without breaking the tablet. Do not try to push the tablet through the foil. After you remove the tablet from the blister package, immediately place it on your tongue and close your mouth. The tablet will quickly dissolve and can be swallowed with or without water.
+    
+    Do not use loratadine to treat hives that are bruised or blistered, that are an unusual color, or that do not itch. Call your doctor if you have this type of hives.
+    
+    Stop taking loratadine and call your doctor if your hives do not improve during the first 3 days of your treatment or if your hives last longer than 6 weeks. If you do not know the cause of your hives, call your doctor.`,
+    additionalDetials: `If you are taking loratadine to treat hives, and you develop any of the following symptoms, get emergency medical help right away: difficulty swallowing, speaking, or breathing; swelling in and around the mouth or swelling of the tongue; wheezing; drooling; dizziness; or loss of consciousness. These may be symptoms of a life-threatening allergic reaction called anaphylaxis. If your doctor suspects that you may experience anaphylaxis with your hives, he may prescribe an epinephrine injector (EpiPen). Do not use loratadine in place of the epinephrine injector.
+
+    Do not use this medication if the safety seal is open or torn.`,
+  },
+  {
+    productId: 58,
+    name: "Generic Claritin",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Loratadine",
+    rating: 75,
+    star: 5,
+    price: "1.09",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericClaritin,
+    productCount: 100,
+    currency: "$",
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 45.93, pricePerBottle: 1.14 },
+          { count: 60, price: 77.04, pricePerBottle: 0.92 },
+          { count: 120, price: 139.26, pricePerBottle: 0.82 },
+          { count: 240, price: 263.7, pricePerBottle: 0.76 },
+          { count: 300, price: 325.93, pricePerBottle: 0.75 },
+        ],
+      },
+    ],
+    prescription: `Desloratadine is used to relieve hay fever and allergy symptoms, including sneezing; runny nose; and red, itchy, tearing eyes. It is also used to treat hives. Desloratadine is in a class of medications called antihistamines. It works by blocking histamine, a substance in the body that causes allergic symptoms.`,
+    howToUse: `Desloratadine comes as a tablet, oral solution (liquid), and an orally disintegrating tablet to take by mouth. It is usually taken once a day with or without food. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take desloratadine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `To take the orally disintegrating tablet, use dry hands to peel back the foil packaging. Immediately take out the tablet and place it on your tongue. The tablet will quickly dissolve and can be swallowed with saliva. Orally disintegrating tablets may be taken with or without water.`,
+  },
+  {
+    productId: 59,
+    name: "Deltasone (Prednisone)",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Prednisone",
+    rating: 184,
+    star: 4,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: deltasonePrednisone,
+    productCount: 100,
+    currency: "€",
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 28.35, pricePerBottle: 0.95 },
+          { count: 60, price: 33.27, pricePerBottle: 0.55 },
+          { count: 90, price: 38.58, pricePerBottle: 0.43 },
+          { count: 120, price: 51.69, pricePerBottle: 0.43 },
+          { count: 180, price: 78.27, pricePerBottle: 0.43 },
+          { count: 270, price: 92.81, pricePerBottle: 0.34 },
+          { count: 360, price: 112.02, pricePerBottle: 0.31 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 30.18, pricePerBottle: 1.01 },
+          { count: 60, price: 41.94, pricePerBottle: 0.7 },
+          { count: 90, price: 53.87, pricePerBottle: 0.6 },
+          { count: 120, price: 65.16, pricePerBottle: 0.54 },
+          { count: 180, price: 88.59, pricePerBottle: 0.49 },
+          { count: 270, price: 122.52, pricePerBottle: 0.45 },
+          { count: 360, price: 158.52, pricePerBottle: 0.44 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 45, price: 43.38, pricePerBottle: 0.96 },
+          { count: 90, price: 72.13, pricePerBottle: 0.8 },
+          { count: 120, price: 93.43, pricePerBottle: 0.78 },
+          { count: 180, price: 132.88, pricePerBottle: 0.74 },
+          { count: 270, price: 195.58, pricePerBottle: 0.72 },
+          { count: 360, price: 260.1, pricePerBottle: 0.72 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.3, pricePerBottle: 1.14 },
+          { count: 60, price: 57.08, pricePerBottle: 0.95 },
+          { count: 90, price: 79.67, pricePerBottle: 0.89 },
+          { count: 120, price: 104.02, pricePerBottle: 0.87 },
+          { count: 180, price: 150.97, pricePerBottle: 0.84 },
+          { count: 270, price: 222.55, pricePerBottle: 0.82 },
+          { count: 360, price: 289.08, pricePerBottle: 0.8 },
+        ],
+      },
+    ],
+    prescription: `Prednisone is used to medicate the following illnesses: Abnormal adrenal gland development, severe allergic conditions, blood disorders, certain cancers (along with other drugs), diseases of the connective tissue including systemic lupus erythematosus, various kinds of eye diseases, flare-ups of multiple sclerosis, fluid retention due to ""nephrotic syndrome"" (a condition in which impair the kidneys causes protein lost in the urine), lung diseases, including tuberculosis. Meningitis (inflamed membranes around the brain), prevention of organ rejection, rheumatoid arthritis and related disorders, severe flare-ups of ulcerative colitis or enteritis (inflammation of the intestines), skin diseases, thyroid gland inflammation and complicated trichinosis.`,
+    howToUse: `Acute, severe conditions: 5-60 mg/day in four equally divided doses after meals and bedtime. Decrease gradually by 5-10 mg for 4-5days to establish minimum maintenance dosage or discontinue altogether until symptom recur. Take prednisone with food to avoid stomach upset. Please see label. For more detailed information please consult specialist. Do not take more of Prednisone tab than it is indicated at the label without consulting your doctor.`,
+    additionalDetials: `Precaution
+    Do not violate instructions. Do not exceed dose and do not stop abruptly unless ordered. Avoid vaccine, crowds and infected person because the drug is immunosuppressant.`,
+  },
+  {
+    productId: 60,
+    name: "Generic Depo-Medrol",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Methylprednisolone",
+    rating: 190,
+    star: 4,
+    price: "0.72",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericDepoMedrol,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "4",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+      {
+        mg: "16",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 68.15, pricePerBottle: 2.27 },
+          { count: 60, price: 121.48, pricePerBottle: 2.02 },
+          { count: 120, price: 228.15, pricePerBottle: 1.9 },
+          { count: 240, price: 4441.48, pricePerBottle: 1.84 },
+          { count: 300, price: 548.15, pricePerBottle: 1.83 },
+        ],
+      },
+    ],
+    prescription: `Methylprednisolone injection is used to treat severe allergic reactions. Methylprednisolone injection is used in the management of multiple sclerosis (a disease in which the nerves do not function properly), lupus (a disease in which the body attacks many of its own organs), gastrointestinal disease, and certain types of arthritis. Methylprednisolone injection is also used to treat certain conditions that affect the blood, skin, eyes, nervous system, thyroid, kidneys, and lungs. It is sometimes used in combination with other medications to treat symptoms of low corticosteroid levels (lack of certain substances that are usually produced by the body and are needed for normal body functioning). Methylprednisolone injection is in a class of medications called corticosteroids. It works to treat people with low levels of corticosteroids by replacing steroids that are normally produced naturally by the body. It also works to treat other conditions by reducing swelling and redness and by changing the way the immune system works.`,
+    howToUse: `Methylprednisolone injection comes as powder to be mixed with liquid to be injected intramuscularly (into a muscle) or intravenously (into a vein). It also comes as a suspension for injection to be injected intramuscularly, intra-articularly (into a joint), or intralesionally (into a lesion). Your personal dosing schedule will depend on your condition and on how you respond to treatment.
+
+    You may receive methylprednisolone injection in a hospital or medical facility, or you may be given the medication to use at home. If you will be using methylprednisolone injection at home, your healthcare provider will show you how to inject the medication. Be sure that you understand these directions, and ask your healthcare provider if you have any questions. Ask your healthcare provider what to do if you have any problems using methylprednisolone injection.`,
+    additionalDetials: `Your doctor may change your dose of methylprednisolone injection during your treatment to be sure that you are always using the lowest dose that works for you. Your doctor may also need to change your dose if you experience unusual stress on your body such as surgery, illness, or infection. Tell your doctor if your symptoms improve or get worse or if you get sick or have any changes in your health during your treatment.`,
+  },
+  {
+    productId: 61,
+    name: "Generic Flixotide Nasal Spray",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Fluticasone",
+    rating: 153,
+    star: 4,
+    price: "25.37",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericKetotifen,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100 doses 50",
+        unit: "mcg",
+        bottle: [
+          { count: 1, price: 39.26, pricePerBottle: 1.46 },
+          { count: 2, price: 63.7, pricePerBottle: 1.21 },
+          { count: 4, price: 112.59, pricePerBottle: 1.09 },
+          { count: 8, price: 210.37, pricePerBottle: 1.02 },
+          { count: 16, price: 405.93, pricePerBottle: 1.01 },
+        ],
+      },
+    ],
+    prescription: `Ophthalmic ketotifen is used to relieve the itching of allergic pinkeye. Ketotifen is in a class of medications called antihistamines. It works by blocking histamine, a substance in the body that causes allergic symptoms.`,
+    howToUse: `Ophthalmic ketotifen comes as a solution (liquid) to instill in the eye. It is usually instilled in the affected eye(s) twice daily, 8 to 12 hours apart. Instill ketotifen eye drops at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use ketotifen exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.`,
+    additionalDetials: `To instill the eye drops, follow these steps:
+    Wash your hands thoroughly with soap and water.
+    Check the dropper tip to make sure that it is not chipped or cracked.
+    Avoid touching the dropper tip against your eye or anything else; eye drops and droppers must be kept clean.
+    While tilting your head back, pull down the lower lid of your eye with your index finger to form a pocket.
+    Hold the dropper (tip down) with the other hand, as close to the eye as possible without touching it.
+    Brace the remaining fingers of that hand against your face.
+    While looking up, gently squeeze the dropper so that a single drop falls into the pocket made by the lower eyelid. Remove your index finger from the lower eyelid.
+    Close your eye for 2 to 3 minutes and tip your head down as though looking at the floor. Try not to blink or squeeze your eyelids.
+    Place a finger on the tear duct and apply gentle pressure.
+    Wipe any excess liquid from your face with a tissue.
+    If you are to use more than one drop in the same eye, wait at least 5 minutes before instilling the next drop.
+    Replace and tighten the cap on the dropper bottle. Do not wipe or rinse the dropper tip.
+    Wash your hands to remove any medication.`,
+  },
+  {
+    productId: 62,
+    name: "Generic Periactin",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Cyproheptadine",
+    rating: 175,
+    star: 4,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericPeriactin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "4",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+    ],
+    prescription: `Cyproheptadine relieves red, irritated, itchy, watery eyes; sneezing; and runny nose caused by allergies, irritants in the air, and hay fever. It may also be used to relieve the itching of allergic skin conditions, and to treat hives, including hives caused by exposure to cold temperatures and by rubbing the skin. Cyproheptadine is also sometimes used to treat allergic reactions in people who have received blood products as part of medical treatment and to treat life-threatening allergic reactions after the symptoms have been brought under control with other medications. Cyproheptadine will help relieve symptoms but will not treat the cause of symptoms or speed recovery. Cyproheptadine is in a class of medications called antihistamines. It works by blocking the action of histamine, a substance in the body that causes allergic symptoms.`,
+    howToUse: `Cyproheptadine comes as a tablet and a solution (liquid) to take by mouth. It is usually taken two or three times a day. Take cyproheptadine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cyproheptadine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `If you are using the solution, do not use a household spoon to measure your dose. Use the measuring cup or spoon that came with the medication or use a spoon that is made especially for measuring medication.`,
+  },
+  {
+    productId: 63,
+    name: "Generic Phenergan",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Promethazine",
+    rating: 170,
+    star: 4,
+    price: "0.27",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericPhenergan,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 120, price: 41.48, pricePerBottle: 0.35 },
+          { count: 240, price: 68.15, pricePerBottle: 0.28 },
+          { count: 300, price: 81.48, pricePerBottle: 0.27 },
+        ],
+      },
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Promethazine is used to relieve the symptoms of allergic reactions such as allergic rhinitis (runny nose and watery eyes caused by allergy to pollen, mold or dust), allergic conjunctivitis (red, watery eyes caused by allergies), allergic skin reactions, and allergic reactions to blood or plasma products. Promethazine is used with other medications to treat anaphylaxis (sudden, severe allergic reactions) and the symptoms of the common cold such as sneezing, cough, and runny nose. Promethazine is also used to relax and sedate patients before and after surgery, during labor, and at other times. Promethazine is also used to prevent and control nausea and vomiting that may occur after surgery, and with other medications to help relieve pain after surgery. Promethazine is also used to prevent and treat motion sickness. Promethazine helps control symptoms, but will not treat the cause of the symptoms or speed recovery. Promethazine is in a class of medications called phenothiazines. It works by blocking the action of a certain natural substance in the body.`,
+    howToUse: `Promethazine comes as a tablet and syrup (liquid) to take by mouth and as a suppository to use rectally.When promethazine is used to treat allergies, it is usually taken one to four times daily, before meals and/or at bedtime. When promethazine is used to relieve cold symptoms, it is usually taken every 4 to 6 hours as needed. When promethazine is used to treat motion sickness, it is taken 30 to 60 minutes before travel and again after 8 to 12 hours if needed. On longer trips, promethazine is usually taken in the morning and before the evening meal on each day of travel. When promethazine is used to treat or prevent nausea and vomiting it is usually taken every 4 to 6 hours as needed. Promethazine may also be taken at bedtime the night before surgery to relieve anxiety and produce quiet sleep. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take promethazine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Promethazine suppositories are for rectal use only. Do not try to swallow the suppositories or insert in any other part of your body.
+    
+    If you are taking promethazine liquid, do not use a household spoon to measure your dose. Use the measuring spoon or cup that came with the medication or use a spoon made especially for measuring medication.`,
+    additionalDetials: `To insert a promethazine suppository, follow these steps:
+    If the suppository feels soft, hold it under cold, running water for 1 minute. Remove the wrapper.
+    Dip the tip of the suppository in water.
+    Lie down on your left side and raise your right knee to your chest. (A left-handed person should lie on the right side and raise the left knee.)
+    Using your finger, insert the suppository into the rectum, about 1/2 to 1 inch (1.25 to 2.5 centimeters) in children who are 2 years of age older and 1 inch (2.5 centimeters) in adults. Hold it in place for a few moments.
+    Stand up after about 15 minutes. Wash your hands thoroughly and resume your normal activities.`,
+  },
+  {
+    productId: 64,
+    name: "Generic Prednisolone",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Prednisolone Sodium Phosphate",
+    rating: 84,
+    star: 4,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericPrednisolone,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.62 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.48 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+    ],
+    prescription: `Prednisolone is used alone or with other medications to treat the symptoms of low corticosteroid levels (lack of certain substances that are usually produced by the body and are needed for normal body functioning). Prednisolone is also used to treat certain conditions that affect the blood, skin, eyes, central nervous system, kidneys, lungs, stomach, and intestines. It is also used to treat allergic reactions; and certain types of arthritis; multiple sclerosis (a disease in which the nerves do not function properly); and to help prevent transplant rejection (attack of the transplanted organ by the body) in certain adults who have received a transplant. Prednisolone is also sometimes used to treat symptoms from certain types of cancer. Prednisolone is in a class of medications called corticosteroids. It works by reducing swelling and redness and by changing the way the immune system works.`,
+    howToUse: `Prednisolone comes as a tablet, an orally disintegrating tablet (tablet that dissolves quickly in the mouth), a solution (liquid), and as a suspension (liquid) to take by mouth with food. Your doctor will probably tell you to take your dose(s) of prednisolone at certain time(s) of day every day. Your personal dosing schedule will depend on your condition and on how you respond to treatment. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take prednisolone exactly as directed. Do not take more or less of it or take it more often or for a longer period of time than prescribed by your doctor.
+
+    To take the orally disintegrating tablet, use dry hands to peel back the foil packaging. Immediately take out the tablet and place it on your tongue. The tablet will quickly dissolve and can be swallowed with or without water. Do not chew, split, or break the tablet.
+    
+    Your doctor may change your dose of prednisolone during your treatment to be sure that you are always taking the lowest dose that works for you. Your doctor may also need to change your dose if you experience unusual stress on your body such as surgery, illness, infection, or a severe asthma attack. Tell your doctor if your symptoms improve or get worse or if you get sick or have any changes in your health during your treatment.`,
+    additionalDetials: `If you are taking prednisolone to treat an ongoing condition, this medication may help control your condition but will not cure it. Continue to take prednisolone even if you feel well. Do not stop taking prednisolone without talking to your doctor. If you suddenly stop taking prednisolone, your body may not have enough naturally produced steroids to function normally. This may cause symptoms such as extreme tiredness, weakness, slowed movements, upset stomach, weight loss, changes in skin color, sores in the mouth, and craving for salt. Call your doctor if you experience these or other unusual symptoms while you are taking decreasing doses of prednisolone or after you stop taking the medication`,
+  },
+  {
+    productId: 65,
+    name: "Generic Singulair",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Montelukast",
+    rating: 88,
+    star: 5,
+    price: "1.68",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericSingulair,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "4",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 68.7, pricePerBottle: 2.12 },
+          { count: 60, price: 112.59, pricePerBottle: 1.88 },
+          { count: 120, price: 210.37, pricePerBottle: 1.75 },
+          { count: 240, price: 405.93, pricePerBottle: 1.69 },
+          { count: 300, price: 503.7, pricePerBottle: 1.68 },
+        ],
+      },
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 70.37, pricePerBottle: 2.35 },
+          { count: 60, price: 125.93, pricePerBottle: 2.1 },
+          { count: 120, price: 237.04, pricePerBottle: 1.98 },
+          { count: 240, price: 459.26, pricePerBottle: 1.91 },
+          { count: 300, price: 570.37, pricePerBottle: 1.9 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 65.93, pricePerBottle: 2.35 },
+          { count: 60, price: 117.04, pricePerBottle: 1.95 },
+          { count: 120, price: 219.26, pricePerBottle: 1.83 },
+          { count: 240, price: 423.7, pricePerBottle: 1.77 },
+          { count: 300, price: 525.93, pricePerBottle: 1.75 },
+        ],
+      },
+    ],
+    prescription: `Montelukast is used to prevent wheezing, difficulty breathing, chest tightness, and coughing caused by asthma. Montelukast is also used to prevent bronchospasm (breathing difficulties) during exercise. Montelukast is also used to treat the symptoms of seasonal (occurs only at certain times of the year), and perennial (occurs all year round) allergic rhinitis (a condition associated with sneezing and stuffy, runny or itchy nose). Montelukast is in a class of medications called leukotriene receptor antagonists (LTRAs). It works by blocking the action of substances in the body that cause the symptoms of asthma and allergic rhinitis.`,
+    howToUse: `Montelukast comes as a tablet, a chewable tablet, and granules to take by mouth. Montelukast is usually taken once a day with or without food. When montelukast is used to treat asthma, it should be taken in the evening. When montelukast is used to prevent breathing difficulties during exercise, it should be taken at least 2 hours before exercise. If you are taking montelukast once a day on a regular basis, you should not take an additional dose before exercising. When montelukast is used to treat allergic rhinitis, it may be taken at any time of day. Take montelukast at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take montelukast exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are giving the granules to your child, you should not open the foil pouch until your child is ready to take the medication. There are several ways that you can give the granules to your child, so choose the one that works best for you and your child. You may pour all of the granules directly from the packet into your child's mouth to be swallowed immediately. You may also pour the entire packet of granules onto a clean spoon and place the spoonful of medication in your child's mouth. If you prefer, you may mix the entire packet of granules in 1 teaspoon (5 mL) of cold or room temperature baby formula, breastmilk, applesauce, soft carrots, ice cream, or rice. You should not mix the granules with any other foods or liquids, but your child may drink any liquid right after he or she takes the granules. If you mix the granules with one of the allowed foods or drinks, use the mixtures within 15 minutes. Do not store unused mixtures of food, formula, or breast milk and the medication.
+    
+    Do not use montelukast to treat a sudden attack of asthma symptoms. Your doctor will prescribe a short-acting inhaler to use during attacks. Talk to your doctor about how to treat symptoms of a sudden asthma attack. If your asthma symptoms get worse or if you have asthma attacks more often, be sure to call your doctor.`,
+    additionalDetials: `If you are taking montelukast to treat asthma, continue to take or use all other medications that your doctor has prescribed to treat your asthma. Do not stop taking any of your medications or change the doses of any of your medications unless your doctor tells you that you should. If your asthma is made worse by aspirin, do not take aspirin or other nonsteroidal anti-inflammatory drugs (NSAIDs) during your treatment with montelukast.
+
+    Montelukast controls the symptoms of asthma and allergic rhinitis but does not cure these conditions. Continue to take montelukast even if you feel well. Do not stop taking montelukast without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 66,
+    name: "Generic Theo-24 Cr",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Theophylline",
+    rating: 158,
+    star: 4,
+    price: "1.68",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericCopegus,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "400",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 63.7, pricePerBottle: 2.12 },
+          { count: 60, price: 112.59, pricePerBottle: 1.88 },
+          { count: 120, price: 210.37, pricePerBottle: 1.75 },
+          { count: 240, price: 405.93, pricePerBottle: 1.69 },
+          { count: 300, price: 503.7, pricePerBottle: 1.68 },
+        ],
+      },
+    ],
+    prescription: `Theophylline is used to prevent and treat wheezing, shortness of breath, and chest tightness caused by asthma, chronic bronchitis, emphysema, and other lung diseases. It relaxes and opens air passages in the lungs, making it easier to breathe.
+
+    This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Theophylline comes as a tablet, capsule, solution, and syrup to take by mouth. It usually is taken every 6, 8, 12, or 24 hours. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take theophylline exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Take this medication with a full glass of water on an empty stomach, at least 1 hour before or 2 hours after a meal. Do not chew or crush the extended-release (long-acting) tablets; swallow them whole. Extended-release capsules (e.g., Theo-Dur Sprinkles) may be swallowed whole or opened and the contents mixed with soft food and swallowed without chewing.`,
+    additionalDetials: `Theophylline controls symptoms of asthma and other lung diseases but does not cure them. Continue to take theophylline even if you feel well. Do not stop taking theophylline without talking to your doctor.`,
+  },
+  {
+    productId: 67,
+    name: "Generic Tiova",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Tiotropium Bromide",
+    rating: 43,
+    star: 4,
+    price: "2.67",
+    type: "caps",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericTiova,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1 cap 18",
+        unit: "mcg",
+        bottle: [
+          { count: 30, price: 101.18, pricePerBottle: 3.37 },
+          { count: 60, price: 178.82, pricePerBottle: 2.98 },
+          { count: 120, price: 334.12, pricePerBottle: 2.78 },
+          { count: 240, price: 644.71, pricePerBottle: 2.69 },
+          { count: 300, price: 800, pricePerBottle: 2.67 },
+        ],
+      },
+    ],
+    prescription: `Tiotropium is used to prevent wheezing, shortness of breath, coughing, and chest tightness in patients with chronic obstructive pulmonary disease (COPD, a group of diseases that affect the lungs and airways) such as chronic bronchitis (swelling of the air passages that lead to the lungs) and emphysema (damage to air sacs in the lungs). Tiotropium is in a class of medications called bronchodilators. It works by relaxing and opening the air passages to the lungs to make breathing easier.`,
+    howToUse: `Tiotropium comes as a capsule to use with a specially designed inhaler. You will use the inhaler to breathe in the dry powder contained in the capsules. Tiotropium is usually inhaled once a day in the morning or evening. To help you remember to inhale tiotropium, inhale it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use tiotropium exactly as directed. Do not inhale more or less of it or inhale it more often than prescribed by your doctor.
+
+    Do not swallow tiotropium capsules.
+    
+    Tiotropium will only work if you use the inhaler it comes with to inhale the powder in the capsules. Never try to inhale them using any other inhaler. Never use your tiotropium inhaler to take any other medication.
+    
+    Do not use tiotropium to treat a sudden attack of wheezing or shortness of breath. Your doctor will probably prescribe a different medication to use when you have great difficulty breathing.
+    
+    Tiotropium controls COPD but does not cure it. It may take a few weeks before you feel the full benefits of tiotropium. Continue to take tiotropium even if you feel well. Do not stop taking tiotropium without talking to your doctor.
+    
+    Be careful not to get tiotropium powder in your eyes. If tiotropium powder gets into your eyes, your vision may become blurred and you may be sensitive to light. Call your doctor if this happens.`,
+    additionalDetials: `Use the diagram in the patient information that came with your medication to help you learn the names of the parts of your inhaler. You should be able to find the dust cap, mouthpiece, base, piercing button, and center chamber.
+    Pick up one blister card of tiotropium capsules and tear it along the perforation. You should now have two strips that each contain three capsules.
+    Put away one of the strips for later. Use the tab to carefully peel back the foil on the other blister strip until the STOP line. This should fully uncover one capsule. The other two capsules on the strip should still be sealed in their packaging. Plan to use those capsules on the next 2 days.
+    Pull upward on the dust cap of your inhaler to open it.
+    Open the mouthpiece of the inhaler. Remove the tiotropium capsule from the package and place it in the center chamber of the inhaler.
+    Close the mouthpiece firmly until it clicks, but do not close the dust cap.
+    Hold the inhaler so that the mouthpiece is on top. Press the green piercing button once, then let it go.
+    Breathe out completely without putting any part of the inhaler in or near your mouth.
+    Bring the inhaler up to your mouth and close your lips tightly around the mouthpiece.
+    Hold your head upright and breathe in slowly and deeply. You should breathe just fast enough to hear the capsule vibrate. Continue to breathe in until your lungs are full.
+    Hold your breath for as long as you can comfortably do so. Take the inhaler out of your mouth while you are holding your breath.
+    Breathe normally for a short time.
+    Repeat steps 8-11 to inhale any medication that may be left in your inhaler.
+    Open the mouthpiece and tilt the inhaler to spill out the used capsule. Discard the used capsule out of the reach of children and pets. You may see a small amount of powder remaining in the capsule. This is normal and does not mean that you did not get your full dose.
+    Close the mouthpiece and dust cap and store the inhaler in a safe place.`,
+  },
+  {
+    productId: 68,
+    name: "Generic Ventolin",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Albuterol",
+    rating: 63,
+    star: 4,
+    price: "0.27",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: asthalin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "2",
+        unit: "mg",
+        bottle: [
+          { count: 120, price: 41.48, pricePerBottle: 0.35 },
+          { count: 240, price: 68.15, pricePerBottle: 0.28 },
+          { count: 300, price: 81.48, pricePerBottle: 0.27 },
+        ],
+      },
+      {
+        mg: "2 ml respule 2.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "4",
+        unit: "mg",
+        bottle: [
+          { count: 120, price: 41.48, pricePerBottle: 0.35 },
+          { count: 240, price: 68.15, pricePerBottle: 0.28 },
+          { count: 300, price: 81.48, pricePerBottle: 0.27 },
+        ],
+      },
+    ],
+    prescription: `Albuterol is used to prevent and treat difficulty breathing, wheezing, shortness of breath, coughing, and chest tightness caused by lung diseases such as asthma and chronic obstructive pulmonary disease (COPD; a group of diseases that affect the lungs and airways). Albuterol inhalation aerosol and powder for oral inhalation is also used to prevent breathing difficulties during exercise. Albuterol inhalation aerosol (Proair HFA, Proventil HFA, Ventolin HFA) is used in adults and children 4 years of age and older. Albuterol powder for oral inhalation (Proair Respiclick) is used in children 12 years of age and older. Albuterol solution for oral inhalation is used in adults and children 2 years of age and older. Albuterol is in a class of medications called bronchodilators. It works by relaxing and opening air passages to the lungs to make breathing easier.`,
+    howToUse: `Albuterol comes as a solution (liquid) to inhale by mouth using a special jet nebulizer (machine that turns medication into a mist that can be inhaled) and as an aerosol or powder to inhale by mouth using an inhaler. When the inhalation aerosol or powder for oral inhalation is used to treat or prevent symptoms of lung disease, it is usually used every 4 to 6 hours as needed. When the inhalation aerosol or powder for oral inhalation is used to prevent breathing difficulty during exercise, it is usually used 15 to 30 minutes before exercise. The nebulizer solution is usually used three or four times a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use albuterol exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Call your doctor if your symptoms worsen or if you feel that albuterol inhalation no longer controls your symptoms. If you were told to use albuterol as needed to treat your symptoms and you find that you need to use the medication more often than usual, call your doctor.
+    
+    Albuterol controls symptoms of asthma and other lung diseases but does not cure them. Do not stop using albuterol without talking to your doctor.
+    
+    Each albuterol aerosol inhaler is designed to provide 60 or 200 inhalations, depending on its size. Each albuterol powder inhaler is designed to provide 200 inhalations. After the labeled number of inhalations has been used, later inhalations may not contain the correct amount of medication. Dispose of the aerosol inhaler after you have used the labeled number of inhalations, even if it still contains some liquid and continues to release a spray when it is pressed. Dispose of the powder inhaler 13 months after you open the foil wrapper, after the expiration date on the package, or after you have used the labeled number of inhalation, whichever comes first.
+    
+    Your inhaler may come with an attached counter that keeps track of the number of inhalations you have used. The counter also tells you when to call your doctor or pharmacist to refill your prescription and when there are no inhalations left in the inhaler. Read the manufacturer's instructions to learn how to use the counter. If you have this type of inhaler, you should not try to change the numbers or remove the counter from the inhaler.
+    
+    If your inhaler does not come with an attached counter, you will need to keep track of the number of inhalations you have used. You can divide the number of inhalations in your inhaler by the number of inhalations you use each day to find out how many days your inhaler will last. Do not float the canister in water to see if it still contains medication.
+    
+    The inhaler that comes with albuterol aerosol is designed for use only with a canister of albuterol. Never use it to inhale any other medication, and do not use any other inhaler to inhale albuterol.
+    
+    Be careful not to get albuterol inhalation into your eyes.
+    
+    Do not use your albuterol inhaler when you are near a flame or source of heat. The inhaler may explode if it is exposed to very high temperatures.
+    
+    Before you use albuterol inhaler or jet nebulizer for the first time, read the written instructions that come with the inhaler or nebulizer. Ask your doctor, pharmacist, or respiratory therapist to show you how to use it. Practice using the inhaler or nebulizer while he or she watches.
+    
+    If your child will be using the inhaler, be sure that he or she knows how to use it. Watch your child each time he or she uses the inhaler to be sure that he or she is using it correctly.`,
+    additionalDetials: `To inhale the aerosol using an inhaler, follow these steps:
+    Remove the protective dust cap from the end of the mouthpiece. If the dust cap was not placed on the mouthpiece, check the mouthpiece for dirt or other objects. Be sure that the canister is fully and firmly inserted in the mouthpiece.
+    If you are using the inhaler for the first time or if you have not used the inhaler in more than 14 days, you will need to prime it. You may also need to prime the inhaler if it has been dropped. Ask your pharmacist or check the manufacturer's information if this happens. To prime the inhaler, shake it well and then press down on the canister 4 times to release 4 sprays into the air, away from your face. Be careful not to get albuterol in your eyes.
+    Shake the inhaler well.
+    Breathe out as completely as possible through your mouth.
+    Hold the canister with the mouthpiece on the bottom, facing you and the canister pointing upward. Place the open end of the mouthpiece into your mouth. Close your lips tightly around the mouthpiece.
+    Breathe in slowly and deeply through the mouthpiece.At the same time, press down once on the container to spray the medication into your mouth.
+    Try to hold your breath for 10 seconds. remove the inhaler, and breathe out slowly.
+    If you were told to use 2 puffs, wait 1 minute and then repeat steps 3-7.
+    Replace the protective cap on the inhaler.
+    Clean your inhaler regularly. Follow the manufacturer's directions carefully and ask your doctor or pharmacist if you have any questions about cleaning your inhaler.
+    To inhale the powder using the inhaler, follow these steps. Do not use the Respiclick inhaler with a spacer:
+    If you will be using a new inhaler for the first time, remove it from the foil wrapper. Look at the dose counter at the back of the inhaler and check that you see the number 200 in the window.
+    Holding the inhaler upright, with the cap on the bottom and the inhaler pointing upwards, load the dose by opening the protective dust cap at the end of the mouthpiece until it clicks. Do not open the cap unless you are ready to use the inhaler. Every time the protective cap is opened, a dose is ready to inhale. You will see the number in the dose counter go down. Do not waste doses by opening the inhaler unless you are inhaling a dose.
+    Breathe out as completely as possible through your mouth. Do not blow or exhale into the inhaler.
+    Place the mouthpiece between your lips well into your mouth. Close your lips tightly around the mouthpiece. Inhale slowly and deeply through your mouth. Do not breath in through your nose. Make sure that your fingers or lips do not block the vent above the mouthpiece.
+    Remove the inhaler from your mouth and hold your breath for 10 seconds or as long as you comfortably can. Do not blow or exhale through the inhaler.
+    Close the cap firmly over the mouthpiece.
+    If you are to inhale 2 puffs, repeat steps 2-6.
+    Keep the inhaler clean and dry at all times. To clean your inhaler, use a clean, dry tissue or cloth. Do not wash or put any part of your inhaler in water.
+    To inhale the solution using a nebulizer, follow these steps;
+    Remove one vial of albuterol solution from the foil pouch. Leave the rest of the vials in the pouch until you are ready to use them.
+    Look at the liquid in the vial. It should be clear and colorless. Do not use the vial if the liquid is cloudy or discolored.
+    Twist off the top of the vial and squeeze all of the liquid into the nebulizer reservoir. If you are using your nebulizer to inhale other medications, ask your doctor or pharmacist if you can place the other medications in the reservoir along with albuterol.
+    Connect the nebulizer reservoir to the mouthpiece or face mask.
+    Connect the nebulizer to the compressor.
+    Place the mouthpiece in your mouth or put on the face mask. Sit in an upright, comfortable position and turn on the compressor.
+    Breathe in calmly, deeply, and evenly for about 5-15 minutes until mist stops forming in the nebulizer chamber.
+    Clean your nebulizer regularly. Follow the manufacturer's directions carefully and ask your doctor or pharmacist if you have any questions about cleaning your nebulizer.`,
+  },
+  {
+    productId: 69,
+    name: "Generic Ventolin Inhaler 200MD",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Albuterol",
+    rating: 80,
+    star: 4,
+    price: "17.89",
+    type: "inhaler",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: asthalin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 45.93, pricePerBottle: 1.53 },
+          { count: 60, price: 77.04, pricePerBottle: 1.28 },
+          { count: 120, price: 139.26, pricePerBottle: 1.16 },
+          { count: 240, price: 263.7, pricePerBottle: 1.1 },
+          { count: 300, price: 325.93, pricePerBottle: 1.09 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+    ],
+    prescription: `Albuterol is used to prevent and treat difficulty breathing, wheezing, shortness of breath, coughing, and chest tightness caused by lung diseases such as asthma and chronic obstructive pulmonary disease (COPD; a group of diseases that affect the lungs and airways). Albuterol inhalation aerosol and powder for oral inhalation is also used to prevent breathing difficulties during exercise. Albuterol inhalation aerosol (Proair HFA, Proventil HFA, Ventolin HFA) is used in adults and children 4 years of age and older. Albuterol powder for oral inhalation (Proair Respiclick) is used in children 12 years of age and older. Albuterol solution for oral inhalation is used in adults and children 2 years of age and older. Albuterol is in a class of medications called bronchodilators. It works by relaxing and opening air passages to the lungs to make breathing easier.`,
+    howToUse: `Albuterol comes as a solution (liquid) to inhale by mouth using a special jet nebulizer (machine that turns medication into a mist that can be inhaled) and as an aerosol or powder to inhale by mouth using an inhaler. When the inhalation aerosol or powder for oral inhalation is used to treat or prevent symptoms of lung disease, it is usually used every 4 to 6 hours as needed. When the inhalation aerosol or powder for oral inhalation is used to prevent breathing difficulty during exercise, it is usually used 15 to 30 minutes before exercise. The nebulizer solution is usually used three or four times a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use albuterol exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Call your doctor if your symptoms worsen or if you feel that albuterol inhalation no longer controls your symptoms. If you were told to use albuterol as needed to treat your symptoms and you find that you need to use the medication more often than usual, call your doctor.
+    
+    Albuterol controls symptoms of asthma and other lung diseases but does not cure them. Do not stop using albuterol without talking to your doctor.
+    
+    Each albuterol aerosol inhaler is designed to provide 60 or 200 inhalations, depending on its size. Each albuterol powder inhaler is designed to provide 200 inhalations. After the labeled number of inhalations has been used, later inhalations may not contain the correct amount of medication. Dispose of the aerosol inhaler after you have used the labeled number of inhalations, even if it still contains some liquid and continues to release a spray when it is pressed. Dispose of the powder inhaler 13 months after you open the foil wrapper, after the expiration date on the package, or after you have used the labeled number of inhalation, whichever comes first.
+    
+    Your inhaler may come with an attached counter that keeps track of the number of inhalations you have used. The counter also tells you when to call your doctor or pharmacist to refill your prescription and when there are no inhalations left in the inhaler. Read the manufacturer's instructions to learn how to use the counter. If you have this type of inhaler, you should not try to change the numbers or remove the counter from the inhaler.
+    
+    If your inhaler does not come with an attached counter, you will need to keep track of the number of inhalations you have used. You can divide the number of inhalations in your inhaler by the number of inhalations you use each day to find out how many days your inhaler will last. Do not float the canister in water to see if it still contains medication.
+    
+    The inhaler that comes with albuterol aerosol is designed for use only with a canister of albuterol. Never use it to inhale any other medication, and do not use any other inhaler to inhale albuterol.
+    
+    Be careful not to get albuterol inhalation into your eyes.
+    
+    Do not use your albuterol inhaler when you are near a flame or source of heat. The inhaler may explode if it is exposed to very high temperatures.
+    
+    Before you use albuterol inhaler or jet nebulizer for the first time, read the written instructions that come with the inhaler or nebulizer. Ask your doctor, pharmacist, or respiratory therapist to show you how to use it. Practice using the inhaler or nebulizer while he or she watches.
+    
+    If your child will be using the inhaler, be sure that he or she knows how to use it. Watch your child each time he or she uses the inhaler to be sure that he or she is using it correctly.`,
+    additionalDetials: `To inhale the aerosol using an inhaler, follow these steps:
+    Remove the protective dust cap from the end of the mouthpiece. If the dust cap was not placed on the mouthpiece, check the mouthpiece for dirt or other objects. Be sure that the canister is fully and firmly inserted in the mouthpiece.
+    If you are using the inhaler for the first time or if you have not used the inhaler in more than 14 days, you will need to prime it. You may also need to prime the inhaler if it has been dropped. Ask your pharmacist or check the manufacturer's information if this happens. To prime the inhaler, shake it well and then press down on the canister 4 times to release 4 sprays into the air, away from your face. Be careful not to get albuterol in your eyes.
+    Shake the inhaler well.
+    Breathe out as completely as possible through your mouth.
+    Hold the canister with the mouthpiece on the bottom, facing you and the canister pointing upward. Place the open end of the mouthpiece into your mouth. Close your lips tightly around the mouthpiece.
+    Breathe in slowly and deeply through the mouthpiece.At the same time, press down once on the container to spray the medication into your mouth.
+    Try to hold your breath for 10 seconds. remove the inhaler, and breathe out slowly.
+    If you were told to use 2 puffs, wait 1 minute and then repeat steps 3-7.
+    Replace the protective cap on the inhaler.
+    Clean your inhaler regularly. Follow the manufacturer's directions carefully and ask your doctor or pharmacist if you have any questions about cleaning your inhaler.
+    To inhale the powder using the inhaler, follow these steps. Do not use the Respiclick inhaler with a spacer:
+    If you will be using a new inhaler for the first time, remove it from the foil wrapper. Look at the dose counter at the back of the inhaler and check that you see the number 200 in the window.
+    Holding the inhaler upright, with the cap on the bottom and the inhaler pointing upwards, load the dose by opening the protective dust cap at the end of the mouthpiece until it clicks. Do not open the cap unless you are ready to use the inhaler. Every time the protective cap is opened, a dose is ready to inhale. You will see the number in the dose counter go down. Do not waste doses by opening the inhaler unless you are inhaling a dose.
+    Breathe out as completely as possible through your mouth. Do not blow or exhale into the inhaler.
+    Place the mouthpiece between your lips well into your mouth. Close your lips tightly around the mouthpiece. Inhale slowly and deeply through your mouth. Do not breath in through your nose. Make sure that your fingers or lips do not block the vent above the mouthpiece.
+    Remove the inhaler from your mouth and hold your breath for 10 seconds or as long as you comfortably can. Do not blow or exhale through the inhaler.
+    Close the cap firmly over the mouthpiece.
+    If you are to inhale 2 puffs, repeat steps 2-6.
+    Keep the inhaler clean and dry at all times. To clean your inhaler, use a clean, dry tissue or cloth. Do not wash or put any part of your inhaler in water.
+    To inhale the solution using a nebulizer, follow these steps;
+    Remove one vial of albuterol solution from the foil pouch. Leave the rest of the vials in the pouch until you are ready to use them.
+    Look at the liquid in the vial. It should be clear and colorless. Do not use the vial if the liquid is cloudy or discolored.
+    Twist off the top of the vial and squeeze all of the liquid into the nebulizer reservoir. If you are using your nebulizer to inhale other medications, ask your doctor or pharmacist if you can place the other medications in the reservoir along with albuterol.
+    Connect the nebulizer reservoir to the mouthpiece or face mask.
+    Connect the nebulizer to the compressor.
+    Place the mouthpiece in your mouth or put on the face mask. Sit in an upright, comfortable position and turn on the compressor.
+    Breathe in calmly, deeply, and evenly for about 5-15 minutes until mist stops forming in the nebulizer chamber.
+    Clean your nebulizer regularly. Follow the manufacturer's directions carefully and ask your doctor or pharmacist if you have any questions about cleaning your nebulizer.`,
+  },
+  {
+    productId: 70,
+    name: "Generic Zyrtec",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Cetirizine",
+    rating: 133,
+    star: 4,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericZyrtec,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 45.93, pricePerBottle: 1.53 },
+          { count: 60, price: 48.74, pricePerBottle: 1.28 },
+          { count: 120, price: 82.67, pricePerBottle: 1.16 },
+          { count: 240, price: 150.52, pricePerBottle: 1.1 },
+          { count: 300, price: 286.22, pricePerBottle: 1.09 },
+        ],
+      },
+    ],
+    prescription: `Cetirizine is used to temporarily relieve the symptoms of hay fever (allergy to pollen, dust, or other substances in the air) and allergy to other substances (such as dust mites, animal dander, cockroaches, and molds). These symptoms include sneezing; runny nose; itchy, red, watery eyes; and itchy nose or throat. Cetirizine is also used to treat itching and redness caused by hives. However, cetirizine does not prevent hives or other allergic skin reactions. Cetirizine is in a class of medications called antihistamines. It works by blocking the action of histamine, a substance in the body that causes allergic symptoms.
+
+    Cetirizine is also available in combination with pseudoephedrine (Sudafed, others). This monograph only includes information about the use of cetirizine alone. If you are taking the cetirizine and pseudoephedrine combination product, read the information on the package label or ask your doctor or pharmacist for more information.`,
+    howToUse: `Cetirizine comes as a tablet, a chewable tablet, an extended release tablet, and a syrup (liquid) to take by mouth. It is usually taken once a day with or without food. Take cetirizine at around the same time every day. Follow the directions on your package label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cetirizine exactly as directed. Do not take more or less of it or take it more often than directed on the package label or as recommended by your doctor.
+
+    Do not use cetirizine to treat hives that are bruised or blistered, that are an unusual color, or that do not itch. Call your doctor if you have these types of hives.
+    
+    Stop taking cetirizine and call your doctor if your hives do not improve during the first 3 days of your treatment or if your hives last longer than 6 weeks. If you do not know the cause of your hives, call your doctor.`,
+    additionalDetials: `If you are taking cetirizine to treat hives, and you develop any of the following symptoms, get emergency medical help right away: difficulty swallowing, speaking, or breathing; swelling in and around the mouth or swelling of the tongue; wheezing; drooling; dizziness; or loss of consciousness. These may be symptoms of a life-threatening allergic reaction called anaphylaxis. If your doctor suspects that you may experience anaphylaxis with your hives, he may prescribe an epinephrine injector (EpiPen). Do not use cetirizine in place of the epinephrine injector.`,
+  },
+  {
+    productId: 71,
+    name: "Ketasma",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Ketotifen",
+    rating: 147,
+    star: 5,
+    price: "0.94",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.48, pricePerBottle: 1.38 },
+          { count: 60, price: 68.15, pricePerBottle: 1.14 },
+          { count: 120, price: 121.48, pricePerBottle: 1.01 },
+          { count: 240, price: 150.52, pricePerBottle: 0.95 },
+          { count: 300, price: 286.22, pricePerBottle: 0.94 },
+        ],
+      },
+    ],
+    prescription: `Ophthalmic ketotifen is used to relieve the itching of allergic pinkeye. Ketotifen is in a class of medications called antihistamines. It works by blocking histamine, a substance in the body that causes allergic symptoms.`,
+    howToUse: `Ophthalmic ketotifen comes as a solution (liquid) to instill in the eye. It is usually instilled in the affected eye(s) twice daily, 8 to 12 hours apart. Instill ketotifen eye drops at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use ketotifen exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.`,
+    additionalDetials: `To instill the eye drops, follow these steps:
+    Wash your hands thoroughly with soap and water.
+    Check the dropper tip to make sure that it is not chipped or cracked.
+    Avoid touching the dropper tip against your eye or anything else; eye drops and droppers must be kept clean.
+    While tilting your head back, pull down the lower lid of your eye with your index finger to form a pocket.
+    Hold the dropper (tip down) with the other hand, as close to the eye as possible without touching it.
+    Brace the remaining fingers of that hand against your face.
+    While looking up, gently squeeze the dropper so that a single drop falls into the pocket made by the lower eyelid. Remove your index finger from the lower eyelid.
+    Close your eye for 2 to 3 minutes and tip your head down as though looking at the floor. Try not to blink or squeeze your eyelids.
+    Place a finger on the tear duct and apply gentle pressure.
+    Wipe any excess liquid from your face with a tissue.
+    If you are to use more than one drop in the same eye, wait at least 5 minutes before instilling the next drop.
+    Replace and tighten the cap on the dropper bottle. Do not wipe or rinse the dropper tip.
+    Wash your hands to remove any medication.`,
+  },
+  {
+    productId: 72,
+    name: "Levolin Inhaler",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Levosalbutamol",
+    rating: 196,
+    star: 4,
+    price: "27.82",
+    type: "Inhaler",
+    typeName: "pill",
+    ManufacturedBy: "Cipla",
+    image: asthalin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "200 MD 50",
+        unit: "mcg",
+        bottle: [
+          { count: 1, price: 41.7, pricePerBottle: 41.7 },
+          { count: 2, price: 68.59, pricePerBottle: 34.3 },
+          { count: 4, price: 121.37, pricePerBottle: 30.59 },
+          { count: 8, price: 229.93, pricePerBottle: 28.74 },
+          { count: 16, price: 445.04, pricePerBottle: 27.82 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 73,
+    name: "Montair",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Montelukast Sodium",
+    rating: 200,
+    star: 5,
+    price: "1.31",
+    type: "tab",
+    typeName: "pill",
+    ManufacturedBy: "Cipla",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "4",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 52.59, pricePerBottle: 1.75 },
+          { count: 60, price: 90.37, pricePerBottle: 1.51 },
+          { count: 120, price: 165.93, pricePerBottle: 1.38 },
+          { count: 240, price: 317.04, pricePerBottle: 1.32 },
+          { count: 300, price: 392.59, pricePerBottle: 1.31 },
+        ],
+      },
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 59.26, pricePerBottle: 1.98 },
+          { count: 60, price: 103.7, pricePerBottle: 1.73 },
+          { count: 120, price: 192.59, pricePerBottle: 1.6 },
+          { count: 240, price: 370.37, pricePerBottle: 1.54 },
+          { count: 300, price: 459.26, pricePerBottle: 1.53 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 83.7, pricePerBottle: 2.79 },
+          { count: 60, price: 152.59, pricePerBottle: 2.54 },
+          { count: 120, price: 290.37, pricePerBottle: 2.42 },
+          { count: 240, price: 565.93, pricePerBottle: 2.36 },
+          { count: 300, price: 703.7, pricePerBottle: 2.35 },
+        ],
+      },
+    ],
+    prescription: `Montelukast is used to prevent wheezing, difficulty breathing, chest tightness, and coughing caused by asthma. Montelukast is also used to prevent bronchospasm (breathing difficulties) during exercise. Montelukast is also used to treat the symptoms of seasonal (occurs only at certain times of the year), and perennial (occurs all year round) allergic rhinitis (a condition associated with sneezing and stuffy, runny or itchy nose). Montelukast is in a class of medications called leukotriene receptor antagonists (LTRAs). It works by blocking the action of substances in the body that cause the symptoms of asthma and allergic rhinitis.`,
+    howToUse: `Montelukast comes as a tablet, a chewable tablet, and granules to take by mouth. Montelukast is usually taken once a day with or without food. When montelukast is used to treat asthma, it should be taken in the evening. When montelukast is used to prevent breathing difficulties during exercise, it should be taken at least 2 hours before exercise. If you are taking montelukast once a day on a regular basis, you should not take an additional dose before exercising. When montelukast is used to treat allergic rhinitis, it may be taken at any time of day. Take montelukast at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take montelukast exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are giving the granules to your child, you should not open the foil pouch until your child is ready to take the medication. There are several ways that you can give the granules to your child, so choose the one that works best for you and your child. You may pour all of the granules directly from the packet into your child's mouth to be swallowed immediately. You may also pour the entire packet of granules onto a clean spoon and place the spoonful of medication in your child's mouth. If you prefer, you may mix the entire packet of granules in 1 teaspoon (5 mL) of cold or room temperature baby formula, breastmilk, applesauce, soft carrots, ice cream, or rice. You should not mix the granules with any other foods or liquids, but your child may drink any liquid right after he or she takes the granules. If you mix the granules with one of the allowed foods or drinks, use the mixtures within 15 minutes. Do not store unused mixtures of food, formula, or breast milk and the medication.
+    
+    Do not use montelukast to treat a sudden attack of asthma symptoms. Your doctor will prescribe a short-acting inhaler to use during attacks. Talk to your doctor about how to treat symptoms of a sudden asthma attack. If your asthma symptoms get worse or if you have asthma attacks more often, be sure to call your doctor.`,
+    additionalDetials: `
+    If you are taking montelukast to treat asthma, continue to take or use all other medications that your doctor has prescribed to treat your asthma. Do not stop taking any of your medications or change the doses of any of your medications unless your doctor tells you that you should. If your asthma is made worse by aspirin, do not take aspirin or other nonsteroidal anti-inflammatory drugs (NSAIDs) during your treatment with montelukast.
+    
+    Montelukast controls the symptoms of asthma and allergic rhinitis but does not cure these conditions. Continue to take montelukast even if you feel well. Do not stop taking montelukast without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 74,
+    name: "Phenergan",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Promethazine",
+    rating: 92,
+    star: 4,
+    price: "0.49",
+    type: "tab",
+    typeName: "pill",
+    ManufacturedBy: "Cipla",
+    image: genericPhenergan,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Promethazine is used to relieve the symptoms of allergic reactions such as allergic rhinitis (runny nose and watery eyes caused by allergy to pollen, mold or dust), allergic conjunctivitis (red, watery eyes caused by allergies), allergic skin reactions, and allergic reactions to blood or plasma products. Promethazine is used with other medications to treat anaphylaxis (sudden, severe allergic reactions) and the symptoms of the common cold such as sneezing, cough, and runny nose. Promethazine is also used to relax and sedate patients before and after surgery, during labor, and at other times. Promethazine is also used to prevent and control nausea and vomiting that may occur after surgery, and with other medications to help relieve pain after surgery. Promethazine is also used to prevent and treat motion sickness. Promethazine helps control symptoms, but will not treat the cause of the symptoms or speed recovery. Promethazine is in a class of medications called phenothiazines. It works by blocking the action of a certain natural substance in the body.`,
+    howToUse: `Promethazine comes as a tablet and syrup (liquid) to take by mouth and as a suppository to use rectally.When promethazine is used to treat allergies, it is usually taken one to four times daily, before meals and/or at bedtime. When promethazine is used to relieve cold symptoms, it is usually taken every 4 to 6 hours as needed. When promethazine is used to treat motion sickness, it is taken 30 to 60 minutes before travel and again after 8 to 12 hours if needed. On longer trips, promethazine is usually taken in the morning and before the evening meal on each day of travel. When promethazine is used to treat or prevent nausea and vomiting it is usually taken every 4 to 6 hours as needed. Promethazine may also be taken at bedtime the night before surgery to relieve anxiety and produce quiet sleep. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take promethazine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Promethazine suppositories are for rectal use only. Do not try to swallow the suppositories or insert in any other part of your body.
+    
+    If you are taking promethazine liquid, do not use a household spoon to measure your dose. Use the measuring spoon or cup that came with the medication or use a spoon made especially for measuring medication.`,
+    additionalDetials: `If the suppository feels soft, hold it under cold, running water for 1 minute. Remove the wrapper.
+    Dip the tip of the suppository in water.
+    Lie down on your left side and raise your right knee to your chest. (A left-handed person should lie on the right side and raise the left knee.)
+    Using your finger, insert the suppository into the rectum, about 1/2 to 1 inch (1.25 to 2.5 centimeters) in children who are 2 years of age older and 1 inch (2.5 centimeters) in adults. Hold it in place for a few moments.
+    Stand up after about 15 minutes. Wash your hands thoroughly and resume your normal activities.`,
+  },
+  {
+    productId: 77,
+    name: "Seretide (Advair Diskus) Accuhaler",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Fluticasone + Salmeterol",
+    rating: 165,
+    star: 4,
+    price: "140.37",
+    type: "Accuhaler",
+    typeName: "pill",
+    ManufacturedBy: "Cipla",
+    image: genericAdvairDiskusAccuhaler,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "60 doses 250mcg/ 50",
+        unit: "mcg",
+        bottle: [
+          { count: 1, price: 151.48, pricePerBottle: 151.48 },
+          { count: 2, price: 288.15, pricePerBottle: 144.08 },
+          { count: 4, price: 561.48, pricePerBottle: 140.37 },
+        ],
+      },
+    ],
+    prescription: `The combination of fluticasone and salmeterol (Advair Diskus, Advair HFA) is used to treat difficulty breathing, wheezing, shortness of breath, coughing, and chest tightness caused by asthma. The combination of fluticasone and salmeterol (Advair Diskus) is also used to prevent and treat wheezing, shortness of breath, coughing, and chest tightness caused by chronic obstructive pulmonary disease (COPD; a group of lung diseases that includes chronic bronchitis and emphysema). The combination of fluticasone and salmeterol (Advair Diskus) is used in adults and children 4 years of age and older. The combination of fluticasone and salmeterol (Advair HFA) is used in children 12 years of age and older. Fluticasone is in a class of medications called steroids. It works by reducing swelling in the airways. Salmeterol is in a class of medications called long-acting beta-agonists (LABAs). It works by relaxing and opening air passages in the lungs, making it easier to breathe.`,
+    howToUse: `The combination of fluticasone and salmeterol comes as a powder and as an inhalation solution to inhale by mouth using a specially designed inhaler. It is usually used twice a day, in the morning and evening, about 12 hours apart. Use fluticasone and salmeterol at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use fluticasone and salmeterol exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Talk to your doctor about how you should take your other oral or inhaled medications for asthma during your treatment with salmeterol and fluticasone inhalation. If you were using a short-acting beta agonist inhaler such as albuterol (Proventil, Ventolin) on a regular basis, your doctor will probably tell you to stop using it regularly but to continue to use it to treat sudden attacks of asthma symptoms. Follow these directions carefully. Do not change the way you use any of your medications or stop taking any of your medications without talking to your doctor.
+    
+    Do not use fluticasone and salmeterol during an attack of asthma or COPD. Your doctor will prescribe a short-acting inhaler to use during attacks.
+    
+    Fluticasone and salmeterol inhalation controls the symptoms of certain lung diseases but does not cure these conditions. It may take a week or longer before you feel the full benefit of fluticasone and salmeterol. Continue to use fluticasone and salmeterol even if you feel well. Do not stop using fluticasone and salmeterol without talking to your doctor. If you stop using fluticasone and salmeterol inhalation, your symptoms may return.
+    
+    Before you use fluticasone and salmeterol inhalation (Advair Diskus or Advair HFA) for the first time, read the written package instructions that come with it. Look at the diagrams and package instructions carefully and be sure that you recognize all the parts of the inhaler. Ask your doctor, pharmacist, or respiratory therapist to show you how to use the inhaler. Practice using your inhaler while he or she watches, so you are sure you are doing it the right way.`,
+    additionalDetials: `If your child will be using fluticasone and salmeterol inhalation, be sure that he or she knows how to use it. Watch your child each time he or she uses the inhaler to be sure that he or she is using it correctly.
+
+    Never exhale into the inhaler, take the inhaler apart, or wash the mouthpiece or any part of the inhaler. Keep the inhaler dry. Do not use the inhaler with a spacer.
+    
+    Ask your pharmacist or doctor for a copy of the fluticasone and salmeterol inhalation (Advair Diskus or Advair HFA) manufacturer's information for the patient.`,
+  },
+  {
+    productId: 78,
+    name: "Seroflo Inhaler",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Fluticasone + Salmeterol",
+    rating: 43,
+    star: 4,
+    price: "40.48",
+    type: "inhaler",
+    typeName: "pill",
+    ManufacturedBy: "Cipla",
+    image: asthalin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "30 120 MD 50",
+        unit: "mcg",
+        bottle: [
+          { count: 1, price: 54.37, pricePerBottle: 54.37 },
+          { count: 2, price: 93.93, pricePerBottle: 46.97 },
+          { count: 4, price: 193.78, pricePerBottle: 48.54 },
+          { count: 8, price: 372.74, pricePerBottle: 46.59 },
+          { count: 16, price: 730.67, pricePerBottle: 46.67 },
+        ],
+      },
+      {
+        mg: "30 caps/pack 250",
+        unit: "mcg",
+        bottle: [
+          { count: 1, price: 51.93, pricePerBottle: 51.93 },
+          { count: 2, price: 89.04, pricePerBottle: 44.52 },
+          { count: 4, price: 163.26, pricePerBottle: 40.82 },
+          { count: 8, price: 311.7, pricePerBottle: 38.96 },
+          { count: 16, price: 608.59, pricePerBottle: 38.04 },
+        ],
+      },
+      {
+        mg: "30 caps/pack 100",
+        unit: "mcg",
+        bottle: [
+          { count: 1, price: 31.78, pricePerBottle: 31.78 },
+          { count: 2, price: 48.74, pricePerBottle: 24.37 },
+          { count: 4, price: 82.67, pricePerBottle: 20.67 },
+          { count: 8, price: 150.52, pricePerBottle: 18.82 },
+          { count: 16, price: 286.22, pricePerBottle: 17.89 },
+        ],
+      },
+    ],
+    prescription: `The combination of fluticasone and salmeterol (Advair Diskus, Advair HFA) is used to treat difficulty breathing, wheezing, shortness of breath, coughing, and chest tightness caused by asthma. The combination of fluticasone and salmeterol (Advair Diskus) is also used to prevent and treat wheezing, shortness of breath, coughing, and chest tightness caused by chronic obstructive pulmonary disease (COPD; a group of lung diseases that includes chronic bronchitis and emphysema). The combination of fluticasone and salmeterol (Advair Diskus) is used in adults and children 4 years of age and older. The combination of fluticasone and salmeterol (Advair HFA) is used in children 12 years of age and older. Fluticasone is in a class of medications called steroids. It works by reducing swelling in the airways. Salmeterol is in a class of medications called long-acting beta-agonists (LABAs). It works by relaxing and opening air passages in the lungs, making it easier to breathe.`,
+    howToUse: `The combination of fluticasone and salmeterol comes as a powder and as an inhalation solution to inhale by mouth using a specially designed inhaler. It is usually used twice a day, in the morning and evening, about 12 hours apart. Use fluticasone and salmeterol at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use fluticasone and salmeterol exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Talk to your doctor about how you should take your other oral or inhaled medications for asthma during your treatment with salmeterol and fluticasone inhalation. If you were using a short-acting beta agonist inhaler such as albuterol (Proventil, Ventolin) on a regular basis, your doctor will probably tell you to stop using it regularly but to continue to use it to treat sudden attacks of asthma symptoms. Follow these directions carefully. Do not change the way you use any of your medications or stop taking any of your medications without talking to your doctor.
+    
+    Do not use fluticasone and salmeterol during an attack of asthma or COPD. Your doctor will prescribe a short-acting inhaler to use during attacks.
+    
+    Fluticasone and salmeterol inhalation controls the symptoms of certain lung diseases but does not cure these conditions. It may take a week or longer before you feel the full benefit of fluticasone and salmeterol. Continue to use fluticasone and salmeterol even if you feel well. Do not stop using fluticasone and salmeterol without talking to your doctor. If you stop using fluticasone and salmeterol inhalation, your symptoms may return.
+    
+    Before you use fluticasone and salmeterol inhalation (Advair Diskus or Advair HFA) for the first time, read the written package instructions that come with it. Look at the diagrams and package instructions carefully and be sure that you recognize all the parts of the inhaler. Ask your doctor, pharmacist, or respiratory therapist to show you how to use the inhaler. Practice using your inhaler while he or she watches, so you are sure you are doing it the right way.`,
+    additionalDetials: `If your child will be using fluticasone and salmeterol inhalation, be sure that he or she knows how to use it. Watch your child each time he or she uses the inhaler to be sure that he or she is using it correctly.
+
+    Never exhale into the inhaler, take the inhaler apart, or wash the mouthpiece or any part of the inhaler. Keep the inhaler dry. Do not use the inhaler with a spacer.
+    
+    Ask your pharmacist or doctor for a copy of the fluticasone and salmeterol inhalation (Advair Diskus or Advair HFA) manufacturer's information for the patient.`,
+  },
+  {
+    productId: 79,
+    name: "Seroflo Rotacap",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Fluticasone + Salmeterol",
+    rating: 121,
+    star: 4,
+    price: "17.89",
+    type: "pack",
+    typeName: "pill",
+    ManufacturedBy: "Cipla",
+    image: serofloRotacap,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "30 caps/pack 500",
+        unit: "mcg",
+        bottle: [
+          { count: 1, price: 59.56, pricePerBottle: 59.56 },
+          { count: 2, price: 104.3, pricePerBottle: 52.15 },
+          { count: 4, price: 173.04, pricePerBottle: 43.26 },
+          { count: 8, price: 331.26, pricePerBottle: 41.41 },
+          { count: 16, price: 647.7, pricePerBottle: 40.48 },
+        ],
+      },
+      {
+        mg: "120 MD 250",
+        unit: "mcg",
+        bottle: [
+          { count: 1, price: 81.26, pricePerBottle: 81.26 },
+          { count: 2, price: 147.7, pricePerBottle: 73.85 },
+          { count: 4, price: 280.59, pricePerBottle: 70.15 },
+          { count: 8, price: 546.37, pricePerBottle: 68.3 },
+        ],
+      },
+      {
+        mg: "120 MD 125",
+        unit: "mcg",
+        bottle: [
+          { count: 1, price: 60.89, pricePerBottle: 60.89 },
+          { count: 2, price: 106.96, pricePerBottle: 53.48 },
+          { count: 4, price: 199.11, pricePerBottle: 49.78 },
+          { count: 8, price: 383.41, pricePerBottle: 47.93 },
+          { count: 16, price: 752, pricePerBottle: 47 },
+        ],
+      },
+    ],
+    prescription: `The combination of fluticasone and salmeterol (Advair Diskus, Advair HFA) is used to treat difficulty breathing, wheezing, shortness of breath, coughing, and chest tightness caused by asthma. The combination of fluticasone and salmeterol (Advair Diskus) is also used to prevent and treat wheezing, shortness of breath, coughing, and chest tightness caused by chronic obstructive pulmonary disease (COPD; a group of lung diseases that includes chronic bronchitis and emphysema). The combination of fluticasone and salmeterol (Advair Diskus) is used in adults and children 4 years of age and older. The combination of fluticasone and salmeterol (Advair HFA) is used in children 12 years of age and older. Fluticasone is in a class of medications called steroids. It works by reducing swelling in the airways. Salmeterol is in a class of medications called long-acting beta-agonists (LABAs). It works by relaxing and opening air passages in the lungs, making it easier to breathe.`,
+    howToUse: `The combination of fluticasone and salmeterol comes as a powder and as an inhalation solution to inhale by mouth using a specially designed inhaler. It is usually used twice a day, in the morning and evening, about 12 hours apart. Use fluticasone and salmeterol at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use fluticasone and salmeterol exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Talk to your doctor about how you should take your other oral or inhaled medications for asthma during your treatment with salmeterol and fluticasone inhalation. If you were using a short-acting beta agonist inhaler such as albuterol (Proventil, Ventolin) on a regular basis, your doctor will probably tell you to stop using it regularly but to continue to use it to treat sudden attacks of asthma symptoms. Follow these directions carefully. Do not change the way you use any of your medications or stop taking any of your medications without talking to your doctor.
+    
+    Do not use fluticasone and salmeterol during an attack of asthma or COPD. Your doctor will prescribe a short-acting inhaler to use during attacks.
+    
+    Fluticasone and salmeterol inhalation controls the symptoms of certain lung diseases but does not cure these conditions. It may take a week or longer before you feel the full benefit of fluticasone and salmeterol. Continue to use fluticasone and salmeterol even if you feel well. Do not stop using fluticasone and salmeterol without talking to your doctor. If you stop using fluticasone and salmeterol inhalation, your symptoms may return.
+    
+    Before you use fluticasone and salmeterol inhalation (Advair Diskus or Advair HFA) for the first time, read the written package instructions that come with it. Look at the diagrams and package instructions carefully and be sure that you recognize all the parts of the inhaler. Ask your doctor, pharmacist, or respiratory therapist to show you how to use the inhaler. Practice using your inhaler while he or she watches, so you are sure you are doing it the right way.`,
+    additionalDetials: `If your child will be using fluticasone and salmeterol inhalation, be sure that he or she knows how to use it. Watch your child each time he or she uses the inhaler to be sure that he or she is using it correctly.
+
+    Never exhale into the inhaler, take the inhaler apart, or wash the mouthpiece or any part of the inhaler. Keep the inhaler dry. Do not use the inhaler with a spacer.
+    
+    Ask your pharmacist or doctor for a copy of the fluticasone and salmeterol inhalation (Advair Diskus or Advair HFA) manufacturer's information for the patient.`,
+  },
+  {
+    productId: 80,
+    name: "Tiova 15 Rotacaps",
+    categoryName: "ANTI ALLERGIC OR ASTHMA",
+    activeIngredient: "Tiotropium",
+    rating: 113,
+    star: 4,
+    price: "23.44",
+    type: "unit",
+    typeName: "pill",
+    ManufacturedBy: "Cipla",
+    image: serofloRotacap,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "18",
+        unit: "mcg",
+        bottle: [
+          { count: 1, price: 37.33, pricePerBottle: 37.33 },
+          { count: 2, price: 59.85, pricePerBottle: 29.93 },
+          { count: 4, price: 104.89, pricePerBottle: 26.22 },
+          { count: 8, price: 194.96, pricePerBottle: 24.37 },
+          { count: 16, price: 375.11, pricePerBottle: 23.44 },
+        ],
+      },
+    ],
+    prescription: `Tiotropium is used to prevent wheezing, shortness of breath, coughing, and chest tightness in patients with chronic obstructive pulmonary disease (COPD, a group of diseases that affect the lungs and airways) such as chronic bronchitis (swelling of the air passages that lead to the lungs) and emphysema (damage to air sacs in the lungs). Tiotropium is in a class of medications called bronchodilators. It works by relaxing and opening the air passages to the lungs to make breathing easier.`,
+    howToUse: `Tiotropium comes as a capsule to use with a specially designed inhaler. You will use the inhaler to breathe in the dry powder contained in the capsules. Tiotropium is usually inhaled once a day in the morning or evening. To help you remember to inhale tiotropium, inhale it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use tiotropium exactly as directed. Do not inhale more or less of it or inhale it more often than prescribed by your doctor.
+
+    Do not swallow tiotropium capsules.
+    
+    Tiotropium will only work if you use the inhaler it comes with to inhale the powder in the capsules. Never try to inhale them using any other inhaler. Never use your tiotropium inhaler to take any other medication.
+    
+    Do not use tiotropium to treat a sudden attack of wheezing or shortness of breath. Your doctor will probably prescribe a different medication to use when you have great difficulty breathing.
+    
+    Tiotropium controls COPD but does not cure it. It may take a few weeks before you feel the full benefits of tiotropium. Continue to take tiotropium even if you feel well. Do not stop taking tiotropium without talking to your doctor.
+    
+    Be careful not to get tiotropium powder in your eyes. If tiotropium powder gets into your eyes, your vision may become blurred and you may be sensitive to light. Call your doctor if this happen`,
+    additionalDetials: `To use the inhaler, follow these steps:
+    Use the diagram in the patient information that came with your medication to help you learn the names of the parts of your inhaler. You should be able to find the dust cap, mouthpiece, base, piercing button, and center chamber.
+    Pick up one blister card of tiotropium capsules and tear it along the perforation. You should now have two strips that each contain three capsules.
+    Put away one of the strips for later. Use the tab to carefully peel back the foil on the other blister strip until the STOP line. This should fully uncover one capsule. The other two capsules on the strip should still be sealed in their packaging. Plan to use those capsules on the next 2 days.
+    Pull upward on the dust cap of your inhaler to open it.
+    Open the mouthpiece of the inhaler. Remove the tiotropium capsule from the package and place it in the center chamber of the inhaler.
+    Close the mouthpiece firmly until it clicks, but do not close the dust cap.
+    Hold the inhaler so that the mouthpiece is on top. Press the green piercing button once, then let it go.
+    Breathe out completely without putting any part of the inhaler in or near your mouth.
+    Bring the inhaler up to your mouth and close your lips tightly around the mouthpiece.
+    Hold your head upright and breathe in slowly and deeply. You should breathe just fast enough to hear the capsule vibrate. Continue to breathe in until your lungs are full.
+    Hold your breath for as long as you can comfortably do so. Take the inhaler out of your mouth while you are holding your breath.
+    Breathe normally for a short time.
+    Repeat steps 8-11 to inhale any medication that may be left in your inhaler.
+    Open the mouthpiece and tilt the inhaler to spill out the used capsule. Discard the used capsule out of the reach of children and pets. You may see a small amount of powder remaining in the capsule. This is normal and does not mean that you did not get your full dose.
+    Close the mouthpiece and dust cap and store the inhaler in a safe place.`,
+  },
+  {
+    productId: 81,
+    name: "Amitone",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Amitriptyline",
+    rating: 158,
+    star: 4,
+    price: "0.58",
+    type: "pills",
+    typeName: "pill",
+    ManufacturedBy: "Intas Pharmaceuticals Ltd",
+    image: amitone,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.04, pricePerBottle: 1.1 },
+          { count: 60, price: 48.7, pricePerBottle: 0.81 },
+          { count: 120, price: 80, pricePerBottle: 0.67 },
+          { count: 240, price: 142.61, pricePerBottle: 0.59 },
+          { count: 300, price: 173.91, pricePerBottle: 0.58 },
+        ],
+      },
+      {
+        mg: "75",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 43.38, pricePerBottle: 1.45 },
+          { count: 60, price: 69.57, pricePerBottle: 1.16 },
+          { count: 120, price: 121.74, pricePerBottle: 1.01 },
+          { count: 240, price: 226.09, pricePerBottle: 0.94 },
+          { count: 300, price: 278.26, pricePerBottle: 0.93 },
+        ],
+      },
+    ],
+    prescription: `Amitriptyline is used to treat symptoms of depression. Amitriptyline is in a class of medications called tricyclic antidepressants. It works by increasing the amounts of certain natural substances in the brain that are needed to maintain mental balance.`,
+    howToUse: `Amitriptyline comes as a tablet to take by mouth. It is usually taken one to four times a day. Take amitriptyline at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take amitriptyline exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on a low dose of amitriptyline and gradually increase your dose.`,
+    additionalDetials: `It may take a few weeks or longer before you feel the full benefit of amitriptyline. Continue to take amitriptyline even if you feel well. Do not stop taking amitriptyline without talking to your doctor. If you suddenly stop taking amitriptyline, you may experience withdrawal symptoms such as nausea, headache, and lack of energy. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 82,
+    name: "Amitone",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Aripiprazole",
+    rating: 96,
+    star: 4,
+    price: "78.27",
+    type: "pack",
+    typeName: "pill",
+    ManufacturedBy: "Torrent Pharmaceuticals Ltd",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 88.15, pricePerBottle: 88.15 },
+          { count: 1, price: 161.48, pricePerBottle: 80.74 },
+          { count: 3, price: 243.81, pricePerBottle: 78.27 },
+        ],
+      },
+    ],
+    prescription: `Aripiprazole is used to treat the symptoms of schizophrenia (a mental illness that causes disturbed or unusual thinking, loss of interest in life, and strong or inappropriate emotions) in adults and teenagers 13 years of age and older. It is also used alone or with other medications to treat episodes of mania or mixed episodes (symptoms of mania and depression that happen together) in adults, teenagers, and children 10 years of age and older with bipolar disorder (manic-depressive disorder; a disease that causes episodes of depression, episodes of mania, and other abnormal moods). Aripiprazole is also used with an antidepressant to treat depression when symptoms cannot be controlled by the antidepressant alone. Aripiprazole is also used to treat children 6 to 17 years of age who have autistic disorder (a developmental problem that causes difficulty communicating and interacting with others). Aripiprazole may help control irritable behavior such as aggression, temper tantrums, and frequent mood changes in these children. Aripiprazole is also used to treat children 6 to 18 years of age who have Tourette's disorder (a condition characterized by the need to perform repeated motions or to repeat sounds or words). Aripiprazole is in a class of medications called atypical antipsychotics. It works by changing the activity of certain natural substances in the brain.`,
+    howToUse: `Aripiprazole comes as a tablet, a solution (liquid), and an orally disintegrating tablet (tablet that dissolves quickly in the mouth) to take by mouth. It is usually taken once a day with or without food. Take aripiprazole at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take aripiprazole exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Do not try to push the orally disintegrating tablet through the foil. Instead, use dry hands to peel back the foil packaging. Immediately take out the tablet and place the entire tablet on your tongue. Do not try to split the tablet. The tablet will quickly dissolve and can be swallowed without liquid. If necessary, liquid can be used to take the orally disintegrating tablet.`,
+    additionalDetials: `Your doctor may start you on a low dose of aripiprazole and gradually increase or decrease your dose depending on how well the medication works for you and the side effects you experience. Aripiprazole may help control your symptoms but will not cure your condition. It may take 2 weeks or longer before you feel the full benefit of aripiprazole. Continue to take aripiprazole even if you feel well. Do not stop taking aripiprazole without talking to your doctor.`,
+  },
+  {
+    productId: 83,
+    name: "Bupron SR",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Bupropion",
+    rating: 151,
+    star: 4,
+    price: "117.01",
+    type: "pack",
+    typeName: "pill",
+    ManufacturedBy: "Sun Pharmaceuticals Industries",
+    image: bupronSR,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "tabs / pack 150",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 126.89, pricePerBottle: 126.89 },
+          { count: 1, price: 238.96, pricePerBottle: 119.48 },
+          { count: 3, price: 351.04, pricePerBottle: 117.01 },
+        ],
+      },
+    ],
+    prescription: `Bupropion (Aplenzin, Wellbutrin, Wellbutrin SR, Wellbutrin XL) is used to treat depression. Bupropion (Aplenzin, Wellbutrin XL) is also used to treat seasonal affective disorder (SAD; episodes of depression that occur at the same time each year [usually in the fall and winter but rarely may occur in the spring or summer months]). Bupropion (Zyban) is used to help people stop smoking. Bupropion is in a class of medications called antidepressants. It works by increasing certain types of activity in the brain.`,
+    howToUse: `Bupropion comes as a tablet and a sustained-release or extended-release (long-acting) tablet to take by mouth. The regular tablet (Wellbutrin) is usually taken three times a day, with doses at least 6 hours apart, or four times a day, with doses at least 4 hours apart. The sustained-release tablet (Wellbutrin SR, Zyban) is usually taken twice a day, with doses at least 8 hours apart. The extended-release tablet (Aplenzin, Wellbutrin XL) is usually taken once daily in the morning; doses of the extended-release tablet should be taken at least 24 hours apart. When bupropion is used to treat seasonal affective disorder, it is usually taken once a day in the morning beginning in the early fall, continuing through the winter, and stopping in the early spring. Sometimes a lower dose of bupropion is taken for 2 weeks before the medication is stopped. Take bupropion with food if the medication upsets your stomach. If you have trouble falling asleep or staying asleep, do not take bupropion too close to bedtime. Take bupropion at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take bupropion exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the sustained-release and extended-release tablets whole; do not split, chew, or crush them.`,
+    additionalDetials: `Your doctor will probably start you on a low dose of bupropion and gradually increase your dose.
+
+    It may take 4 weeks or longer before you feel the full benefit of bupropion. Continue to take bupropion even if you feel well. Do not stop taking bupropion without talking to your doctor. Your doctor may decrease your dose gradually.`,
+  },
+  {
+    productId: 84,
+    name: "Buspin",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Buspirone",
+    rating: 164,
+    star: 4,
+    price: "0.49",
+    type: "tab",
+    typeName: "pill",
+    ManufacturedBy: "Intas Pharmaceuticals Ltd",
+    image: Buspin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 238.96, pricePerBottle: 0.57 },
+          { count: 240, price: 351.04, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+    ],
+    prescription: `Buspirone is used to treat anxiety disorders or in the short-term treatment of symptoms of anxiety.
+
+    This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Buspirone comes as a tablet to take by mouth. It usually is taken two or three times a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take buspirone exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Continue to take buspirone even if you feel well. Do not stop taking buspirone without talking to your doctor, especially if you have taken large doses for a long time. Your doctor probably will decrease your dose gradually. This drug must be taken regularly for a few weeks before its full effect is felt.`,
+  },
+  {
+    productId: 85,
+    name: "Cadflo",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Fluoxetine",
+    rating: 115,
+    star: 4,
+    price: "0.42",
+    type: "tab",
+    typeName: "cap",
+    ManufacturedBy: "Cadila Healthcare Limited",
+    image: Cadflo,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+    ],
+    prescription: `Fluoxetine (Prozac) is used to treat depression, obsessive-compulsive disorder (bothersome thoughts that won't go away and the need to perform certain actions over and over), some eating disorders, and panic attacks (sudden, unexpected attacks of extreme fear and worry about these attacks). Fluoxetine (Sarafem) is used to relieve the symptoms of premenstrual dysphoric disorder, including mood swings, irritability, bloating, and breast tenderness. It is also used along with olanzapine (Zyprexa) to treat depression that did not respond to other medications and episodes of depression in people with bipolar I disorder (manic-depressive disorder; a disease that causes episodes of depression, episodes of mania, and other abnormal moods). Fluoxetine is in a class of medications called selective serotonin reuptake inhibitors (SSRIs). It works by increasing the amount of serotonin, a natural substance in the brain that helps maintain mental balance.`,
+    howToUse: `Fluoxetine (Prozac) comes as a capsule, a tablet, a delayed-release (releases the medication in the intestine) capsule, and a solution (liquid) to take by mouth. Fluoxetine may be taken with or without food. Fluoxetine (Sarafem) comes as a capsule to take by mouth. Fluoxetine (Prozac) capsules, tablets, and liquid are usually taken once a day in the morning or twice a day in the morning and at noon. Fluoxetine delayed-released capsules are usually taken once a week. Fluoxetine (Sarafem) is usually taken once a day, either every day of the month or on certain days of the month. Take fluoxetine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take fluoxetine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of fluoxetine and gradually increase your dose.`,
+    additionalDetials: `It may take 4 to 5 weeks or longer before you feel the full benefit of fluoxetine. Continue to take fluoxetine even if you feel well. Do not stop taking fluoxetine without talking to your doctor. If you suddenly stop taking fluoxetine, you may experience withdrawal symptoms such as mood changes, irritability, agitation, dizziness, numbness or tingling in the hands or feet, anxiety, sweating, confusion, headache, tiredness, and difficulty falling asleep or staying asleep. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 86,
+    name: "Combac",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Duloxetine",
+    rating: 139,
+    star: 4,
+    price: "2.20",
+    type: "pills",
+    typeName: "pill",
+    ManufacturedBy: "Consort (Division of Consern)",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "30",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 79.26, pricePerBottle: 2.64 },
+          { count: 60, price: 143.7, pricePerBottle: 2.4 },
+          { count: 120, price: 272.59, pricePerBottle: 2.27 },
+          { count: 240, price: 530.37, pricePerBottle: 2.21 },
+          { count: 300, price: 659.26, pricePerBottle: 2.2 },
+        ],
+      },
+    ],
+    prescription: `Duloxetine is used to treat depression and generalized anxiety disorder (GAD; excessive worry and tension that disrupts daily life and lasts for 6 months or longer). Duloxetine is also used to treat pain and tingling caused by diabetic neuropathy (damage to nerves that can develop in people who have diabetes) and fibromyalgia (a long-lasting condition that may cause pain, muscle stiffness and tenderness, tiredness, and difficulty falling asleep or staying asleep). Duloxetine is also used to treat ongoing bone or muscle pain such as lower back pain or osteoarthritis (joint pain or stiffness that may worsen over time). Duloxetine is in a class of medications called selective serotonin and norepinephrine reuptake inhibitors (SNRIs). It works by increasing the amounts of serotonin and norepinephrine, natural substances in the brain that help maintain mental balance and stop the movement of pain signals in the brain`,
+    howToUse: `Duloxetine comes as a delayed-release (releases the medication in the intestine to prevent break-down of the medication by stomach acids) capsule to take by mouth. When duloxetine is used to treat depression, it is usually taken once or twice a day with or without food. When duloxetine is used to treat generalized anxiety disorder, the pain of diabetic neuropathy, fibromyalgia, or ongoing bone or muscle pain, it is usually taken once a day with or without food. Take duloxetine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take duloxetine exactly as directed. Do not take more or less of it, take it more often, or take it for a longer time than prescribed by your doctor.
+
+    Swallow the delayed-release capsules whole; do not split, chew, or crush them. Do not open the delayed-release capsules and mix the contents with liquids or sprinkle the contents on food.`,
+    additionalDetials: `Your doctor may start you on a low dose of medication and increase your dose after one week.
+
+    Duloxetine may help control your symptoms but will not cure your condition. It may take 1 to 4 weeks or longer before you feel the full benefit of duloxetine. Continue to take duloxetine even if you feel well. Do not stop taking duloxetine without talking to your doctor. Your doctor will probably decrease your dose gradually. If you suddenly stop taking duloxetine, you may experience withdrawal symptoms such as nausea; vomiting; diarrhea; anxiety; dizziness; tiredness; headache; pain, burning, numbness, or tingling in the hands or feet; irritability; difficulty falling asleep or staying asleep; sweating; and nightmares. Tell your doctor if you experience any of these symptoms when your dose of duloxetine is decreased.`,
+  },
+  {
+    productId: 87,
+    name: "Cymbalta",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Duloxetine",
+    rating: 175,
+    star: 4,
+    price: "72.70",
+    type: "pack",
+    typeName: "pill",
+    ManufacturedBy: "Lily",
+    image: Cymbalta,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "28 caps / pack 60 ",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 111.84, pricePerBottle: 111.84 },
+          { count: 2, price: 212.86, pricePerBottle: 106.43 },
+          { count: 4, price: 414.92, pricePerBottle: 103.73 },
+          { count: 8, price: 819.03, pricePerBottle: 102.38 },
+        ],
+      },
+      {
+        mg: "28 caps / pack 30 ",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 82.16, pricePerBottle: 82.16 },
+          { count: 2, price: 153.51, pricePerBottle: 76.76 },
+          { count: 4, price: 296.22, pricePerBottle: 74.06 },
+          { count: 8, price: 518.62, pricePerBottle: 72.7 },
+        ],
+      },
+    ],
+    prescription: `Duloxetine is used to treat depression and generalized anxiety disorder (GAD; excessive worry and tension that disrupts daily life and lasts for 6 months or longer). Duloxetine is also used to treat pain and tingling caused by diabetic neuropathy (damage to nerves that can develop in people who have diabetes) and fibromyalgia (a long-lasting condition that may cause pain, muscle stiffness and tenderness, tiredness, and difficulty falling asleep or staying asleep). Duloxetine is also used to treat ongoing bone or muscle pain such as lower back pain or osteoarthritis (joint pain or stiffness that may worsen over time). Duloxetine is in a class of medications called selective serotonin and norepinephrine reuptake inhibitors (SNRIs). It works by increasing the amounts of serotonin and norepinephrine, natural substances in the brain that help maintain mental balance and stop the movement of pain signals in the brain.`,
+    howToUse: `Duloxetine comes as a delayed-release (releases the medication in the intestine to prevent break-down of the medication by stomach acids) capsule to take by mouth. When duloxetine is used to treat depression, it is usually taken once or twice a day with or without food. When duloxetine is used to treat generalized anxiety disorder, the pain of diabetic neuropathy, fibromyalgia, or ongoing bone or muscle pain, it is usually taken once a day with or without food. Take duloxetine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take duloxetine exactly as directed. Do not take more or less of it, take it more often, or take it for a longer time than prescribed by your doctor.
+
+    Swallow the delayed-release capsules whole; do not split, chew, or crush them. Do not open the delayed-release capsules and mix the contents with liquids or sprinkle the contents on food.`,
+    additionalDetials: `Your doctor may start you on a low dose of medication and increase your dose after one week.
+
+    Duloxetine may help control your symptoms but will not cure your condition. It may take 1 to 4 weeks or longer before you feel the full benefit of duloxetine. Continue to take duloxetine even if you feel well. Do not stop taking duloxetine without talking to your doctor. Your doctor will probably decrease your dose gradually. If you suddenly stop taking duloxetine, you may experience withdrawal symptoms such as nausea; vomiting; diarrhea; anxiety; dizziness; tiredness; headache; pain, burning, numbness, or tingling in the hands or feet; irritability; difficulty falling asleep or staying asleep; sweating; and nightmares. Tell your doctor if you experience any of these symptoms when your dose of duloxetine is decreased.`,
+  },
+  {
+    productId: 88,
+    name: "DLX",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Duloxetine",
+    rating: 46,
+    star: 4,
+    price: "2.20",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Sunrise Remedies Pvt. Ltd",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "30",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 79.26, pricePerBottle: 2.64 },
+          { count: 60, price: 143.7, pricePerBottle: 2.4 },
+          { count: 120, price: 272.59, pricePerBottle: 2.27 },
+          { count: 240, price: 530.37, pricePerBottle: 2.21 },
+          { count: 300, price: 659.26, pricePerBottle: 2.2 },
+        ],
+      },
+      {
+        mg: "60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 108.15, pricePerBottle: 3.61 },
+          { count: 60, price: 201.48, pricePerBottle: 3.36 },
+          { count: 120, price: 388.15, pricePerBottle: 3.23 },
+          { count: 240, price: 761.48, pricePerBottle: 3.17 },
+        ],
+      },
+    ],
+    prescription: `Duloxetine is used to treat depression and generalized anxiety disorder (GAD; excessive worry and tension that disrupts daily life and lasts for 6 months or longer). Duloxetine is also used to treat pain and tingling caused by diabetic neuropathy (damage to nerves that can develop in people who have diabetes) and fibromyalgia (a long-lasting condition that may cause pain, muscle stiffness and tenderness, tiredness, and difficulty falling asleep or staying asleep). Duloxetine is also used to treat ongoing bone or muscle pain such as lower back pain or osteoarthritis (joint pain or stiffness that may worsen over time). Duloxetine is in a class of medications called selective serotonin and norepinephrine reuptake inhibitors (SNRIs). It works by increasing the amounts of serotonin and norepinephrine, natural substances in the brain that help maintain mental balance and stop the movement of pain signals in the brain.`,
+    howToUse: `Duloxetine comes as a delayed-release (releases the medication in the intestine to prevent break-down of the medication by stomach acids) capsule to take by mouth. When duloxetine is used to treat depression, it is usually taken once or twice a day with or without food. When duloxetine is used to treat generalized anxiety disorder, the pain of diabetic neuropathy, fibromyalgia, or ongoing bone or muscle pain, it is usually taken once a day with or without food. Take duloxetine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take duloxetine exactly as directed. Do not take more or less of it, take it more often, or take it for a longer time than prescribed by your doctor.
+
+    Swallow the delayed-release capsules whole; do not split, chew, or crush them. Do not open the delayed-release capsules and mix the contents with liquids or sprinkle the contents on food.
+    
+    Your doctor may start you on a low dose of medication and increase your dose after one week.`,
+    additionalDetials: `Duloxetine may help control your symptoms but will not cure your condition. It may take 1 to 4 weeks or longer before you feel the full benefit of duloxetine. Continue to take duloxetine even if you feel well. Do not stop taking duloxetine without talking to your doctor. Your doctor will probably decrease your dose gradually. If you suddenly stop taking duloxetine, you may experience withdrawal symptoms such as nausea; vomiting; diarrhea; anxiety; dizziness; tiredness; headache; pain, burning, numbness, or tingling in the hands or feet; irritability; difficulty falling asleep or staying asleep; sweating; and nightmares. Tell your doctor if you experience any of these symptoms when your dose of duloxetine is decreased.`,
+  },
+  {
+    productId: 89,
+    name: "Daxid",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Sertraline",
+    rating: 83,
+    star: 4,
+    price: "27.22",
+    type: "pack",
+    typeName: "pill",
+    ManufacturedBy: "Pfizer",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: " tabs / pack 50",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 41.11, pricePerBottle: 41.11 },
+          { count: 2, price: 67.41, pricePerBottle: 33.71 },
+          { count: 4, price: 120, pricePerBottle: 30 },
+          { count: 8, price: 225.19, pricePerBottle: 28.15 },
+          { count: 16, price: 435.56, pricePerBottle: 27.22 },
+        ],
+      },
+      {
+        mg: " tabs / pack 100",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 73.93, pricePerBottle: 73.93 },
+          { count: 2, price: 133.04, pricePerBottle: 66.52 },
+          { count: 4, price: 251.26, pricePerBottle: 62.82 },
+          { count: 8, price: 487.7, pricePerBottle: 60.96 },
+        ],
+      },
+    ],
+    prescription: `Sertraline is used to treat depression, obsessive-compulsive disorder (bothersome thoughts that won't go away and the need to perform certain actions over and over), panic attacks (sudden, unexpected attacks of extreme fear and worry about these attacks), posttraumatic stress disorder (disturbing psychological symptoms that develop after a frightening experience), and social anxiety disorder (extreme fear of interacting with others or performing in front of others that interferes with normal life). It is also used to relieve the symptoms of premenstrual dysphoric disorder, including mood swings, irritability, bloating, and breast tenderness. Sertraline is in a class of antidepressants called selective serotonin reuptake inhibitors (SSRIs). It works by increasing the amounts of serotonin, a natural substance in the brain that helps maintain mental balance.`,
+    howToUse: `Sertraline comes as a tablet and a concentrate (liquid) to take by mouth. It is usually taken once daily in the morning or evening. To treat premenstrual dysphoric disorder, sertraline is taken once a day, either every day of the month or on certain days of the month. Take sertraline at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sertraline exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Sertraline concentrate must be diluted before use. Immediately before taking it, use the provided dropper to remove the amount of concentrate your doctor has told you to take. Mix the concentrate with 4 ounces (1/2 cup [120 milliliters]) of water, ginger ale, lemon or lime soda, lemonade, or orange juice. After mixing, the diluted solution may be hazy; this is normal. Do not mix the concentrate with any liquids other than the ones listed. Drink the diluted solution immediately.`,
+    additionalDetials: `Your doctor may start you on a low dose of sertraline and gradually increase your dose, not more than once a week.
+
+    It may take a few weeks or longer before you feel the full benefit of sertraline. Continue to take sertraline even if you feel well. Do not stop taking sertraline without talking to your doctor. If you suddenly stop taking sertraline, you may experience withdrawal symptoms such as nausea, sweating, depression, mood changes, frenzied or abnormally excited mood, irritability, anxiety, confusion, dizziness, headache, tiredness, seizures, ringing in the ears, numbness or tingling in the arms, legs, hands, or feet, difficulty falling asleep or staying asleep.`,
+  },
+];
