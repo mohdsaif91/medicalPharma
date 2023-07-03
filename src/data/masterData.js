@@ -46,6 +46,18 @@ import bupronSR from "../images/products/bupronSR.gif";
 import Buspin from "../images/products/Buspin.gif";
 import Cadflo from "../images/products/Cadflo.gif";
 import Cymbalta from "../images/products/Cymbalta.gif";
+import Duzela from "../images/products/Duzela.gif";
+import genericAnafranil from "../images/products/genericAnafranil.gif";
+import genericAtarax from "../images/products/genericAtarax.gif";
+import genericCelexa from "../images/products/genericCelexa.gif";
+import genericDesyrel from "../images/products/genericDesyrel.gif";
+import genericEffexor from "../images/products/genericEffexor.gif";
+import genericGeodon from "../images/products/genericGeodon.gif";
+import genericLexapro from "../images/products/genericLexapro.gif";
+import genericLuvox from "../images/products/genericLuvox.gif";
+import genericPamelor from "../images/products/genericPamelor.gif";
+import genericPaxil from "../images/products/genericPaxil.gif";
+import genericProzac from "../images/products/genericProzac.gif";
 
 export const category = [
   "AIDS or HIV Treatment",
@@ -3941,5 +3953,1044 @@ export const masterData = [
     additionalDetials: `Your doctor may start you on a low dose of sertraline and gradually increase your dose, not more than once a week.
 
     It may take a few weeks or longer before you feel the full benefit of sertraline. Continue to take sertraline even if you feel well. Do not stop taking sertraline without talking to your doctor. If you suddenly stop taking sertraline, you may experience withdrawal symptoms such as nausea, sweating, depression, mood changes, frenzied or abnormally excited mood, irritability, anxiety, confusion, dizziness, headache, tiredness, seizures, ringing in the ears, numbness or tingling in the arms, legs, hands, or feet, difficulty falling asleep or staying asleep.`,
+  },
+  {
+    productId: 90,
+    name: "Duzela",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Duloxetine",
+    rating: 169,
+    star: 4,
+    price: "0.94",
+    type: "tab",
+    typeName: "pill",
+    ManufacturedBy: "Pfizer",
+    image: Duzela,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.48, pricePerBottle: 1.38 },
+          { count: 60, price: 68.15, pricePerBottle: 1.14 },
+          { count: 120, price: 121.48, pricePerBottle: 1.01 },
+          { count: 240, price: 228.15, pricePerBottle: 0.95 },
+          { count: 300, price: 281.48, pricePerBottle: 0.94 },
+        ],
+      },
+      {
+        mg: "60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 101.48, pricePerBottle: 3.38 },
+          { count: 60, price: 188.15, pricePerBottle: 3.14 },
+          { count: 120, price: 361.48, pricePerBottle: 3.01 },
+          { count: 240, price: 708.15, pricePerBottle: 2.95 },
+          { count: 300, price: 881.48, pricePerBottle: 2.94 },
+        ],
+      },
+    ],
+    prescription: `Duloxetine is used to treat depression and generalized anxiety disorder (GAD; excessive worry and tension that disrupts daily life and lasts for 6 months or longer). Duloxetine is also used to treat pain and tingling caused by diabetic neuropathy (damage to nerves that can develop in people who have diabetes) and fibromyalgia (a long-lasting condition that may cause pain, muscle stiffness and tenderness, tiredness, and difficulty falling asleep or staying asleep). Duloxetine is also used to treat ongoing bone or muscle pain such as lower back pain or osteoarthritis (joint pain or stiffness that may worsen over time). Duloxetine is in a class of medications called selective serotonin and norepinephrine reuptake inhibitors (SNRIs). It works by increasing the amounts of serotonin and norepinephrine, natural substances in the brain that help maintain mental balance and stop the movement of pain signals in the brain.`,
+    howToUse: `Duloxetine comes as a delayed-release (releases the medication in the intestine to prevent break-down of the medication by stomach acids) capsule to take by mouth. When duloxetine is used to treat depression, it is usually taken once or twice a day with or without food. When duloxetine is used to treat generalized anxiety disorder, the pain of diabetic neuropathy, fibromyalgia, or ongoing bone or muscle pain, it is usually taken once a day with or without food. Take duloxetine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take duloxetine exactly as directed. Do not take more or less of it, take it more often, or take it for a longer time than prescribed by your doctor.
+
+    Swallow the delayed-release capsules whole; do not split, chew, or crush them. Do not open the delayed-release capsules and mix the contents with liquids or sprinkle the contents on food.
+    
+    Your doctor may start you on a low dose of medication and increase your dose after one week.`,
+    additionalDetials: `Duloxetine may help control your symptoms but will not cure your condition. It may take 1 to 4 weeks or longer before you feel the full benefit of duloxetine. Continue to take duloxetine even if you feel well. Do not stop taking duloxetine without talking to your doctor. Your doctor will probably decrease your dose gradually. If you suddenly stop taking duloxetine, you may experience withdrawal symptoms such as nausea; vomiting; diarrhea; anxiety; dizziness; tiredness; headache; pain, burning, numbness, or tingling in the hands or feet; irritability; difficulty falling asleep or staying asleep; sweating; and nightmares. Tell your doctor if you experience any of these symptoms when your dose of duloxetine is decreased.`,
+  },
+  {
+    productId: 91,
+    name: "Emetil",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Chlorpromazine",
+    rating: 180,
+    star: 4,
+    price: "24.49",
+    type: "pack",
+    typeName: "pill",
+    ManufacturedBy: "Pfizer",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 34.37, pricePerBottle: 34.37 },
+          { count: 2, price: 53.93, pricePerBottle: 26.97 },
+          { count: 3, price: 73.48, pricePerBottle: 24.49 },
+        ],
+      },
+    ],
+    prescription: `Chlorpromazine is used to treat the symptoms of schizophrenia (a mental illness that causes disturbed or unusual thinking, loss of interest in life, and strong or inappropriate emotions) and other psychotic disorders (conditions that cause difficulty telling the difference between things or ideas that are real and things or ideas that are not real) and to treat the symptoms of mania (frenzied, abnormally excited mood) in people who have bipolar disorder (manic depressive disorder; a condition that causes episodes of mania, episodes of depression, and other abnormal moods). Chlorpromazine is also used to treat severe behavior problems such as explosive, aggressive behavior and hyperactivity in children 1 to 12 years of age. Chlorpromazine is also used to control nausea and vomiting, to relieve hiccups that have lasted one month or longer, and to relieve restlessness and nervousness that may occur just before surgery. Chlorpromazine is also used to treat acute intermittent porphyria (condition in which certain natural substances build up in the body and cause stomach pain, changes in thinking and behavior, and other symptoms). Chlorpromazine is also used along with other medications to treat tetanus (a serious infection that may cause tightening of the muscles, especially the jaw muscle). Chlorpromazine is in a class of medications called conventional antipsychotics. It works by changing the activity of certain natural substances in the brain and other parts of the body.`,
+    howToUse: `Chlorpromazine comes as a tablet to take by mouth. Chlorpromazine is usually taken two to four times a day. When chlorpromazine is used to control nausea and vomiting, it is usually taken every 4-6 hours as needed. When chlorpromazine is used to relieve nervousness before surgery, it is usually taken 2-3 hours before surgery. When chlorpromazine is used to relieve hiccups, it is usually taken 3-4 times a day for up to 3 days or until the hiccups stop. If the hiccups do not stop after 3 days of treatment, a different medication should be used. If you are taking chlorpromazine on a regular schedule, take it at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take chlorpromazine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of chlorpromazine and gradually increase your dose. Your doctor may decrease your dose once your condition is controlled. Be sure to tell your doctor how you are feeling during your treatment with chlorpromazine.`,
+    additionalDetials: `If you are taking chlorpromazine to treat schizophrenia or another psychotic disorder, chlorpromazine may control your symptoms but will not cure your condition. Continue to take chlorpromazine even if you feel well. Do not stop taking chlorpromazine without talking to your doctor. Your doctor will probably decrease your dose gradually. If you suddenly stop taking chlorpromazine, you may experience withdrawal symptoms, such as nausea, vomiting, stomach pain, dizziness, and shakiness.`,
+  },
+  {
+    productId: 92,
+    name: "Flood",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Fluoxetine",
+    rating: 49,
+    star: 4,
+    price: "0.86",
+    type: "cap",
+    typeName: "pill",
+    ManufacturedBy: "Intas Pharmaceuticals Ltd",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `Fluoxetine (Prozac) is used to treat depression, obsessive-compulsive disorder (bothersome thoughts that won't go away and the need to perform certain actions over and over), some eating disorders, and panic attacks (sudden, unexpected attacks of extreme fear and worry about these attacks). Fluoxetine (Sarafem) is used to relieve the symptoms of premenstrual dysphoric disorder, including mood swings, irritability, bloating, and breast tenderness. It is also used along with olanzapine (Zyprexa) to treat depression that did not respond to other medications and episodes of depression in people with bipolar I disorder (manic-depressive disorder; a disease that causes episodes of depression, episodes of mania, and other abnormal moods). Fluoxetine is in a class of medications called selective serotonin reuptake inhibitors (SSRIs). It works by increasing the amount of serotonin, a natural substance in the brain that helps maintain mental balance.`,
+    howToUse: `Fluoxetine (Prozac) comes as a capsule, a tablet, a delayed-release (releases the medication in the intestine) capsule, and a solution (liquid) to take by mouth. Fluoxetine may be taken with or without food. Fluoxetine (Sarafem) comes as a capsule to take by mouth. Fluoxetine (Prozac) capsules, tablets, and liquid are usually taken once a day in the morning or twice a day in the morning and at noon. Fluoxetine delayed-released capsules are usually taken once a week. Fluoxetine (Sarafem) is usually taken once a day, either every day of the month or on certain days of the month. Take fluoxetine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take fluoxetine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of fluoxetine and gradually increase your dose.`,
+    additionalDetials: `It may take 4 to 5 weeks or longer before you feel the full benefit of fluoxetine. Continue to take fluoxetine even if you feel well. Do not stop taking fluoxetine without talking to your doctor. If you suddenly stop taking fluoxetine, you may experience withdrawal symptoms such as mood changes, irritability, agitation, dizziness, numbness or tingling in the hands or feet, anxiety, sweating, confusion, headache, tiredness, and difficulty falling asleep or staying asleep. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 93,
+    name: "Flunil",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Fluoxetine",
+    rating: 61,
+    star: 4,
+    price: "0.49",
+    type: "cap",
+    typeName: "pill",
+    ManufacturedBy: "Pfizer",
+    image: Cadflo,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 52.59, pricePerBottle: 1.75 },
+          { count: 60, price: 90.37, pricePerBottle: 1.51 },
+          { count: 120, price: 165.93, pricePerBottle: 1.38 },
+          { count: 240, price: 317.04, pricePerBottle: 1.32 },
+          { count: 300, price: 392.59, pricePerBottle: 1.31 },
+        ],
+      },
+    ],
+    prescription: `Fluoxetine (Prozac) is used to treat depression, obsessive-compulsive disorder (bothersome thoughts that won't go away and the need to perform certain actions over and over), some eating disorders, and panic attacks (sudden, unexpected attacks of extreme fear and worry about these attacks). Fluoxetine (Sarafem) is used to relieve the symptoms of premenstrual dysphoric disorder, including mood swings, irritability, bloating, and breast tenderness. It is also used along with olanzapine (Zyprexa) to treat depression that did not respond to other medications and episodes of depression in people with bipolar I disorder (manic-depressive disorder; a disease that causes episodes of depression, episodes of mania, and other abnormal moods). Fluoxetine is in a class of medications called selective serotonin reuptake inhibitors (SSRIs). It works by increasing the amount of serotonin, a natural substance in the brain that helps maintain mental balance.`,
+    howToUse: `Fluoxetine (Prozac) comes as a capsule, a tablet, a delayed-release (releases the medication in the intestine) capsule, and a solution (liquid) to take by mouth. Fluoxetine may be taken with or without food. Fluoxetine (Sarafem) comes as a capsule to take by mouth. Fluoxetine (Prozac) capsules, tablets, and liquid are usually taken once a day in the morning or twice a day in the morning and at noon. Fluoxetine delayed-released capsules are usually taken once a week. Fluoxetine (Sarafem) is usually taken once a day, either every day of the month or on certain days of the month. Take fluoxetine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take fluoxetine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of fluoxetine and gradually increase your dose.`,
+    additionalDetials: `It may take 4 to 5 weeks or longer before you feel the full benefit of fluoxetine. Continue to take fluoxetine even if you feel well. Do not stop taking fluoxetine without talking to your doctor. If you suddenly stop taking fluoxetine, you may experience withdrawal symptoms such as mood changes, irritability, agitation, dizziness, numbness or tingling in the hands or feet, anxiety, sweating, confusion, headache, tiredness, and difficulty falling asleep or staying asleep. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 94,
+    name: "Generic Abilify",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Aripiprazole",
+    rating: 123,
+    star: 4,
+    price: "0.86",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericCopegus,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "15",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 46.09, pricePerBottle: 1.54 },
+          { count: 60, price: 74.78, pricePerBottle: 1.25 },
+          { count: 120, price: 132.17, pricePerBottle: 1.1 },
+          { count: 240, price: 246.96, pricePerBottle: 1.03 },
+          { count: 300, price: 304.35, pricePerBottle: 1.01 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 52.59, pricePerBottle: 1.75 },
+          { count: 60, price: 90.37, pricePerBottle: 1.51 },
+          { count: 120, price: 165.93, pricePerBottle: 1.38 },
+          { count: 240, price: 317.04, pricePerBottle: 1.32 },
+          { count: 300, price: 392.59, pricePerBottle: 1.31 },
+        ],
+      },
+      {
+        mg: "30",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 88.15, pricePerBottle: 2.94 },
+          { count: 60, price: 161.48, pricePerBottle: 2.69 },
+          { count: 120, price: 308.15, pricePerBottle: 2.57 },
+          { count: 240, price: 601.48, pricePerBottle: 251 },
+          { count: 300, price: 748.15, pricePerBottle: 2.49 },
+        ],
+      },
+    ],
+    prescription: `Fluoxetine (Prozac) is used to treat depression, obsessive-compulsive disorder (bothersome thoughts that won't go away and the need to perform certain actions over and over), some eating disorders, and panic attacks (sudden, unexpected attacks of extreme fear and worry about these attacks). Fluoxetine (Sarafem) is used to relieve the symptoms of premenstrual dysphoric disorder, including mood swings, irritability, bloating, and breast tenderness. It is also used along with olanzapine (Zyprexa) to treat depression that did not respond to other medications and episodes of depression in people with bipolar I disorder (manic-depressive disorder; a disease that causes episodes of depression, episodes of mania, and other abnormal moods). Fluoxetine is in a class of medications called selective serotonin reuptake inhibitors (SSRIs). It works by increasing the amount of serotonin, a natural substance in the brain that helps maintain mental balance.`,
+    howToUse: `Fluoxetine (Prozac) comes as a capsule, a tablet, a delayed-release (releases the medication in the intestine) capsule, and a solution (liquid) to take by mouth. Fluoxetine may be taken with or without food. Fluoxetine (Sarafem) comes as a capsule to take by mouth. Fluoxetine (Prozac) capsules, tablets, and liquid are usually taken once a day in the morning or twice a day in the morning and at noon. Fluoxetine delayed-released capsules are usually taken once a week. Fluoxetine (Sarafem) is usually taken once a day, either every day of the month or on certain days of the month. Take fluoxetine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take fluoxetine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of fluoxetine and gradually increase your dose.`,
+    additionalDetials: `It may take 4 to 5 weeks or longer before you feel the full benefit of fluoxetine. Continue to take fluoxetine even if you feel well. Do not stop taking fluoxetine without talking to your doctor. If you suddenly stop taking fluoxetine, you may experience withdrawal symptoms such as mood changes, irritability, agitation, dizziness, numbness or tingling in the hands or feet, anxiety, sweating, confusion, headache, tiredness, and difficulty falling asleep or staying asleep. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 95,
+    name: "Generic Anafranil",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Clomipramine",
+    rating: 171,
+    star: 4,
+    price: "0.64",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericAnafranil,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 38.26, pricePerBottle: 1.28 },
+          { count: 60, price: 59.13, pricePerBottle: 0.99 },
+          { count: 120, price: 100.87, pricePerBottle: 0.84 },
+          { count: 240, price: 184.35, pricePerBottle: 0.77 },
+          { count: 300, price: 226.09, pricePerBottle: 0.75 },
+        ],
+      },
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 52.59, pricePerBottle: 1.75 },
+          { count: 60, price: 90.37, pricePerBottle: 1.51 },
+          { count: 120, price: 165.93, pricePerBottle: 1.38 },
+          { count: 240, price: 317.04, pricePerBottle: 1.32 },
+          { count: 300, price: 392.59, pricePerBottle: 1.31 },
+        ],
+      },
+      {
+        mg: "75",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 90.37, pricePerBottle: 3.01 },
+          { count: 60, price: 161.93, pricePerBottle: 2.77 },
+          { count: 120, price: 317.04, pricePerBottle: 2.64 },
+          { count: 240, price: 619.26, pricePerBottle: 2.58 },
+          { count: 300, price: 770.37, pricePerBottle: 2.57 },
+        ],
+      },
+    ],
+    prescription: `Clomipramine is used to treat people with obsessive-compulsive disorder (a condition that causes repeated unwanted thoughts and the need to perform certain behaviors over and over). Clomipramine is in a group of medications called tricyclic antidepressants. It works by increasing the amount of serotonin, a natural substance in the brain that is needed to maintain mental balance.`,
+    howToUse: `Clomipramine comes as a capsule to take by mouth. At the beginning of treatment, clomipramine is usually taken three times a day with meals as the body adjusts to the medication. After several weeks of treatment, clomipramine is usually taken once a day at bedtime. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take clomipramine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of clomipramine and gradually increase your dose.`,
+    additionalDetials: `It may take several weeks or longer for you to feel the full benefit of clomipramine. Continue to take clomipramine even if you feel well. Do not stop taking clomipramine without talking to your doctor. If you suddenly stop taking clomipramine, you may experience withdrawal symptoms such as dizziness, nausea, vomiting, headache, weakness, sleep problems, fever, and irritability. Your doctor probably will decrease your dose gradually.`,
+  },
+  {
+    productId: 96,
+    name: "Generic Atarax",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Hydroxyzine",
+    rating: 152,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericAtarax,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+    ],
+    prescription: `Buspirone is used to treat anxiety disorders or in the short-term treatment of symptoms of anxiety.
+
+    This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Buspirone comes as a tablet to take by mouth. It usually is taken two or three times a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take buspirone exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Continue to take buspirone even if you feel well. Do not stop taking buspirone without talking to your doctor, especially if you have taken large doses for a long time. Your doctor probably will decrease your dose gradually. This drug must be taken regularly for a few weeks before its full effect is felt.`,
+  },
+  {
+    productId: 97,
+    name: "Generic Buspar",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Buspirone",
+    rating: 195,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: Buspin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.04, pricePerBottle: 1.1 },
+          { count: 60, price: 48.7, pricePerBottle: 0.81 },
+          { count: 120, price: 80, pricePerBottle: 0.67 },
+          { count: 240, price: 142.61, pricePerBottle: 0.59 },
+          { count: 300, price: 173.91, pricePerBottle: 0.58 },
+        ],
+      },
+    ],
+    prescription: `Hydroxyzine is used in adults and children to relieve itching caused by allergic skin reactions. It is also used alone or with other medications in adults and children to relieve anxiety and tension. Hydroxyzine is also used along with other medications in adults and children as a sedative before and after general anesthesia for surgery. Hydroxyzine is in a class of medications called antihistamines. It works by blocking the action of histamine a substance in the body that causes allergic symptoms. It also works by decreasing activity in the brain.`,
+    howToUse: `Hydroxyzine comes as capsules, tablets, a syrup, and suspension to take by mouth. It usually is taken three or four times a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take hydroxyzine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Shake the suspension well before each use to mix the medication evenly.`,
+  },
+  {
+    productId: 98,
+    name: "Generic Celexa",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Citalopram",
+    rating: 115,
+    star: 5,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericCelexa,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+    ],
+    prescription: `Citalopram is used to treat depression. Citalopram is in a class of antidepressants called selective serotonin reuptake inhibitors (SSRIs). It is thought to work by increasing the amount of serotonin, a natural substance in the brain that helps maintain mental balance.`,
+    howToUse: `Citalopram comes as a tablet and a solution (liquid) to take by mouth. It is usually taken once a day, in the morning or in the evening, with or without food. Take citalopram at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take citalopram exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of citalopram and gradually increase your dose, not more often than once a week.`,
+    additionalDetials: `It may take 1 to 4 weeks before you notice the full benefit of citalopram. Continue to take citalopram even if you feel well. If you suddenly stop taking citalopram, you may experience withdrawal symptoms such as mood changes, irritability, agitation, dizziness, numbness, tingling or electric shock-like sensations in the hands or feet, anxiety, confusion, headache, tiredness, nausea, sweating, shaking, and difficulty falling asleep or staying asleep. Do not stop taking citalopram without talking to your doctor. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 99,
+    name: "Generic Cymbalta",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Duloxetine",
+    rating: 107,
+    star: 5,
+    price: "0.79",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: Duzela,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 37.04, pricePerBottle: 1.23 },
+          { count: 60, price: 59.26, pricePerBottle: 0.99 },
+          { count: 120, price: 103.7, pricePerBottle: 0.86 },
+          { count: 240, price: 192.59, pricePerBottle: 0.8 },
+          { count: 300, price: 237.04, pricePerBottle: 0.79 },
+        ],
+      },
+      {
+        mg: "30",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 45.93, pricePerBottle: 1.53 },
+          { count: 60, price: 77.04, pricePerBottle: 1.28 },
+          { count: 120, price: 139.26, pricePerBottle: 1.16 },
+          { count: 240, price: 263.7, pricePerBottle: 1.1 },
+          { count: 300, price: 325.93, pricePerBottle: 1.09 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 63.7, pricePerBottle: 2.12 },
+          { count: 60, price: 112.59, pricePerBottle: 1.88 },
+          { count: 120, price: 210.37, pricePerBottle: 1.75 },
+          { count: 240, price: 405.93, pricePerBottle: 1.69 },
+          { count: 300, price: 503.7, pricePerBottle: 1.68 },
+        ],
+      },
+      {
+        mg: "60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 79.26, pricePerBottle: 2.64 },
+          { count: 60, price: 143.7, pricePerBottle: 2.4 },
+          { count: 120, price: 272.59, pricePerBottle: 2.27 },
+          { count: 240, price: 530.37, pricePerBottle: 2.21 },
+          { count: 300, price: 659.26, pricePerBottle: 2.2 },
+        ],
+      },
+    ],
+    prescription: `Duloxetine is used to treat depression and generalized anxiety disorder (GAD; excessive worry and tension that disrupts daily life and lasts for 6 months or longer). Duloxetine is also used to treat pain and tingling caused by diabetic neuropathy (damage to nerves that can develop in people who have diabetes) and fibromyalgia (a long-lasting condition that may cause pain, muscle stiffness and tenderness, tiredness, and difficulty falling asleep or staying asleep). Duloxetine is also used to treat ongoing bone or muscle pain such as lower back pain or osteoarthritis (joint pain or stiffness that may worsen over time). Duloxetine is in a class of medications called selective serotonin and norepinephrine reuptake inhibitors (SNRIs). It works by increasing the amounts of serotonin and norepinephrine, natural substances in the brain that help maintain mental balance and stop the movement of pain signals in the brain`,
+    howToUse: `Duloxetine comes as a delayed-release (releases the medication in the intestine to prevent break-down of the medication by stomach acids) capsule to take by mouth. When duloxetine is used to treat depression, it is usually taken once or twice a day with or without food. When duloxetine is used to treat generalized anxiety disorder, the pain of diabetic neuropathy, fibromyalgia, or ongoing bone or muscle pain, it is usually taken once a day with or without food. Take duloxetine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take duloxetine exactly as directed. Do not take more or less of it, take it more often, or take it for a longer time than prescribed by your doctor.
+
+    Swallow the delayed-release capsules whole; do not split, chew, or crush them. Do not open the delayed-release capsules and mix the contents with liquids or sprinkle the contents on food.
+    
+    Your doctor may start you on a low dose of medication and increase your dose after one week.`,
+    additionalDetials: `Duloxetine may help control your symptoms but will not cure your condition. It may take 1 to 4 weeks or longer before you feel the full benefit of duloxetine. Continue to take duloxetine even if you feel well. Do not stop taking duloxetine without talking to your doctor. Your doctor will probably decrease your dose gradually. If you suddenly stop taking duloxetine, you may experience withdrawal symptoms such as nausea; vomiting; diarrhea; anxiety; dizziness; tiredness; headache; pain, burning, numbness, or tingling in the hands or feet; irritability; difficulty falling asleep or staying asleep; sweating; and nightmares. Tell your doctor if you experience any of these symptoms when your dose of duloxetine is decreased.`,
+  },
+  {
+    productId: 100,
+    name: "Generic Desyrel",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Trazodone",
+    rating: 79,
+    star: 4,
+    price: "0.64",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericDesyrel,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 52.59, pricePerBottle: 1.75 },
+          { count: 60, price: 90.37, pricePerBottle: 1.51 },
+          { count: 120, price: 165.93, pricePerBottle: 1.38 },
+          { count: 240, price: 317.04, pricePerBottle: 1.32 },
+          { count: 300, price: 392.59, pricePerBottle: 1.31 },
+        ],
+      },
+    ],
+    prescription: `Trazodone is used to treat depression. Trazodone is in a class of medications called serotonin modulators. It works by increasing the amount of serotonin, a natural substance in the brain that helps maintain mental balance.`,
+    howToUse: `Trazodone comes as a tablet and as an extended-release (long-lasting) tablet to take by mouth. The tablet is usually taken with a meal or light snack two or more times a day. The extended-release tablet is usually taken once a day at bedtime on an empty stomach, either one hour before or two hours after a meal. To help you remember to take trazodone, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take trazodone exactly as directed. Do not take more or less of it, take it more often, or take it for a longer time than prescribed by your doctor.
+
+    Swallow the extended-release tablets whole or broken in half on the score mark; do not chew or crush them.
+    
+    Your doctor may start you on a low dose of trazodone and gradually increase your dose, not more than once every 3 to 4 days. Your doctor may decrease your dose once your condition is controlled.`,
+    additionalDetials: `Trazodone controls depression, but does not cure it. It may take 2 weeks or longer before you feel the full benefit of trazodone. Continue to take trazodone even if you feel well.
+
+    Do not stop taking trazodone without talking to your doctor. If you suddenly stop taking trazodone, you may experience withdrawal symptoms such as anxiety, agitation, or difficulty falling asleep or staying asleep. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 101,
+    name: "Generic Effexor",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Venlafaxine hydrochloride",
+    rating: 62,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericEffexor,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "37.5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "75",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.48, pricePerBottle: 1.38 },
+          { count: 60, price: 68.15, pricePerBottle: 1.14 },
+          { count: 120, price: 121.48, pricePerBottle: 1.01 },
+          { count: 240, price: 228.15, pricePerBottle: 0.95 },
+          { count: 300, price: 281.48, pricePerBottle: 0.94 },
+        ],
+      },
+      {
+        mg: "150",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 52.59, pricePerBottle: 1.75 },
+          { count: 60, price: 90.37, pricePerBottle: 1.51 },
+          { count: 120, price: 165.93, pricePerBottle: 1.38 },
+          { count: 240, price: 317.04, pricePerBottle: 1.32 },
+          { count: 300, price: 392.59, pricePerBottle: 1.31 },
+        ],
+      },
+    ],
+    prescription: `Venlafaxine is used to treat depression. Venlafaxine extended-release (long-acting) capsules are also used to treat generalized anxiety disorder (GAD; excessive worrying that is difficult to control), social anxiety disorder (extreme fear of interacting with others or performing in front of others that interferes with normal life), and panic disorder (sudden, unexpected attacks of extreme fear and worry about these attacks). Venlafaxine is in a class of medications called selective serotonin and norepinephrine reuptake inhibitors (SNRIs). It works by increasing the amounts of serotonin and norepinephrine, natural substances in the brain that help maintain mental balance.`,
+    howToUse: `Venlafaxine comes as a tablet or extended-release capsule to take by mouth. The tablet is usually taken two or three times a day with food. The extended-release capsule is usually taken once daily in the morning or evening with food. Take venlafaxine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take venlafaxine exactly as directed. Do not take more or less of it or take it more often or for a longer period of time than prescribed by your doctor.
+
+    Swallow the extended-release capsule whole; do not split, chew, or crush it, or place it in water. If you cannot swallow the extended-release capsule, you may carefully open the capsule and sprinkle the entire contents on a spoonful of applesauce. Swallow (without chewing) this mixture immediately after preparation and then drink a glass of water to make sure that you have swallowed all of the medication.
+    
+    Your doctor will probably start you on a low dose of venlafaxine and gradually increase your dose, not more often than once every 4 to 7 days. Tell your doctor how you are feeling during your treatment so that your doctor can adjust your dose properly.`,
+    additionalDetials: `Venlafaxine controls depression but does not cure it. It may take 6 to 8 weeks or longer for you to feel the full benefit of this medication. Continue to take venlafaxine even if you feel well. Do not stop taking venlafaxine without talking to your doctor. Your doctor will probably decrease your dose gradually. If you suddenly stop taking venlafaxine, you may experience withdrawal symptoms such as agitation; anxiety; confusion; sad mood; irritability; frenzied or abnormal excitement; lack of coordination; trouble falling asleep or staying asleep; nightmares; nausea; vomiting; loss of appetite; diarrhea; dry mouth; sweating; ringing in the ears; seizures; or burning, tingling, numbness, or electric shock-like feelings in any part of the body. Tell your doctor if you experience any of these symptoms while you are decreasing your dose of venlafaxine or soon after you stop taking venlafaxine.`,
+  },
+  {
+    productId: 102,
+    name: "Generic Elavil",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Amitriptyline",
+    rating: 80,
+    star: 4,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: amitone,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 30.43, pricePerBottle: 1.01 },
+          { count: 60, price: 43.48, pricePerBottle: 0.72 },
+          { count: 120, price: 69.57, pricePerBottle: 0.58 },
+          { count: 240, price: 121.74, pricePerBottle: 0.51 },
+          { count: 300, price: 147.83, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.04, pricePerBottle: 1.1 },
+          { count: 60, price: 48.7, pricePerBottle: 0.81 },
+          { count: 120, price: 80, pricePerBottle: 0.67 },
+          { count: 240, price: 142.61, pricePerBottle: 0.59 },
+          { count: 300, price: 173.91, pricePerBottle: 0.58 },
+        ],
+      },
+      {
+        mg: "75",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 40.87, pricePerBottle: 1.36 },
+          { count: 60, price: 64.35, pricePerBottle: 1.07 },
+          { count: 120, price: 111.3, pricePerBottle: 0.93 },
+          { count: 240, price: 205.22, pricePerBottle: 0.86 },
+          { count: 300, price: 252.17, pricePerBottle: 0.84 },
+        ],
+      },
+    ],
+    prescription: `Amitriptyline is used to treat symptoms of depression. Amitriptyline is in a class of medications called tricyclic antidepressants. It works by increasing the amounts of certain natural substances in the brain that are needed to maintain mental balance.`,
+    howToUse: `Amitriptyline comes as a tablet to take by mouth. It is usually taken one to four times a day. Take amitriptyline at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take amitriptyline exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on a low dose of amitriptyline and gradually increase your dose.`,
+    additionalDetials: `It may take a few weeks or longer before you feel the full benefit of amitriptyline. Continue to take amitriptyline even if you feel well. Do not stop taking amitriptyline without talking to your doctor. If you suddenly stop taking amitriptyline, you may experience withdrawal symptoms such as nausea, headache, and lack of energy. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 103,
+    name: "Generic Eskalith",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Lithium Carbonate",
+    rating: 133,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericLidoderm,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "300",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Lithium is used to treat and prevent episodes of mania (frenzied, abnormally excited mood) in people with bipolar disorder (manic-depressive disorder; a disease that causes episodes of depression, episodes of mania, and other abnormal moods). Lithium is in a class of medications called antimanic agents. It works by decreasing abnormal activity in the brain.`,
+    howToUse: `Lithium comes as a tablet, capsule, extended-release (long-acting) tablet, and solution (liquid) to take by mouth. The tablets, capsules, and solution are usually taken three to four times a day. The extended-release tablets are usually taken two to three times a day. Take lithium at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take lithium exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the extended-release tablet whole; do not split, chew, or crush it.`,
+    additionalDetials: `Your doctor may increase or decrease the dose of your medication during your treatment. Follow these directions carefully.
+
+    Lithium may help to control your condition but will not cure it. It may take 1 to 3 weeks or longer for you to feel the full benefit of lithium. Continue to take lithium even if you feel well. Do not stop taking lithium without talking to your doctor.`,
+  },
+  {
+    productId: 104,
+    name: "Generic Geodon",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Ziprasidone hydrochloride",
+    rating: 67,
+    star: 4,
+    price: "0.86",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericGeodon,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.37, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 59.26, pricePerBottle: 1.98 },
+          { count: 60, price: 103.7, pricePerBottle: 1.73 },
+          { count: 120, price: 192.59, pricePerBottle: 1.6 },
+          { count: 240, price: 370.37, pricePerBottle: 1.54 },
+          { count: 300, price: 459.26, pricePerBottle: 1.53 },
+        ],
+      },
+      {
+        mg: "08",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 110.37, pricePerBottle: 3.68 },
+          { count: 60, price: 205.93, pricePerBottle: 3.43 },
+          { count: 120, price: 397.04, pricePerBottle: 3.31 },
+          { count: 240, price: 779.26, pricePerBottle: 3.25 },
+        ],
+      },
+    ],
+    prescription: `Ziprasidone is used to treat the symptoms of schizophrenia (a mental illness that causes disturbed or unusual thinking, loss of interest in life, and strong or inappropriate emotions). It is also used to treat episodes of mania (frenzied, abnormally excited or irritated mood) or mixed episodes (symptoms of mania and depression that happen together) in patients with bipolar disorder (manic depressive disorder; a disease that causes episodes of depression, episodes of mania, and other abnormal moods). Ziprasidone is in a class of medications called atypical antipsychotics. It works by changing the activity of certain natural substances in the brain`,
+    howToUse: `Ziprasidone comes as a capsule to take by mouth. It is usually taken twice a day with food. Take ziprasidone at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ziprasidone exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of ziprasidone and gradually increase your dose.`,
+    additionalDetials: `Ziprasidone may help control your symptoms but will not cure your condition. It may take a few weeks or longer before you feel the full benefit of ziprasidone. Continue to take ziprasidone even if you feel well. Do not stop taking ziprasidone without talking to your doctor.`,
+  },
+  {
+    productId: 105,
+    name: "Generic Lexapro",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Escitalopram",
+    rating: 105,
+    star: 5,
+    price: "0.72",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericLexapro,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 38.26, pricePerBottle: 1.28 },
+          { count: 60, price: 59.13, pricePerBottle: 0.9973 },
+          { count: 120, price: 100.87, pricePerBottle: 0.84 },
+          { count: 240, price: 184.35, pricePerBottle: 0.77 },
+          { count: 300, price: 226.09, pricePerBottle: 0.75 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 43.48, pricePerBottle: 1.45 },
+          { count: 60, price: 69.57, pricePerBottle: 1.16 },
+          { count: 120, price: 121.74, pricePerBottle: 1.01 },
+          { count: 240, price: 226.09, pricePerBottle: 0.94 },
+          { count: 300, price: 278.26, pricePerBottle: 0.93 },
+        ],
+      },
+    ],
+    prescription: `Escitalopram is used to treat depression and generalized anxiety disorder (GAD; excessive worry and tension that disrupts daily life and lasts for 6 months or longer). Escitalopram is in a class of antidepressants called selective serotonin reuptake inhibitors (SSRIs). It works by increasing the amount of serotonin, a natural substance in the brain that helps maintain mental balance.`,
+    howToUse: `Escitalopram comes as a tablet and a solution (liquid) to take by mouth. It is usually taken once a day with or without food. To help you remember to take escitalopram, take it at around the same time every day, in the morning or in the evening. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take escitalopram exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of escitalopram and increase your dose after 1 week.`,
+    additionalDetials: `It may take 1 to 4 weeks or longer before you feel the full benefit of escitalopram. Continue to take escitalopram even if you feel well. Do not stop taking escitalopram without talking to your doctor. If you suddenly stop taking escitalopram, you may experience withdrawal symptoms such as mood changes, irritability, agitation, dizziness, numbness or tingling in the hands or feet, anxiety, confusion, headache, tiredness, and difficulty falling asleep or staying asleep. Your doctor will probably decrease your dose gradually`,
+  },
+  {
+    productId: 106,
+    name: "Generic Luvox",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Fluvoxamine",
+    rating: 132,
+    star: 4,
+    price: "2.27",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericLuvox,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 81.48, pricePerBottle: 2.72 },
+          { count: 60, price: 148.15, pricePerBottle: 2.47 },
+          { count: 120, price: 281.48, pricePerBottle: 2.35 },
+          { count: 240, price: 548.51, pricePerBottle: 2.28 },
+          { count: 300, price: 681.48, pricePerBottle: 2.27 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 100, pricePerBottle: 3.33 },
+          { count: 60, price: 189.19, pricePerBottle: 3.15 },
+          { count: 120, price: 367.57, pricePerBottle: 3.06 },
+          { count: 240, price: 724.32, pricePerBottle: 3.02 },
+        ],
+      },
+    ],
+    prescription: `Fluvoxamine is used to treat obsessive-compulsive disorder (bothersome thoughts that won't go away and the need to perform certain actions over and over) and social anxiety disorder (extreme fear of interacting with others or performing in front of others that interferes with normal life). Fluvoxamine is in a class of medications called selective serotonin reuptake inhibitors (SSRIs). It works by increasing the amount of serotonin, a natural substance in the brain that helps maintain mental balance.`,
+    howToUse: `Fluvoxamine comes as a tablet and an extended-release capsule to take by mouth. The tablet usually is taken either once daily at bedtime or twice daily, once in the morning and once at bedtime. The extended-release capsule usually is taken, with or without food , once daily at bedtime. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take fluvoxamine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the extended-release capsules whole; do not be crush or chew them.
+    
+    Your doctor may start you on a low dose of fluvoxamine and gradually increase your dose, not more often than once every week, depending on how well the medication works for you and the side effects you experience.`,
+    additionalDetials: `It may take several weeks or longer for you to feel the full benefit of fluvoxamine. Continue to take fluvoxamine even if you feel well. Do not stop taking fluvoxamine without talking to your doctor. If you suddenly stop taking fluvoxamine, you may experience withdrawal symptoms such as irritability; agitation; dizziness; extreme worry; uneasiness; confusion; headache; tiredness; mood changes; difficulty falling asleep or staying asleep; or pain, burning, numbness, tingling or 'electric shock' sensations in the hands or feet. Your doctor probably will decrease your dose gradually.`,
+  },
+  {
+    productId: 107,
+    name: "Generic Pamelor",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Nortriptyline",
+    rating: 55,
+    star: 4,
+    price: "0.72",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericPamelor,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+    ],
+    prescription: `Nortriptyline is used to treat depression. Nortriptyline is in a group of medications called tricyclic antidepressants. It works by increasing the amounts of certain natural substances in the brain that are needed to maintain mental balance.`,
+    howToUse: `Nortriptyline comes as a capsule and an oral liquid to take by mouth. It is usually taken one to four times a day and may be taken with or without food. Take nortriptyline at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take nortriptyline exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on a low dose of nortriptyline and gradually increase your dose.`,
+    additionalDetials: `Continue to take nortriptyline even if you feel well. Do not stop taking nortriptyline without talking to your doctor. If you suddenly stop taking nortriptyline, you may experience withdrawal symptoms such as headache, nausea, and weakness. Your doctor will probably want to decrease your dose gradually.`,
+  },
+  {
+    productId: 108,
+    name: "Generic Paxil",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Paroxetine",
+    rating: 90,
+    star: 5,
+    price: "1.16",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericPaxil,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 48.15, pricePerBottle: 1.16 },
+          { count: 60, price: 81.48, pricePerBottle: 1.36 },
+          { count: 120, price: 148.15, pricePerBottle: 1.23 },
+          { count: 240, price: 281.48, pricePerBottle: 1.17 },
+          { count: 300, price: 348.15, pricePerBottle: 1.16 },
+        ],
+      },
+      {
+        mg: "12.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 46.49, pricePerBottle: 1.55 },
+          { count: 60, price: 82.16, pricePerBottle: 1.37 },
+          { count: 120, price: 153.51, pricePerBottle: 1.28 },
+          { count: 240, price: 296.22, pricePerBottle: 1.23 },
+          { count: 300, price: 367.57, pricePerBottle: 1.23 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 48.11, pricePerBottle: 1.6 },
+          { count: 60, price: 85.41, pricePerBottle: 1.42 },
+          { count: 120, price: 160, pricePerBottle: 1.33 },
+          { count: 240, price: 309.19, pricePerBottle: 1.29 },
+          { count: 300, price: 383.78, pricePerBottle: 1.28 },
+        ],
+      },
+      {
+        mg: "30",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 65.95, pricePerBottle: 2.2 },
+          { count: 60, price: 121.08, pricePerBottle: 2.02 },
+          { count: 120, price: 231.35, pricePerBottle: 1.93 },
+          { count: 240, price: 451.89, pricePerBottle: 1.88 },
+          { count: 300, price: 562.16, pricePerBottle: 1.87 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 82.16, pricePerBottle: 2.74 },
+          { count: 60, price: 153.51, pricePerBottle: 2.56 },
+          { count: 120, price: 296.22, pricePerBottle: 2.47 },
+          { count: 240, price: 581.62, pricePerBottle: 2.42 },
+          { count: 300, price: 724.32, pricePerBottle: 2.41 },
+        ],
+      },
+    ],
+    prescription: `Paroxetine tablets, suspension (liquid), and extended-release (long-acting) tablets are used to treat depression, panic disorder (sudden, unexpected attacks of extreme fear and worry about these attacks), and social anxiety disorder (extreme fear of interacting with others or performing in front of others that interferes with normal life). Paroxetine tablets and suspension are also used to treat obsessive-compulsive disorder (bothersome thoughts that won't go away and the need to perform certain actions over and over), generalized anxiety disorder (GAD; excessive worrying that is difficult to control), and posttraumatic stress disorder (disturbing psychological symptoms that develop after a frightening experience). Paroxetine extended-release tablets are also used to treat premenstrual dysphoric disorder (PMDD, physical and psychological symptoms that occur before the onset of the menstrual period each month). Paroxetine capsules (Brisdelle) are used to treat hot flashes (sudden feelings of warmth, especially in the face, neck, and chest) in women who are experiencing menopause (stage of life when menstrual periods become less frequent and stop and women may experience other symptoms and body changes). Paroxetine is in a class of medications called selective serotonin-reuptake inhibitors (SSRIs). It treats depression and other mental illnesses by increasing the amount of serotonin, a natural substance in the brain that helps maintain mental balance. There is not enough information available at this time to know how paroxetine works to treat hot flashes.`,
+    howToUse: `Paroxetine comes as a tablet, a suspension (liquid), a controlled-release (long-acting) tablet, and a capsule to take by mouth. The tablets, suspension, and controlled-release tablets are usually taken once daily in the morning or evening, with or without food. The capsules are usually taken once a day at bedtime with or without food. You may want to take paroxetine with food to prevent stomach upset. Take paroxetine at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take paroxetine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the liquid well before each use to mix the medication evenly.
+    
+    Swallow the extended-release and regular tablets whole; do not chew or crush them.
+    
+    If you are taking paroxetine tablets, suspension, or controlled-release tablets, your doctor may start you on a low dose of paroxetine and gradually increase your dose, not more than once a week.
+    
+    Paroxetine capsules contain a lower dose of paroxetine than is needed to treat depression and other forms of mental illness. Do not take paroxetine capsules to treat a mental illness. If you think you have depression or another mental illness, talk to your doctor about treatment.`,
+    additionalDetials: `Paroxetine may help control your symptoms but will not cure your condition. It may take several weeks or longer before you feel the full benefit of paroxetine. Continue to take paroxetine even if you feel well. Do not stop taking paroxetine without talking to your doctor. Your doctor may decrease your dose gradually. If you suddenly stop taking paroxetine tablets, suspension, or controlled-release tablets, you may experience withdrawal symptoms such as depression; mood changes; frenzied or abnormally excited mood; irritability; anxiety; confusion; dizziness; headache; tiredness; numbness or tingling in the arms, legs, hands, or feet; unusual dreams; difficulty falling asleep or staying asleep; nausea; or sweating. Tell your doctor if you experience any of these symptoms when your dose of paroxetine is decreased.`,
+  },
+  {
+    productId: 109,
+    name: "Generic Prozac",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Fluoxetine",
+    rating: 57,
+    star: 4,
+    price: "0.27",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericProzac,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 120, price: 41.48, pricePerBottle: 0.35 },
+          { count: 240, price: 68.15, pricePerBottle: 0.28 },
+          { count: 300, price: 81.48, pricePerBottle: 0.27 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 43.7, pricePerBottle: 1.46 },
+          { count: 60, price: 72.59, pricePerBottle: 1.21 },
+          { count: 120, price: 130.37, pricePerBottle: 1.09 },
+          { count: 240, price: 245.93, pricePerBottle: 1.02 },
+          { count: 300, price: 303.7, pricePerBottle: 1.01 },
+        ],
+      },
+      {
+        mg: "60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 48.7, pricePerBottle: 1.62 },
+          { count: 60, price: 80, pricePerBottle: 1.33 },
+          { count: 120, price: 142.61, pricePerBottle: 1.19 },
+          { count: 240, price: 267.83, pricePerBottle: 1.12 },
+          { count: 300, price: 330.43, pricePerBottle: 1.1 },
+        ],
+      },
+    ],
+    prescription: `Fluoxetine (Prozac) is used to treat depression, obsessive-compulsive disorder (bothersome thoughts that won't go away and the need to perform certain actions over and over), some eating disorders, and panic attacks (sudden, unexpected attacks of extreme fear and worry about these attacks). Fluoxetine (Sarafem) is used to relieve the symptoms of premenstrual dysphoric disorder, including mood swings, irritability, bloating, and breast tenderness. It is also used along with olanzapine (Zyprexa) to treat depression that did not respond to other medications and episodes of depression in people with bipolar I disorder (manic-depressive disorder; a disease that causes episodes of depression, episodes of mania, and other abnormal moods). Fluoxetine is in a class of medications called selective serotonin reuptake inhibitors (SSRIs). It works by increasing the amount of serotonin, a natural substance in the brain that helps maintain mental balance.`,
+    howToUse: `Fluoxetine (Prozac) comes as a capsule, a tablet, a delayed-release (releases the medication in the intestine) capsule, and a solution (liquid) to take by mouth. Fluoxetine may be taken with or without food. Fluoxetine (Sarafem) comes as a capsule to take by mouth. Fluoxetine (Prozac) capsules, tablets, and liquid are usually taken once a day in the morning or twice a day in the morning and at noon. Fluoxetine delayed-released capsules are usually taken once a week. Fluoxetine (Sarafem) is usually taken once a day, either every day of the month or on certain days of the month. Take fluoxetine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take fluoxetine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of fluoxetine and gradually increase your dose.`,
+    additionalDetials: `It may take 4 to 5 weeks or longer before you feel the full benefit of fluoxetine. Continue to take fluoxetine even if you feel well. Do not stop taking fluoxetine without talking to your doctor. If you suddenly stop taking fluoxetine, you may experience withdrawal symptoms such as mood changes, irritability, agitation, dizziness, numbness or tingling in the hands or feet, anxiety, sweating, confusion, headache, tiredness, and difficulty falling asleep or staying asleep. Your doctor will probably decrease your dose gradually.`,
   },
 ];
