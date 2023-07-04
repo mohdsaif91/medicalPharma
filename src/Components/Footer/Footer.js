@@ -21,8 +21,16 @@ const Footer = () => {
           <div>Refund and Shipping policy</div>
         </div>
         <div className={style.mobileMoneyContainer}>
-          <div>
-            <span className={style.mobileLabel}>Call us</span>
+          <div className={style.mobileEmailContainer}>
+            <a
+              className={style.mobileNumber}
+              href="mailto:support@unitedheatlhcarepharma.com"
+            >
+              support@unitedheatlhcarepharma.com
+            </a>
+          </div>
+          <div className={style.mobileEmailContainer}>
+            <div className={style.mobileLabel}>Call us</div>
             <a className={style.mobileNumber} href="tel:7577675778">
               757-7675778
             </a>

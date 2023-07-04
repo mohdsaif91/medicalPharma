@@ -26,6 +26,16 @@ const Contact = () => {
           </a>
         </div>
         <div className={style.contactusDetailsHeading}>
+          If you have any quires related to products you can send the mail on
+          <a
+            className={`${globalStyle.removeUnderLine}`}
+            href="mailto:support@unitedheatlhcarepharma.com"
+          >
+            {" "}
+            support@unitedheatlhcarepharma.com
+          </a>
+        </div>
+        <div className={style.contactusDetailsHeading}>
           Our call center is open Monday – Friday, 9 am – 6 pm (EDT)
         </div>
         <div className={style.contactusForm}>

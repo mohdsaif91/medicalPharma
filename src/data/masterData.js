@@ -58,6 +58,12 @@ import genericLuvox from "../images/products/genericLuvox.gif";
 import genericPamelor from "../images/products/genericPamelor.gif";
 import genericPaxil from "../images/products/genericPaxil.gif";
 import genericProzac from "../images/products/genericProzac.gif";
+import genericRemeron from "../images/products/genericRemeron.gif";
+import genericRisperdal from "../images/products/genericRisperdal.gif";
+import genericPhenergan2 from "../images/products/genericPhenergan2.gif";
+import genericSinequan from "../images/products/genericSinequan.gif";
+import genericTofranil from "../images/products/genericTofranil.gif";
+import genericZoloft from "../images/products/genericZoloft.gif";
 
 export const category = [
   "AIDS or HIV Treatment",
@@ -4992,5 +4998,873 @@ export const masterData = [
 
     Your doctor may start you on a low dose of fluoxetine and gradually increase your dose.`,
     additionalDetials: `It may take 4 to 5 weeks or longer before you feel the full benefit of fluoxetine. Continue to take fluoxetine even if you feel well. Do not stop taking fluoxetine without talking to your doctor. If you suddenly stop taking fluoxetine, you may experience withdrawal symptoms such as mood changes, irritability, agitation, dizziness, numbness or tingling in the hands or feet, anxiety, sweating, confusion, headache, tiredness, and difficulty falling asleep or staying asleep. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 110,
+    name: "Generic Remeron",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Mirtazapine",
+    rating: 63,
+    star: 4,
+    price: "1.01",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericRemeron,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "7.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 43.7, pricePerBottle: 1.46 },
+          { count: 60, price: 72.59, pricePerBottle: 1.21 },
+          { count: 120, price: 130.37, pricePerBottle: 1.09 },
+          { count: 240, price: 245.93, pricePerBottle: 1.02 },
+          { count: 300, price: 303.7, pricePerBottle: 1.01 },
+        ],
+      },
+      {
+        mg: "15",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 61.48, pricePerBottle: 2.05 },
+          { count: 60, price: 108.15, pricePerBottle: 1.8 },
+          { count: 120, price: 201.48, pricePerBottle: 1.68 },
+          { count: 240, price: 388.15, pricePerBottle: 1.62 },
+          { count: 300, price: 481.48, pricePerBottle: 1.6 },
+        ],
+      },
+      {
+        mg: "30",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 81.48, pricePerBottle: 2.72 },
+          { count: 60, price: 148.15, pricePerBottle: 2.47 },
+          { count: 120, price: 281.48, pricePerBottle: 2.35 },
+          { count: 240, price: 548.15, pricePerBottle: 2.28 },
+          { count: 300, price: 681.48, pricePerBottle: 2.27 },
+        ],
+      },
+    ],
+    prescription: `Mirtazapine is used to treat depression. Mirtazapine is in a class of medications called antidepressants. It works by increasing certain types of activity in the brain to maintain mental balance`,
+    howToUse: `Mirtazapine comes as a tablet and as a disintegrating tablet to take by mouth. It usually is taken once a day at bedtime. It may be taken with or without food. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take mirtazapine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    To take a mirtazapine disintegrating tablet, open the blister pack with dry hands and place the tablet on your tongue. The tablet will disintegrate on the tongue and can be swallowed with saliva. No water is needed to swallow disintegrating tablets. Once the tablet is removed from the blister pack, it cannot be stored. Do not split mirtazapine disintegrating tablets.`,
+    additionalDetials: `It may take several weeks or longer for you to feel the full benefit of mirtazapine. Continue to take mirtazapine even if you feel well. Do not stop taking mirtazapine without talking to your doctor. Your doctor probably will decrease your dose gradually.`,
+  },
+  {
+    productId: 111,
+    name: "Generic Risperdal",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Risperidone",
+    rating: 54,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericRisperdal,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "2",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 37.04, pricePerBottle: 2.05 },
+          { count: 60, price: 59.26, pricePerBottle: 1.8 },
+          { count: 120, price: 103.7, pricePerBottle: 1.68 },
+          { count: 240, price: 192.59, pricePerBottle: 1.62 },
+          { count: 300, price: 237.04, pricePerBottle: 1.6 },
+        ],
+      },
+      {
+        mg: "3",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.48, pricePerBottle: 1.38 },
+          { count: 60, price: 68.15, pricePerBottle: 1.14 },
+          { count: 120, price: 121.48, pricePerBottle: 1.01 },
+          { count: 240, price: 228.15, pricePerBottle: 0.95 },
+          { count: 300, price: 281.48, pricePerBottle: 0.94 },
+        ],
+      },
+      {
+        mg: "4",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 54.81, pricePerBottle: 1.83 },
+          { count: 60, price: 94.81, pricePerBottle: 1.58 },
+          { count: 120, price: 174.81, pricePerBottle: 1.46 },
+          { count: 240, price: 334.81, pricePerBottle: 1.4 },
+          { count: 300, price: 414.81, pricePerBottle: 1.38 },
+        ],
+      },
+    ],
+    prescription: `Risperidone extended-release (long-acting) injection is used to treat schizophrenia (a mental illness that causes disturbed or unusual thinking, loss of interest in life, and strong or inappropriate emotions). Risperidone extended-release injection is used alone or in combination with lithium (Lithobid) or valproate (Depacon) to treat people who have bipolar I disorder (manic depressive disorder; a disease that causes episodes of depression, episodes of severe mania, and other abnormal moods). Risperidone is in a class of medications called atypical antipsychotics. It works by changing the activity of certain natural substances in the brain.`,
+    howToUse: `Risperidone extended-release injection comes as a solution to be injected into a muscle by a healthcare provider. Risperidone extended-release injection is usually given once every 2 weeks. Your doctor will prescribe a similar medication to take by mouth for 3 weeks until risperidone extended-release injection is fully working.`,
+    additionalDetials: `Risperidone extended-release injection may help control your symptoms but will not cure your condition. Continue to keep appointments to receive risperidone injection even if you feel well. Talk to your doctor if you do not feel like you are getting better during your treatment with risperidone injection.`,
+  },
+  {
+    productId: 112,
+    name: "Generic Seroquel",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Quetiapine",
+    rating: 55,
+    star: 4,
+    price: "0.72",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericPhenergan2,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 46.09, pricePerBottle: 1.54 },
+          { count: 60, price: 74.78, pricePerBottle: 1.25 },
+          { count: 120, price: 132.17, pricePerBottle: 1.1 },
+          { count: 240, price: 246.96, pricePerBottle: 1.03 },
+          { count: 300, price: 304.35, pricePerBottle: 1.01 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 62.35, pricePerBottle: 2.08 },
+          { count: 60, price: 101.18, pricePerBottle: 1.69 },
+          { count: 120, price: 178.82, pricePerBottle: 1.49 },
+          { count: 240, price: 334.12, pricePerBottle: 0.39 },
+          { count: 300, price: 411.76, pricePerBottle: 0.37 },
+        ],
+      },
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 111.76, pricePerBottle: 3.73 },
+          { count: 60, price: 200, pricePerBottle: 3.33 },
+          { count: 120, price: 376.47, pricePerBottle: 3.14 },
+          { count: 240, price: 376.47, pricePerBottle: 3.04 },
+        ],
+      },
+      {
+        mg: "300",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 143.53, pricePerBottle: 4.78 },
+          { count: 60, price: 263.53, pricePerBottle: 4.39 },
+          { count: 120, price: 503.53, pricePerBottle: 4.2 },
+        ],
+      },
+    ],
+    prescription: `Quetiapine tablets and extended-release (long-acting) tablets are used to treat the symptoms of schizophrenia (a mental illness that causes disturbed or unusual thinking, loss of interest in life, and strong or inappropriate emotions). Quetiapine tablets and extended-release tablets are also used alone or with other medications to treat episodes of mania (frenzied, abnormally excited or irritated mood) or depression in patients with bipolar disorder (manic depressive disorder; a disease that causes episodes of depression, episodes of mania, and other abnormal moods). In addition, quetiapine tablets and extended-release tablets are used with other medications to prevent episodes of mania or depression in patients with bipolar disorder. Quetiapine extended-release tablets are also used along with other medications to treat depression. Quetiapine tablets may be used as part of a treatment program to treat bipolar disorder and schizophrenia in children and teenagers. Quetiapine is in a class of medications called atypical antipsychotics. It works by changing the activity of certain natural substances in the brain.`,
+    howToUse: `Quetiapine comes as a tablet and an extended-release tablet to take by mouth. The tablets are usually taken one to three times a day, with or without food. The extended-release tablets are usually taken once a day in the evening without food or with a light meal. Take quetiapine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take quetiapine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow quetiapine extended-release tablets whole; do not split, chew, or crush them.
+    
+    Your doctor will probably start you on a low dose of quetiapine and gradually increase your dose during the first week of your treatment. Ask your doctor or pharmacist if you have any questions about the amount of medication you should take each day at the beginning of your treatment.
+    
+    If you do not take quetiapine for one week or longer, you should call your doctor before you start taking the medication again. Your doctor will probably tell you to start taking a low dose of the medication and gradually increase your dose as you did when you first started taking quetiapine.`,
+    additionalDetials: `Quetiapine may help control your symptoms but will not cure your condition. Continue to take quetiapine even if you feel well. Do not stop taking quetiapine without talking to your doctor. If you suddenly stop taking quetiapine, you may experience withdrawal symptoms such as nausea, vomiting, and difficulty falling asleep or staying asleep. Your doctor will probably want to decrease your dose gradually.`,
+  },
+  {
+    productId: 113,
+    name: "Generic Sinequan",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Doxepin",
+    rating: 77,
+    star: 4,
+    price: "0.86",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericSinequan,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 57.04, pricePerBottle: 1.9 },
+          { count: 60, price: 99.26, pricePerBottle: 1.65 },
+          { count: 120, price: 183.7, pricePerBottle: 1.53 },
+          { count: 240, price: 352.29, pricePerBottle: 1.47 },
+          { count: 300, price: 437.04, pricePerBottle: 1.46 },
+        ],
+      },
+      {
+        mg: "75",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 68.15, pricePerBottle: 2.27 },
+          { count: 60, price: 121.48, pricePerBottle: 2.02 },
+          { count: 120, price: 228.15, pricePerBottle: 1.9 },
+          { count: 240, price: 441.48, pricePerBottle: 1.84 },
+          { count: 300, price: 548.15, pricePerBottle: 1.83 },
+        ],
+      },
+    ],
+    prescription: `Doxepin (Silenor) is used to treat insomnia (difficulty falling asleep or staying asleep) in people who have trouble staying asleep. Doxepin (Silenor) is in a class of medications called tricyclic antidepressants. It works by slowing activity in the brain to allow sleep.
+
+    Doxepin is also available as a capsule and liquid to treat depression and anxiety. This monograph only gives information about doxepin (Silenor) for insomnia. If you are using this medication for depression or anxiety, read the monograph entitled doxepin (depression, anxiety).`,
+    howToUse: `Doxepin (Silenor) comes as a tablet to take by mouth. It is usually taken once a day, within 30 minutes of bedtime. Do not take doxepin (Silenor) within 3 hours of a meal. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take doxepin (Silenor) exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    You will probably become very sleepy soon after you take doxepin (Silenor) and will remain sleepy for some time after you take the medication. Plan to go to bed right after you take doxepin (Silenor) and to stay in bed for 7 to 8 hours. Do not take doxepin (Silenor) if you will be unable to go to bed right away and remain asleep for 7 to 8 hours after taking the medication.
+    
+    You should begin to sleep better during the first few days of treatment with doxepin (Silenor). If your sleep does not improve within 7-10 days, or gets worse call your doctor.`,
+    additionalDetials: `Your doctor or pharmacist will give you the manufacturer's patient information sheet (Medication Guide) when you begin treatment with doxepin (Silenor) and each time you refill your prescription. Read the information carefully and ask your doctor or pharmacist if you have any questions. You can also visit the Food and Drug Administration (FDA) website (http://www.fda.gov/Drugs/DrugSafety/ucm085729.htm) to obtain the Medication Guide.`,
+  },
+  {
+    productId: 114,
+    name: "Generic Tofranil",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Imipramine",
+    rating: 168,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericTofranil,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+    ],
+    prescription: `Imipramine tablets and capsules are used to treat depression. Imipramine tablets are also used to prevent bedwetting in children. Imipramine is in a class of medications called tricyclic antidepressants. It treats depression by increasing the amounts of certain natural substances in the brain that are needed to maintain mental balance. There is not enough information to explain how imipramine prevents bedwetting.`,
+    howToUse: `Imipramine comes as a tablet and a capsule to take by mouth. When imipramine tablets or capsules are used to treat depression, they are usually taken one or more times a day and may be taken with or without food. When imipramine tablets are used to prevent bedwetting in children, they are usually taken one hour before bedtime. Children who wet the bed early in the evening may be given one dose in the mid-afternoon and another dose at bedtime. Try to take imipramine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take imipramine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of imipramine and gradually increase your dose.`,
+    additionalDetials: `It may take 1-3 weeks or longer for you to feel the full benefit of imipramine. Continue to take imipramine even if you feel well. Do not stop taking imipramine without talking to your doctor. Your doctor will probably want to decrease your dose gradually.`,
+  },
+  {
+    productId: 115,
+    name: "Generic Trazodone",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Trazodone",
+    rating: 121,
+    star: 5,
+    price: "1.01",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericCopegus,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 43.7, pricePerBottle: 1.46 },
+          { count: 60, price: 72.59, pricePerBottle: 1.21 },
+          { count: 120, price: 130.37, pricePerBottle: 1.09 },
+          { count: 240, price: 245.93, pricePerBottle: 1.02 },
+          { count: 300, price: 3030.7, pricePerBottle: 1.01 },
+        ],
+      },
+    ],
+    prescription: `Trazodone is used to treat depression. Trazodone is in a class of medications called serotonin modulators. It works by increasing the amount of serotonin, a natural substance in the brain that helps maintain mental balance.`,
+    howToUse: `Trazodone comes as a tablet and as an extended-release (long-lasting) tablet to take by mouth. The tablet is usually taken with a meal or light snack two or more times a day. The extended-release tablet is usually taken once a day at bedtime on an empty stomach, either one hour before or two hours after a meal. To help you remember to take trazodone, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take trazodone exactly as directed. Do not take more or less of it, take it more often, or take it for a longer time than prescribed by your doctor.
+
+    Swallow the extended-release tablets whole or broken in half on the score mark; do not chew or crush them.
+    
+    Your doctor may start you on a low dose of trazodone and gradually increase your dose, not more than once every 3 to 4 days. Your doctor may decrease your dose once your condition is controlled.
+    
+    Trazodone controls depression, but does not cure it. It may take 2 weeks or longer before you feel the full benefit of trazodone. Continue to take trazodone even if you feel well.`,
+    additionalDetials: `Do not stop taking trazodone without talking to your doctor. If you suddenly stop taking trazodone, you may experience withdrawal symptoms such as anxiety, agitation, or difficulty falling asleep or staying asleep. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 116,
+    name: "Generic Zoloft",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Sertraline",
+    rating: 151,
+    star: 4,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericZoloft,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `Sertraline is used to treat depression, obsessive-compulsive disorder (bothersome thoughts that won't go away and the need to perform certain actions over and over), panic attacks (sudden, unexpected attacks of extreme fear and worry about these attacks), posttraumatic stress disorder (disturbing psychological symptoms that develop after a frightening experience), and social anxiety disorder (extreme fear of interacting with others or performing in front of others that interferes with normal life). It is also used to relieve the symptoms of premenstrual dysphoric disorder, including mood swings, irritability, bloating, and breast tenderness. Sertraline is in a class of antidepressants called selective serotonin reuptake inhibitors (SSRIs). It works by increasing the amounts of serotonin, a natural substance in the brain that helps maintain mental balance.`,
+    howToUse: `Sertraline comes as a tablet and a concentrate (liquid) to take by mouth. It is usually taken once daily in the morning or evening. To treat premenstrual dysphoric disorder, sertraline is taken once a day, either every day of the month or on certain days of the month. Take sertraline at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sertraline exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Sertraline concentrate must be diluted before use. Immediately before taking it, use the provided dropper to remove the amount of concentrate your doctor has told you to take. Mix the concentrate with 4 ounces (1/2 cup [120 milliliters]) of water, ginger ale, lemon or lime soda, lemonade, or orange juice. After mixing, the diluted solution may be hazy; this is normal. Do not mix the concentrate with any liquids other than the ones listed. Drink the diluted solution immediately.
+    
+    Your doctor may start you on a low dose of sertraline and gradually increase your dose, not more than once a week.`,
+    additionalDetials: `It may take a few weeks or longer before you feel the full benefit of sertraline. Continue to take sertraline even if you feel well. Do not stop taking sertraline without talking to your doctor. If you suddenly stop taking sertraline, you may experience withdrawal symptoms such as nausea, sweating, depression, mood changes, frenzied or abnormally excited mood, irritability, anxiety, confusion, dizziness, headache, tiredness, seizures, ringing in the ears, numbness or tingling in the arms, legs, hands, or feet, difficulty falling asleep or staying asleep.`,
+  },
+  {
+    productId: 117,
+    name: "Intalith CR",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Lithium",
+    rating: 60,
+    star: 5,
+    price: "32.64",
+    type: "packs",
+    typeName: "pack",
+    ManufacturedBy: "Intas Pharmaceuticals Ltd",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100 tabs / pack 450",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 42.52, pricePerBottle: 0.62 },
+          { count: 2, price: 70.22, pricePerBottle: 0.49 },
+          { count: 3, price: 97.93, pricePerBottle: 0.43 },
+        ],
+      },
+    ],
+    prescription: `Lithium is used to treat and prevent episodes of mania (frenzied, abnormally excited mood) in people with bipolar disorder (manic-depressive disorder; a disease that causes episodes of depression, episodes of mania, and other abnormal moods). Lithium is in a class of medications called antimanic agents. It works by decreasing abnormal activity in the brain.`,
+    howToUse: `Lithium comes as a tablet, capsule, extended-release (long-acting) tablet, and solution (liquid) to take by mouth. The tablets, capsules, and solution are usually taken three to four times a day. The extended-release tablets are usually taken two to three times a day. Take lithium at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take lithium exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the extended-release tablet whole; do not split, chew, or crush it.
+    
+    Your doctor may increase or decrease the dose of your medication during your treatment. Follow these directions carefully.`,
+    additionalDetials: `Lithium may help to control your condition but will not cure it. It may take 1 to 3 weeks or longer for you to feel the full benefit of lithium. Continue to take lithium even if you feel well. Do not stop taking lithium without talking to your doctor.`,
+  },
+  {
+    productId: 118,
+    name: "Lithosun SR",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Lithium",
+    rating: 171,
+    star: 4,
+    price: "0.72",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Sun Pharma",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "400",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+    ],
+    prescription: `Lithium is used to treat and prevent episodes of mania (frenzied, abnormally excited mood) in people with bipolar disorder (manic-depressive disorder; a disease that causes episodes of depression, episodes of mania, and other abnormal moods). Lithium is in a class of medications called antimanic agents. It works by decreasing abnormal activity in the brain.`,
+    howToUse: `Lithium comes as a tablet, capsule, extended-release (long-acting) tablet, and solution (liquid) to take by mouth. The tablets, capsules, and solution are usually taken three to four times a day. The extended-release tablets are usually taken two to three times a day. Take lithium at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take lithium exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the extended-release tablet whole; do not split, chew, or crush it.
+    
+    Your doctor may increase or decrease the dose of your medication during your treatment. Follow these directions carefully.`,
+    additionalDetials: `Lithium may help to control your condition but will not cure it. It may take 1 to 3 weeks or longer for you to feel the full benefit of lithium. Continue to take lithium even if you feel well. Do not stop taking lithium without talking to your doctor.`,
+  },
+  {
+    productId: 119,
+    name: "Mirnite",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Mirtazapine",
+    rating: 115,
+    star: 4,
+    price: "71.60",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Intas Pharmaceuticals Ltd",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100 tabs / pack 7.5",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 81.48, pricePerBottle: 81.48 },
+          { count: 2, price: 148.15, pricePerBottle: 74.08 },
+          { count: 3, price: 214.81, pricePerBottle: 71.6 },
+        ],
+      },
+      {
+        mg: "100 tabs / pack 30",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 229.63, pricePerBottle: 229.63 },
+          { count: 2, price: 444.44, pricePerBottle: 222.22 },
+          { count: 3, price: 659.26, pricePerBottle: 219.75 },
+        ],
+      },
+      {
+        mg: "100 tabs / pack 15",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 133.33, pricePerBottle: 133.33 },
+          { count: 2, price: 251.85, pricePerBottle: 125.93 },
+          { count: 3, price: 370.37, pricePerBottle: 123.46 },
+        ],
+      },
+    ],
+    prescription: `Mirtazapine is used to treat depression. Mirtazapine is in a class of medications called antidepressants. It works by increasing certain types of activity in the brain to maintain mental balance.`,
+    howToUse: `Mirtazapine comes as a tablet and as a disintegrating tablet to take by mouth. It usually is taken once a day at bedtime. It may be taken with or without food. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take mirtazapine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    To take a mirtazapine disintegrating tablet, open the blister pack with dry hands and place the tablet on your tongue. The tablet will disintegrate on the tongue and can be swallowed with saliva. No water is needed to swallow disintegrating tablets. Once the tablet is removed from the blister pack, it cannot be stored. Do not split mirtazapine disintegrating tablets.`,
+    additionalDetials: `It may take several weeks or longer for you to feel the full benefit of mirtazapine. Continue to take mirtazapine even if you feel well. Do not stop taking mirtazapine without talking to your doctor. Your doctor probably will decrease your dose gradually.`,
+  },
+  {
+    productId: 120,
+    name: "Risnia",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Risperidone",
+    rating: 54,
+    star: 4,
+    price: "0.49",
+    type: "tab",
+    typeName: "pack",
+    ManufacturedBy: "Intas Pharmaceuticals Ltd",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "2",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+      {
+        mg: "3",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 37.04, pricePerBottle: 1.23 },
+          { count: 60, price: 59.26, pricePerBottle: 0.99 },
+          { count: 120, price: 103.7, pricePerBottle: 0.86 },
+          { count: 240, price: 192.59, pricePerBottle: 0.8 },
+          { count: 300, price: 237.04, pricePerBottle: 0.79 },
+        ],
+      },
+      {
+        mg: "4",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `Risperidone extended-release (long-acting) injection is used to treat schizophrenia (a mental illness that causes disturbed or unusual thinking, loss of interest in life, and strong or inappropriate emotions). Risperidone extended-release injection is used alone or in combination with lithium (Lithobid) or valproate (Depacon) to treat people who have bipolar I disorder (manic depressive disorder; a disease that causes episodes of depression, episodes of severe mania, and other abnormal moods). Risperidone is in a class of medications called atypical antipsychotics. It works by changing the activity of certain natural substances in the brain.`,
+    howToUse: `Risperidone extended-release injection comes as a solution to be injected into a muscle by a healthcare provider. Risperidone extended-release injection is usually given once every 2 weeks. Your doctor will prescribe a similar medication to take by mouth for 3 weeks until risperidone extended-release injection is fully working.`,
+    additionalDetials: `Risperidone extended-release injection may help control your symptoms but will not cure your condition. Continue to keep appointments to receive risperidone injection even if you feel well. Talk to your doctor if you do not feel like you are getting better during your treatment with risperidone injection.`,
+  },
+  {
+    productId: 121,
+    name: "S Citadep",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Escitalopram",
+    rating: 44,
+    star: 4,
+    price: "0.72",
+    type: "tab",
+    typeName: "pack",
+    ManufacturedBy: "Cipla",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.48, pricePerBottle: 1.38 },
+          { count: 60, price: 68.15, pricePerBottle: 0.14 },
+          { count: 120, price: 121.48, pricePerBottle: 1.01 },
+          { count: 240, price: 228.15, pricePerBottle: 0.95 },
+          { count: 300, price: 281.48, pricePerBottle: 0.94 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 61.48, pricePerBottle: 2.05 },
+          { count: 60, price: 108.15, pricePerBottle: 1.8 },
+          { count: 120, price: 201.48, pricePerBottle: 1.68 },
+          { count: 240, price: 388.15, pricePerBottle: 1.62 },
+          { count: 300, price: 481.48, pricePerBottle: 1.6 },
+        ],
+      },
+    ],
+    prescription: `Escitalopram is used to treat depression and generalized anxiety disorder (GAD; excessive worry and tension that disrupts daily life and lasts for 6 months or longer). Escitalopram is in a class of antidepressants called selective serotonin reuptake inhibitors (SSRIs). It works by increasing the amount of serotonin, a natural substance in the brain that helps maintain mental balance.`,
+    howToUse: `Escitalopram comes as a tablet and a solution (liquid) to take by mouth. It is usually taken once a day with or without food. To help you remember to take escitalopram, take it at around the same time every day, in the morning or in the evening. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take escitalopram exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of escitalopram and increase your dose after 1 week.`,
+    additionalDetials: `It may take 1 to 4 weeks or longer before you feel the full benefit of escitalopram. Continue to take escitalopram even if you feel well. Do not stop taking escitalopram without talking to your doctor. If you suddenly stop taking escitalopram, you may experience withdrawal symptoms such as mood changes, irritability, agitation, dizziness, numbness or tingling in the hands or feet, anxiety, confusion, headache, tiredness, and difficulty falling asleep or staying asleep. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 122,
+    name: "Sertima",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Sertraline",
+    rating: 106,
+    star: 5,
+    price: "0.86",
+    type: "tab",
+    typeName: "pack",
+    ManufacturedBy: "Intas Pharmaceuticals Ltd",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `Sertraline is used to treat depression, obsessive-compulsive disorder (bothersome thoughts that won't go away and the need to perform certain actions over and over), panic attacks (sudden, unexpected attacks of extreme fear and worry about these attacks), posttraumatic stress disorder (disturbing psychological symptoms that develop after a frightening experience), and social anxiety disorder (extreme fear of interacting with others or performing in front of others that interferes with normal life). It is also used to relieve the symptoms of premenstrual dysphoric disorder, including mood swings, irritability, bloating, and breast tenderness. Sertraline is in a class of antidepressants called selective serotonin reuptake inhibitors (SSRIs). It works by increasing the amounts of serotonin, a natural substance in the brain that helps maintain mental balance.`,
+    howToUse: `Sertraline comes as a tablet and a concentrate (liquid) to take by mouth. It is usually taken once daily in the morning or evening. To treat premenstrual dysphoric disorder, sertraline is taken once a day, either every day of the month or on certain days of the month. Take sertraline at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sertraline exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Sertraline concentrate must be diluted before use. Immediately before taking it, use the provided dropper to remove the amount of concentrate your doctor has told you to take. Mix the concentrate with 4 ounces (1/2 cup [120 milliliters]) of water, ginger ale, lemon or lime soda, lemonade, or orange juice. After mixing, the diluted solution may be hazy; this is normal. Do not mix the concentrate with any liquids other than the ones listed. Drink the diluted solution immediately.
+    
+    Your doctor may start you on a low dose of sertraline and gradually increase your dose, not more than once a week.`,
+    additionalDetials: `It may take a few weeks or longer before you feel the full benefit of sertraline. Continue to take sertraline even if you feel well. Do not stop taking sertraline without talking to your doctor. If you suddenly stop taking sertraline, you may experience withdrawal symptoms such as nausea, sweating, depression, mood changes, frenzied or abnormally excited mood, irritability, anxiety, confusion, dizziness, headache, tiredness, seizures, ringing in the ears, numbness or tingling in the arms, legs, hands, or feet, difficulty falling asleep or staying asleep.`,
+  },
+  {
+    productId: 123,
+    name: "Stablon",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Tianeptine",
+    rating: 89,
+    star: 4,
+    price: "1.60",
+    type: "tab",
+    typeName: "pack",
+    ManufacturedBy: "Intas Pharmaceuticals Ltd",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 61.48, pricePerBottle: 2.05 },
+          { count: 60, price: 108.15, pricePerBottle: 1.8 },
+          { count: 120, price: 201.48, pricePerBottle: 1.68 },
+          { count: 240, price: 388.15, pricePerBottle: 1.62 },
+          { count: 300, price: 481.48, pricePerBottle: 1.6 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 124,
+    name: "Trazolan",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Trazodone",
+    rating: 96,
+    star: 5,
+    price: "93.83",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Sun Pharma Laboratories Ltd",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100 tabs / pack 50",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 103.7, pricePerBottle: 103.7 },
+          { count: 2, price: 192.59, pricePerBottle: 96.3 },
+          { count: 3, price: 281.48, pricePerBottle: 93.83 },
+        ],
+      },
+    ],
+    prescription: `Trazodone is used to treat depression. Trazodone is in a class of medications called serotonin modulators. It works by increasing the amount of serotonin, a natural substance in the brain that helps maintain mental balance.`,
+    howToUse: `Trazodone comes as a tablet and as an extended-release (long-lasting) tablet to take by mouth. The tablet is usually taken with a meal or light snack two or more times a day. The extended-release tablet is usually taken once a day at bedtime on an empty stomach, either one hour before or two hours after a meal. To help you remember to take trazodone, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take trazodone exactly as directed. Do not take more or less of it, take it more often, or take it for a longer time than prescribed by your doctor.
+
+    Swallow the extended-release tablets whole or broken in half on the score mark; do not chew or crush them.
+    
+    Your doctor may start you on a low dose of trazodone and gradually increase your dose, not more than once every 3 to 4 days. Your doctor may decrease your dose once your condition is controlled.`,
+    additionalDetials: `Trazodone controls depression, but does not cure it. It may take 2 weeks or longer before you feel the full benefit of trazodone. Continue to take trazodone even if you feel well.
+
+    Do not stop taking trazodone without talking to your doctor. If you suddenly stop taking trazodone, you may experience withdrawal symptoms such as anxiety, agitation, or difficulty falling asleep or staying asleep. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 125,
+    name: "Trazonil",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Trazodone",
+    rating: 130,
+    star: 5,
+    price: "86.42",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Intas Pharmaceuticals Ltd",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100 tabs / pack 50",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 93.3, pricePerBottle: 96.3 },
+          { count: 2, price: 177.78, pricePerBottle: 88.89 },
+          { count: 3, price: 259.26, pricePerBottle: 86.42 },
+        ],
+      },
+      {
+        mg: "100 tabs / pack 100",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 111.11, pricePerBottle: 111.11 },
+          { count: 2, price: 207.41, pricePerBottle: 103.71 },
+          { count: 3, price: 303.7, pricePerBottle: 101.23 },
+        ],
+      },
+    ],
+    prescription: `Trazodone is used to treat depression. Trazodone is in a class of medications called serotonin modulators. It works by increasing the amount of serotonin, a natural substance in the brain that helps maintain mental balance.`,
+    howToUse: `Trazodone comes as a tablet and as an extended-release (long-lasting) tablet to take by mouth. The tablet is usually taken with a meal or light snack two or more times a day. The extended-release tablet is usually taken once a day at bedtime on an empty stomach, either one hour before or two hours after a meal. To help you remember to take trazodone, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take trazodone exactly as directed. Do not take more or less of it, take it more often, or take it for a longer time than prescribed by your doctor.
+
+    Swallow the extended-release tablets whole or broken in half on the score mark; do not chew or crush them.
+    
+    Your doctor may start you on a low dose of trazodone and gradually increase your dose, not more than once every 3 to 4 days. Your doctor may decrease your dose once your condition is controlled.`,
+    additionalDetials: `Trazodone controls depression, but does not cure it. It may take 2 weeks or longer before you feel the full benefit of trazodone. Continue to take trazodone even if you feel well.
+
+    Do not stop taking trazodone without talking to your doctor. If you suddenly stop taking trazodone, you may experience withdrawal symptoms such as anxiety, agitation, or difficulty falling asleep or staying asleep. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 126,
+    name: "Venlor XR",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Venlafaxine",
+    rating: 94,
+    star: 5,
+    price: "0.86",
+    type: "cap",
+    typeName: "pack",
+    ManufacturedBy: "Cipla",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "37.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "75",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "75",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 61.48, pricePerBottle: 2.05 },
+          { count: 60, price: 108.15, pricePerBottle: 1.8 },
+          { count: 120, price: 201.48, pricePerBottle: 1.68 },
+          { count: 240, price: 388.15, pricePerBottle: 1.62 },
+          { count: 300, price: 481.48, pricePerBottle: 1.6 },
+        ],
+      },
+    ],
+    prescription: `Venlafaxine is used to treat depression. Venlafaxine extended-release (long-acting) capsules are also used to treat generalized anxiety disorder (GAD; excessive worrying that is difficult to control), social anxiety disorder (extreme fear of interacting with others or performing in front of others that interferes with normal life), and panic disorder (sudden, unexpected attacks of extreme fear and worry about these attacks). Venlafaxine is in a class of medications called selective serotonin and norepinephrine reuptake inhibitors (SNRIs). It works by increasing the amounts of serotonin and norepinephrine, natural substances in the brain that help maintain mental balance.`,
+    howToUse: `Venlafaxine comes as a tablet or extended-release capsule to take by mouth. The tablet is usually taken two or three times a day with food. The extended-release capsule is usually taken once daily in the morning or evening with food. Take venlafaxine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take venlafaxine exactly as directed. Do not take more or less of it or take it more often or for a longer period of time than prescribed by your doctor.
+
+    Swallow the extended-release capsule whole; do not split, chew, or crush it, or place it in water. If you cannot swallow the extended-release capsule, you may carefully open the capsule and sprinkle the entire contents on a spoonful of applesauce. Swallow (without chewing) this mixture immediately after preparation and then drink a glass of water to make sure that you have swallowed all of the medication.
+    
+    Your doctor will probably start you on a low dose of venlafaxine and gradually increase your dose, not more often than once every 4 to 7 days. Tell your doctor how you are feeling during your treatment so that your doctor can adjust your dose properly.`,
+    additionalDetials: `Venlafaxine controls depression but does not cure it. It may take 6 to 8 weeks or longer for you to feel the full benefit of this medication. Continue to take venlafaxine even if you feel well. Do not stop taking venlafaxine without talking to your doctor. Your doctor will probably decrease your dose gradually. If you suddenly stop taking venlafaxine, you may experience withdrawal symptoms such as agitation; anxiety; confusion; sad mood; irritability; frenzied or abnormal excitement; lack of coordination; trouble falling asleep or staying asleep; nightmares; nausea; vomiting; loss of appetite; diarrhea; dry mouth; sweating; ringing in the ears; seizures; or burning, tingling, numbness, or electric shock-like feelings in any part of the body. Tell your doctor if you experience any of these symptoms while you are decreasing your dose of venlafaxine or soon after you stop taking venlafaxine.`,
+  },
+  {
+    productId: 127,
+    name: "Zitarax",
+    categoryName: "ANTI DEPRESSANT",
+    activeIngredient: "Hydroxyzine",
+    rating: 95,
+    star: 5,
+    price: "0.64",
+    type: "pill",
+    typeName: "pack",
+    ManufacturedBy: "Kosmica Dermacare",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 50.37, pricePerBottle: 1.06 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 120, price: 121.48, pricePerBottle: 0.67 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+      {
+        mg: "200 tabs / pack 25",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 133.33, pricePerBottle: 133.33 },
+          { count: 2, price: 251.85, pricePerBottle: 125.93 },
+          { count: 3, price: 488.89, pricePerBottle: 122.22 },
+        ],
+      },
+      {
+        mg: "75",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 61.48, pricePerBottle: 2.05 },
+          { count: 60, price: 108.15, pricePerBottle: 1.8 },
+          { count: 120, price: 201.48, pricePerBottle: 1.68 },
+          { count: 240, price: 388.15, pricePerBottle: 1.62 },
+          { count: 300, price: 481.48, pricePerBottle: 1.6 },
+        ],
+      },
+    ],
+    prescription: `Hydroxyzine is used in adults and children to relieve itching caused by allergic skin reactions. It is also used alone or with other medications in adults and children to relieve anxiety and tension. Hydroxyzine is also used along with other medications in adults and children as a sedative before and after general anesthesia for surgery. Hydroxyzine is in a class of medications called antihistamines. It works by blocking the action of histamine a substance in the body that causes allergic symptoms. It also works by decreasing activity in the brain.`,
+    howToUse: `Hydroxyzine comes as capsules, tablets, a syrup, and suspension to take by mouth. It usually is taken three or four times a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take hydroxyzine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Shake the suspension well before each use to mix the medication evenly.`,
   },
 ];

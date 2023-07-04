@@ -25,6 +25,10 @@
       flex-direction: column;
       align-items: center;
       justify-content: center;
+      .mobileEmailContainer {
+        display: flex;
+        align-items: center;
+      }
       .mobileLabel {
         font-weight: 600;
         margin-right: 8px;
