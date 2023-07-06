@@ -64,6 +64,8 @@ import genericPhenergan2 from "../images/products/genericPhenergan2.gif";
 import genericSinequan from "../images/products/genericSinequan.gif";
 import genericTofranil from "../images/products/genericTofranil.gif";
 import genericZoloft from "../images/products/genericZoloft.gif";
+import genericActos from "../images/products/genericActos.gif";
+import genericAmaryl from "../images/products/genericAmaryl.gif";
 
 export const category = [
   "AIDS or HIV Treatment",
@@ -5866,5 +5868,181 @@ export const masterData = [
     prescription: `Hydroxyzine is used in adults and children to relieve itching caused by allergic skin reactions. It is also used alone or with other medications in adults and children to relieve anxiety and tension. Hydroxyzine is also used along with other medications in adults and children as a sedative before and after general anesthesia for surgery. Hydroxyzine is in a class of medications called antihistamines. It works by blocking the action of histamine a substance in the body that causes allergic symptoms. It also works by decreasing activity in the brain.`,
     howToUse: `Hydroxyzine comes as capsules, tablets, a syrup, and suspension to take by mouth. It usually is taken three or four times a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take hydroxyzine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
     additionalDetials: `Shake the suspension well before each use to mix the medication evenly.`,
+  },
+  {
+    productId: 128,
+    name: "Galvus",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Vildagliptin",
+    rating: 114,
+    star: 5,
+    price: "46.93",
+    type: "blister",
+    typeName: "pack",
+    ManufacturedBy: "Novartis",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "14 tabs / blister 50",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 60.81, pricePerBottle: 60.81 },
+          { count: 2, price: 106.81, pricePerBottle: 53.41 },
+          { count: 4, price: 198.81, pricePerBottle: 49.7 },
+          { count: 8, price: 382.81, pricePerBottle: 47.85 },
+          { count: 16, price: 750.81, pricePerBottle: 46.93 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 129,
+    name: "Generic Actos",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Pioglitazone",
+    rating: 114,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: genericActos,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "15",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "30",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 37.04, pricePerBottle: 1.23 },
+          { count: 60, price: 59.26, pricePerBottle: 0.99 },
+          { count: 120, price: 103.7, pricePerBottle: 0.86 },
+          { count: 240, price: 192.59, pricePerBottle: 0.8 },
+          { count: 300, price: 237.04, pricePerBottle: 0.79 },
+        ],
+      },
+    ],
+    prescription: `Pioglitazone is used with a diet and exercise program and sometimes with other medications, to treat type 2 diabetes (condition in which the body does not use insulin normally and therefore cannot control the amount of sugar in the blood). Pioglitazone is in a class of medications called thiazolidinediones. It works by increasing the body's sensitivity to insulin, a natural substance that helps control blood sugar levels. Pioglitazone is not used to treat type 1 diabetes (condition in which the body does not produce insulin and, therefore, cannot control the amount of sugar in the blood) or diabetic ketoacidosis (a serious condition that may develop if high blood sugar is not treated).
+
+    Over time, people who have diabetes and high blood sugar can develop serious or life-threatening complications, including heart disease, stroke, kidney problems, nerve damage, and eye problems.Taking medication(s), making lifestyle changes (e.g., diet, exercise, quitting smoking), and regularly checking your blood sugar may help to manage your diabetes and improve your health. This therapy may also decrease your chances of having a heart attack, stroke, or other diabetes-related complications such as kidney failure, nerve damage (numb, cold legs or feet; decreased sexual ability in men and women), eye problems, including changes or loss of vision, or gum disease. Your doctor and other healthcare providers will talk to you about the best way to manage your diabetes.`,
+    howToUse: `Pioglitazone comes as a tablet to take by mouth. It is usually taken once daily with or without meals. Take pioglitazone at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take pioglitazone exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of pioglitazone and gradually increase your dose.`,
+    additionalDetials: `Pioglitazone controls type 2 diabetes but does not cure it. It may take 2 weeks for your blood sugar to decrease and 2 to 3 months for you to feel the full effect of pioglitazone. Continue to take pioglitazone even if you feel well. Do not stop taking pioglitazone without talking to your doctor.`,
+  },
+  {
+    productId: 130,
+    name: "Generic Amaryl",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Glimepiride",
+    rating: 114,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: genericAmaryl,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "2",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "3",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 45.93, pricePerBottle: 1.53 },
+          { count: 60, price: 77.04, pricePerBottle: 1.28 },
+          { count: 10, price: 139.26, pricePerBottle: 1.16 },
+          { count: 240, price: 263.7, pricePerBottle: 1.1 },
+          { count: 300, price: 325.93, pricePerBottle: 1.09 },
+        ],
+      },
+      {
+        mg: "4",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 53.91, pricePerBottle: 1.8 },
+          { count: 60, price: 90.43, pricePerBottle: 1.51 },
+          { count: 10, price: 163.48, pricePerBottle: 1.36 },
+          { count: 240, price: 309.57, pricePerBottle: 1.29 },
+          { count: 300, price: 382.61, pricePerBottle: 1.28 },
+        ],
+      },
+    ],
+    prescription: `Glimepiride is used along with diet and exercise, and sometimes with other medications, to treat type 2 diabetes (condition in which the body does not use insulin normally and, therefore, cannot control the amount of sugar in the blood). Glimepiride lowers blood sugar by causing the pancreas to produce insulin (a natural substance that is needed to break down sugar in the body) and helping the body use insulin efficiently. This medication will only help lower blood sugar in people whose bodies produce insulin naturally. Glimepiride is not used to treat type 1 diabetes (condition in which the body does not produce insulin and, therefore, cannot control the amount of sugar in the blood) or diabetic ketoacidosis (a serious condition that may occur if high blood sugar is not treated).
+
+    Over time, people who have diabetes and high blood sugar can develop serious or life-threatening complications, including heart disease, stroke, kidney problems, nerve damage, and eye problems. Taking medication(s), making lifestyle changes (e.g., diet, exercise, quitting smoking), and regularly checking your blood sugar may help to manage your diabetes and improve your health. This therapy may also decrease your chances of having a heart attack, stroke, or other diabetes-related complications such as kidney failure, nerve damage (numb, cold legs or feet; decreased sexual ability in men and women), eye problems, including changes or loss of vision, or gum disease. Your doctor and other healthcare providers will talk to you about the best way to manage your diabetes.`,
+    howToUse: `Glimepiride comes as a tablet to take by mouth. It is usually taken once a day with breakfast or the first main meal of the day. To help you remember to take glimepiride, take it at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take glimepiride exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on a low dose of glimepiride and gradually increase your dose if needed. After you have taken glimepiride for some time, glimepiride may not control your blood sugar as well as it did at the beginning of your treatment. Your doctor may adjust the dose of your medication as needed so that the medication will work best for you. Be sure to tell your doctor how you are feeling and if your blood sugar test results have been higher or lower than normal at any time during your treatment.`,
+    additionalDetials: `Glimepiride helps control blood sugar but does not cure diabetes. Continue to take glimepiride even if you feel well. Do not stop taking glimepiride without talking to your doctor.`,
+  },
+  {
+    productId: 131,
+    name: "Generic Empagliflozin",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Empagliflozin",
+    rating: 166,
+    star: 4,
+    price: "5.60",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: GenericCopegus,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 179.36, pricePerBottle: 5.98 },
+          { count: 60, price: 343.7, pricePerBottle: 5.73 },
+          { count: 120, price: 672.59, pricePerBottle: 5.6 },
+        ],
+      },
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 223.7, pricePerBottle: 7.46 },
+          { count: 60, price: 432.59, pricePerBottle: 7.21 },
+          { count: 120, price: 850.37, pricePerBottle: 7.09 },
+        ],
+      },
+    ],
+    prescription: `Empagliflozin is used along with diet and exercise, and sometimes with other medications, to lower blood sugar levels in patients with type 2 diabetes (condition in which blood sugar is too high because the body does not produce or use insulin normally). It is in a class of medications called sodium-glucose co-transporter 2 (SGLT2) inhibitors. Empagliflozin lowers blood sugar by causing the kidneys to get rid of more glucose in the urine. It is not used to treat type 1 diabetes (condition in which the body does not produce insulin and, therefore, cannot control the amount of sugar in the blood) or diabetic ketoacidosis (a serious condition that may develop if high blood sugar is not treated).
+
+    Over time, people who have diabetes and high blood sugar can develop serious or life-threatening complications, includingheart disease, stroke, kidney problems, nerve damage, and eye problems. Taking medication(s), making lifestyle changes (e.g., diet, exercise, quitting smoking), and regularly checking your blood sugar may help to manage your diabetes and improve your health. This therapy may also decrease your chances of having a heart attack, stroke, or other diabetes-related complications such as kidney failure, nerve damage (numb, cold legs or feet; decreased sexual ability in men and women), eye problems, including changes or loss of vision, or gum disease. Your doctor and other healthcare providers will talk to you about the best way to manage your diabetes.`,
+    howToUse: `Empagliflozin comes as a tablet to take by mouth. It is usually taken once a day in the morning with or without food. Take empagliflozin at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take empagliflozin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of empagliflozin and increase your dose as needed.`,
+    additionalDetials: `Empagliflozin controls type 2 diabetes but does not cure it. Continue to take empagliflozin even if you feel well. Do not stop taking empagliflozin without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
   },
 ];
