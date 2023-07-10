@@ -66,6 +66,24 @@ import genericTofranil from "../images/products/genericTofranil.gif";
 import genericZoloft from "../images/products/genericZoloft.gif";
 import genericActos from "../images/products/genericActos.gif";
 import genericAmaryl from "../images/products/genericAmaryl.gif";
+import genericGlucophage from "../images/products/genericGlucophage.gif";
+import genericGlucotrol from "../images/products/genericGlucotrol.gif";
+import genericGlucovance from "../images/products/genericGlucovance.gif";
+import genericJanuvia from "../images/products/genericJanuvia.gif";
+import genericMaxolon from "../images/products/genericMaxolon.gif";
+import genericMetaglip from "../images/products/genericMetaglip.gif";
+import genericMicronase from "../images/products/genericMicronase.gif";
+import genericPrandin from "../images/products/genericPrandin.gif";
+import genericPrecose from "../images/products/genericPrecose.gif";
+import genericStarlix from "../images/products/genericStarlix.gif";
+import genericDiflucan from "../images/products/genericDiflucan.gif";
+import genericGrifulvinV from "../images/products/genericGrifulvinV.gif";
+import genericLamisil from "../images/products/genericLamisil.gif";
+import genericLotrisone from "../images/products/genericLotrisone.gif";
+import genericMentax from "../images/products/genericMentax.gif";
+import genericNizoral from "../images/products/genericNizoral.gif";
+import genericNizoralCream from "../images/products/genericNizoralCream.gif";
+import genericSporanox from "../images/products/genericSporanox.gif";
 
 export const category = [
   "AIDS or HIV Treatment",
@@ -6044,5 +6062,1375 @@ export const masterData = [
     additionalDetials: `Empagliflozin controls type 2 diabetes but does not cure it. Continue to take empagliflozin even if you feel well. Do not stop taking empagliflozin without talking to your doctor.
 
     Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 132,
+    name: "Generic Glucophage",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Metformin Hydrochloride",
+    rating: 195,
+    star: 4,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: genericGlucophage,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+      {
+        mg: "850",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 24, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "850",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 24, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+    ],
+    prescription: `Metformin is used alone or with other medications, including insulin, to treat type 2 diabetes (condition in which the body does not use insulin normally and, therefore, cannot control the amount of sugar in the blood). Metformin is in a class of drugs called biguanides. Metformin helps to control the amount of glucose (sugar) in your blood. It decreases the amount of glucose you absorb from your food and the amount of glucose made by your liver. Metformin also increases your body's response to insulin, a natural substance that controls the amount of glucose in the blood. Metformin is not used to treat type 1 diabetes (condition in which the body does not produce insulin and therefore cannot control the amount of sugar in the blood).
+
+    Over time, people who have diabetes and high blood sugar can develop serious or life-threatening complications, including heart disease, stroke, kidney problems, nerve damage, and eye problems. Taking medication(s), making lifestyle changes (e.g., diet, exercise, quitting smoking), and regularly checking your blood sugar may help to manage your diabetes and improve your health. This therapy may also decrease your chances of having a heart attack, stroke, or other diabetes-related complications such as kidney failure, nerve damage (numb, cold legs or feet; decreased sexual ability in men and women), eye problems, including changes or loss of vision, or gum disease. Your doctor and other healthcare providers will talk to you about the best way to manage your diabetes.`,
+    howToUse: `Metformin comes as a liquid, a tablet, and an extended-release (long-acting) tablet to take by mouth. The liquid is usually taken with meals one or two times a day. The regular tablet is usually taken with meals two or three times a day. The extended-release tablet is usually taken once daily with the evening meal. To help you remember to take metformin, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take metformin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow metformin extended-release tablets whole; do not split, chew, or crush them.
+    
+    Your doctor may start you on a low dose of metformin and gradually increase your dose not more often than once every 1-2 weeks. You will need to monitor your blood sugar carefully so your doctor will be able to tell how well metformin is working.`,
+    additionalDetials: `Metformin controls diabetes but does not cure it. Continue to take metformin even if you feel well. Do not stop taking metformin without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 133,
+    name: "Generic Glucophage SR",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Metformin Hydrochloride",
+    rating: 142,
+    star: 4,
+    price: "0.64",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: GenericLidoderm,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+    ],
+    prescription: `Metformin is used alone or with other medications, including insulin, to treat type 2 diabetes (condition in which the body does not use insulin normally and, therefore, cannot control the amount of sugar in the blood). Metformin is in a class of drugs called biguanides. Metformin helps to control the amount of glucose (sugar) in your blood. It decreases the amount of glucose you absorb from your food and the amount of glucose made by your liver. Metformin also increases your body's response to insulin, a natural substance that controls the amount of glucose in the blood. Metformin is not used to treat type 1 diabetes (condition in which the body does not produce insulin and therefore cannot control the amount of sugar in the blood).
+
+    Over time, people who have diabetes and high blood sugar can develop serious or life-threatening complications, including heart disease, stroke, kidney problems, nerve damage, and eye problems. Taking medication(s), making lifestyle changes (e.g., diet, exercise, quitting smoking), and regularly checking your blood sugar may help to manage your diabetes and improve your health. This therapy may also decrease your chances of having a heart attack, stroke, or other diabetes-related complications such as kidney failure, nerve damage (numb, cold legs or feet; decreased sexual ability in men and women), eye problems, including changes or loss of vision, or gum disease. Your doctor and other healthcare providers will talk to you about the best way to manage your diabetes.`,
+    howToUse: `Metformin comes as a liquid, a tablet, and an extended-release (long-acting) tablet to take by mouth. The liquid is usually taken with meals one or two times a day. The regular tablet is usually taken with meals two or three times a day. The extended-release tablet is usually taken once daily with the evening meal. To help you remember to take metformin, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take metformin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow metformin extended-release tablets whole; do not split, chew, or crush them.`,
+    additionalDetials: `Your doctor may start you on a low dose of metformin and gradually increase your dose not more often than once every 1-2 weeks. You will need to monitor your blood sugar carefully so your doctor will be able to tell how well metformin is working.
+
+    Metformin controls diabetes but does not cure it. Continue to take metformin even if you feel well. Do not stop taking metformin without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 134,
+    name: "Generic Glucotrol",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Glipizide",
+    rating: 79,
+    star: 4,
+    price: "0.27",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: genericGlucotrol,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 120, price: 41.48, pricePerBottle: 0.35 },
+          { count: 240, price: 68.15, pricePerBottle: 0.28 },
+          { count: 300, price: 81.48, pricePerBottle: 0.27 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Glipizide is used along with diet and exercise, and sometimes with other medications, to treat type 2 diabetes (condition in which the body does not use insulin normally and, therefore, cannot control the amount of sugar in the blood). Glipizide is in a class of medications called sulfonylureas. Glipizide lowers blood sugar by causing the pancreas to produce insulin (a natural substance that is needed to break down sugar in the body) and helping the body use insulin efficiently. This medication will only help lower blood sugar in people whose bodies produce insulin naturally. Glipizide is not used to treat type 1 diabetes (condition in which the body does not produce insulin and, therefore, cannot control the amount of sugar in the blood) or diabetic ketoacidosis (a serious condition that may occur if high blood sugar is not treated).
+
+    Over time, people who have diabetes and high blood sugar can develop serious or life-threatening complications, including heart disease, stroke, kidney problems, nerve damage, and eye problems. Taking medication(s), making lifestyle changes (e.g., diet, exercise, quitting smoking), and regularly checking your blood sugar may help to manage your diabetes and improve your health. This therapy may also decrease your chances of having a heart attack, stroke, or other diabetes-related complications such as kidney failure, nerve damage (numb, cold legs or feet; decreased sexual ability in men and women), eye problems, including changes or loss of vision, or gum disease. Your doctor and other healthcare providers will talk to you about the best way to manage your diabetes`,
+    howToUse: `Glipizide comes as tablets and extended-release (long-acting) tablets to take by mouth. The regular tablet is usually taken one or more times a day, 30 minutes before breakfast or meals. The extended-release tablet is usually taken once a day with breakfast. To help you remember to take glipizide, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take glipizide exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on a low dose of glipizide and gradually increase your dose if needed. After you have taken glipizide for some time, glipizide may not control your blood sugar as well as it did at the beginning of your treatment. Your doctor may adjust the dose of your medication as needed so that the medication will work best for you. Be sure to tell your doctor how you are feeling and if your blood sugar test results have been higher or lower than normal at any time during your treatment.`,
+    additionalDetials: `Swallow the extended-release tablets whole. Do not chew, divide, or crush the tablets.
+
+    Glipizide helps control blood sugar but does not cure diabetes. Continue to take glipizide even if you feel well. Do not stop taking glipizide without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 135,
+    name: "Generic Glucovance",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Glyburide + Metformin",
+    rating: 182,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: genericGlucovance,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "2.50 mg / 400",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "5 mg / 500",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `The combination of glyburide and metformin is used to treat type 2 diabetes (condition in which the body does not use insulin normally and therefore cannot control the amount of sugar in the blood) in people whose diabetes cannot be controlled by diet and exercise alone. Glyburide belongs to a class of drugs called sulfonylureas, and metformin is in a class of drugs called biguanides. Glyburide lowers blood sugar by causing the pancreas to produce insulin (a natural substance that is needed to break down sugar in the body) and helping the body use insulin efficiently. This medication will only help lower blood sugar in people whose bodies produce insulin naturally. Metformin helps your body control the amount of glucose (sugar) in your blood. It decreases the amount of glucose you absorb from your food and the amount of glucose made by your liver. It also helps your body use its own insulin more effectively. Glyburide and metformin are not used to treat type 1 diabetes (condition in which the body does not produce insulin and therefore cannot control the amount of sugar in the blood) or diabetic ketoacidosis (a serious condition that may occur if high blood sugar is not treated).`,
+    howToUse: `How should this medicine be used?
+    Glyburide and metformin combination comes as a tablet to take by mouth. It is usually taken one to two times daily with meals. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take glyburide and metformin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Your doctor will probably start you on a low dose of glyburide and metformin and may gradually increase your dose, not more than once every 2 weeks. depending on your response. Monitor your blood glucose closely.`,
+    additionalDetials: `Glyburide and metformin combination controls diabetes but does not cure it. Continue to take glyburide and metformin even if you feel well. Do not stop taking glyburide and metformin without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 136,
+    name: "Generic Januvia",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Sitagliptin",
+    rating: 87,
+    star: 5,
+    price: "7.04",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: genericJanuvia,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 82.22, pricePerBottle: 8.22 },
+          { count: 20, price: 149.63, pricePerBottle: 7.48 },
+          { count: 30, price: 217.04, pricePerBottle: 7.23 },
+          { count: 40, price: 284.44, pricePerBottle: 7.11 },
+          { count: 50, price: 351.85, pricePerBottle: 7.04 },
+        ],
+      },
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 87.44, pricePerBottle: 8.22 },
+          { count: 20, price: 160, pricePerBottle: 7.48 },
+          { count: 30, price: 217.04, pricePerBottle: 7.23 },
+          { count: 40, price: 284.44, pricePerBottle: 7.11 },
+          { count: 50, price: 351.85, pricePerBottle: 7.04 },
+        ],
+      },
+    ],
+    prescription: `The combination of glyburide and metformin is used to treat type 2 diabetes (condition in which the body does not use insulin normally and therefore cannot control the amount of sugar in the blood) in people whose diabetes cannot be controlled by diet and exercise alone. Glyburide belongs to a class of drugs called sulfonylureas, and metformin is in a class of drugs called biguanides. Glyburide lowers blood sugar by causing the pancreas to produce insulin (a natural substance that is needed to break down sugar in the body) and helping the body use insulin efficiently. This medication will only help lower blood sugar in people whose bodies produce insulin naturally. Metformin helps your body control the amount of glucose (sugar) in your blood. It decreases the amount of glucose you absorb from your food and the amount of glucose made by your liver. It also helps your body use its own insulin more effectively. Glyburide and metformin are not used to treat type 1 diabetes (condition in which the body does not produce insulin and therefore cannot control the amount of sugar in the blood) or diabetic ketoacidosis (a serious condition that may occur if high blood sugar is not treated).`,
+    howToUse: `How should this medicine be used?
+    Glyburide and metformin combination comes as a tablet to take by mouth. It is usually taken one to two times daily with meals. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take glyburide and metformin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Your doctor will probably start you on a low dose of glyburide and metformin and may gradually increase your dose, not more than once every 2 weeks. depending on your response. Monitor your blood glucose closely.`,
+    additionalDetials: `Glyburide and metformin combination controls diabetes but does not cure it. Continue to take glyburide and metformin even if you feel well. Do not stop taking glyburide and metformin without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 137,
+    name: "Generic Maxolon",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Metoclopramide",
+    rating: 191,
+    star: 5,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: genericMaxolon,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+    ],
+    prescription: `Metoclopramide injection is used to relieve symptoms caused by slow stomach emptying in people who have diabetes. These symptoms include nausea, vomiting, heartburn, loss of appetite, and feeling of fullness that lasts long after meals. Metoclopramide injection is also used to prevent nausea and vomiting caused by chemotherapy or that may occur after surgery. Metoclopramide injection is also sometimes used to empty the intestines during certain medical procedures. Metoclopramide injection is in a class of medications called prokinetic agents. It works by speeding the movement of food through the stomach and intestines.`,
+    howToUse: `Metoclopramide injection comes as a liquid to be injected into a muscle or into a vein. When metoclopramide injection is used to treat slowed stomach emptying due to diabetes, it may be given up to four times a day. When metoclopramide injection is used to prevent nausea and vomiting due to chemotherapy, it is usually given 30 minutes before the chemotherapy, then once every 2 hours for two doses, then once every 3 hours for three doses. Metoclopramide injection is also sometimes given during surgery. If you are injecting metoclopramide injection at home, inject it at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use metoclopramide injection exactly as directed. Do not inject more or less of it or inject it more often than prescribed by your doctor.`,
+    additionalDetials: ``,
+  },
+  {
+    productId: 138,
+    name: "Generic Metaglip",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Glipizide + Metformin",
+    rating: 64,
+    star: 5,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: genericMetaglip,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "2.5 mg / 250",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Glipizide is used along with diet and exercise, and sometimes with other medications, to treat type 2 diabetes (condition in which the body does not use insulin normally and, therefore, cannot control the amount of sugar in the blood). Glipizide is in a class of medications called sulfonylureas. Glipizide lowers blood sugar by causing the pancreas to produce insulin (a natural substance that is needed to break down sugar in the body) and helping the body use insulin efficiently. This medication will only help lower blood sugar in people whose bodies produce insulin naturally. Glipizide is not used to treat type 1 diabetes (condition in which the body does not produce insulin and, therefore, cannot control the amount of sugar in the blood) or diabetic ketoacidosis (a serious condition that may occur if high blood sugar is not treated).
+
+    Over time, people who have diabetes and high blood sugar can develop serious or life-threatening complications, including heart disease, stroke, kidney problems, nerve damage, and eye problems. Taking medication(s), making lifestyle changes (e.g., diet, exercise, quitting smoking), and regularly checking your blood sugar may help to manage your diabetes and improve your health. This therapy may also decrease your chances of having a heart attack, stroke, or other diabetes-related complications such as kidney failure, nerve damage (numb, cold legs or feet; decreased sexual ability in men and women), eye problems, including changes or loss of vision, or gum disease. Your doctor and other healthcare providers will talk to you about the best way to manage your diabetes.`,
+    howToUse: `Glipizide comes as tablets and extended-release (long-acting) tablets to take by mouth. The regular tablet is usually taken one or more times a day, 30 minutes before breakfast or meals. The extended-release tablet is usually taken once a day with breakfast. To help you remember to take glipizide, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take glipizide exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on a low dose of glipizide and gradually increase your dose if needed. After you have taken glipizide for some time, glipizide may not control your blood sugar as well as it did at the beginning of your treatment. Your doctor may adjust the dose of your medication as needed so that the medication will work best for you. Be sure to tell your doctor how you are feeling and if your blood sugar test results have been higher or lower than normal at any time during your treatment.`,
+    additionalDetials: `Swallow the extended-release tablets whole. Do not chew, divide, or crush the tablets.
+
+    Glipizide helps control blood sugar but does not cure diabetes. Continue to take glipizide even if you feel well. Do not stop taking glipizide without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 139,
+    name: "Generic Micronase",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Glyburide",
+    rating: 128,
+    star: 5,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: genericMicronase,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Glipizide is used along with diet and exercise, and sometimes with other medications, to treat type 2 diabetes (condition in which the body does not use insulin normally and, therefore, cannot control the amount of sugar in the blood). Glipizide is in a class of medications called sulfonylureas. Glipizide lowers blood sugar by causing the pancreas to produce insulin (a natural substance that is needed to break down sugar in the body) and helping the body use insulin efficiently. This medication will only help lower blood sugar in people whose bodies produce insulin naturally. Glipizide is not used to treat type 1 diabetes (condition in which the body does not produce insulin and, therefore, cannot control the amount of sugar in the blood) or diabetic ketoacidosis (a serious condition that may occur if high blood sugar is not treated).
+
+    Over time, people who have diabetes and high blood sugar can develop serious or life-threatening complications, including heart disease, stroke, kidney problems, nerve damage, and eye problems. Taking medication(s), making lifestyle changes (e.g., diet, exercise, quitting smoking), and regularly checking your blood sugar may help to manage your diabetes and improve your health. This therapy may also decrease your chances of having a heart attack, stroke, or other diabetes-related complications such as kidney failure, nerve damage (numb, cold legs or feet; decreased sexual ability in men and women), eye problems, including changes or loss of vision, or gum disease. Your doctor and other healthcare providers will talk to you about the best way to manage your diabetes.`,
+    howToUse: `Glipizide comes as tablets and extended-release (long-acting) tablets to take by mouth. The regular tablet is usually taken one or more times a day, 30 minutes before breakfast or meals. The extended-release tablet is usually taken once a day with breakfast. To help you remember to take glipizide, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take glipizide exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on a low dose of glipizide and gradually increase your dose if needed. After you have taken glipizide for some time, glipizide may not control your blood sugar as well as it did at the beginning of your treatment. Your doctor may adjust the dose of your medication as needed so that the medication will work best for you. Be sure to tell your doctor how you are feeling and if your blood sugar test results have been higher or lower than normal at any time during your treatment.`,
+    additionalDetials: `Swallow the extended-release tablets whole. Do not chew, divide, or crush the tablets.
+
+    Glipizide helps control blood sugar but does not cure diabetes. Continue to take glipizide even if you feel well. Do not stop taking glipizide without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 140,
+    name: "Generic Prandin",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Repaglinide",
+    rating: 53,
+    star: 4,
+    price: "0.94",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: genericPrandin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.48, pricePerBottle: 1.38 },
+          { count: 60, price: 68.15, pricePerBottle: 1.14 },
+          { count: 120, price: 121.48, pricePerBottle: 1.01 },
+          { count: 240, price: 228.15, pricePerBottle: 0.95 },
+          { count: 300, price: 281.48, pricePerBottle: 0.94 },
+        ],
+      },
+      {
+        mg: "1",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 70.37, pricePerBottle: 2.35 },
+          { count: 60, price: 125.93, pricePerBottle: 2.1 },
+          { count: 120, price: 237.04, pricePerBottle: 1.98 },
+          { count: 240, price: 459.26, pricePerBottle: 1.91 },
+          { count: 300, price: 570.37, pricePerBottle: 1.9 },
+        ],
+      },
+      {
+        mg: "2",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 90.37, pricePerBottle: 3.01 },
+          { count: 60, price: 165.93, pricePerBottle: 2.77 },
+          { count: 120, price: 317.04, pricePerBottle: 2.64 },
+          { count: 240, price: 619.26, pricePerBottle: 2.58 },
+          { count: 300, price: 770.37, pricePerBottle: 2.57 },
+        ],
+      },
+    ],
+    prescription: `Repaglinide is used to treat type 2 diabetes (condition in which the body does not use insulin normally and, therefore, cannot control the amount of sugar in the blood). Repaglinide helps your body regulate the amount of glucose (sugar) in your blood. It decreases the amount of glucose by stimulating the pancreas to release insulin.
+
+    Over time, people who have diabetes and high blood sugar can develop serious or life-threatening complications, including heart disease, stroke, kidney problems, nerve damage, and eye problems.Taking medication(s), making lifestyle changes (e.g., diet, exercise, quitting smoking), and regularly checking your blood sugar may help to manage your diabetes and improve your health. This therapy may also decrease your chances of having a heart attack, stroke, or other diabetes-related complications such as kidney failure, nerve damage (numb, cold legs or feet; decreased sexual ability in men and women), eye problems, including changes or loss of vision, or gum disease. Your doctor and other healthcare providers will talk to you about the best way to manage your diabetes.
+    
+    This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Repaglinide comes as a tablet to take by mouth. The tablets are taken before meals, any time from 30 minutes before a meal to just before the meal. If you skip a meal, you need to skip the dose of repaglinide. If you add an extra meal, you need to take an extra dose of repaglinide. Your doctor may gradually increase your dose, depending on your response to repaglinide. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take repaglinide exactly as directed. Do not take more or less of it or take it more often than directed by the package label or prescribed by your doctor.`,
+    additionalDetials: `Continue to take repaglinide even if you feel well. Do not stop taking repaglinide without talking to your doctor.`,
+  },
+  {
+    productId: 141,
+    name: "Generic Precose",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Acarbose",
+    rating: 180,
+    star: 4,
+    price: "1.98",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: genericPrecose,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 72.59, pricePerBottle: 2.42 },
+          { count: 60, price: 130.37, pricePerBottle: 2.17 },
+          { count: 120, price: 245.93, pricePerBottle: 2.05 },
+          { count: 240, price: 477.04, pricePerBottle: 1.99 },
+          { count: 300, price: 592.59, pricePerBottle: 1.98 },
+        ],
+      },
+    ],
+    prescription: `Acarbose is used (with diet only or diet and other medications) to treat type 2 diabetes (condition in which the body does not use insulin normally and therefore cannot control the amount of sugar in the blood) . Acarbose works by slowing the action of certain chemicals that break down food to release glucose (sugar) into your blood. Slowing food digestion helps keep blood glucose from rising very high after meals.
+
+    Over time, people who have diabetes and high blood sugar can develop serious or life-threatening complications, including heart disease, stroke, kidney problems, nerve damage, and eye problems. Taking medication(s), making lifestyle changes (e.g., diet, exercise, quitting smoking), and regularly checking your blood sugar may help to manage your diabetes and improve your health. This therapy may also decrease your chances of having a heart attack, stroke, or other diabetes-related complications such as kidney failure, nerve damage (numb, cold legs or feet; decreased sexual ability in men and women), eye problems, including changes or loss of vision, or gum disease. Your doctor and other healthcare providers will talk to you about the best way to manage your diabetes.`,
+    howToUse: `Acarbose comes as a tablet to take by mouth. It is usually taken three times a day. It is very important to take each dose with the first bite of each main meal. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take acarbose exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Continue to take acarbose even if you feel well. Do not stop taking acarbose without talking to your doctor.`,
+  },
+  {
+    productId: 142,
+    name: "Generic Starlix",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Nateglinide",
+    rating: 132,
+    star: 5,
+    price: "1.83",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: genericStarlix,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "120",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 68.15, pricePerBottle: 2.27 },
+          { count: 60, price: 121.48, pricePerBottle: 2.02 },
+          { count: 120, price: 228.15, pricePerBottle: 1.9 },
+          { count: 240, price: 441.48, pricePerBottle: 1.84 },
+          { count: 300, price: 548.15, pricePerBottle: 1.83 },
+        ],
+      },
+    ],
+    prescription: `Nateglinide is used alone or in combination with other medications to treat type 2 diabetes (condition in which the body does not use insulin normally and therefore cannot control the amount of sugar in the blood) in people whose diabetes cannot be controlled by diet and exercise alone. Nateglinide belongs to a class of drugs called meglitinides. Nateglinide helps your body regulate the amount of glucose (sugar) in your blood. It decreases the amount of glucose by stimulating the pancreas to release insulin.
+
+    Over time, people who have diabetes and high blood sugar can develop serious or life-threatening complications, including heart disease, stroke, kidney problems, nerve damage, and eye problems. Taking medication(s), making lifestyle changes (e.g., diet, exercise, quitting smoking), and regularly checking your blood sugar may help to manage your diabetes and improve your health. This therapy may also decrease your chances of having a heart attack, stroke, or other diabetes-related complications such as kidney failure, nerve damage (numb, cold legs or feet; decreased sexual ability in men and women), eye problems, including changes or loss of vision, or gum disease. Your doctor and other healthcare providers will talk to you about the best way to manage your diabetes.`,
+    howToUse: `Nateglinide comes as a tablet to take by mouth. It is usually taken three times daily. Take nateglinide any time from 30 minutes before a meal to just before the meal. If you skip a meal, you need to skip the dose of nateglinide. If you add a meal, add a dose of nateglinide. Your doctor may gradually increase your dose, depending on your response to nateglinide. Monitor your blood glucose closely. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take nateglinide exactly as directed. Do not take more or less of it or take it more often than directed by the package label or prescribed by your doctor.`,
+    additionalDetials: `Nateglinide controls diabetes but does not cure it. Continue to take nateglinide even if you feel well. Do not stop taking nateglinide without talking with your doctor.`,
+  },
+  {
+    productId: 143,
+    name: "Glycomet",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Metformin Hydrochloride",
+    rating: 131,
+    star: 4,
+    price: "1.83",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "USV",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 37.04, pricePerBottle: 1.23 },
+          { count: 60, price: 59.26, pricePerBottle: 0.99 },
+          { count: 120, price: 103.7, pricePerBottle: 0.86 },
+          { count: 240, price: 192.59, pricePerBottle: 0.8 },
+          { count: 300, price: 237.04, pricePerBottle: 0.79 },
+        ],
+      },
+      {
+        mg: "850",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "1000",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+    ],
+    prescription: `Metformin is used alone or with other medications, including insulin, to treat type 2 diabetes (condition in which the body does not use insulin normally and, therefore, cannot control the amount of sugar in the blood). Metformin is in a class of drugs called biguanides. Metformin helps to control the amount of glucose (sugar) in your blood. It decreases the amount of glucose you absorb from your food and the amount of glucose made by your liver. Metformin also increases your body's response to insulin, a natural substance that controls the amount of glucose in the blood. Metformin is not used to treat type 1 diabetes (condition in which the body does not produce insulin and therefore cannot control the amount of sugar in the blood).
+
+    Over time, people who have diabetes and high blood sugar can develop serious or life-threatening complications, including heart disease, stroke, kidney problems, nerve damage, and eye problems. Taking medication(s), making lifestyle changes (e.g., diet, exercise, quitting smoking), and regularly checking your blood sugar may help to manage your diabetes and improve your health. This therapy may also decrease your chances of having a heart attack, stroke, or other diabetes-related complications such as kidney failure, nerve damage (numb, cold legs or feet; decreased sexual ability in men and women), eye problems, including changes or loss of vision, or gum disease. Your doctor and other healthcare providers will talk to you about the best way to manage your diabetes.`,
+    howToUse: `Metformin comes as a liquid, a tablet, and an extended-release (long-acting) tablet to take by mouth. The liquid is usually taken with meals one or two times a day. The regular tablet is usually taken with meals two or three times a day. The extended-release tablet is usually taken once daily with the evening meal. To help you remember to take metformin, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take metformin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow metformin extended-release tablets whole; do not split, chew, or crush them.
+    
+    Your doctor may start you on a low dose of metformin and gradually increase your dose not more often than once every 1-2 weeks. You will need to monitor your blood sugar carefully so your doctor will be able to tell how well metformin is working.`,
+    additionalDetials: `Metformin controls diabetes but does not cure it. Continue to take metformin even if you feel well. Do not stop taking metformin without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 144,
+    name: "Jalra",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Vildagliptin",
+    rating: 104,
+    star: 4,
+    price: "46.93",
+    type: "blister",
+    typeName: "blister",
+    ManufacturedBy: "USV pharmaceuticals",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "14 tabs / blister 50",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 60.81, pricePerBottle: 60.81 },
+          { count: 2, price: 106.81, pricePerBottle: 53.41 },
+          { count: 4, price: 198.81, pricePerBottle: 49.7 },
+          { count: 8, price: 382.81, pricePerBottle: 47.85 },
+          { count: 16, price: 750.81, pricePerBottle: 46.93 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 145,
+    name: "Lantus",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Insulin",
+    rating: 48,
+    star: 4,
+    price: "90.96",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Sanofi Aventis",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5 cartriges x 3 ml/pack 100",
+        unit: "UI",
+        bottle: [
+          { count: 1, price: 103.93, pricePerBottle: 103.93 },
+          { count: 2, price: 193.04, pricePerBottle: 96.52 },
+          { count: 4, price: 371.26, pricePerBottle: 92.82 },
+          { count: 8, price: 727.7, pricePerBottle: 90.96 },
+        ],
+      },
+    ],
+    prescription: `Insulin degludec is used to treat type 1 diabetes (condition in which the body does not produce insulin and therefore cannot control the amount of sugar in the blood). It is also used to treat people with type 2 diabetes (condition in which the body does not use insulin normally and, therefore, cannot control the amount of sugar in the blood) who need insulin to control their diabetes. In patients with type 1 diabetes, insulin degludec must be used with another type of insulin (a short-acting insulin). In patients with type 2 diabetes, insulin degludec may be used with another type of insulin or with oral medication(s) for diabetes. Insulin degludec is a long-acting, man-made version of human insulin. Insulin degludec works by replacing the insulin that is normally produced by the body and by helping move sugar from the blood into other body tissues where it is used for energy. It also stops the liver from producing more sugar.
+
+    Over time, people who have diabetes and high blood sugar can develop serious or life-threatening complications, including heart disease, stroke, kidney problems, nerve damage, and eye problems. Using medication(s), making lifestyle changes (e.g., diet, exercise, quitting smoking), and regularly checking your blood sugar may help to manage your diabetes and improve your health. This therapy may also decrease your chances of having a heart attack, stroke, or other diabetes-related complications such as kidney failure, nerve damage (numb, cold legs or feet; decreased sexual ability in men and women), eye problems, including changes or loss of vision, or gum disease. Your doctor and other healthcare providers will talk to you about the best way to manage your diabetes`,
+    howToUse: `Insulin degludec comes as a solution (liquid) to inject subcutaneously (under the skin). It is injected once a day. You should use insulin degludec at the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use insulin degludec exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Insulin degludec controls diabetes, but does not cure it. Continue to use insulin degludec even if you feel well. Do not stop using insulin degludec without talking to your doctor. Do not switch to another brand or type of insulin or change the dose of any type of insulin you are using without talking to your doctor. Always check the insulin label to make sure you received the right type of insulin from the pharmacy.
+    
+    Insulin degludec comes in prefilled dosing pens. Be sure you know what type of container your insulin degludec comes in and what other supplies, such as needles, you will need to inject your medication. Be sure to read and understand the manufacturer's instructions. Ask your doctor or pharmacist to show you how to use the pen. Follow the directions carefully, and always perform the safety test before use.
+    
+    Never reuse needles or pens. Do not transfer the medication to a syringe. When you are using an insulin pen, always remove the needle right after you inject your dose. Throw away needles and syringes in a puncture-resistant container. Ask your doctor or pharmacist how to dispose of the puncture-resistant container`,
+    additionalDetials: `Do not dilute insulin degludec and do not mix insulin degludec with any other type of insulin.
+
+    You can inject your insulin degludec in your upper arm, thigh, or stomach area. Never inject insulin degludec into a vein or muscle. Change (rotate) the injection site within the chosen area with each dose; try to avoid injecting the same site more often than once every 1 to 2 weeks.
+    
+    Always look at your insulin degludec before you inject it. It should be clear and colorless. Do not use your insulin degludec if it is colored, cloudy, or contains solid particles, or if the expiration date on the bottle has passed.
+    
+    Do not use insulin degludec in an external insulin pump.`,
+  },
+  {
+    productId: 146,
+    name: "Lantus Solostar",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Insulin",
+    rating: 115,
+    star: 4,
+    price: "108.37",
+    type: "pen",
+    typeName: "pen",
+    ManufacturedBy: "Sanofi Aventis",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1 Pre-filled pen x 3 ml cartriges / pack 100",
+        unit: "IU/ml",
+        bottle: [
+          { count: 1, price: 121.33, pricePerBottle: 121.33 },
+          { count: 2, price: 227.85, pricePerBottle: 113.93 },
+          { count: 4, price: 440.89, pricePerBottle: 110.22 },
+          { count: 8, price: 866.96, pricePerBottle: 108.37 },
+        ],
+      },
+    ],
+    prescription: `Insulin degludec is used to treat type 1 diabetes (condition in which the body does not produce insulin and therefore cannot control the amount of sugar in the blood). It is also used to treat people with type 2 diabetes (condition in which the body does not use insulin normally and, therefore, cannot control the amount of sugar in the blood) who need insulin to control their diabetes. In patients with type 1 diabetes, insulin degludec must be used with another type of insulin (a short-acting insulin). In patients with type 2 diabetes, insulin degludec may be used with another type of insulin or with oral medication(s) for diabetes. Insulin degludec is a long-acting, man-made version of human insulin. Insulin degludec works by replacing the insulin that is normally produced by the body and by helping move sugar from the blood into other body tissues where it is used for energy. It also stops the liver from producing more sugar.
+
+    Over time, people who have diabetes and high blood sugar can develop serious or life-threatening complications, including heart disease, stroke, kidney problems, nerve damage, and eye problems. Using medication(s), making lifestyle changes (e.g., diet, exercise, quitting smoking), and regularly checking your blood sugar may help to manage your diabetes and improve your health. This therapy may also decrease your chances of having a heart attack, stroke, or other diabetes-related complications such as kidney failure, nerve damage (numb, cold legs or feet; decreased sexual ability in men and women), eye problems, including changes or loss of vision, or gum disease. Your doctor and other healthcare providers will talk to you about the best way to manage your diabetes.`,
+    howToUse: `Insulin degludec comes as a solution (liquid) to inject subcutaneously (under the skin). It is injected once a day. You should use insulin degludec at the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use insulin degludec exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Insulin degludec controls diabetes, but does not cure it. Continue to use insulin degludec even if you feel well. Do not stop using insulin degludec without talking to your doctor. Do not switch to another brand or type of insulin or change the dose of any type of insulin you are using without talking to your doctor. Always check the insulin label to make sure you received the right type of insulin from the pharmacy.
+    
+    Insulin degludec comes in prefilled dosing pens. Be sure you know what type of container your insulin degludec comes in and what other supplies, such as needles, you will need to inject your medication. Be sure to read and understand the manufacturer's instructions. Ask your doctor or pharmacist to show you how to use the pen. Follow the directions carefully, and always perform the safety test before use.
+    
+    Never reuse needles or pens. Do not transfer the medication to a syringe. When you are using an insulin pen, always remove the needle right after you inject your dose. Throw away needles and syringes in a puncture-resistant container. Ask your doctor or pharmacist how to dispose of the puncture-resistant container`,
+    additionalDetials: `Do not dilute insulin degludec and do not mix insulin degludec with any other type of insulin.
+
+    You can inject your insulin degludec in your upper arm, thigh, or stomach area. Never inject insulin degludec into a vein or muscle. Change (rotate) the injection site within the chosen area with each dose; try to avoid injecting the same site more often than once every 1 to 2 weeks.
+    
+    Always look at your insulin degludec before you inject it. It should be clear and colorless. Do not use your insulin degludec if it is colored, cloudy, or contains solid particles, or if the expiration date on the bottle has passed.
+    
+    Do not use insulin degludec in an external insulin pump.`,
+  },
+  {
+    productId: 147,
+    name: "Okamet",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Metformin Hydrochloride",
+    rating: 167,
+    star: 4,
+    price: "108.37",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Cipla",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "500",
+        unit: "IU/ml",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+    ],
+    prescription: `Metformin is used alone or with other medications, including insulin, to treat type 2 diabetes (condition in which the body does not use insulin normally and, therefore, cannot control the amount of sugar in the blood). Metformin is in a class of drugs called biguanides. Metformin helps to control the amount of glucose (sugar) in your blood. It decreases the amount of glucose you absorb from your food and the amount of glucose made by your liver. Metformin also increases your body's response to insulin, a natural substance that controls the amount of glucose in the blood. Metformin is not used to treat type 1 diabetes (condition in which the body does not produce insulin and therefore cannot control the amount of sugar in the blood).
+
+    Over time, people who have diabetes and high blood sugar can develop serious or life-threatening complications, including heart disease, stroke, kidney problems, nerve damage, and eye problems. Taking medication(s), making lifestyle changes (e.g., diet, exercise, quitting smoking), and regularly checking your blood sugar may help to manage your diabetes and improve your health. This therapy may also decrease your chances of having a heart attack, stroke, or other diabetes-related complications such as kidney failure, nerve damage (numb, cold legs or feet; decreased sexual ability in men and women), eye problems, including changes or loss of vision, or gum disease. Your doctor and other healthcare providers will talk to you about the best way to manage your diabetes.`,
+    howToUse: `Metformin comes as a liquid, a tablet, and an extended-release (long-acting) tablet to take by mouth. The liquid is usually taken with meals one or two times a day. The regular tablet is usually taken with meals two or three times a day. The extended-release tablet is usually taken once daily with the evening meal. To help you remember to take metformin, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take metformin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow metformin extended-release tablets whole; do not split, chew, or crush them.
+    
+    Your doctor may start you on a low dose of metformin and gradually increase your dose not more often than once every 1-2 weeks. You will need to monitor your blood sugar carefully so your doctor will be able to tell how well metformin is working.`,
+    additionalDetials: `Metformin controls diabetes but does not cure it. Continue to take metformin even if you feel well. Do not stop taking metformin without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 148,
+    name: "Prandial MD",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Voglibose",
+    rating: 200,
+    star: 4,
+    price: "29.82",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Cipla",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "30 tabs / pack 0.02",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 43.7, pricePerBottle: 43.7 },
+          { count: 2, price: 72.59, pricePerBottle: 36.3 },
+          { count: 4, price: 130.37, pricePerBottle: 32.59 },
+          { count: 8, price: 245.93, pricePerBottle: 30.74 },
+          { count: 16, price: 477.04, pricePerBottle: 29.82 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 149,
+    name: "Semi-Daonil",
+    categoryName: "Anti Diabetic",
+    activeIngredient: "Glibenclamide",
+    rating: 77,
+    star: 5,
+    price: "17.98",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Aventis Pharma",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100 tabs / pack 2.5",
+        unit: "mg",
+        bottle: [
+          { count: 2, price: 40.89, pricePerBottle: 20.45 },
+          { count: 3, price: 53.93, pricePerBottle: 17.98 },
+          ,
+        ],
+      },
+    ],
+    prescription: `Glyburide is used along with diet and exercise, and sometimes with other medications, to treat type 2 diabetes (condition in which the body does not use insulin normally and, therefore, cannot control the amount of sugar in the blood). Glyburide is in a class of medications called sulfonylureas. Glyburide lowers blood sugar by causing the pancreas to produce insulin (a natural substance that is needed to break down sugar in the body) and helping the body use insulin efficiently. This medication will only help lower blood sugar in people whose bodies produce insulin naturally. Glyburide is not used to treat type 1 diabetes (condition in which the body does not produce insulin and, therefore, cannot control the amount of sugar in the blood) or diabetic ketoacidosis (a serious condition that may occur if high blood sugar is not treated).
+
+    Over time, people who have diabetes and high blood sugar can develop serious or life-threatening complications, including heart disease, stroke, kidney problems, nerve damage, and eye problems. Taking medication(s), making lifestyle changes (e.g., diet, exercise, quitting smoking), and regularly checking your blood sugar may help to manage your diabetes and improve your health. This therapy may also decrease your chances of having a heart attack, stroke, or other diabetes-related complications such as kidney failure, nerve damage (numb, cold legs or feet; decreased sexual ability in men and women), eye problems, including changes or loss of vision, or gum disease. Your doctor and other healthcare providers will talk to you about the best way to manage your diabetes.`,
+    howToUse: `Glyburide comes as a tablet to take by mouth. It is usually taken once a day with breakfast or the first main meal of the day. However, in some cases your doctor may tell you to take glyburide twice a day. To help you remember to take glyburide, take it at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take glyburide exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on a low dose of glyburide and gradually increase your dose if needed. After you have taken glyburide for some time, glyburide may not control your blood sugar as well as it did at the beginning of your treatment. Your doctor may adjust the dose of your medication as needed so that the medication will work best for you. Be sure to tell your doctor how you are feeling and if your blood sugar test results have been higher or lower than normal at any time during your treatment.`,
+    additionalDetials: `Glyburide helps control blood sugar but does not cure diabetes. Continue to take glyburide even if you feel well. Do not stop taking glyburide without talking to your doctor.`,
+  },
+  {
+    productId: 150,
+    name: "Candid Gel",
+    categoryName: "Anti Fungus",
+    activeIngredient: "Clotrimazole topical",
+    rating: 131,
+    star: 5,
+    price: "9.89",
+    type: "tube",
+    typeName: "tube",
+    ManufacturedBy: "Glenmark Gracewell Division",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1% w/v 30",
+        unit: "g",
+        bottle: [
+          { count: 2, price: 34.07, pricePerBottle: 17.04 },
+          { count: 4, price: 53.33, pricePerBottle: 13.33 },
+          { count: 8, price: 91.85, pricePerBottle: 11.48 },
+          { count: 16, price: 168.89, pricePerBottle: 10.56 },
+          ,
+        ],
+      },
+      {
+        mg: "1% w/v 15",
+        unit: "g",
+        bottle: [
+          { count: 2, price: 32.74, pricePerBottle: 16.37 },
+          { count: 4, price: 50.67, pricePerBottle: 12.67 },
+          { count: 8, price: 86.52, pricePerBottle: 10.82 },
+          { count: 16, price: 158.22, pricePerBottle: 9.89 },
+          ,
+        ],
+      },
+    ],
+    prescription: `Clotrimazole is used to treat yeast infections of the vagina, mouth, and skin such as athlete's foot, jock itch, and body ringworm. It can also be used to prevent oral thrush in certain patients.
+
+    This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Clotrimazole comes as a cream, lotion, powder, and solution to apply to the skin; lozenges (called troches) to dissolve in the mouth; and vaginal tablets and vaginal cream to be inserted into the vagina. Clotrimazole is usually used five times a day for 14 days for oral thrush, twice a day (in the morning and evening) for 2 to 8 weeks for skin infections, and once a day at bedtime for 3 or 7 days for vaginal infections. Follow the directions on the package or your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use clotrimazole exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    To use the topical cream, lotion, or solution, thoroughly clean the infected area, allow it to dry, and then gently rub the medication in until most of it disappears. Use just enough medication to cover the affected area. You should wash your hands after applying the medication.
+    
+    The lozenges should be placed in the mouth and dissolved slowly over about 15 to 30 minutes. Do not chew or swallow the lozenges whole.`,
+    additionalDetials: `To use clotrimazole vaginal cream or vaginal tablets, read the instructions provided with the medication and follow these steps:
+    Fill the special applicator that comes with the cream to the level indicated or unwrap a tablet, wet it with lukewarm water, and place it on the applicator as shown in the instructions that come with the product.
+    Lie on your back with your knees drawn upward and spread apart.
+    Insert the applicator high into your vagina (unless you are pregnant), and then push the plunger to release the medication. If you are pregnant, insert the applicator gently. If you feel resistance (hard to insert), do not try to insert it further; call your doctor.
+    Withdraw the applicator.
+    Discard the applicator if it is disposable. If the applicator is reusable, pull it apart and clean it with soap and warm water after each use.
+    Wash your hands promptly to avoid spreading the infection.
+    The vaginal cream or tablets should be applied when you lie down to go to bed. The drug works best if you do not get up again after applying it except to wash your hands. You may wish to wear a sanitary napkin while using the vaginal cream or tablets to protect your clothing against stains. Do not use a tampon because it will absorb the drug. Do not douche unless your doctor tells you to do so.
+    
+    Continue to use clotrimazole even if you feel well. Do not stop using clotrimazole without talking to your doctor. Continue using this medication during your menstrual period.
+    
+    If you obtained the clotrimazole skin cream, lotion, or solution without a prescription, use it for 4 weeks for athlete's foot and 2 weeks for jock itch or body ringworm. If your symptoms do not improve by that time, stop using the medication and consult either a pharmacist or doctor.
+    
+    If you obtained clotrimazole vaginal cream or tablets without a prescription and this is the first time you have had vaginal itching and discomfort, talk with a physician before using clotrimazole. However, if a doctor previously told you that you had a yeast infection and if you have the same symptoms again, use the vaginal cream or tablets as directed on the package for 3 or 7 consecutive days, preferably at night. If your symptoms do not improve within 3 or 7 days, call your doctor. If your symptoms return in less than 2 months, also call your doctor.`,
+  },
+  {
+    productId: 151,
+    name: "Canesten Cream",
+    categoryName: "Anti Fungus",
+    activeIngredient: "Clotrimazole topical",
+    rating: 73,
+    star: 5,
+    price: "9.07",
+    type: "tube",
+    typeName: "tube",
+    ManufacturedBy: "Bayer Zydus Pharma Pvt. Ltd.",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1% w/v 30",
+        unit: "g",
+        bottle: [
+          { count: 2, price: 31.11, pricePerBottle: 15.56 },
+          { count: 4, price: 47.41, pricePerBottle: 11.85 },
+          { count: 8, price: 80, pricePerBottle: 10 },
+          { count: 16, price: 145.19, pricePerBottle: 9.07 },
+          ,
+        ],
+      },
+    ],
+    prescription: `Clotrimazole is used to treat yeast infections of the vagina, mouth, and skin such as athlete's foot, jock itch, and body ringworm. It can also be used to prevent oral thrush in certain patients.
+
+    This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Clotrimazole comes as a cream, lotion, powder, and solution to apply to the skin; lozenges (called troches) to dissolve in the mouth; and vaginal tablets and vaginal cream to be inserted into the vagina. Clotrimazole is usually used five times a day for 14 days for oral thrush, twice a day (in the morning and evening) for 2 to 8 weeks for skin infections, and once a day at bedtime for 3 or 7 days for vaginal infections. Follow the directions on the package or your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use clotrimazole exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    To use the topical cream, lotion, or solution, thoroughly clean the infected area, allow it to dry, and then gently rub the medication in until most of it disappears. Use just enough medication to cover the affected area. You should wash your hands after applying the medication.
+    
+    The lozenges should be placed in the mouth and dissolved slowly over about 15 to 30 minutes. Do not chew or swallow the lozenges whole.`,
+    additionalDetials: `To use clotrimazole vaginal cream or vaginal tablets, read the instructions provided with the medication and follow these steps:
+    Fill the special applicator that comes with the cream to the level indicated or unwrap a tablet, wet it with lukewarm water, and place it on the applicator as shown in the instructions that come with the product.
+    Lie on your back with your knees drawn upward and spread apart.
+    Insert the applicator high into your vagina (unless you are pregnant), and then push the plunger to release the medication. If you are pregnant, insert the applicator gently. If you feel resistance (hard to insert), do not try to insert it further; call your doctor.
+    Withdraw the applicator.
+    Discard the applicator if it is disposable. If the applicator is reusable, pull it apart and clean it with soap and warm water after each use.
+    Wash your hands promptly to avoid spreading the infection.
+    The vaginal cream or tablets should be applied when you lie down to go to bed. The drug works best if you do not get up again after applying it except to wash your hands. You may wish to wear a sanitary napkin while using the vaginal cream or tablets to protect your clothing against stains. Do not use a tampon because it will absorb the drug. Do not douche unless your doctor tells you to do so.
+    
+    Continue to use clotrimazole even if you feel well. Do not stop using clotrimazole without talking to your doctor. Continue using this medication during your menstrual period.
+    
+    If you obtained the clotrimazole skin cream, lotion, or solution without a prescription, use it for 4 weeks for athlete's foot and 2 weeks for jock itch or body ringworm. If your symptoms do not improve by that time, stop using the medication and consult either a pharmacist or doctor.
+    
+    If you obtained clotrimazole vaginal cream or tablets without a prescription and this is the first time you have had vaginal itching and discomfort, talk with a physician before using clotrimazole. However, if a doctor previously told you that you had a yeast infection and if you have the same symptoms again, use the vaginal cream or tablets as directed on the package for 3 or 7 consecutive days, preferably at night. If your symptoms do not improve within 3 or 7 days, call your doctor. If your symptoms return in less than 2 months, also call your doctor.`,
+  },
+  {
+    productId: 152,
+    name: "Forcan",
+    categoryName: "Anti Fungus",
+    activeIngredient: "Fluconazole",
+    rating: 62,
+    star: 5,
+    price: "2.12",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "CIpla",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "150",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 56.3, pricePerBottle: 2.82 },
+          { count: 60, price: 139.26, pricePerBottle: 2.32 },
+          { count: 120, price: 263.7, pricePerBottle: 2.2 },
+          { count: 240, price: 512.59, pricePerBottle: 2.14 },
+          { count: 300, price: 637.04, pricePerBottle: 2.12 },
+          ,
+        ],
+      },
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 83.87, pricePerBottle: 4.19 },
+          { count: 60, price: 225.81, pricePerBottle: 3.76 },
+          { count: 120, price: 438.71, pricePerBottle: 3.66 },
+          { count: 240, price: 864.52, pricePerBottle: 3.6 },
+        ],
+      },
+    ],
+    prescription: `Fluconazole injection is used to treat fungal infections, including yeast infections of the mouth, throat, esophagus (tube leading from the mouth to the stomach), abdomen (area between the chest and waist), lungs, blood, and other organs. Fluconazole is also used to treat meningitis (infection of the membranes covering the brain and spine) caused by fungus. Fluconazole is also used to prevent yeast infections in patients who are likely to become infected because they are being treated with chemotherapy or radiation therapy before a bone marrow transplant (replacement of unhealthy spongy tissue inside the bones with healthy tissue). Fluconazole is in a class of antifungals called triazoles. It works by slowing the growth of fungi that cause infection.`,
+    howToUse: `Fluconazole injection comes as a solution (liquid) to be given through a needle or catheter placed in your vein. It is usually infused (injected slowly) intravenously (into a vein) over a period of 1 to 2 hours, usually once a day for up to 14 days. The length of your treatment depends on your condition and on how well you respond to fluconazole injection. Your doctor will tell you how long to use fluconazole injection.
+
+    Your doctor may tell you to use a higher dose of fluconazole injection on the first day of your treatment. Follow these directions carefully.
+    
+    You may receive fluconazole injection in a hospital or you may use the medication at home. If you are using fluconazole injection at home, use it at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or other health care provider to explain any part you do not understand. Use fluconazole injection exactly as directed. Do not infuse it more quickly than directed, and do not use more or less of it, or use it more often than prescribed by your doctor.
+    
+    If you will be using fluconazole injection at home, your health care provider will show you how to infuse the medication. Be sure that you understand these directions, and ask your health care provider if you have any questions. Ask your health care provider what to do if you have any problems infusing fluconazole injection.`,
+    additionalDetials: `Before you administer fluconazole, look at the solution closely. It should be clear and free of floating material. Gently squeeze the bag or observe the solution container to make sure there are no leaks. Do not use the solution if it is discolored, if it contains particles, or if the bag or container leaks. Use a new solution, but show the damaged one to your health care provider.
+
+    You should begin to feel better during the first few days of treatment with fluconazole injection. If your symptoms do not improve or get worse, call your doctor.
+    
+    Use fluconazole injection until your doctor tells you that you should stop, even if you feel better. If you stop using fluconazole injection too soon, your infection may come back after a short time.`,
+  },
+  {
+    productId: 153,
+    name: "Generic Diflucan",
+    categoryName: "Anti Fungus",
+    activeIngredient: "Fluconazole",
+    rating: 66,
+    star: 5,
+    price: "0.64",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericDiflucan,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 256.26, pricePerBottle: 0.86 },
+          ,
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 77.04, pricePerBottle: 2.57 },
+          { count: 60, price: 139.26, pricePerBottle: 2.22 },
+          { count: 120, price: 263.7, pricePerBottle: 2.2 },
+          { count: 240, price: 512.59, pricePerBottle: 2.14 },
+          { count: 300, price: 637.04, pricePerBottle: 2.12 },
+        ],
+      },
+      {
+        mg: "150",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.37, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `Fluconazole injection is used to treat fungal infections, including yeast infections of the mouth, throat, esophagus (tube leading from the mouth to the stomach), abdomen (area between the chest and waist), lungs, blood, and other organs. Fluconazole is also used to treat meningitis (infection of the membranes covering the brain and spine) caused by fungus. Fluconazole is also used to prevent yeast infections in patients who are likely to become infected because they are being treated with chemotherapy or radiation therapy before a bone marrow transplant (replacement of unhealthy spongy tissue inside the bones with healthy tissue). Fluconazole is in a class of antifungals called triazoles. It works by slowing the growth of fungi that cause infection.`,
+    howToUse: `Fluconazole injection comes as a solution (liquid) to be given through a needle or catheter placed in your vein. It is usually infused (injected slowly) intravenously (into a vein) over a period of 1 to 2 hours, usually once a day for up to 14 days. The length of your treatment depends on your condition and on how well you respond to fluconazole injection. Your doctor will tell you how long to use fluconazole injection.
+
+    Your doctor may tell you to use a higher dose of fluconazole injection on the first day of your treatment. Follow these directions carefully.
+    
+    You may receive fluconazole injection in a hospital or you may use the medication at home. If you are using fluconazole injection at home, use it at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or other health care provider to explain any part you do not understand. Use fluconazole injection exactly as directed. Do not infuse it more quickly than directed, and do not use more or less of it, or use it more often than prescribed by your doctor.
+    
+    If you will be using fluconazole injection at home, your health care provider will show you how to infuse the medication. Be sure that you understand these directions, and ask your health care provider if you have any questions. Ask your health care provider what to do if you have any problems infusing fluconazole injection.`,
+    additionalDetials: `Before you administer fluconazole, look at the solution closely. It should be clear and free of floating material. Gently squeeze the bag or observe the solution container to make sure there are no leaks. Do not use the solution if it is discolored, if it contains particles, or if the bag or container leaks. Use a new solution, but show the damaged one to your health care provider.
+
+    You should begin to feel better during the first few days of treatment with fluconazole injection. If your symptoms do not improve or get worse, call your doctor.
+    
+    Use fluconazole injection until your doctor tells you that you should stop, even if you feel better. If you stop using fluconazole injection too soon, your infection may come back after a short time.`,
+  },
+  {
+    productId: 154,
+    name: "Generic Grifulvin V",
+    categoryName: "Anti Fungus",
+    activeIngredient: "Griseofulvin",
+    rating: 56,
+    star: 4,
+    price: "0.72",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericGrifulvinV,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+          ,
+        ],
+      },
+    ],
+    prescription: `Griseofulvin is used to treat skin infections such as jock itch, athlete's foot, and ringworm; and fungal infections of the scalp, fingernails, and toenails.
+
+    This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Griseofulvin comes as a tablet, capsule, and liquid to take by mouth. It is usually taken once a day or can be taken two to four times a day. Although your symptoms may get better in a few days, you will have to take griseofulvin for a long time before the infection is completely gone. It is usually taken for 2 to 4 weeks for skin infections, 4 to 6 weeks for hair and scalp infections, 4 to 8 weeks for foot infections, 3 to 4 months for fingernail infections, and at least 6 months for toenail infections. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take griseofulvin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Shake the liquid well before each use to mix the medication evenly.
+
+    Continue to take griseofulvin even if you feel well. Do not stop taking griseofulvin without talking to your doctor.`,
+  },
+  {
+    productId: 155,
+    name: "Generic Lamisil",
+    categoryName: "Anti Fungus",
+    activeIngredient: "Terbinafine hydrochloride",
+    rating: 116,
+    star: 4,
+    price: "2.83",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericLamisil,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 4, price: 41.19, pricePerBottle: 10.3 },
+          { count: 8, price: 67.56, pricePerBottle: 8.45 },
+          { count: 16, price: 120.3, pricePerBottle: 7.52 },
+        ],
+      },
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 101.9, pricePerBottle: 3.4 },
+          { count: 60, price: 184.76, pricePerBottle: 3.08 },
+          { count: 120, price: 350.48, pricePerBottle: 72.92 },
+          { count: 240, price: 681.9, pricePerBottle: 2.84 },
+          { count: 300, price: 847.62, pricePerBottle: 2.83 },
+        ],
+      },
+    ],
+    prescription: `Terbinafine granules are used to treat fungal infections of the scalp. Terbinafine tablets are used to treat fungal infections of the toenails and fingernails. Terbinafine is in a class of medications called antifungals. It works by stopping the growth of fungi.`,
+    howToUse: `Terbinafine comes as granules and as a tablet to take by mouth. Terbinafine granules are usually taken with a soft food once a day for 6 weeks. Terbinafine tablets are usually taken with or without food once a day for 6 weeks for fingernail infections and once a day for 12 weeks for toenail infections. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take terbinafine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    To prepare a dose of terbinafine granules, sprinkle the entire packet of granules onto a spoonful of soft food such as pudding or mashed potatoes. Do not sprinkle the granules onto a fruit-based soft food, such as applesauce. If your doctor has told you to take 2 packets of terbinafine granules, you may sprinkle the contents of both packets onto one spoonful, or you may sprinkle each packet onto a separate spoonful of soft food.
+    
+    Swallow the spoonful of granules and soft food without chewing.
+    
+    Your fungus may not be completely cured until a few months after you finish taking terbinafine. This is because it takes time for a healthy nail to grow in.`,
+    additionalDetials: `Your doctor or pharmacist will give you the manufacturer's patient information sheet (Medication Guide) when you begin treatment with terbinafine and each time you refill your prescription. Read the information carefully and ask your doctor or pharmacist if you have any questions. You can also visit the Food and Drug Administration (FDA) website (http://www.fda.gov/Drugs/DrugSafety/ucm085729.htm) to obtain the Medication Guide.`,
+  },
+  {
+    productId: 156,
+    name: "Generic Lotrisone",
+    categoryName: "Anti Fungus",
+    activeIngredient: "Betamethasone + Clotrimazole topical",
+    rating: 71,
+    star: 4,
+    price: "4.26",
+    type: "tube",
+    typeName: "tube",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericLotrisone,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "g",
+        bottle: [
+          { count: 8, price: 41.48, pricePerBottle: 5.19 },
+          { count: 16, price: 68.15, pricePerBottle: 4.26 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "g",
+        bottle: [
+          { count: 1, price: 32.52, pricePerBottle: 32.52 },
+          { count: 2, price: 50.22, pricePerBottle: 25.11 },
+          { count: 4, price: 85.63, pricePerBottle: 21.41 },
+          { count: 8, price: 156.44, pricePerBottle: 19.56 },
+          { count: 16, price: 298.07, pricePerBottle: 18.63 },
+        ],
+      },
+    ],
+    prescription: `Betamethasone topical is used to treat the itching, redness, dryness, crusting, scaling, inflammation, and discomfort of various skin conditions, including psoriasis (a skin disease in which red, scaly patches form on some areas of the body) and eczema (a skin disease that causes the skin to be dry and itchy and to sometimes develop red, scaly rashes). Betamethasone is in a class of medications called corticosteroids. It works by activating natural substances in the skin to reduce swelling, redness, and itching.`,
+    howToUse: `Betamethasone comes in ointment, cream, lotion, gel, and aerosol (spray) in various strengths for use on the skin and as a foam to apply to the scalp. It is usually applied once or twice daily. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use betamethasone exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor. Do not apply it to other areas of your body or use it to treat other skin conditions unless directed to do so by your doctor.
+
+    Your skin condition should improve during the first 2 weeks of your treatment. Call your doctor if your symptoms do not improve during this time.
+    
+    To use betamethasone topical, apply a small amount of ointment, cream, solution, gel, or lotion to cover the affected area of skin with a thin even film and rub it in gently.
+    
+    To use the foam on your scalp, part your hair, apply a small amount of the medicine on the affected area, and rub it in gently. You may wash your hair as usual but not right after applying the medicine.
+    
+    Betamethasone foam may catch fire. Stay away from open fire, flames, and do not smoke while you are applying betamethasone foam, and for a short time afterward.`,
+    additionalDetials: `This medication is only for use on the skin. Do not let betamethasone topical get into your eyes or mouth and do not swallow it. Avoid use in the genital and rectal areas and in skin creases and armpits unless directed by your doctor.
+
+    If you are using betamethasone on a child's diaper area, do not use tight-fitting diapers or plastic pants. Such use may increase side effects.
+    
+    Do not apply other skin preparations or products on the treated area without talking with your doctor.
+    
+    Do not wrap or bandage the treated area unless your doctor tells you that you should. Such use may increase side effects.
+    
+    Call your doctor if the treated area gets worse or if burning, swelling, redness, or oozing of pus develops.`,
+  },
+  {
+    productId: 157,
+    name: "Generic Mentax",
+    categoryName: "Anti Fungus",
+    activeIngredient: "Butenafine",
+    rating: 90,
+    star: 5,
+    price: "25.77",
+    type: "tube",
+    typeName: "tube",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericMentax,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "15",
+        unit: "g",
+        bottle: [
+          { count: 1, price: 33.74, pricePerBottle: 33.74 },
+          { count: 2, price: 58.98, pricePerBottle: 29.49 },
+          { count: 4, price: 109.45, pricePerBottle: 27.49 },
+          { count: 8, price: 210.38, pricePerBottle: 26.36 },
+          { count: 16, price: 412.26, pricePerBottle: 25.77 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 158,
+    name: "Generic Nizoral",
+    categoryName: "Anti Fungus",
+    activeIngredient: "Ketoconazole",
+    rating: 182,
+    star: 4,
+    price: "1.23",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericNizoral,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 55.79, pricePerBottle: 1.86 },
+          { count: 60, price: 90.53, pricePerBottle: 1.51 },
+          { count: 120, price: 160, pricePerBottle: 1.33 },
+          { count: 240, price: 298.95, pricePerBottle: 1.25 },
+          { count: 300, price: 368.42, pricePerBottle: 1.23 },
+        ],
+      },
+    ],
+    prescription: `Ketoconazole cream is used to treat tinea corporis (ringworm; fungal skin infection that causes a red scaly rash on different parts of the body), tinea cruris (jock itch; fungal infection of the skin in the groin or buttocks), tinea pedis (athlete's foot; fungal infection of the skin on the feet and between the toes), tinea versicolor (fungal infection of the skin that causes brown or light colored spots on the chest, back, arms, legs, or neck), and yeast infections of the skin. Prescription ketoconazole shampoo is used to treat tinea versicolor. Over-the-counter ketoconazole shampoo is used to control flaking, scaling, and itching of the scalp caused by dandruff. Ketoconazole is in a class of antifungal medications called imidazoles. It works by slowing the growth of fungi that cause infection.`,
+    howToUse: `Prescription ketoconazole comes as a cream and a shampoo to apply to the skin. Over-the-counter ketoconazole comes as a shampoo to apply to the scalp. Ketoconazole cream is usually applied once a day for 2 to 6 weeks. Prescription ketoconazole shampoo is usually applied one time to treat the infection. Over-the-counter ketoconazole shampoo is usually used every 3 to 4 days for up to 8 weeks, and then used as needed to control dandruff. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use ketoconazole exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    One treatment with prescription ketoconazole shampoo may successfully treat your tinea versicolor infection. However, it may take several months for your skin color to return to normal, especially if your skin is exposed to sunlight. After your infection is treated, there is a chance that you will develop another tinea versicolor infection.
+    
+    If you are using over-the-counter ketoconazole shampoo to treat dandruff, your symptoms should improve during the first 2 to 4 weeks of your treatment. Call your doctor if your symptoms do not improve during this time or if your symptoms get worse at any time during your treatment.
+    
+    If you are using ketoconazole cream, your symptoms should improve at the beginning of your treatment. Continue to use ketoconazole cream even if you are feeling well. If you stop using ketoconazole cream too soon, your infection may not be completely cured and your symptoms may return.
+    
+    Ketoconazole cream and shampoos are only for use on the skin or scalp. Do not let ketoconazole cream or shampoo get into your eyes or mouth, and do not swallow the medication. If you do get ketoconazole cream or shampoo in your eyes, wash them with plenty of water.
+    
+    To use the cream, apply enough cream to cover the affected area and all of the skin around it.`,
+    additionalDetials: `To use the prescription shampoo, follow these steps:
+    Use a small amount of water to wet your skin in the area where you will apply ketoconazole shampoo.
+    Apply the shampoo to the affected skin and a large area around it.
+    Use your fingers to rub the shampoo until it forms a lather.
+    Leave the shampoo on your skin for 5 minutes.
+    Rinse the shampoo off of your skin with water.
+    To use the over-the-counter shampoo, follow these steps:
+    Be sure that your scalp is not broken, cut, or irritated. Do not use ketoconazole shampoo if your scalp is broken or irritated.
+    Wet your hair thoroughly.
+    Apply the shampoo to your hair.
+    Use your fingers to rub the shampoo until it forms a lather.
+    Rinse all of the shampoo out of your hair with plenty of water.
+    Repeat steps 2 to 5.
+    `,
+  },
+  {
+    productId: 159,
+    name: "Generic Nizoral",
+    categoryName: "Anti Fungus",
+    activeIngredient: "Ketoconazole",
+    rating: 122,
+    star: 4,
+    price: "18.04",
+    type: "tube",
+    typeName: "tube",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericNizoralCream,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "2% 15",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 31.93, pricePerBottle: 31.93 },
+          { count: 2, price: 49.04, pricePerBottle: 24.52 },
+          { count: 4, price: 83.26, pricePerBottle: 20.82 },
+          { count: 8, price: 151.7, pricePerBottle: 18.96 },
+          { count: 16, price: 288.59, pricePerBottle: 18.04 },
+        ],
+      },
+    ],
+    prescription: `Ketoconazole cream is used to treat tinea corporis (ringworm; fungal skin infection that causes a red scaly rash on different parts of the body), tinea cruris (jock itch; fungal infection of the skin in the groin or buttocks), tinea pedis (athlete's foot; fungal infection of the skin on the feet and between the toes), tinea versicolor (fungal infection of the skin that causes brown or light colored spots on the chest, back, arms, legs, or neck), and yeast infections of the skin. Prescription ketoconazole shampoo is used to treat tinea versicolor. Over-the-counter ketoconazole shampoo is used to control flaking, scaling, and itching of the scalp caused by dandruff. Ketoconazole is in a class of antifungal medications called imidazoles. It works by slowing the growth of fungi that cause infection.`,
+    howToUse: `Prescription ketoconazole comes as a cream and a shampoo to apply to the skin. Over-the-counter ketoconazole comes as a shampoo to apply to the scalp. Ketoconazole cream is usually applied once a day for 2 to 6 weeks. Prescription ketoconazole shampoo is usually applied one time to treat the infection. Over-the-counter ketoconazole shampoo is usually used every 3 to 4 days for up to 8 weeks, and then used as needed to control dandruff. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use ketoconazole exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    One treatment with prescription ketoconazole shampoo may successfully treat your tinea versicolor infection. However, it may take several months for your skin color to return to normal, especially if your skin is exposed to sunlight. After your infection is treated, there is a chance that you will develop another tinea versicolor infection.
+    
+    If you are using over-the-counter ketoconazole shampoo to treat dandruff, your symptoms should improve during the first 2 to 4 weeks of your treatment. Call your doctor if your symptoms do not improve during this time or if your symptoms get worse at any time during your treatment.
+    
+    If you are using ketoconazole cream, your symptoms should improve at the beginning of your treatment. Continue to use ketoconazole cream even if you are feeling well. If you stop using ketoconazole cream too soon, your infection may not be completely cured and your symptoms may return.
+    
+    Ketoconazole cream and shampoos are only for use on the skin or scalp. Do not let ketoconazole cream or shampoo get into your eyes or mouth, and do not swallow the medication. If you do get ketoconazole cream or shampoo in your eyes, wash them with plenty of water.
+    
+    To use the cream, apply enough cream to cover the affected area and all of the skin around it.`,
+    additionalDetials: `To use the prescription shampoo, follow these steps:
+    Use a small amount of water to wet your skin in the area where you will apply ketoconazole shampoo.
+    Apply the shampoo to the affected skin and a large area around it.
+    Use your fingers to rub the shampoo until it forms a lather.
+    Leave the shampoo on your skin for 5 minutes.
+    Rinse the shampoo off of your skin with water.
+    To use the over-the-counter shampoo, follow these steps:
+    Be sure that your scalp is not broken, cut, or irritated. Do not use ketoconazole shampoo if your scalp is broken or irritated.
+    Wet your hair thoroughly.
+    Apply the shampoo to your hair.
+    Use your fingers to rub the shampoo until it forms a lather.
+    Rinse all of the shampoo out of your hair with plenty of water.
+    Repeat steps 2 to 5.
+    `,
+  },
+  {
+    productId: 160,
+    name: "Generic Sporanox",
+    categoryName: "Anti Fungus",
+    activeIngredient: "Itraconazole",
+    rating: 85,
+    star: 4,
+    price: "5.26",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericSporanox,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 63.23, pricePerBottle: 6.32 },
+          { count: 20, price: 113.55, pricePerBottle: 5.68 },
+          { count: 30, price: 163.87, pricePerBottle: 5.46 },
+          { count: 40, price: 214.19, pricePerBottle: 5.55 },
+          { count: 50, price: 264.52, pricePerBottle: 5.29 },
+        ],
+      },
+    ],
+    prescription: `Itraconazole capsules are used to treat fungal infections in the lungs that can spread throughout the body. Itraconazole capsules are also used to treat fungal infections of the fingernails. Itraconazole tablets and capsules are used to treat fungal infections of the toenails. Itraconazole oral solution (liquid) is used to treat yeast infections of the mouth and throat or of the esophagus (tube that connects the throat to the stomach). Itraconazole is in a class of antifungals called triazoles. It works by slowing the growth of fungi that cause infection.`,
+    howToUse: `Itraconazole comes as a capsule, a tablet, and a solution (liquid) to take by mouth. If you are taking itraconazole to treat fungal infections in the lungs, the capsules are usually taken during or right after a full meal one or two times a day for at least 3 months. However, if you are taking itraconazole to treat a serious fungal infection in the lungs, the capsules may be taken with a meal three times a day for the first 3 days of treatment and then taken once or twice a day with a meal for at least 3 months. If you are taking itraconazole to treat fungal infections of the toenails (including or without fingernail infections), the capsules or tablets are usually taken once a day with a full meal for 12 weeks. If you are taking itraconazole to treat fungal infections of the fingernails only, the capsules are usually taken twice a day with a full meal for 1 week, skipped for 3 weeks, and then taken twice a day with a meal for a week. Itraconazole oral solution is usually taken on an empty stomach once or twice a day for 1 to 4 weeks or sometimes longer. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take itraconazole exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow itraconazole capsules whole; do not open, chew, or crush them.
+    
+    Your doctor may tell you to take itraconazole capsules with a cola soft drink if you have certain medical conditions or are taking any of the following medications: cimetidine; famotidine (Pepcid); nizatidine (Axid); proton-pump inhibitors such as esomeprazole (Nexium, in Vimovo), lansoprazole (Prevacid, in Prevpac), omeprazole (Prilosec, in Zegerid), pantoprazole (Protonix), rabeprazole (AcipHex), or ranitidine (Zantac). Follow these directions carefully.
+    
+    To take itraconazole oral solution for fungal infections of the mouth or throat, swish 10 milliliters (about 2 teaspoons) of the solution in your mouth for several seconds and swallow. Repeat if necessary to take your entire dose.
+    
+    Itraconazole capsules and oral solution are absorbed into the body in different ways and work to treat different conditions. Do not substitute the capsules for the liquid or the liquid for the capsules. Be sure that your pharmacist gives you the itraconazole product that your doctor prescribed.`,
+    additionalDetials: `If you are taking itraconazole to treat a nail infection, your nails will probably not look healthier until new nails grow. It can take up to 6 months to grow a new fingernail and up to 12 months to grow a new toenail, so you should not expect to see improvement during your treatment or for several months afterward. Continue to take itraconazole even if you do not see any improvement.
+
+    Continue to take itraconazole until your doctor tells you to stop even if you feel well. Do not stop taking itraconazole without talking to your doctor. If you stop taking itraconazole too soon, your infection may come back after a short time.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 161,
+    name: "Grisovin FP",
+    categoryName: "Anti Fungus",
+    activeIngredient: "Griseofulvin",
+    rating: 120,
+    star: 4,
+    price: "0.86",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 50.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `Griseofulvin is used to treat skin infections such as jock itch, athlete's foot, and ringworm; and fungal infections of the scalp, fingernails, and toenails.
+
+    This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Griseofulvin comes as a tablet, capsule, and liquid to take by mouth. It is usually taken once a day or can be taken two to four times a day. Although your symptoms may get better in a few days, you will have to take griseofulvin for a long time before the infection is completely gone. It is usually taken for 2 to 4 weeks for skin infections, 4 to 6 weeks for hair and scalp infections, 4 to 8 weeks for foot infections, 3 to 4 months for fingernail infections, and at least 6 months for toenail infections. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take griseofulvin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Shake the liquid well before each use to mix the medication evenly.
+
+    Continue to take griseofulvin even if you feel well. Do not stop taking griseofulvin without talking to your doctor.`,
+  },
+  {
+    productId: 162,
+    name: "Nizol",
+    categoryName: "Anti Fungus",
+    activeIngredient: "Ketokonazole",
+    rating: 99,
+    star: 5,
+    price: "0.86",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Intas Pharmaceuticals Ltd",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 50.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
   },
 ];
