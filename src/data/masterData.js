@@ -84,6 +84,48 @@ import genericMentax from "../images/products/genericMentax.gif";
 import genericNizoral from "../images/products/genericNizoral.gif";
 import genericNizoralCream from "../images/products/genericNizoralCream.gif";
 import genericSporanox from "../images/products/genericSporanox.gif";
+import veltride from "../images/products/veltride.gif";
+import genericFamvir from "../images/products/genericFamvir.gif";
+import genericValtrex from "../images/products/genericValtrex.gif";
+import genericZovirax from "../images/products/genericZovirax.gif";
+import ampicillin from "../images/products/ampicillin.gif";
+import augmentinVial from "../images/products/augmentinVial.gif";
+import cipro from "../images/products/cipro.gif";
+import ciploxEyeEarDrop from "../images/products/ciploxEyeEarDrop.gif";
+import dalacinC from "../images/products/dalacinC.gif";
+import distaclorCD from "../images/products/distaclorCD.gif";
+import Fasigyn from "../images/products/Fasigyn.gif";
+import Flagyl from "../images/products/Flagyl.gif";
+import genericAmoxil from "../images/products/genericAmoxil.gif";
+import genericAugmentin from "../images/products/genericAugmentin.gif";
+import genericBactrim from "../images/products/genericBactrim.gif";
+import genericBactrobanOintment from "../images/products/genericBactrobanOintment.gif";
+import genericBiaxin from "../images/products/genericBiaxin.gif";
+import genericCefaclor from "../images/products/genericCefaclor.gif";
+import genericCefadroxil from "../images/products/genericCefadroxil.gif";
+import genericCeftin from "../images/products/genericCeftin.gif";
+import genericCipro from "../images/products/genericCipro.gif";
+import genericCleocin from "../images/products/genericCleocin.gif";
+import genericClozaril from "../images/products/genericClozaril.gif";
+import genericDuricef from "../images/products/genericDuricef.gif";
+import genericFloxin from "../images/products/genericFloxin.gif";
+import genericKeflex from "../images/products/genericKeflex.gif";
+import genericMacrobid from "../images/products/genericMacrobid.gif";
+import genericMinomycin from "../images/products/genericMinomycin.gif";
+import genericMyambutol from "../images/products/genericMyambutol.gif";
+import genericNoroxin from "../images/products/genericNoroxin.gif";
+import genericOmnicef from "../images/products/genericOmnicef.gif";
+import genericPrograf from "../images/products/genericPrograf.gif";
+import genericRulide from "../images/products/genericRulide.gif";
+import genericSumycin from "../images/products/genericSumycin.gif";
+import genericSuprax from "../images/products/genericSuprax.gif";
+import genericTrimox from "../images/products/genericTrimox.gif";
+import genericVantin from "../images/products/genericVantin.gif";
+import genericZithromax from "../images/products/genericZithromax.gif";
+import Levotas from "../images/products/Levotas.gif";
+import maxilivInjection from "../images/products/maxilivInjection.gif";
+import amlip from "../images/products/Amlip.gif";
+import Arkamin from "../images/products/Arkamin.gif";
 
 export const category = [
   "AIDS or HIV Treatment",
@@ -5890,7 +5932,7 @@ export const masterData = [
   {
     productId: 128,
     name: "Galvus",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Vildagliptin",
     rating: 114,
     star: 5,
@@ -5921,7 +5963,7 @@ export const masterData = [
   {
     productId: 129,
     name: "Generic Actos",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Pioglitazone",
     rating: 114,
     star: 4,
@@ -5966,7 +6008,7 @@ export const masterData = [
   {
     productId: 130,
     name: "Generic Amaryl",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Glimepiride",
     rating: 114,
     star: 4,
@@ -6022,7 +6064,7 @@ export const masterData = [
   {
     productId: 131,
     name: "Generic Empagliflozin",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Empagliflozin",
     rating: 166,
     star: 4,
@@ -6066,7 +6108,7 @@ export const masterData = [
   {
     productId: 132,
     name: "Generic Glucophage",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Metformin Hydrochloride",
     rating: 195,
     star: 4,
@@ -6125,7 +6167,7 @@ export const masterData = [
   {
     productId: 133,
     name: "Generic Glucophage SR",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Metformin Hydrochloride",
     rating: 142,
     star: 4,
@@ -6164,7 +6206,7 @@ export const masterData = [
   {
     productId: 134,
     name: "Generic Glucotrol",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Glipizide",
     rating: 79,
     star: 4,
@@ -6211,7 +6253,7 @@ export const masterData = [
   {
     productId: 135,
     name: "Generic Glucovance",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Glyburide + Metformin",
     rating: 182,
     star: 4,
@@ -6256,7 +6298,7 @@ export const masterData = [
   {
     productId: 136,
     name: "Generic Januvia",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Sitagliptin",
     rating: 87,
     star: 5,
@@ -6303,7 +6345,7 @@ export const masterData = [
   {
     productId: 137,
     name: "Generic Maxolon",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Metoclopramide",
     rating: 191,
     star: 5,
@@ -6333,7 +6375,7 @@ export const masterData = [
   {
     productId: 138,
     name: "Generic Metaglip",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Glipizide + Metformin",
     rating: 64,
     star: 5,
@@ -6371,7 +6413,7 @@ export const masterData = [
   {
     productId: 139,
     name: "Generic Micronase",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Glyburide",
     rating: 128,
     star: 5,
@@ -6409,7 +6451,7 @@ export const masterData = [
   {
     productId: 140,
     name: "Generic Prandin",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Repaglinide",
     rating: 53,
     star: 4,
@@ -6466,7 +6508,7 @@ export const masterData = [
   {
     productId: 141,
     name: "Generic Precose",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Acarbose",
     rating: 180,
     star: 4,
@@ -6499,7 +6541,7 @@ export const masterData = [
   {
     productId: 142,
     name: "Generic Starlix",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Nateglinide",
     rating: 132,
     star: 5,
@@ -6532,7 +6574,7 @@ export const masterData = [
   {
     productId: 143,
     name: "Glycomet",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Metformin Hydrochloride",
     rating: 131,
     star: 4,
@@ -6592,7 +6634,7 @@ export const masterData = [
   {
     productId: 144,
     name: "Jalra",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Vildagliptin",
     rating: 104,
     star: 4,
@@ -6623,7 +6665,7 @@ export const masterData = [
   {
     productId: 145,
     name: "Lantus",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Insulin",
     rating: 48,
     star: 4,
@@ -6667,7 +6709,7 @@ export const masterData = [
   {
     productId: 146,
     name: "Lantus Solostar",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Insulin",
     rating: 115,
     star: 4,
@@ -6711,7 +6753,7 @@ export const masterData = [
   {
     productId: 147,
     name: "Okamet",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Metformin Hydrochloride",
     rating: 167,
     star: 4,
@@ -6749,7 +6791,7 @@ export const masterData = [
   {
     productId: 148,
     name: "Prandial MD",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Voglibose",
     rating: 200,
     star: 4,
@@ -6780,7 +6822,7 @@ export const masterData = [
   {
     productId: 149,
     name: "Semi-Daonil",
-    categoryName: "Anti Diabetic",
+    categoryName: "ANTI DIABETIC",
     activeIngredient: "Glibenclamide",
     rating: 77,
     star: 5,
@@ -6798,7 +6840,6 @@ export const masterData = [
         bottle: [
           { count: 2, price: 40.89, pricePerBottle: 20.45 },
           { count: 3, price: 53.93, pricePerBottle: 17.98 },
-          ,
         ],
       },
     ],
@@ -6813,7 +6854,7 @@ export const masterData = [
   {
     productId: 150,
     name: "Candid Gel",
-    categoryName: "Anti Fungus",
+    categoryName: "ANTI FUNGUS",
     activeIngredient: "Clotrimazole topical",
     rating: 131,
     star: 5,
@@ -6833,7 +6874,6 @@ export const masterData = [
           { count: 4, price: 53.33, pricePerBottle: 13.33 },
           { count: 8, price: 91.85, pricePerBottle: 11.48 },
           { count: 16, price: 168.89, pricePerBottle: 10.56 },
-          ,
         ],
       },
       {
@@ -6844,7 +6884,6 @@ export const masterData = [
           { count: 4, price: 50.67, pricePerBottle: 12.67 },
           { count: 8, price: 86.52, pricePerBottle: 10.82 },
           { count: 16, price: 158.22, pricePerBottle: 9.89 },
-          ,
         ],
       },
     ],
@@ -6874,7 +6913,7 @@ export const masterData = [
   {
     productId: 151,
     name: "Canesten Cream",
-    categoryName: "Anti Fungus",
+    categoryName: "ANTI FUNGUS",
     activeIngredient: "Clotrimazole topical",
     rating: 73,
     star: 5,
@@ -6894,7 +6933,6 @@ export const masterData = [
           { count: 4, price: 47.41, pricePerBottle: 11.85 },
           { count: 8, price: 80, pricePerBottle: 10 },
           { count: 16, price: 145.19, pricePerBottle: 9.07 },
-          ,
         ],
       },
     ],
@@ -6924,7 +6962,7 @@ export const masterData = [
   {
     productId: 152,
     name: "Forcan",
-    categoryName: "Anti Fungus",
+    categoryName: "ANTI FUNGUS",
     activeIngredient: "Fluconazole",
     rating: 62,
     star: 5,
@@ -6945,7 +6983,6 @@ export const masterData = [
           { count: 120, price: 263.7, pricePerBottle: 2.2 },
           { count: 240, price: 512.59, pricePerBottle: 2.14 },
           { count: 300, price: 637.04, pricePerBottle: 2.12 },
-          ,
         ],
       },
       {
@@ -6976,7 +7013,7 @@ export const masterData = [
   {
     productId: 153,
     name: "Generic Diflucan",
-    categoryName: "Anti Fungus",
+    categoryName: "ANTI FUNGUS",
     activeIngredient: "Fluconazole",
     rating: 66,
     star: 5,
@@ -6997,7 +7034,6 @@ export const masterData = [
           { count: 120, price: 112.59, pricePerBottle: 0.94 },
           { count: 240, price: 210.37, pricePerBottle: 0.88 },
           { count: 300, price: 256.26, pricePerBottle: 0.86 },
-          ,
         ],
       },
       {
@@ -7051,7 +7087,7 @@ export const masterData = [
   {
     productId: 154,
     name: "Generic Grifulvin V",
-    categoryName: "Anti Fungus",
+    categoryName: "ANTI FUNGUS",
     activeIngredient: "Griseofulvin",
     rating: 56,
     star: 4,
@@ -7072,7 +7108,6 @@ export const masterData = [
           { count: 120, price: 94.81, pricePerBottle: 0.79 },
           { count: 240, price: 174.81, pricePerBottle: 0.73 },
           { count: 300, price: 214.81, pricePerBottle: 0.72 },
-          ,
         ],
       },
     ],
@@ -7087,7 +7122,7 @@ export const masterData = [
   {
     productId: 155,
     name: "Generic Lamisil",
-    categoryName: "Anti Fungus",
+    categoryName: "ANTI FUNGUS",
     activeIngredient: "Terbinafine hydrochloride",
     rating: 116,
     star: 4,
@@ -7133,7 +7168,7 @@ export const masterData = [
   {
     productId: 156,
     name: "Generic Lotrisone",
-    categoryName: "Anti Fungus",
+    categoryName: "ANTI FUNGUS",
     activeIngredient: "Betamethasone + Clotrimazole topical",
     rating: 71,
     star: 4,
@@ -7188,7 +7223,7 @@ export const masterData = [
   {
     productId: 157,
     name: "Generic Mentax",
-    categoryName: "Anti Fungus",
+    categoryName: "ANTI FUNGUS",
     activeIngredient: "Butenafine",
     rating: 90,
     star: 5,
@@ -7219,7 +7254,7 @@ export const masterData = [
   {
     productId: 158,
     name: "Generic Nizoral",
-    categoryName: "Anti Fungus",
+    categoryName: "ANTI FUNGUS",
     activeIngredient: "Ketoconazole",
     rating: 182,
     star: 4,
@@ -7273,7 +7308,7 @@ export const masterData = [
   {
     productId: 159,
     name: "Generic Nizoral",
-    categoryName: "Anti Fungus",
+    categoryName: "ANTI FUNGUS",
     activeIngredient: "Ketoconazole",
     rating: 122,
     star: 4,
@@ -7327,7 +7362,7 @@ export const masterData = [
   {
     productId: 160,
     name: "Generic Sporanox",
-    categoryName: "Anti Fungus",
+    categoryName: "ANTI FUNGUS",
     activeIngredient: "Itraconazole",
     rating: 85,
     star: 4,
@@ -7370,7 +7405,7 @@ export const masterData = [
   {
     productId: 161,
     name: "Grisovin FP",
-    categoryName: "Anti Fungus",
+    categoryName: "ANTI FUNGUS",
     activeIngredient: "Griseofulvin",
     rating: 120,
     star: 4,
@@ -7405,7 +7440,7 @@ export const masterData = [
   {
     productId: 162,
     name: "Nizol",
-    categoryName: "Anti Fungus",
+    categoryName: "ANTI FUNGUS",
     activeIngredient: "Ketokonazole",
     rating: 99,
     star: 5,
@@ -7432,5 +7467,2975 @@ export const masterData = [
     prescription: ``,
     howToUse: ``,
     additionalDetials: ``,
+  },
+  {
+    productId: 163,
+    name: "Veltride",
+    categoryName: "ANTI HAIR LOSS",
+    activeIngredient: "Dutasteride",
+    rating: 131,
+    star: 5,
+    price: "2.05",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Intas Pharma",
+    image: veltride,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 74.81, pricePerBottle: 2.49 },
+          { count: 60, price: 134.81, pricePerBottle: 2.25 },
+          { count: 120, price: 254.81, pricePerBottle: 1.12 },
+          { count: 240, price: 494.81, pricePerBottle: 2.06 },
+          { count: 300, price: 614.81, pricePerBottle: 2.05 },
+        ],
+      },
+    ],
+    prescription: `Dutasteride is used alone or with another medication (tamsulosin [Flomax]) to treat benign prostatic hyperplasia (BPH; enlargement of the prostate gland). Dutasteride is used to treat symptoms of BPH and may reduce the chance of developing acute urinary retention (sudden inability to urinate). Dutasteride may also decrease the chance that prostate surgery will be needed. Dutasteride is in a class of medications called 5-alpha reductase inhibitors. It works by blocking the production of a natural substance that enlarges the prostate.`,
+    howToUse: `Dutasteride comes as a capsule to take by mouth. It is usually taken once a day with or without food. Take dutasteride at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take dutasteride exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the capsules whole; do not open chew, or crush them.
+    
+    Your symptoms may improve after you have taken dutasteride for 3 months, but it may take 6 months or longer for you to see the full benefit of dutasteride. Talk to your doctor about how you are feeling during your treatment.
+    
+    Dutasteride may control your symptoms but will not cure your condition. Continue to take dutasteride even if you feel well. Do not stop taking dutasteride without talking to your doctor.`,
+    additionalDetials: `Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 164,
+    name: "Acivir 400DT",
+    categoryName: "ANTI HERPES",
+    activeIngredient: "Acyclovir",
+    rating: 163,
+    star: 4,
+    price: "10.33",
+    type: "blister",
+    typeName: "blister",
+    ManufacturedBy: "Cipla",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5 tabs / blister 400",
+        unit: "mg",
+        bottle: [
+          { count: 2, price: 33.63, pricePerBottle: 16.82 },
+          { count: 4, price: 52.44, pricePerBottle: 13.11 },
+          { count: 8, price: 90.07, pricePerBottle: 11.26 },
+          { count: 16, price: 165.33, pricePerBottle: 10.33 },
+        ],
+      },
+    ],
+    prescription: `Acyclovir cream is used to treat cold sores (fever blisters; blisters that are caused by a virus called herpes simplex) on the face or lips. Acyclovir ointment is used to treat first outbreaks of genital herpes (a herpes virus infection that causes sores to form around the genitals and rectum from time to time) and to treat certain types of sores caused by the herpes simplex virus in people with weak immune systems. Acyclovir is in a class of antiviral medications called synthetic nucleoside analogues. It works by stopping the spread of the herpes virus in the body. Acyclovir does not cure cold sores or genital herpes, does not prevent outbreaks of these conditions, and does not stop the spread of these conditions to other people.`,
+    howToUse: `Topical acyclovir comes as a cream and an ointment to apply to the skin. Acyclovir cream is usually applied five times a day for 4 days. Acyclovir cream may be applied at any time during a cold sore outbreak, but it works best when it is applied at the very beginning of a cold sore outbreak, when there is tingling, redness, itching, or a bump but the cold sore has not yet formed. Acyclovir ointment is usually applied six times a day (usually 3 hours apart) for 7 days. It is best to begin using acyclovir ointment as soon as possible after you experience the first symptoms of infection. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use topical acyclovir exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Your symptoms should improve during your treatment with topical acyclovir. If your symptoms do not improve or if they get worse, call your doctor.
+    
+    Acyclovir cream and ointment are for use only on the skin. Do not let acyclovir cream or ointment get into your eyes, or inside your mouth or nose, and do not swallow the medication.
+    
+    Acyclovir cream should only be applied to skin where a cold sore has formed or seems likely to form. Do not apply acyclovir cream to any unaffected skin, or to genital herpes sores.
+    
+    Do not apply other skin medications or other types of skin products such as cosmetics, sun screen, or lip balm to the cold sore area while using acyclovir cream unless your doctor tells you that you should.`,
+    additionalDetials: `To use acyclovir cream, follow these steps:
+    Wash your hands.
+    Clean and dry the area of skin where you will be applying the cream.
+    Apply a layer of cream to cover the skin where the cold sore has formed or seems likely to form.
+    Rub the cream into the skin until it disappears.
+    Leave the skin where you applied the medication uncovered. Do not apply a bandage or dressing unless your doctor tells you that you should.
+    Wash your hands with soap and water to remove any cream left on your hands.
+    Be careful not to wash the cream off of your skin. Do not bathe, shower, or swim right after applying acyclovir cream.
+    Avoid irritation of the cold sore area while using acyclovir cream.
+    To use acyclovir ointment, follow these steps:
+    Put on a clean finger cot or rubber glove.
+    Apply enough ointment to cover all of your sores.
+    Take off the finger cot or rubber glove and dispose of it safely, so that it is out of reach of children.
+    Keep the affected area(s) clean and dry, and avoid wearing tight-fitting clothing over the affected area.
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient. Read this information before you start using acyclovir and each time you refill your prescription.`,
+  },
+  {
+    productId: 165,
+    name: "Generic Famvir",
+    categoryName: "ANTI HERPES",
+    activeIngredient: "Famciclovir",
+    rating: 152,
+    star: 5,
+    price: "4.92",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericFamvir,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 57.84, pricePerBottle: 5.78 },
+          { count: 20, price: 104.86, pricePerBottle: 5.24 },
+          { count: 30, price: 151.89, pricePerBottle: 5.06 },
+          { count: 40, price: 198.92, pricePerBottle: 4.97 },
+          { count: 50, price: 245.95, pricePerBottle: 4.92 },
+        ],
+      },
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 78.38, pricePerBottle: 7.84 },
+          { count: 20, price: 145.95, pricePerBottle: 7.3 },
+          { count: 30, price: 213.51, pricePerBottle: 7.12 },
+          { count: 40, price: 281.08, pricePerBottle: 7.03 },
+          { count: 50, price: 248.65, pricePerBottle: 6.97 },
+        ],
+      },
+    ],
+    prescription: `Famciclovir is used to treat herpes zoster (shingles; a rash that can occur in people who have had chickenpox in the past). It is also used to treat repeat outbreaks of herpes virus cold sores or fever blisters in people with a normal immune system. Famciclovir is used to treat repeat outbreaks and to prevent further outbreaks of genital herpes (a herpes virus infection that causes sores to form around the genitals and rectum from time to time) in people with a normal immune system. Famciclovir is also used to treat returning herpes simplex infections of the skin and mucus membranes (mouth, anus) in people with human immunodeficiency virus (HIV) infection. Famciclovir is in a class of medications called antivirals. It works by stopping the spread of the herpes virus in the body. Famciclovir does not cure herpes infections and may not stop the spread of herpes virus to other people. However, it may decrease the symptoms of pain, burning, tingling, tenderness, and itching; help sores to heal; and prevent new sores from forming.`,
+    howToUse: `Famciclovir comes as a tablet to take by mouth with or without food. When famciclovir is used to treat shingles, it is usually taken every 8 hours (three times a day) for 7 days, starting within 3 days after the rash begins to appear. When famciclovir is used to treat cold sores and fever blisters, it is usually taken as one dose at the earliest sign or symptom (tingling, itching, or burning) of a cold sore. When famciclovir is used to treat repeat outbreaks of genital herpes, it is usually taken twice a day for one day, starting within 6 hours of the first sign or symptom of the condition. To keep genital herpes from returning, famciclovir is usually taken twice a day for up to 1 year. When famciclovir is used to treat herpes infection in people infected with HIV, it is usually taken twice a day for 7 days. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take famciclovir exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor. Use this medication as soon as possible after symptoms appear.`,
+    additionalDetials: `Continue to take famciclovir even if you feel well. Do not stop taking famciclovir without talking to your doctor.`,
+  },
+  {
+    productId: 166,
+    name: "Generic Famvir",
+    categoryName: "ANTI HERPES",
+    activeIngredient: "Valacyclovir",
+    rating: 76,
+    star: 4,
+    price: "2.84",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericValtrex,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 100.87, pricePerBottle: 3.36 },
+          { count: 60, price: 184.35, pricePerBottle: 3.07 },
+          { count: 120, price: 351.3, pricePerBottle: 2.93 },
+          { count: 240, price: 685.22, pricePerBottle: 2.86 },
+          { count: 300, price: 852.17, pricePerBottle: 2.84 },
+        ],
+      },
+      {
+        mg: "1000",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 160.87, pricePerBottle: 5.36 },
+          { count: 40, price: 304.35, pricePerBottle: 5.07 },
+          { count: 120, price: 591.3, pricePerBottle: 4.93 },
+        ],
+      },
+    ],
+    prescription: `Valacyclovir is used to treat herpes zoster (shingles) and genital herpes. It does not cure herpes infections but decreases pain and itching, helps sores to heal, and prevents new ones from forming.
+
+    This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Valacyclovir comes as a tablet to take by mouth. It is usually taken every 8 hours (three times a day) for 7 days to treat shingles. To treat genital herpes it is usually taken twice a day for 5 days. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take valacyclovir exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor. Use this medication as soon as possible after symptoms appear.`,
+    additionalDetials: `Continue to take valacyclovir even if you feel well. Do not stop taking valacyclovir without talking to your doctor.`,
+  },
+  {
+    productId: 167,
+    name: "Generic Zovirax",
+    categoryName: "ANTI HERPES",
+    activeIngredient: "Acyclovir",
+    rating: 116,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericZovirax,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "400",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "800",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 45.93, pricePerBottle: 1.53 },
+          { count: 60, price: 77.04, pricePerBottle: 1.28 },
+          { count: 120, price: 139.26, pricePerBottle: 1.16 },
+          { count: 240, price: 263.7, pricePerBottle: 1.1 },
+          { count: 300, price: 325.93, pricePerBottle: 1.09 },
+        ],
+      },
+    ],
+    prescription: `Acyclovir cream is used to treat cold sores (fever blisters; blisters that are caused by a virus called herpes simplex) on the face or lips. Acyclovir ointment is used to treat first outbreaks of genital herpes (a herpes virus infection that causes sores to form around the genitals and rectum from time to time) and to treat certain types of sores caused by the herpes simplex virus in people with weak immune systems. Acyclovir is in a class of antiviral medications called synthetic nucleoside analogues. It works by stopping the spread of the herpes virus in the body. Acyclovir does not cure cold sores or genital herpes, does not prevent outbreaks of these conditions, and does not stop the spread of these conditions to other people.`,
+    howToUse: `Topical acyclovir comes as a cream and an ointment to apply to the skin. Acyclovir cream is usually applied five times a day for 4 days. Acyclovir cream may be applied at any time during a cold sore outbreak, but it works best when it is applied at the very beginning of a cold sore outbreak, when there is tingling, redness, itching, or a bump but the cold sore has not yet formed. Acyclovir ointment is usually applied six times a day (usually 3 hours apart) for 7 days. It is best to begin using acyclovir ointment as soon as possible after you experience the first symptoms of infection. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use topical acyclovir exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Your symptoms should improve during your treatment with topical acyclovir. If your symptoms do not improve or if they get worse, call your doctor.
+    
+    Acyclovir cream and ointment are for use only on the skin. Do not let acyclovir cream or ointment get into your eyes, or inside your mouth or nose, and do not swallow the medication.
+    
+    Acyclovir cream should only be applied to skin where a cold sore has formed or seems likely to form. Do not apply acyclovir cream to any unaffected skin, or to genital herpes sores.
+    
+    Do not apply other skin medications or other types of skin products such as cosmetics, sun screen, or lip balm to the cold sore area while using acyclovir cream unless your doctor tells you that you should.`,
+    additionalDetials: `To use acyclovir cream, follow these steps:
+    Wash your hands.
+    Clean and dry the area of skin where you will be applying the cream.
+    Apply a layer of cream to cover the skin where the cold sore has formed or seems likely to form.
+    Rub the cream into the skin until it disappears.
+    Leave the skin where you applied the medication uncovered. Do not apply a bandage or dressing unless your doctor tells you that you should.
+    Wash your hands with soap and water to remove any cream left on your hands.
+    Be careful not to wash the cream off of your skin. Do not bathe, shower, or swim right after applying acyclovir cream.
+    Avoid irritation of the cold sore area while using acyclovir cream.
+    To use acyclovir ointment, follow these steps:
+    Put on a clean finger cot or rubber glove.
+    Apply enough ointment to cover all of your sores.
+    Take off the finger cot or rubber glove and dispose of it safely, so that it is out of reach of children.
+    Keep the affected area(s) clean and dry, and avoid wearing tight-fitting clothing over the affected area.
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient. Read this information before you start using acyclovir and each time you refill your prescription.`,
+  },
+  {
+    productId: 168,
+    name: "Generic Calcort",
+    categoryName: "ANTI MUSCULAR DYSTROPHY",
+    activeIngredient: "Deflazacort",
+    rating: 128,
+    star: 4,
+    price: "1.68",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericCopegus,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "6",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 63.7, pricePerBottle: 2.12 },
+          { count: 60, price: 112.59, pricePerBottle: 1.88 },
+          { count: 120, price: 210.37, pricePerBottle: 1.75 },
+          { count: 240, price: 405.93, pricePerBottle: 1.69 },
+          { count: 300, price: 503.7, pricePerBottle: 1.68 },
+        ],
+      },
+    ],
+    prescription: `Deflazacort is used to treat Duchenne muscular dystrophy (DMD; a progressive disease in which the muscles do not function properly) in adults and children 5 years of age and older. Deflazacort is in a class of medications called corticosteroids. It works by reducing inflammation (swelling) and by changing the way the immune system works.`,
+    howToUse: `Deflazacort comes as a tablet and a suspension (liquid) to take by mouth. It is usually taken once a day with or without food. Take deflazacort at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take deflazacort exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you cannot swallow the tablet whole, you may crush the tablet and mix with applesauce. The mixture should be taken immediately.
+    
+    Shake the suspension well before each use to mix the medication evenly. Use the measuring device to measure the dose of deflazacort and slowly add the dose to 3 to 4 ounces (90 to 120 mL) of milk or fruit juice and take immediately. Do not mix deflazacort suspension with grapefruit juice.
+    
+    Your doctor may need to change your dose of deflazacort if you experience unusual stress on your body such as surgery, illness, or infection. Tell your doctor if your symptoms improve or get worse or if you get sick or have any changes in your health during your treatment.
+    
+    Do not stop taking deflazacort without talking to your doctor. Stopping the drug abruptly may cause symptoms such as loss of appetite, an upset stomach, vomiting, drowsiness, confusion, headache, fever, joint and muscle pain, peeling skin, and weight loss. Your doctor will probably decrease your dose gradually to allow your body to adjust before stopping the drug completely. Watch for these side effects if you are gradually decreasing your dose and after you stop taking the tablets or oral suspension. If these problems occur, call your doctor immediately.`,
+    additionalDetials: `Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 169,
+    name: "Ampicillin",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Ampicillin",
+    rating: 179,
+    star: 5,
+    price: "0.86",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: ampicillin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `The combination of ampicillin and sulbactam injection is used to treat certain infections caused by bacteria, including infections of the skin, female reproductive organs, and abdomen (stomach area). Ampicillin is in a class of medications called penicillin-like antibiotics. It works by stopping the growth of bacteria. Sulbactam is in a class of medications called beta-lactamase inhibitors. It works by preventing bacteria from destroying ampicillin.
+
+    Antibiotics such as ampicillin and sulbactam injection will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Ampicillin and sulbactam injection comes as a powder to be mixed with liquid and injected intravenously (into a vein) or intramuscularly (into a muscle) every 6 hours (4 times daily). The length of treatment depends on the type of infection you have. Your doctor will tell you how long to use ampicillin and sulbactam injection. After your condition improves, your doctor may switch you to another antibiotic that you can take by mouth to complete your treatment.
+
+    You may receive ampicillin and sulbactam injection in a hospital, or you may use the medication at home. If you will be using ampicillin and sulbactam injection at home, your health care provider will show you how to use the medication. Be sure that you understand these directions, and ask your healthcare provider if you have any questions.
+    
+    You should begin to feel better during the first few days of treatment with ampicillin and sulbactam injection. If your symptoms do not improve or if they get worse, call your doctor. If you still have symptoms of infection after you finish ampicillin and sulbactam injection, tell your doctor.`,
+    additionalDetials: `Use ampicillin and sulbactam injection until you finish the prescription, even if you feel better. If you stop using ampicillin and sulbactam injection too soon or if you skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 170,
+    name: "Augmentin vial",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Amoxicillin + Clavulanic acid",
+    rating: 123,
+    star: 4,
+    price: "37.59",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Glaxo",
+    image: augmentinVial,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1.2",
+        unit: "g",
+        bottle: [
+          { count: 1, price: 51.48, pricePerBottle: 51.48 },
+          { count: 2, price: 88.15, pricePerBottle: 44.08 },
+          { count: 4, price: 161.48, pricePerBottle: 40.37 },
+          { count: 8, price: 308.15, pricePerBottle: 38.52 },
+          { count: 16, price: 601.48, pricePerBottle: 37.59 },
+        ],
+      },
+    ],
+    prescription: `The combination of amoxicillin and clavulanic acid is used to treat certain infections caused by bacteria, including infections of the ears, lungs, sinus, skin, and urinary tract. Amoxicillin is in a class of medications called penicillin-like antibiotics. It works by stopping the growth of bacteria. Clavulanic acid is in a class of medications called beta-lactamase inhibitors. It works by preventing bacteria from destroying amoxicillin. Antibiotics will not work for colds, flu, or other viral infections.`,
+    howToUse: `The combination of amoxicillin and clavulanic acid comes as a tablet, a chewable tablet, and a suspension (liquid) to take by mouth. It is usually taken with a meal or a snack every 8 hours (three times a day) or every 12 hours (twice a day). To help you remember to take amoxicillin and clavulanate, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take amoxicillin and clavulanic acid exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the liquid well before each use to mix the medication evenly.
+    
+    The chewable tablets should be chewed thoroughly before they are swallowed. The other tablets should be taken with a full glass of water.
+    
+    The 250 mg and 500 mg tablets of amoxicillin and clavulanic acid contain the same amount of clavulanic acid. Do not substitute two 250 mg tablets for one 500 mg tablet. The 250 mg regular tablet and the 250 mg chewable tablet contain different amounts of clavulanic acid. They also should not be substituted.`,
+    additionalDetials: `Take amoxicillin and clavulanic acid until you finish the prescription, even if you feel better. Stopping amoxicillin and clavulanic acid too soon may cause bacteria to become resistant to antibiotics.`,
+  },
+  {
+    productId: 171,
+    name: "Campicillin",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Ampicillin",
+    rating: 58,
+    star: 4,
+    price: "0.86",
+    type: "cap",
+    typeName: "cap",
+    ManufacturedBy: "Glaxo",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `The combination of ampicillin and sulbactam injection is used to treat certain infections caused by bacteria, including infections of the skin, female reproductive organs, and abdomen (stomach area). Ampicillin is in a class of medications called penicillin-like antibiotics. It works by stopping the growth of bacteria. Sulbactam is in a class of medications called beta-lactamase inhibitors. It works by preventing bacteria from destroying ampicillin.
+
+    Antibiotics such as ampicillin and sulbactam injection will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Ampicillin and sulbactam injection comes as a powder to be mixed with liquid and injected intravenously (into a vein) or intramuscularly (into a muscle) every 6 hours (4 times daily). The length of treatment depends on the type of infection you have. Your doctor will tell you how long to use ampicillin and sulbactam injection. After your condition improves, your doctor may switch you to another antibiotic that you can take by mouth to complete your treatment.
+
+    You may receive ampicillin and sulbactam injection in a hospital, or you may use the medication at home. If you will be using ampicillin and sulbactam injection at home, your health care provider will show you how to use the medication. Be sure that you understand these directions, and ask your healthcare provider if you have any questions.
+    
+    You should begin to feel better during the first few days of treatment with ampicillin and sulbactam injection. If your symptoms do not improve or if they get worse, call your doctor. If you still have symptoms of infection after you finish ampicillin and sulbactam injection, tell your doctor.`,
+    additionalDetials: `Use ampicillin and sulbactam injection until you finish the prescription, even if you feel better. If you stop using ampicillin and sulbactam injection too soon or if you skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 172,
+    name: "Ceflox",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Ciprofloxacin",
+    rating: 58,
+    star: 4,
+    price: "0.49",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Laborate Pharmaceuticals",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Ciprofloxacin is used to treat or prevent certain infections caused by bacteria such as pneumonia; gonorrhea (a sexually transmitted disease); typhoid fever (a serious infection that is common in developing countries); infectious diarrhea (infections that cause severe diarrhea); and infections of the skin, bone, joint, abdomen (stomach area), and prostate (male reproductive gland), Ciprofloxacin is also used to treat or prevent plague (a serious infection that may be spread on purpose as part of a bioterror attack) and inhalation anthrax (a serious infection that may be spread by anthrax germs in the air on purpose as part of a bioterror attack). Ciprofloxacin may also be used to treat bronchitis, sinus infections, or urinary tract infections but should not be used for bronchitis and sinus infections, or certain types of urinary tract infections if there are other treatment options. Ciprofloxacin extended-release (long-acting) tablets are used to treat kidney and urinary tract infections; however, some types of urinary tract infections should only be treated with ciprofloxacin extended release tablets if no other treatment options are available. Ciprofloxacin is in a class of antibiotics called fluoroquinolones. It works by killing bacteria that cause infections.
+
+    Antibiotics such as ciprofloxacin will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Ciprofloxacin comes as a tablet, a suspension (liquid), and an extended-release tablet to take by mouth with or without food. The tablets and suspension are usually taken twice a day, and the extended-release tablets are usually taken once a day. When used to treat gonorrhea, the tablets and suspension may be given as a single dose. Take ciprofloxacin at around the same time(s) every day. The length of your treatment depends on the type of infection you have. Your doctor will tell you how long to take ciprofloxacin. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ciprofloxacin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    One type of ciprofloxacin cannot be substituted for another. Be sure that you receive only the type of ciprofloxacin that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of ciprofloxacin you were given.
+    
+    Do not take ciprofloxacin with dairy products or calcium-fortified juices alone. However, you may take ciprofloxacin with a meal that includes these foods or drinks.
+    
+    Swallow the tablets and extended-release tablets whole; do not split, crush, or chew them. If you cannot swallow tablets whole, tell your doctor.
+    
+    If you are taking the suspension, shake the bottle very well for 15 seconds before each use to mix the medication evenly. Swallow the correct dose without chewing the granules in the suspension. Close the bottle completely after each use. Do not give the suspension to a patient through a feeding tube.
+    
+    You should begin feeling better during the first few days of your treatment with ciprofloxacin. If your symptoms do not improve or if they get worse, call your doctor. If you are being treated for a urinary tract infection, call your doctor if you develop fever or back pain during or after your treatment. These symptoms may be signs that your infection is worsening.`,
+    additionalDetials: `Take ciprofloxacin until you finish the prescription, even if you feel better. Do not stop taking ciprofloxacin without talking to your doctor unless you experience certain serious side effects listed in the IMPORTANT WARNING and SIDE EFFECTS sections If you stop taking ciprofloxacin too soon or if you skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 173,
+    name: "Cifran",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Ciprofloxacin",
+    rating: 150,
+    star: 4,
+    price: "2.35",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Laborate Pharmaceuticals",
+    image: cipro,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "750",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 60.37, pricePerBottle: 3.04 },
+          { count: 60, price: 152.59, pricePerBottle: 2.54 },
+          { count: 120, price: 230.37, pricePerBottle: 2.42 },
+          { count: 240, price: 565.93, pricePerBottle: 2.36 },
+          { count: 300, price: 703.7, pricePerBottle: 2.35 },
+        ],
+      },
+    ],
+    prescription: `Ciprofloxacin is used to treat or prevent certain infections caused by bacteria such as pneumonia; gonorrhea (a sexually transmitted disease); typhoid fever (a serious infection that is common in developing countries); infectious diarrhea (infections that cause severe diarrhea); and infections of the skin, bone, joint, abdomen (stomach area), and prostate (male reproductive gland), Ciprofloxacin is also used to treat or prevent plague (a serious infection that may be spread on purpose as part of a bioterror attack) and inhalation anthrax (a serious infection that may be spread by anthrax germs in the air on purpose as part of a bioterror attack). Ciprofloxacin may also be used to treat bronchitis, sinus infections, or urinary tract infections but should not be used for bronchitis and sinus infections, or certain types of urinary tract infections if there are other treatment options. Ciprofloxacin extended-release (long-acting) tablets are used to treat kidney and urinary tract infections; however, some types of urinary tract infections should only be treated with ciprofloxacin extended release tablets if no other treatment options are available. Ciprofloxacin is in a class of antibiotics called fluoroquinolones. It works by killing bacteria that cause infections.
+
+    Antibiotics such as ciprofloxacin will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Ciprofloxacin comes as a tablet, a suspension (liquid), and an extended-release tablet to take by mouth with or without food. The tablets and suspension are usually taken twice a day, and the extended-release tablets are usually taken once a day. When used to treat gonorrhea, the tablets and suspension may be given as a single dose. Take ciprofloxacin at around the same time(s) every day. The length of your treatment depends on the type of infection you have. Your doctor will tell you how long to take ciprofloxacin. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ciprofloxacin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    One type of ciprofloxacin cannot be substituted for another. Be sure that you receive only the type of ciprofloxacin that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of ciprofloxacin you were given.
+    
+    Do not take ciprofloxacin with dairy products or calcium-fortified juices alone. However, you may take ciprofloxacin with a meal that includes these foods or drinks.
+    
+    Swallow the tablets and extended-release tablets whole; do not split, crush, or chew them. If you cannot swallow tablets whole, tell your doctor.
+    
+    If you are taking the suspension, shake the bottle very well for 15 seconds before each use to mix the medication evenly. Swallow the correct dose without chewing the granules in the suspension. Close the bottle completely after each use. Do not give the suspension to a patient through a feeding tube.
+    
+    You should begin feeling better during the first few days of your treatment with ciprofloxacin. If your symptoms do not improve or if they get worse, call your doctor. If you are being treated for a urinary tract infection, call your doctor if you develop fever or back pain during or after your treatment. These symptoms may be signs that your infection is worsening.`,
+    additionalDetials: `Take ciprofloxacin until you finish the prescription, even if you feel better. Do not stop taking ciprofloxacin without talking to your doctor unless you experience certain serious side effects listed in the IMPORTANT WARNING and SIDE EFFECTS sections If you stop taking ciprofloxacin too soon or if you skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 174,
+    name: "Cifran OD",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Ciprofloxacin",
+    rating: 122,
+    star: 4,
+    price: "24.56",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Ranbaxy",
+    image: cipro,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1",
+        unit: "g",
+        bottle: [
+          { count: 1, price: 38.44, pricePerBottle: 38.44 },
+          { count: 2, price: 62.07, pricePerBottle: 31.04 },
+          { count: 4, price: 109.33, pricePerBottle: 27.33 },
+          { count: 8, price: 203.85, pricePerBottle: 25.48 },
+          { count: 16, price: 392.89, pricePerBottle: 24.56 },
+        ],
+      },
+    ],
+    prescription: `Ciprofloxacin is used to treat or prevent certain infections caused by bacteria such as pneumonia; gonorrhea (a sexually transmitted disease); typhoid fever (a serious infection that is common in developing countries); infectious diarrhea (infections that cause severe diarrhea); and infections of the skin, bone, joint, abdomen (stomach area), and prostate (male reproductive gland), Ciprofloxacin is also used to treat or prevent plague (a serious infection that may be spread on purpose as part of a bioterror attack) and inhalation anthrax (a serious infection that may be spread by anthrax germs in the air on purpose as part of a bioterror attack). Ciprofloxacin may also be used to treat bronchitis, sinus infections, or urinary tract infections but should not be used for bronchitis and sinus infections, or certain types of urinary tract infections if there are other treatment options. Ciprofloxacin extended-release (long-acting) tablets are used to treat kidney and urinary tract infections; however, some types of urinary tract infections should only be treated with ciprofloxacin extended release tablets if no other treatment options are available. Ciprofloxacin is in a class of antibiotics called fluoroquinolones. It works by killing bacteria that cause infections.
+
+    Antibiotics such as ciprofloxacin will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Ciprofloxacin comes as a tablet, a suspension (liquid), and an extended-release tablet to take by mouth with or without food. The tablets and suspension are usually taken twice a day, and the extended-release tablets are usually taken once a day. When used to treat gonorrhea, the tablets and suspension may be given as a single dose. Take ciprofloxacin at around the same time(s) every day. The length of your treatment depends on the type of infection you have. Your doctor will tell you how long to take ciprofloxacin. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ciprofloxacin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    One type of ciprofloxacin cannot be substituted for another. Be sure that you receive only the type of ciprofloxacin that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of ciprofloxacin you were given.
+    
+    Do not take ciprofloxacin with dairy products or calcium-fortified juices alone. However, you may take ciprofloxacin with a meal that includes these foods or drinks.
+    
+    Swallow the tablets and extended-release tablets whole; do not split, crush, or chew them. If you cannot swallow tablets whole, tell your doctor.
+    
+    If you are taking the suspension, shake the bottle very well for 15 seconds before each use to mix the medication evenly. Swallow the correct dose without chewing the granules in the suspension. Close the bottle completely after each use. Do not give the suspension to a patient through a feeding tube.
+    
+    You should begin feeling better during the first few days of your treatment with ciprofloxacin. If your symptoms do not improve or if they get worse, call your doctor. If you are being treated for a urinary tract infection, call your doctor if you develop fever or back pain during or after your treatment. These symptoms may be signs that your infection is worsening.`,
+    additionalDetials: `Take ciprofloxacin until you finish the prescription, even if you feel better. Do not stop taking ciprofloxacin without talking to your doctor unless you experience certain serious side effects listed in the IMPORTANT WARNING and SIDE EFFECTS sections If you stop taking ciprofloxacin too soon or if you skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 175,
+    name: "Ciplox",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Ciprofloxacin",
+    rating: 130,
+    star: 5,
+    price: "0.49",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Cipla",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 59.26, pricePerBottle: 1.98 },
+          { count: 60, price: 103.7, pricePerBottle: 1.73 },
+          { count: 120, price: 192.59, pricePerBottle: 1.6 },
+          { count: 240, price: 370.37, pricePerBottle: 1.54 },
+          { count: 300, price: 459.26, pricePerBottle: 1.53 },
+        ],
+      },
+    ],
+    prescription: `Ciprofloxacin is used to treat or prevent certain infections caused by bacteria such as pneumonia; gonorrhea (a sexually transmitted disease); typhoid fever (a serious infection that is common in developing countries); infectious diarrhea (infections that cause severe diarrhea); and infections of the skin, bone, joint, abdomen (stomach area), and prostate (male reproductive gland), Ciprofloxacin is also used to treat or prevent plague (a serious infection that may be spread on purpose as part of a bioterror attack) and inhalation anthrax (a serious infection that may be spread by anthrax germs in the air on purpose as part of a bioterror attack). Ciprofloxacin may also be used to treat bronchitis, sinus infections, or urinary tract infections but should not be used for bronchitis and sinus infections, or certain types of urinary tract infections if there are other treatment options. Ciprofloxacin extended-release (long-acting) tablets are used to treat kidney and urinary tract infections; however, some types of urinary tract infections should only be treated with ciprofloxacin extended release tablets if no other treatment options are available. Ciprofloxacin is in a class of antibiotics called fluoroquinolones. It works by killing bacteria that cause infections.
+
+    Antibiotics such as ciprofloxacin will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Ciprofloxacin comes as a tablet, a suspension (liquid), and an extended-release tablet to take by mouth with or without food. The tablets and suspension are usually taken twice a day, and the extended-release tablets are usually taken once a day. When used to treat gonorrhea, the tablets and suspension may be given as a single dose. Take ciprofloxacin at around the same time(s) every day. The length of your treatment depends on the type of infection you have. Your doctor will tell you how long to take ciprofloxacin. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ciprofloxacin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    One type of ciprofloxacin cannot be substituted for another. Be sure that you receive only the type of ciprofloxacin that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of ciprofloxacin you were given.
+    
+    Do not take ciprofloxacin with dairy products or calcium-fortified juices alone. However, you may take ciprofloxacin with a meal that includes these foods or drinks.
+    
+    Swallow the tablets and extended-release tablets whole; do not split, crush, or chew them. If you cannot swallow tablets whole, tell your doctor.
+    
+    If you are taking the suspension, shake the bottle very well for 15 seconds before each use to mix the medication evenly. Swallow the correct dose without chewing the granules in the suspension. Close the bottle completely after each use. Do not give the suspension to a patient through a feeding tube.
+    
+    You should begin feeling better during the first few days of your treatment with ciprofloxacin. If your symptoms do not improve or if they get worse, call your doctor. If you are being treated for a urinary tract infection, call your doctor if you develop fever or back pain during or after your treatment. These symptoms may be signs that your infection is worsening.`,
+    additionalDetials: `Take ciprofloxacin until you finish the prescription, even if you feel better. Do not stop taking ciprofloxacin without talking to your doctor unless you experience certain serious side effects listed in the IMPORTANT WARNING and SIDE EFFECTS sections If you stop taking ciprofloxacin too soon or if you skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 176,
+    name: "Ciplox eye/ear drop",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Ciprofloxacin",
+    rating: 157,
+    star: 5,
+    price: "4.93",
+    type: "bottle",
+    typeName: "bottle",
+    ManufacturedBy: "Cipla",
+    image: ciploxEyeEarDrop,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.3% 5",
+        unit: "ml",
+        bottle: [
+          { count: 4, price: 30.81, pricePerBottle: 7.7 },
+          { count: 8, price: 46.81, pricePerBottle: 5.85 },
+          { count: 16, price: 78.81, pricePerBottle: 4.93 },
+        ],
+      },
+    ],
+    prescription: `Ciprofloxacin is used to treat or prevent certain infections caused by bacteria such as pneumonia; gonorrhea (a sexually transmitted disease); typhoid fever (a serious infection that is common in developing countries); infectious diarrhea (infections that cause severe diarrhea); and infections of the skin, bone, joint, abdomen (stomach area), and prostate (male reproductive gland), Ciprofloxacin is also used to treat or prevent plague (a serious infection that may be spread on purpose as part of a bioterror attack) and inhalation anthrax (a serious infection that may be spread by anthrax germs in the air on purpose as part of a bioterror attack). Ciprofloxacin may also be used to treat bronchitis, sinus infections, or urinary tract infections but should not be used for bronchitis and sinus infections, or certain types of urinary tract infections if there are other treatment options. Ciprofloxacin extended-release (long-acting) tablets are used to treat kidney and urinary tract infections; however, some types of urinary tract infections should only be treated with ciprofloxacin extended release tablets if no other treatment options are available. Ciprofloxacin is in a class of antibiotics called fluoroquinolones. It works by killing bacteria that cause infections.
+
+    Antibiotics such as ciprofloxacin will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Ciprofloxacin comes as a tablet, a suspension (liquid), and an extended-release tablet to take by mouth with or without food. The tablets and suspension are usually taken twice a day, and the extended-release tablets are usually taken once a day. When used to treat gonorrhea, the tablets and suspension may be given as a single dose. Take ciprofloxacin at around the same time(s) every day. The length of your treatment depends on the type of infection you have. Your doctor will tell you how long to take ciprofloxacin. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ciprofloxacin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    One type of ciprofloxacin cannot be substituted for another. Be sure that you receive only the type of ciprofloxacin that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of ciprofloxacin you were given.
+    
+    Do not take ciprofloxacin with dairy products or calcium-fortified juices alone. However, you may take ciprofloxacin with a meal that includes these foods or drinks.
+    
+    Swallow the tablets and extended-release tablets whole; do not split, crush, or chew them. If you cannot swallow tablets whole, tell your doctor.
+    
+    If you are taking the suspension, shake the bottle very well for 15 seconds before each use to mix the medication evenly. Swallow the correct dose without chewing the granules in the suspension. Close the bottle completely after each use. Do not give the suspension to a patient through a feeding tube.
+    
+    You should begin feeling better during the first few days of your treatment with ciprofloxacin. If your symptoms do not improve or if they get worse, call your doctor. If you are being treated for a urinary tract infection, call your doctor if you develop fever or back pain during or after your treatment. These symptoms may be signs that your infection is worsening.`,
+    additionalDetials: `Take ciprofloxacin until you finish the prescription, even if you feel better. Do not stop taking ciprofloxacin without talking to your doctor unless you experience certain serious side effects listed in the IMPORTANT WARNING and SIDE EFFECTS sections If you stop taking ciprofloxacin too soon or if you skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 177,
+    name: "Clindac-A Gel",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Clindamycin",
+    rating: 82,
+    star: 5,
+    price: "15.59",
+    type: "tube",
+    typeName: "tube",
+    ManufacturedBy: "Cipla",
+    image: adapenGel,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1",
+        unit: "%",
+        bottle: [
+          { count: 2, price: 44.15, pricePerBottle: 22.08 },
+          { count: 4, price: 73.48, pricePerBottle: 18.37 },
+          { count: 8, price: 132.15, pricePerBottle: 16.52 },
+          { count: 16, price: 249.48, pricePerBottle: 15.59 },
+        ],
+      },
+    ],
+    prescription: `Vaginal clindamycin is used to treat bacterial vaginosis (an infection caused by an overgrowth of harmful bacteria in the vagina). Clindamycin is in a class of medications called lincomycin antibiotics. It works by slowing or stopping the growth of bacteria. Vaginal clindamycin cannot be used to treat vaginal irritation caused by yeast infections or by sexually transmitted diseases such as chlamydia and trichomoniasis.`,
+    howToUse: `Vaginal clindamycin comes as a suppository to place in the vagina and a cream to apply to the inside of the vagina. The vaginal suppositories are usually used once a day, preferably at bedtime, for 3 days in a row. Most brands of the vaginal cream are used once a day, preferably at bedtime, for 3 days in a row or for 7 days in a row. One brand of vaginal cream (Clindesse®) is usually used as a single dose, given at any time of day. If you are using more than one dose of vaginal clindamycin, use it at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use vaginal clindamycin exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    This medication is for vaginal use only. Do not swallow the cream or suppositories, and do not apply the cream to any other part of your body. Be careful not to get the cream in your eyes. If you do get the cream in your eyes, rinse your eyes with plenty of cool water.`,
+    additionalDetials: `Your medication will come with directions for use. Read these directions and follow them carefully. Ask your doctor or pharmacist if you have any questions about how to use vaginal clindamycin.
+
+    Use vaginal clindamycin until you finish the prescription, even if you feel better. If you stop using vaginal clindamycin too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 178,
+    name: "Dalacin C",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Clindamycin",
+    rating: 74,
+    star: 5,
+    price: "166.08",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Cipla",
+    image: dalacinC,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "300",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 177.19, pricePerBottle: 177.19 },
+          { count: 2, price: 339.56, pricePerBottle: 169.78 },
+          { count: 4, price: 664.3, pricePerBottle: 166.08 },
+        ],
+      },
+    ],
+    prescription: `Vaginal clindamycin is used to treat bacterial vaginosis (an infection caused by an overgrowth of harmful bacteria in the vagina). Clindamycin is in a class of medications called lincomycin antibiotics. It works by slowing or stopping the growth of bacteria. Vaginal clindamycin cannot be used to treat vaginal irritation caused by yeast infections or by sexually transmitted diseases such as chlamydia and trichomoniasis.`,
+    howToUse: `Vaginal clindamycin comes as a suppository to place in the vagina and a cream to apply to the inside of the vagina. The vaginal suppositories are usually used once a day, preferably at bedtime, for 3 days in a row. Most brands of the vaginal cream are used once a day, preferably at bedtime, for 3 days in a row or for 7 days in a row. One brand of vaginal cream (Clindesse®) is usually used as a single dose, given at any time of day. If you are using more than one dose of vaginal clindamycin, use it at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use vaginal clindamycin exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    This medication is for vaginal use only. Do not swallow the cream or suppositories, and do not apply the cream to any other part of your body. Be careful not to get the cream in your eyes. If you do get the cream in your eyes, rinse your eyes with plenty of cool water.`,
+    additionalDetials: `Your medication will come with directions for use. Read these directions and follow them carefully. Ask your doctor or pharmacist if you have any questions about how to use vaginal clindamycin.
+
+    Use vaginal clindamycin until you finish the prescription, even if you feel better. If you stop using vaginal clindamycin too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 179,
+    name: "Distaclor CD",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Cefaclor",
+    rating: 105,
+    star: 4,
+    price: "205.19",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Cipla",
+    image: distaclorCD,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "30 tabs / pack 375",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 216.3, pricePerBottle: 216.3 },
+          { count: 2, price: 417.78, pricePerBottle: 208.89 },
+          { count: 4, price: 820.19, pricePerBottle: 205.19 },
+        ],
+      },
+    ],
+    prescription: `Cefaclor is used to treat certain infections caused by bacteria, such as pneumonia and other lower respiratory tract (lung) infections; and infections of the skin, ears, throat, tonsils, and urinary tract. Cefaclor is in a class of medications called cephalosporin antibiotics. It works by stopping the growth of bacteria.
+
+    Antibiotics such as cefaclor will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Cefaclor comes as a capsule, an extended-release (long-acting) tablet, and a suspension (liquid) to take by mouth. The capsule and liquid are usually taken with or without food every 8 or 12 hours . The long-acting tablet is usually taken within 1 hour of eating a meal every 12 hours (twice a day) for 7 to 10 days . Take cefaclor at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cefaclor exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the suspension well before each use to mix the medication evenly.
+    
+    Swallow the long-acting tablets whole; do not split, chew, or crush them.
+    
+    You should begin to feel better during the first few days of treatment with cefaclor. If your symptoms do not improve or get worse, call your doctor.`,
+    additionalDetials: `Take cefaclor until you finish the prescription, even if you feel better. If you stop taking cefaclor too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 179,
+    name: "Doxt-SL",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Doxycycline",
+    rating: 128,
+    star: 5,
+    price: "0.49",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Dr. Reddy's",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Doxycycline is used to treat infections caused by bacteria, including pneumonia and other respiratory tract infections; certain infections of the skin or eye; infections of the lymphatic, intestinal, genital, and urinary systems; and certain other infections that are spread by ticks, lice, mites, infected animals, or contaminated food and water. It is also used along with other medications to treat acne. Doxycycline is also used to treat or prevent anthrax (a serious infection that may be spread on purpose as part of a bioterror attack), in people who may have been exposed to anthrax in the air, and to treat plague and tuleramia (serious infections that may be spread on purpose as part of a bioterror attack). It is also used to prevent malaria. Doxycycline can also be used in people who cannot be treated with penicillin to treat certain types of food poisoning. Doxycycline (Oracea) is used only to treat pimples and bumps caused by rosacea (a skin disease that causes redness, flushing, and pimples on the face). Doxycycline is in a class of medications called tetracycline antibiotics. It works to treat infections by preventing the growth and spread of bacteria. It works to treat acne by killing the bacteria that infects pores and decreasing a certain natural oily substance that causes acne. It works to treat rosacea by decreasing the inflammation that causes this condition.
+
+    Antibiotics such as doxycycline will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Doxycycline comes as a capsule, delayed-release capsule, tablet, delayed-release tablet, and suspension (liquid) to take by mouth. Doxycycline is usually taken once or twice a day. Drink a full glass of water with each dose. If your stomach becomes upset when you take doxycycline, you may take it with food or milk. However, taking doxycycline with milk or food may decrease the amount of medication absorbed from your stomach. Talk with your doctor or pharmacist about the best way to take doxycycline. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take doxycycline exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the delayed-release tablets and the Acticlate CAP capsules whole; do not split, chew, or crush them.
+    
+    If you cannot swallow certain delayed-release tablets (Doryx; generics) whole, carefully break up the tablet and sprinkle the contents of the tablet on a spoonful of cold or room temperature (not hot) applesauce. Be careful not to crush or damage any of the pellets while you are breaking up the tablet. Eat the mixture right away and swallow without chewing. If the mixture cannot be eaten right away it should be discarded.
+    
+    Shake the suspension well before each use to mix the medication evenly.
+    
+    If you are taking doxycycline for the prevention of malaria, start taking it 1 or 2 days before traveling to an area where there is malaria. Continue taking doxycycline each day you are in the area, and for 4 weeks after leaving the area. You should not take doxycycline for the prevention of malaria for more than 4 months.`,
+    additionalDetials: `Continue to take doxycycline even if you feel well. Take all the medication until you are finished, unless your doctor tells you otherwise.
+
+    One doxycycline product may not be able to be substituted for another. Be sure that you receive only the type of doxycycline that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of doxycycline you were given.`,
+  },
+  {
+    productId: 180,
+    name: "Doxylab",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Doxycycline",
+    rating: 180,
+    star: 5,
+    price: "12.11",
+    type: "cap",
+    typeName: "cap",
+    ManufacturedBy: "Laborate Pharmaceuticals",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 2, price: 37.19, pricePerBottle: 18.6 },
+          { count: 4, price: 59.56, pricePerBottle: 14.89 },
+          { count: 8, price: 104.3, pricePerBottle: 13.04 },
+          { count: 16, price: 193.78, pricePerBottle: 12.11 },
+        ],
+      },
+    ],
+    prescription: `Doxycycline is used to treat infections caused by bacteria, including pneumonia and other respiratory tract infections; certain infections of the skin or eye; infections of the lymphatic, intestinal, genital, and urinary systems; and certain other infections that are spread by ticks, lice, mites, infected animals, or contaminated food and water. It is also used along with other medications to treat acne. Doxycycline is also used to treat or prevent anthrax (a serious infection that may be spread on purpose as part of a bioterror attack), in people who may have been exposed to anthrax in the air, and to treat plague and tuleramia (serious infections that may be spread on purpose as part of a bioterror attack). It is also used to prevent malaria. Doxycycline can also be used in people who cannot be treated with penicillin to treat certain types of food poisoning. Doxycycline (Oracea) is used only to treat pimples and bumps caused by rosacea (a skin disease that causes redness, flushing, and pimples on the face). Doxycycline is in a class of medications called tetracycline antibiotics. It works to treat infections by preventing the growth and spread of bacteria. It works to treat acne by killing the bacteria that infects pores and decreasing a certain natural oily substance that causes acne. It works to treat rosacea by decreasing the inflammation that causes this condition.
+
+    Antibiotics such as doxycycline will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Doxycycline comes as a capsule, delayed-release capsule, tablet, delayed-release tablet, and suspension (liquid) to take by mouth. Doxycycline is usually taken once or twice a day. Drink a full glass of water with each dose. If your stomach becomes upset when you take doxycycline, you may take it with food or milk. However, taking doxycycline with milk or food may decrease the amount of medication absorbed from your stomach. Talk with your doctor or pharmacist about the best way to take doxycycline. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take doxycycline exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the delayed-release tablets and the Acticlate CAP capsules whole; do not split, chew, or crush them.
+    
+    If you cannot swallow certain delayed-release tablets (Doryx; generics) whole, carefully break up the tablet and sprinkle the contents of the tablet on a spoonful of cold or room temperature (not hot) applesauce. Be careful not to crush or damage any of the pellets while you are breaking up the tablet. Eat the mixture right away and swallow without chewing. If the mixture cannot be eaten right away it should be discarded.
+    
+    Shake the suspension well before each use to mix the medication evenly.
+    
+    If you are taking doxycycline for the prevention of malaria, start taking it 1 or 2 days before traveling to an area where there is malaria. Continue taking doxycycline each day you are in the area, and for 4 weeks after leaving the area. You should not take doxycycline for the prevention of malaria for more than 4 months.`,
+    additionalDetials: `Continue to take doxycycline even if you feel well. Take all the medication until you are finished, unless your doctor tells you otherwise.
+
+    One doxycycline product may not be able to be substituted for another. Be sure that you receive only the type of doxycycline that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of doxycycline you were given.`,
+  },
+  {
+    productId: 181,
+    name: "Elmox CV",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Saitech Medicare Pvt Ltd.",
+    rating: 69,
+    star: 5,
+    price: "3.90",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Laborate Pharmaceuticals",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "875 /125",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 90.37, pricePerBottle: 4.52 },
+          { count: 40, price: 241.48, pricePerBottle: 4.02 },
+          { count: 120, price: 468.15, pricePerBottle: 3.9 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 182,
+    name: "Fasigyn",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Tinidazole.",
+    rating: 198,
+    star: 4,
+    price: "1.01",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Pfizer",
+    image: Fasigyn,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 34.07, pricePerBottle: 1.7 },
+          { count: 60, price: 72.59, pricePerBottle: 1.21 },
+          { count: 120, price: 130.37, pricePerBottle: 1.09 },
+          { count: 240, price: 245.93, pricePerBottle: 1.02 },
+          { count: 300, price: 303.7, pricePerBottle: 1.01 },
+        ],
+      },
+    ],
+    prescription: `Tinidazole is used to treat trichomoniasis (a sexually transmitted disease that can affect men and women), giardiasis (an infection of the intestine that can cause diarrhea, gas, and stomach cramps), and amebiasis (an infection of the intestine that can cause diarrhea, gas, and stomach cramps and can spread to other organs such as the liver). Tinidazole is in a class of medications called antiprotozoal agents. It works by killing the organisms that can cause infection.`,
+    howToUse: `Tinidazole comes as a suspension (liquid) prepared by the pharmacist and a tablet to take by mouth. It is usually taken with food as a single dose or once a day for 3 to 5 days. To help you remember to take tinidazole (if you are to take it for more than one day), take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tinidazole exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Shake the liquid well before each use to mix the medication evenly.
+
+    Take tinidazole until you finish the prescription, even if you feel better. If you stop taking tinidazole too soon or skip doses, your infection may not be completely cured and bacteria may become resistant to antibiotics`,
+  },
+  {
+    productId: 183,
+    name: "Flagyl",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Metronidazole.",
+    rating: 150,
+    star: 5,
+    price: "0.27",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Pfizer",
+    image: Flagyl,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 120, price: 41.48, pricePerBottle: 0.35 },
+          { count: 240, price: 68.15, pricePerBottle: 0.28 },
+          { count: 300, price: 81.48, pricePerBottle: 0.27 },
+        ],
+      },
+    ],
+    prescription: `Bismuth, metronidazole, and tetracycline is used along with other ulcer medications to treat duodenal ulcers. It is in a class of medications called antibacterial agents. It works by preventing the growth and spread of Helicobacter pylori bacteria, which often occurs with ulcers. Treating this infection keeps ulcers from coming back.`,
+    howToUse: `Bismuth, metronidazole, and tetracycline (Helidac) comes as two chewable bismuth tablets, one metronidazole tablet, and one tetracycline capsule to take together by mouth. Bismuth, metronidazole, and tetracycline (Pylera) come as a capsule to take by mouth. It usually is taken four times a day, at meals and at bedtime for 10 days (Pylera) or 14 days (Helidac). Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take this medication exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are taking bismuth, metronidazole, and tetracycline (Helidac), chew and swallow the bismuth tablets. Swallow the metronidazole tablet and tetracycline capsule whole with a full glass of water (8 ounces [240 milliliters]). If you are taking bismuth, metronidazole, and tetracycline (Pylera), swallow the capsules whole with a full glass of water (8 ounces [240 milliliters]). It is especially important to take the bedtime dose with plenty of fluid to prevent irritation of your throat and stomach.
+    
+    Take bismuth, metronidazole, and tetracycline at least 1 hour before or 2 hours after you eat or drink foods that contain calcium, such as dairy products and calcium-fortified juices and foods.`,
+    additionalDetials: `Continue to take this medication even if you feel well. Do not stop taking it without talking to your doctor. If you stop taking this medication too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 184,
+    name: "Generic Amoxil",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Amoxycillin Trihydrate.",
+    rating: 151,
+    star: 5,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericAmoxil,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 40.74, pricePerBottle: 0.68 },
+          { count: 120, price: 65.19, pricePerBottle: 0.54 },
+          { count: 240, price: 114.07, pricePerBottle: 0.48 },
+          { count: 300, price: 138.53, pricePerBottle: 0.56 },
+        ],
+      },
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 47.71, pricePerBottle: 0.8 },
+          { count: 120, price: 78.38, pricePerBottle: 0.65 },
+          { count: 240, price: 139.71, pricePerBottle: 0.58 },
+          { count: 300, price: 170.38, pricePerBottle: 0.57 },
+        ],
+      },
+    ],
+    prescription: `Amoxicillin is used to treat certain infections caused by bacteria, such as pneumonia; bronchitis (infection of the airway tubes leading to the lungs); and infections of the ears, nose, throat, urinary tract, and skin. It is also used in combination with other medications to eliminate H. pylori, a bacteria that causes ulcers. Amoxicillin is in a class of medications called penicillin-like antibiotics. It works by stopping the growth of bacteria.
+
+    Antibiotics such as amoxicillin will not work for colds, flu, and other viral infections. Taking antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Amoxicillin comes as a capsule, a tablet, a chewable tablet, and as a suspension (liquid) to take by mouth. It is usually taken every 12 hours (twice a day) or every 8 hours (three times a day) with or without food. The length of your treatment depends on the type of infection that you have. Take amoxicillin at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take amoxicillin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the suspension well before each use to mix the medication evenly. The suspension may be placed directly on the child's tongue or added to formula, milk, fruit juice, water, ginger ale, or another cold liquid and taken immediately.
+    
+    The chewable tablets should be crushed or chewed thoroughly before they are swallowed. The tablets and capsules should be swallowed whole and taken with a full glass of water.`,
+    additionalDetials: `You should begin to feel better during the first few days of treatment with amoxicillin. If your symptoms do not improve or get worse, call your doctor.
+
+    Take amoxicillin until you finish the prescription, even if you feel better. If you stop taking amoxicillin too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 185,
+    name: "Generic Amoxil",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Ampicillin",
+    rating: 158,
+    star: 5,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: ampicillin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+    ],
+    prescription: `The combination of ampicillin and sulbactam injection is used to treat certain infections caused by bacteria, including infections of the skin, female reproductive organs, and abdomen (stomach area). Ampicillin is in a class of medications called penicillin-like antibiotics. It works by stopping the growth of bacteria. Sulbactam is in a class of medications called beta-lactamase inhibitors. It works by preventing bacteria from destroying ampicillin.
+
+    Antibiotics such as ampicillin and sulbactam injection will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Ampicillin and sulbactam injection comes as a powder to be mixed with liquid and injected intravenously (into a vein) or intramuscularly (into a muscle) every 6 hours (4 times daily). The length of treatment depends on the type of infection you have. Your doctor will tell you how long to use ampicillin and sulbactam injection. After your condition improves, your doctor may switch you to another antibiotic that you can take by mouth to complete your treatment.
+
+    You may receive ampicillin and sulbactam injection in a hospital, or you may use the medication at home. If you will be using ampicillin and sulbactam injection at home, your health care provider will show you how to use the medication. Be sure that you understand these directions, and ask your healthcare provider if you have any questions.
+    
+    You should begin to feel better during the first few days of treatment with ampicillin and sulbactam injection. If your symptoms do not improve or if they get worse, call your doctor. If you still have symptoms of infection after you finish ampicillin and sulbactam injection, tell your doctor.`,
+    additionalDetials: `Use ampicillin and sulbactam injection until you finish the prescription, even if you feel better. If you stop using ampicillin and sulbactam injection too soon or if you skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 186,
+    name: "Generic Augmentin",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Amoxicillin + Clavulanic acid",
+    rating: 84,
+    star: 4,
+    price: "1.68",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericAugmentin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "375",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 63.7, pricePerBottle: 2.12 },
+          { count: 60, price: 112.59, pricePerBottle: 1.88 },
+          { count: 120, price: 210.37, pricePerBottle: 1.75 },
+          { count: 240, price: 405.93, pricePerBottle: 1.69 },
+          { count: 300, price: 503.7, pricePerBottle: 1.68 },
+        ],
+      },
+      {
+        mg: "625",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 70.37, pricePerBottle: 2.35 },
+          { count: 60, price: 125.93, pricePerBottle: 2.1 },
+          { count: 120, price: 237.04, pricePerBottle: 1.98 },
+          { count: 240, price: 459.26, pricePerBottle: 1.91 },
+          { count: 300, price: 570.37, pricePerBottle: 1.9 },
+        ],
+      },
+      {
+        mg: "1000",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 85.93, pricePerBottle: 2.86 },
+          { count: 60, price: 157.04, pricePerBottle: 2.62 },
+          { count: 120, price: 299.26, pricePerBottle: 2.49 },
+          { count: 240, price: 583.7, pricePerBottle: 2.43 },
+          { count: 300, price: 725.93, pricePerBottle: 2.42 },
+        ],
+      },
+    ],
+    prescription: `The combination of amoxicillin and clavulanic acid is used to treat certain infections caused by bacteria, including infections of the ears, lungs, sinus, skin, and urinary tract. Amoxicillin is in a class of medications called penicillin-like antibiotics. It works by stopping the growth of bacteria. Clavulanic acid is in a class of medications called beta-lactamase inhibitors. It works by preventing bacteria from destroying amoxicillin. Antibiotics will not work for colds, flu, or other viral infections.`,
+    howToUse: `The combination of amoxicillin and clavulanic acid comes as a tablet, a chewable tablet, and a suspension (liquid) to take by mouth. It is usually taken with a meal or a snack every 8 hours (three times a day) or every 12 hours (twice a day). To help you remember to take amoxicillin and clavulanate, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take amoxicillin and clavulanic acid exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the liquid well before each use to mix the medication evenly.
+    
+    The chewable tablets should be chewed thoroughly before they are swallowed. The other tablets should be taken with a full glass of water.
+    
+    The 250 mg and 500 mg tablets of amoxicillin and clavulanic acid contain the same amount of clavulanic acid. Do not substitute two 250 mg tablets for one 500 mg tablet. The 250 mg regular tablet and the 250 mg chewable tablet contain different amounts of clavulanic acid. They also should not be substituted.`,
+    additionalDetials: `Take amoxicillin and clavulanic acid until you finish the prescription, even if you feel better. Stopping amoxicillin and clavulanic acid too soon may cause bacteria to become resistant to antibiotics.`,
+  },
+  {
+    productId: 187,
+    name: "Generic Bactrim",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Sulfamethoxazole + Trimethoprim",
+    rating: 71,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericBactrim,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "480",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "960",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 36.19, pricePerBottle: 1.21 },
+          { count: 60, price: 53.33, pricePerBottle: 0.89 },
+          { count: 120, price: 87.62, pricePerBottle: 0.73 },
+          { count: 240, price: 156.19, pricePerBottle: 0.65 },
+          { count: 300, price: 190.48, pricePerBottle: 0.63 },
+        ],
+      },
+    ],
+    prescription: `Co-trimoxazole is used to treat certain bacterial infections, such as pneumonia (a lung infection), bronchitis (infection of the tubes leading to the lungs), and infections of the urinary tract, ears, and intestines. It also is used to treat 'travelers' diarrhea. Co-trimoxazole is a combination of trimethoprim and sulfamethoxazole and is in a class of medications called sulfonamides. It works by stopping the growth of bacteria. Antibiotics will not kill viruses that can cause colds, flu, or other viral infections.`,
+    howToUse: `Co-trimoxazole comes as a tablet and a suspension (liquid) to take by mouth. It usually is taken two times a day but may be taken up to four times a day when used to treat certain severe lung infections. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take co-trimoxazole exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    You should begin to feel better during the first few days of treatment with co-trimoxazole. If your symptoms do not improve or if they get worse, call your doctor.
+    
+    Shake the liquid well before each use to mix the medication evenly.`,
+    additionalDetials: `Take co-trimoxazole until you finish the prescription, even if you feel better. Do not stop taking co-trimoxazole without talking to your doctor. If you stop taking co-trimoxazole too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 188,
+    name: "Generic Bactroban Ointment",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Mupirocin",
+    rating: 167,
+    star: 5,
+    price: "35.49",
+    type: "tube",
+    typeName: "tube",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericBactrobanOintment,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "2% 5",
+        unit: "g",
+        bottle: [
+          { count: 1, price: 44.63, pricePerBottle: 44.63 },
+          { count: 2, price: 79.51, pricePerBottle: 39.76 },
+          { count: 4, price: 149.27, pricePerBottle: 37.32 },
+          { count: 8, price: 288.78, pricePerBottle: 36.1 },
+          { count: 16, price: 567.8, pricePerBottle: 35.49 },
+        ],
+      },
+    ],
+    prescription: `Mupirocin, an antibiotic, is used to treat impetigo as well as other skin infections caused by bacteria. It is not effective against fungal or viral infections.
+
+    This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Mupirocin comes in an ointment that is applied to the skin. Mupirocin usually is applied three times a day for 1 to 2 weeks. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use mupirocin exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Wash the affected skin area thoroughly, and then gently apply a small amount (a thin film) of the ointment. You may cover the area with a sterile gauze dressing.
+    
+    Do not apply mupirocin to your eyes.`,
+    additionalDetials: `Do not apply mupirocin to burns unless told to do so by your doctor.`,
+  },
+  {
+    productId: 189,
+    name: "Generic Biaxin",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Clarithromycin",
+    rating: 195,
+    star: 5,
+    price: "32.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericBiaxin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 88.15, pricePerBottle: 2.94 },
+          { count: 60, price: 191.48, pricePerBottle: 2.69 },
+          { count: 120, price: 308.15, pricePerBottle: 2.57 },
+          { count: 240, price: 601.48, pricePerBottle: 2.51 },
+          { count: 300, price: 748.15, pricePerBottle: 2.49 },
+        ],
+      },
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 134.81, pricePerBottle: 4.49 },
+          { count: 60, price: 254.81, pricePerBottle: 4.25 },
+          { count: 120, price: 494.81, pricePerBottle: 4.12 },
+        ],
+      },
+    ],
+    prescription: `Clarithromycin is used to treat certain bacterial infections, such as pneumonia (a lung infection), bronchitis (infection of the tubes leading to the lungs), and infections of the ears, sinuses, skin, and throat. It also is used to treat and prevent disseminated Mycobacterium avium complex (MAC) infection [a type of lung infection that often affects people with human immunodeficiency virus (HIV)]. It is used in combination with other medications to eliminate H. pylori, a bacterium that causes ulcers. Clarithromycin is in a class of medications called macrolide antibiotics. It works by stopping the growth of bacteria.
+
+    Antibiotics such as clarithromycin will not work for colds, flu, or other viral infections. Taking antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Clarithromycin comes as a tablet, an extended-release (long-acting) tablet, and a suspension (liquid) to take by mouth. The regular tablet and liquid are usually taken with or without food every 8 (three times a day) to 12 hours (twice a day) for 7 to 14 days. The long-acting tablet is usually taken with food every 24 hours (once a day) for 7 to 14 days. Your doctor may tell you to take clarithromycin for a longer time depending on your condition. Take clarithromycin at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take clarithromycin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the suspension well before each use to mix the medication evenly.
+    
+    Swallow the long-acting tablets whole; do not split, chew, or crush them.
+    
+    You should begin to feel better during the first few days of treatment with clarithromycin. If your symptoms do not improve or get worse, call your doctor.`,
+    additionalDetials: `Take clarithromycin until you finish the prescription, even if you feel better. If you stop taking clarithromycin too soon, or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 190,
+    name: "Generic Cefaclor",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Cefaclor",
+    rating: 154,
+    star: 4,
+    price: "7.28",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericCefaclor,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 79.57, pricePerBottle: 7.96 },
+          { count: 20, price: 150.64, pricePerBottle: 7.53 },
+          { count: 30, price: 221.7, pricePerBottle: 7.39 },
+          { count: 40, price: 292.77, pricePerBottle: 7.32 },
+          { count: 50, price: 363.83, pricePerBottle: 7.28 },
+        ],
+      },
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 148.94, pricePerBottle: 14.89 },
+          { count: 20, price: 289.36, pricePerBottle: 14.47 },
+          { count: 30, price: 429.79, pricePerBottle: 14.33 },
+          { count: 40, price: 570.21, pricePerBottle: 14.26 },
+          { count: 50, price: 710.64, pricePerBottle: 14.21 },
+        ],
+      },
+    ],
+    prescription: `Cefaclor is used to treat certain infections caused by bacteria, such as pneumonia and other lower respiratory tract (lung) infections; and infections of the skin, ears, throat, tonsils, and urinary tract. Cefaclor is in a class of medications called cephalosporin antibiotics. It works by stopping the growth of bacteria.
+
+    Antibiotics such as cefaclor will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Cefaclor comes as a capsule, an extended-release (long-acting) tablet, and a suspension (liquid) to take by mouth. The capsule and liquid are usually taken with or without food every 8 or 12 hours . The long-acting tablet is usually taken within 1 hour of eating a meal every 12 hours (twice a day) for 7 to 10 days . Take cefaclor at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cefaclor exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the suspension well before each use to mix the medication evenly.
+    
+    Swallow the long-acting tablets whole; do not split, chew, or crush them.`,
+    additionalDetials: `You should begin to feel better during the first few days of treatment with cefaclor. If your symptoms do not improve or get worse, call your doctor.
+
+    Take cefaclor until you finish the prescription, even if you feel better. If you stop taking cefaclor too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 191,
+    name: "Generic Cefadroxil",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Cefadroxil",
+    rating: 186,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericCefadroxil,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "125",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.48, pricePerBottle: 1.38 },
+          { count: 60, price: 68.15, pricePerBottle: 1.14 },
+          { count: 120, price: 121.48, pricePerBottle: 1.01 },
+          { count: 240, price: 228.15, pricePerBottle: 0.95 },
+          { count: 300, price: 281.48, pricePerBottle: 0.94 },
+        ],
+      },
+    ],
+    prescription: `Cefadroxil is used to treat certain infections caused by bacteria such as infections of the skin, throat, tonsils, and urinary tract. Cephalexin is in a class of medications called cephalosporin antibiotics. It works by killing bacteria.
+
+    Antibiotics such as cefadroxil will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Cefadroxil comes as a capsule, tablet, and suspension (liquid) to take by mouth. It is usually taken with or without food every 12 or 24 hours . Take cefadroxil at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cefadroxil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Take cefadroxil with food to reduce nausea and stomach upset.
+    
+    Shake the suspension well before each use to mix the medication evenly.
+    
+    You should begin to feel better during the first few days of treatment with cefadroxil. If your symptoms do not improve or get worse, call your doctor.`,
+    additionalDetials: `Continue to take cefadroxil until you finish the prescription even if you feel better. If you stop taking cefadroxil too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 192,
+    name: "Generic Ceftin",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Cefuroxime Axetil",
+    rating: 63,
+    star: 4,
+    price: "2.48",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericCeftin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 88.15, pricePerBottle: 2.94 },
+          { count: 60, price: 161.48, pricePerBottle: 2.69 },
+          { count: 120, price: 308.15, pricePerBottle: 2.57 },
+          { count: 240, price: 601.48, pricePerBottle: 2.51 },
+          { count: 300, price: 748.15, pricePerBottle: 2.48 },
+        ],
+      },
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 112.59, pricePerBottle: 3.75 },
+          { count: 60, price: 210.37, pricePerBottle: 3.51 },
+          { count: 120, price: 405.93, pricePerBottle: 3.38 },
+          { count: 240, price: 797.04, pricePerBottle: 3.32 },
+        ],
+      },
+    ],
+    prescription: `Cefuroxime is used to treat certain infections caused by bacteria, such as bronchitis(infection of the airway tubes leading to the lungs); gonorrhea (a sexually transmitted disease); Lyme disease (an infection that may develop after a person is bitten by a tick); and infections of the skin, ears, sinuses, throat, tonsils,, and urinary tract. Cefuroxime is in a class of medications called cephalosporin antibiotics. It works by stopping the growth of bacteria.
+
+    Antibiotics such as cefuroxime will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Cefuroxime comes as a tablet and a suspension (liquid) to take by mouth. It is usually taken every 12 hours for 5-10 days, depending on the condition being treated. To treat gonorrhea, cefuroxime is taken as a single dose, and to treat Lyme disease, cefuroxime is taken every 12 hours for 20 days. Take the suspension with food; the tablet may be taken with or without food . Take cefuroxime at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cefuroxime exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Different cefuroxime products are absorbed by the body in different ways and cannot be substituted for one another. If you need to switch from one cefuroxime product to another, your doctor may need to adjust your dose.
+    
+    Shake the suspension well before each use to mix the medication evenly.
+    
+    The tablets should be swallowed whole. Because the crushed tablet has a strong bitter taste, the tablet should not be crushed. Children who cannot swallow the tablet whole should take the liquid instead.`,
+    additionalDetials: `You should begin to feel better during the first few days of treatment with cefuroxime. If your symptoms do not improve or get worse, call your doctor.
+
+    Take cefuroxime until you finish the prescription, even if you feel better. If you stop taking cefuroxime too soon or skip doses, your infection may not be completely treated, and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 193,
+    name: "Generic Cipro",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Ciprofloxacin",
+    rating: 75,
+    star: 4,
+    price: "0.41",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericCipro,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.41 },
+        ],
+      },
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.41 },
+        ],
+      },
+      {
+        mg: "750",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 60.48, pricePerBottle: 2.02 },
+          { count: 60, price: 103.93, pricePerBottle: 1.73 },
+          { count: 120, price: 190.82, pricePerBottle: 1.59 },
+          { count: 240, price: 364.6, pricePerBottle: 1.52 },
+          { count: 300, price: 451.48, pricePerBottle: 1.47 },
+        ],
+      },
+      {
+        mg: "1000",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 88.15, pricePerBottle: 2.94 },
+          { count: 60, price: 161.48, pricePerBottle: 2.69 },
+          { count: 120, price: 308.15, pricePerBottle: 2.57 },
+          { count: 240, price: 601.48, pricePerBottle: 2.51 },
+          { count: 300, price: 748.15, pricePerBottle: 2.45 },
+        ],
+      },
+    ],
+    prescription: `Ciprofloxacin is used to treat or prevent certain infections caused by bacteria such as pneumonia; gonorrhea (a sexually transmitted disease); typhoid fever (a serious infection that is common in developing countries); infectious diarrhea (infections that cause severe diarrhea); and infections of the skin, bone, joint, abdomen (stomach area), and prostate (male reproductive gland), Ciprofloxacin is also used to treat or prevent plague (a serious infection that may be spread on purpose as part of a bioterror attack) and inhalation anthrax (a serious infection that may be spread by anthrax germs in the air on purpose as part of a bioterror attack). Ciprofloxacin may also be used to treat bronchitis, sinus infections, or urinary tract infections but should not be used for bronchitis and sinus infections, or certain types of urinary tract infections if there are other treatment options. Ciprofloxacin extended-release (long-acting) tablets are used to treat kidney and urinary tract infections; however, some types of urinary tract infections should only be treated with ciprofloxacin extended release tablets if no other treatment options are available. Ciprofloxacin is in a class of antibiotics called fluoroquinolones. It works by killing bacteria that cause infections.
+
+    Antibiotics such as ciprofloxacin will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Ciprofloxacin comes as a tablet, a suspension (liquid), and an extended-release tablet to take by mouth with or without food. The tablets and suspension are usually taken twice a day, and the extended-release tablets are usually taken once a day. When used to treat gonorrhea, the tablets and suspension may be given as a single dose. Take ciprofloxacin at around the same time(s) every day. The length of your treatment depends on the type of infection you have. Your doctor will tell you how long to take ciprofloxacin. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ciprofloxacin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    One type of ciprofloxacin cannot be substituted for another. Be sure that you receive only the type of ciprofloxacin that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of ciprofloxacin you were given.
+    
+    Do not take ciprofloxacin with dairy products or calcium-fortified juices alone. However, you may take ciprofloxacin with a meal that includes these foods or drinks.
+    
+    Swallow the tablets and extended-release tablets whole; do not split, crush, or chew them. If you cannot swallow tablets whole, tell your doctor.
+    
+    If you are taking the suspension, shake the bottle very well for 15 seconds before each use to mix the medication evenly. Swallow the correct dose without chewing the granules in the suspension. Close the bottle completely after each use. Do not give the suspension to a patient through a feeding tube.
+    
+    You should begin feeling better during the first few days of your treatment with ciprofloxacin. If your symptoms do not improve or if they get worse, call your doctor. If you are being treated for a urinary tract infection, call your doctor if you develop fever or back pain during or after your treatment. These symptoms may be signs that your infection is worsening.`,
+    additionalDetials: `Take ciprofloxacin until you finish the prescription, even if you feel better. Do not stop taking ciprofloxacin without talking to your doctor unless you experience certain serious side effects listed in the IMPORTANT WARNING and SIDE EFFECTS sections If you stop taking ciprofloxacin too soon or if you skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 194,
+    name: "Generic Cleocin",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Clindamycin",
+    rating: 122,
+    star: 4,
+    price: "1.41",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericCleocin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "150",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 57.04, pricePerBottle: 1.9 },
+          { count: 60, price: 99.26, pricePerBottle: 1.65 },
+          { count: 120, price: 183.7, pricePerBottle: 1.53 },
+          { count: 240, price: 352.59, pricePerBottle: 1.47 },
+          { count: 300, price: 437.04, pricePerBottle: 1.41 },
+        ],
+      },
+      {
+        mg: "300",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 78.72, pricePerBottle: 2.62 },
+          { count: 60, price: 148.94, pricePerBottle: 2.48 },
+          { count: 120, price: 289.36, pricePerBottle: 2.41 },
+          { count: 240, price: 570.21, pricePerBottle: 2.38 },
+          { count: 300, price: 710.64, pricePerBottle: 2.29 },
+        ],
+      },
+    ],
+    prescription: `Vaginal clindamycin is used to treat bacterial vaginosis (an infection caused by an overgrowth of harmful bacteria in the vagina). Clindamycin is in a class of medications called lincomycin antibiotics. It works by slowing or stopping the growth of bacteria. Vaginal clindamycin cannot be used to treat vaginal irritation caused by yeast infections or by sexually transmitted diseases such as chlamydia and trichomoniasis.`,
+    howToUse: `Vaginal clindamycin comes as a suppository to place in the vagina and a cream to apply to the inside of the vagina. The vaginal suppositories are usually used once a day, preferably at bedtime, for 3 days in a row. Most brands of the vaginal cream are used once a day, preferably at bedtime, for 3 days in a row or for 7 days in a row. One brand of vaginal cream (Clindesse®) is usually used as a single dose, given at any time of day. If you are using more than one dose of vaginal clindamycin, use it at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use vaginal clindamycin exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    This medication is for vaginal use only. Do not swallow the cream or suppositories, and do not apply the cream to any other part of your body. Be careful not to get the cream in your eyes. If you do get the cream in your eyes, rinse your eyes with plenty of cool water.`,
+    additionalDetials: `Your medication will come with directions for use. Read these directions and follow them carefully. Ask your doctor or pharmacist if you have any questions about how to use vaginal clindamycin.
+
+    Use vaginal clindamycin until you finish the prescription, even if you feel better. If you stop using vaginal clindamycin too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 195,
+    name: "Generic Clozaril",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Clozapine",
+    rating: 110,
+    star: 5,
+    price: "2.21",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericClozaril,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 77.04, pricePerBottle: 2.57 },
+          { count: 60, price: 139.26, pricePerBottle: 2.32 },
+          { count: 120, price: 263.7, pricePerBottle: 2.2 },
+          { count: 240, price: 512.59, pricePerBottle: 2.14 },
+          { count: 300, price: 637.04, pricePerBottle: 2.12 },
+        ],
+      },
+    ],
+    prescription: `Clozapine is used to treat the symptoms of schizophrenia (a mental illness that causes disturbed or unusual thinking, loss of interest in life, and strong or inappropriate emotions) in patients who have not been helped by other medications or who have tried to kill themselves and are likely to try to kill or harm themselves again. Clozapine is in a class of medications called atypical antipsychotics. It works by changing the activity of certain natural substances in the brain.`,
+    howToUse: `Clozapine comes as a tablet, an orally disintegrating tablet (tablet that dissolves quickly in the mouth), and an oral suspension (liquid) to take by mouth. It is usually taken once or twice daily. Take clozapine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take clozapine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Do not try to push the orally disintegrating tablet through the foil packaging. Instead, use dry hands to peel back the foil. Immediately take out the tablet and place it on your tongue. The tablet will quickly dissolve and can be swallowed with saliva. No water is needed to swallow disintegrating tablets.
+    
+    To measure clozapine oral suspension, follow these steps:
+    
+    Make sure the cap is tight on the oral suspension container by turning the cap clockwise (to the right). Shake the bottle up and down for 10 seconds before use.
+    Remove the bottle cap by pushing down on the cap, then turn it counterclockwise (to the left). The first time you open a new bottle, push the adaptor into the bottle until the top of the adaptor is lined up with the top of the bottle.
+    If your dose is 1 mL or less, use the smaller (1 mL) oral syringe. If your dose is more than 1 mL, use the larger (9 mL) oral syringe.
+    Fill the oral syringe with by air by drawing back the plunger. Then insert the open tip of the oral syringe into the adaptor. Push all the air from the oral syringe into the bottle by pushing down on the plunger.
+    While holding the oral syringe in place, carefully turn the bottle upside down. Draw some of the medication out of the bottle into the oral syringe by pulling back on the plunger. Be careful not to pull the plunger all the way out.
+    You will see a small amount of air near the end of the plunger in the oral syringe. Push on the plunger so the medication goes back into the bottle and the air disappears. Pull back on the plunger to draw your correct medication dose into the oral syringe.
+    While still holding the oral syringe in the bottle, carefully turn the bottle upwards so the syringe is on top. Remove the oral syringe from the bottle neck adaptor without pushing on the plunger. Take the medication right after you draw it into the oral syringe. Do not prepare a dose and store it in the syringe for later use.
+    Place the open tip of the oral syringe into one side of your mouth. Tightly close your lips around the oral syringe and push on the plunger slowly as the liquid goes into your mouth. Swallow the medication slowly as it goes into your mouth.
+    Leave the adaptor in the bottle. Place the cap back on the bottle and turn it clockwise (to the right) to tighten it.`,
+    additionalDetials: `Rinse the oral syringe with warm tap water after each use. Fill a cup with water and place the tip of the oral syringe into the water in the cup. Pull back on the plunger and draw the water into the oral syringe. Push on the plunger to squirt the water into a sink or a separate container until the oral syringe is clean. Allow the oral syringe air dry and dispose of any leftover rinse water.
+    Clozapine controls schizophrenia but does not cure it. It may take several weeks or longer before you feel the full benefit of clozapine. Continue to take clozapine even if you feel well. Do not stop taking clozapine without talking to your doctor. Your doctor will probably want to decrease your dose gradually.`,
+  },
+  {
+    productId: 196,
+    name: "Generic Co-Amoxiclav",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Amoxicillin + Clavulanic acid",
+    rating: 55,
+    star: 5,
+    price: "2.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericLidoderm,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "625",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 85.93, pricePerBottle: 2.86 },
+          { count: 60, price: 157.04, pricePerBottle: 2.62 },
+          { count: 120, price: 299.26, pricePerBottle: 2.49 },
+          { count: 240, price: 583.7, pricePerBottle: 2.43 },
+          { count: 300, price: 725.93, pricePerBottle: 2.42 },
+        ],
+      },
+    ],
+    prescription: `The combination of amoxicillin and clavulanic acid is used to treat certain infections caused by bacteria, including infections of the ears, lungs, sinus, skin, and urinary tract. Amoxicillin is in a class of medications called penicillin-like antibiotics. It works by stopping the growth of bacteria. Clavulanic acid is in a class of medications called beta-lactamase inhibitors. It works by preventing bacteria from destroying amoxicillin. Antibiotics will not work for colds, flu, or other viral infections.`,
+    howToUse: `The combination of amoxicillin and clavulanic acid comes as a tablet, a chewable tablet, and a suspension (liquid) to take by mouth. It is usually taken with a meal or a snack every 8 hours (three times a day) or every 12 hours (twice a day). To help you remember to take amoxicillin and clavulanate, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take amoxicillin and clavulanic acid exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the liquid well before each use to mix the medication evenly.
+    
+    The chewable tablets should be chewed thoroughly before they are swallowed. The other tablets should be taken with a full glass of water.
+    
+    The 250 mg and 500 mg tablets of amoxicillin and clavulanic acid contain the same amount of clavulanic acid. Do not substitute two 250 mg tablets for one 500 mg tablet. The 250 mg regular tablet and the 250 mg chewable tablet contain different amounts of clavulanic acid. They also should not be substituted.`,
+    additionalDetials: `Take amoxicillin and clavulanic acid until you finish the prescription, even if you feel better. Stopping amoxicillin and clavulanic acid too soon may cause bacteria to become resistant to antibiotics.`,
+  },
+  {
+    productId: 197,
+    name: "Generic Doryx",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Doxycycline",
+    rating: 102,
+    star: 4,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericLidoderm,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+    ],
+    prescription: `Doxycycline is used to treat infections caused by bacteria, including pneumonia and other respiratory tract infections; certain infections of the skin or eye; infections of the lymphatic, intestinal, genital, and urinary systems; and certain other infections that are spread by ticks, lice, mites, infected animals, or contaminated food and water. It is also used along with other medications to treat acne. Doxycycline is also used to treat or prevent anthrax (a serious infection that may be spread on purpose as part of a bioterror attack), in people who may have been exposed to anthrax in the air, and to treat plague and tuleramia (serious infections that may be spread on purpose as part of a bioterror attack). It is also used to prevent malaria. Doxycycline can also be used in people who cannot be treated with penicillin to treat certain types of food poisoning. Doxycycline (Oracea) is used only to treat pimples and bumps caused by rosacea (a skin disease that causes redness, flushing, and pimples on the face). Doxycycline is in a class of medications called tetracycline antibiotics. It works to treat infections by preventing the growth and spread of bacteria. It works to treat acne by killing the bacteria that infects pores and decreasing a certain natural oily substance that causes acne. It works to treat rosacea by decreasing the inflammation that causes this condition.
+
+    Antibiotics such as doxycycline will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Doxycycline comes as a capsule, delayed-release capsule, tablet, delayed-release tablet, and suspension (liquid) to take by mouth. Doxycycline is usually taken once or twice a day. Drink a full glass of water with each dose. If your stomach becomes upset when you take doxycycline, you may take it with food or milk. However, taking doxycycline with milk or food may decrease the amount of medication absorbed from your stomach. Talk with your doctor or pharmacist about the best way to take doxycycline. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take doxycycline exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the delayed-release tablets and the Acticlate CAP capsules whole; do not split, chew, or crush them.
+    
+    If you cannot swallow certain delayed-release tablets (Doryx; generics) whole, carefully break up the tablet and sprinkle the contents of the tablet on a spoonful of cold or room temperature (not hot) applesauce. Be careful not to crush or damage any of the pellets while you are breaking up the tablet. Eat the mixture right away and swallow without chewing. If the mixture cannot be eaten right away it should be discarded.
+    
+    Shake the suspension well before each use to mix the medication evenly.
+    
+    If you are taking doxycycline for the prevention of malaria, start taking it 1 or 2 days before traveling to an area where there is malaria. Continue taking doxycycline each day you are in the area, and for 4 weeks after leaving the area. You should not take doxycycline for the prevention of malaria for more than 4 months.`,
+    additionalDetials: `Continue to take doxycycline even if you feel well. Take all the medication until you are finished, unless your doctor tells you otherwise.
+
+    One doxycycline product may not be able to be substituted for another. Be sure that you receive only the type of doxycycline that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of doxycycline you were given.`,
+  },
+  {
+    productId: 198,
+    name: "Generic Duricef",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Cefadroxil monohydrate",
+    rating: 103,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericDuricef,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `Cefadroxil is used to treat certain infections caused by bacteria such as infections of the skin, throat, tonsils, and urinary tract. Cephalexin is in a class of medications called cephalosporin antibiotics. It works by killing bacteria.
+
+    Antibiotics such as cefadroxil will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Cefadroxil comes as a capsule, tablet, and suspension (liquid) to take by mouth. It is usually taken with or without food every 12 or 24 hours . Take cefadroxil at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cefadroxil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Take cefadroxil with food to reduce nausea and stomach upset.
+    
+    Shake the suspension well before each use to mix the medication evenly.`,
+    additionalDetials: `You should begin to feel better during the first few days of treatment with cefadroxil. If your symptoms do not improve or get worse, call your doctor.
+
+    Continue to take cefadroxil until you finish the prescription even if you feel better. If you stop taking cefadroxil too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 199,
+    name: "Generic Eryc",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Erythromycin",
+    rating: 131,
+    star: 4,
+    price: "0.72",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericLidoderm,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.48, pricePerBottle: 0.73 },
+          { count: 300, price: 214.15, pricePerBottle: 0.72 },
+        ],
+      },
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `Erythromycin is used to treat certain infections caused by bacteria, such as infections of the respiratory tract, including bronchitis, pneumonia, Legionnaires' disease (a type of lung infection), and pertussis (whooping cough; a serious infection that can cause severe coughing); diphtheria (a serious infection in the throat); sexually transmitted diseases (STD), including syphilis; and ear, intestine, gynecological, urinary tract, and skin infections. It also is used to prevent recurrent rheumatic fever. Erythromycin is in a class of medications called macrolide antibiotics. It works by stopping the growth of bacteria.
+
+    Antibiotics such as erythromycin will not work for colds, flu, or other viral infections. Taking antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Erythromycin comes as a capsule, tablet, delayed-release (releases the medication in the intestine to prevent break-down of the medication by stomach acids) capsule, delayed-release tablet, and a suspension (liquid), to take by mouth. It usually is taken with or without food every 6 hours (four times a day), every 8 hours (three times a day), or every 12 hours (twice a day). Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take erythromycin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the suspension well before each use to mix the medication evenly.
+    
+    If you are taking the suspension, do not use a household spoon to measure your dose. Use the measuring spoon, dropper, or cup that came with the medication or use a spoon made especially for measuring medication.`,
+    additionalDetials: `The capsules and tablets should be swallowed whole and taken with a full glass of water.
+
+    Continue to take erythromycin even if you feel well. Do not stop taking erythromycin without talking to your doctor.`,
+  },
+  {
+    productId: 200,
+    name: "Generic Floxin",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Ofloxacin",
+    rating: 163,
+    star: 4,
+    price: "0.72",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericFloxin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.48, pricePerBottle: 1.38 },
+          { count: 60, price: 68.15, pricePerBottle: 1.14 },
+          { count: 120, price: 121.48, pricePerBottle: 1.01 },
+          { count: 240, price: 228.15, pricePerBottle: 0.95 },
+          { count: 300, price: 281.48, pricePerBottle: 0.94 },
+        ],
+      },
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+      {
+        mg: "400",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `Ofloxacin is used to treat certain infections including , pneumonia, and infections of the skin, bladder, , reproductive organs, and prostate (a male reproductive gland). Ofloxacin may also be used to treat bronchitis and urinary tract infections but should not be used for bronchitis and some types of urinary tract infections if other treatments are available. Ofloxacin is in a class of antibiotics called fluoroquinolones. It works by killing bacteria that cause infections.
+
+    Antibiotics such as ofloxacin will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Ofloxacin comes as a tablet to take by mouth. It is usually taken with or without food twice a day for 3 days to 6 weeks. The length of treatment depends on the type of infection being treated. Your doctor will tell you how long to take ofloxacin. Take ofloxacin at around the same times every day and try to space your doses 12 hours apart. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ofloxacin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    You should begin to feel better during the first few days of your treatment with ofloxacin. If your symptoms do not improve or if they get worse, call your doctor.`,
+    additionalDetials: `Take ofloxacin until you finish the prescription, even if you feel better. Do not stop taking ofloxacin without talking to your doctor unless you experience certain serious side effects that are listed in the IMPORTANT WARNING and SIDE EFFECT sections. If you stop taking ofloxacin too soon or if you skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 201,
+    name: "Generic Keflex",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Cephalexin",
+    rating: 151,
+    star: 4,
+    price: "0.64",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericKeflex,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "125",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+      {
+        mg: "375",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 81.48, pricePerBottle: 2.72 },
+          { count: 60, price: 148.15, pricePerBottle: 2.47 },
+          { count: 120, price: 281.48, pricePerBottle: 2.35 },
+          { count: 240, price: 548.15, pricePerBottle: 2.28 },
+          { count: 300, price: 681.48, pricePerBottle: 2.27 },
+        ],
+      },
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "750",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 90.37, pricePerBottle: 3.01 },
+          { count: 60, price: 165.93, pricePerBottle: 2.77 },
+          { count: 120, price: 317.04, pricePerBottle: 2.64 },
+          { count: 240, price: 619.26, pricePerBottle: 2.58 },
+          { count: 300, price: 770.37, pricePerBottle: 2.57 },
+        ],
+      },
+    ],
+    prescription: `Cephalexin is used to treat certain infections caused by bacteria such as pneumonia and other respiratory tract infections; and infections of the bone, skin, ears, , genital, and urinary tract. Cephalexin is in a class of medications called cephalosporin antibiotics. It works by killing bacteria.
+
+    Antibiotics such as cephalexin will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Cephalexin comes as a capsule, tablet, and suspension (liquid) to take by mouth. It is usually taken with or without food every 6 or 12 hours for 7 to 14 days, depending on the condition being treated. Take cephalexin at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cephalexin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the liquid well before each use to mix the medication evenly.`,
+    additionalDetials: `You should begin to feel better during the first few days of treatment with cephalexin. If your symptoms do not improve or get worse, call your doctor.
+
+    Continue to take cephalexin until you finish the prescription even if you feel better. If you stop taking cephalexin too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 202,
+    name: "Generic Macrobid",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Nitrofurantoin",
+    rating: 51,
+    star: 4,
+    price: "1.75",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericMacrobid,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 65.93, pricePerBottle: 2.2 },
+          { count: 60, price: 117.04, pricePerBottle: 1.95 },
+          { count: 120, price: 219.26, pricePerBottle: 1.83 },
+          { count: 240, price: 423.7, pricePerBottle: 1.77 },
+          { count: 300, price: 525.93, pricePerBottle: 1.75 },
+        ],
+      },
+    ],
+    prescription: `Nitrofurantoin is used to treat urinary tract infections. Nitrofurantoin is in a class of medications called antibiotics. It works by killing bacteria that cause infection. Antibiotics will not work for colds, flu, or other viral infections.`,
+    howToUse: `Nitrofurantoin comes as a capsule and a liquid to take by mouth. Nitrofurantoin usually is taken two or four times a day for at least 7 days. Take it with a full glass of water and with meals. Try to take nitrofurantoin at the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take nitrofurantoin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the liquid well before each use to mix the medication evenly. Use a dose-measuring spoon or cup to measure the correct amount of liquid for each dose; not a household spoon.`,
+    additionalDetials: `You should begin to feel better during your first few days of treatment with nitrofurantoin. If your symptoms do not improve or if they get worse, call your doctor.
+
+    Take nitrofurantoin until you finish the prescription, even if you feel better. If you stop taking nitrofurantoin too soon or if you skip doses, your infection may be more difficult to treat and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 203,
+    name: "Generic Minomycin",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Minocycline Hydrochloride",
+    rating: 48,
+    star: 4,
+    price: "2.37",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericMinomycin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 78.72, pricePerBottle: 2.62 },
+          { count: 60, price: 148.94, pricePerBottle: 2.48 },
+          { count: 120, price: 289.36, pricePerBottle: 2.41 },
+          { count: 240, price: 570.21, pricePerBottle: 2.38 },
+          { count: 300, price: 710.64, pricePerBottle: 2.37 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 106.81, pricePerBottle: 3.56 },
+          { count: 60, price: 205.11, pricePerBottle: 3.42 },
+          { count: 120, price: 401.7, pricePerBottle: 3.35 },
+          { count: 240, price: 794.89, pricePerBottle: 3.31 },
+        ],
+      },
+    ],
+    prescription: `Minocycline is used to treat infections caused by bacteria including pneumonia and other respiratory tract infections; certain infections of the skin, eye, lymphatic, intestinal, genital, and urinary systems; and certain other infections that are spread by ticks, lice, mites, and infected animals. It is also used along with other medications to treat acne. Minocycline is also used to treat plague and tuleramia (serious infections that may be spread on purpose as part of a bioterror attack). It can also be used in patients who cannot be treated with penicillin to treat certain types of food poisoning, and anthrax (a serious infection that may be spread on purpose as part of a bioterror attack). It can also be used to eliminate bacteria from your nose and throat that may cause meningitis (swelling of tissues around the brain) in others, even though you may not have an infection. Minocycline extended-release tablet (Solodyn) is only used to treat acne. Minocycline is in a class of medications called tetracycline antibiotics. It works to treat infections by preventing the growth and spread of bacteria. It works to treat acne by killing the bacteria that infects pores and decreasing a certain natural oily substance that causes acne.
+
+    Antibiotics such as minocycline will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Minocycline comes as a regular capsule, a pellet-filled capsule, and an extended-release tablet (Solodyn) to take by mouth. The capsule and pellet-filled capsule is usually taken twice a day (every 12 hours) or four times a day (every 6 hours). The extended-release tablet is usually taken once a day to treat acne. Minocycline can be taken with or without food. Drink a full glass of water with each dose. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take minocycline exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Swallow the pellet-filled capsules and extended-release tablets whole; do not split, chew, or crush them.`,
+  },
+  {
+    productId: 204,
+    name: "Generic Myambutol",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Ethambutol",
+    rating: 176,
+    star: 5,
+    price: "0.24",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericMyambutol,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+      {
+        mg: "400",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "600",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "800",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 46.09, pricePerBottle: 1.54 },
+          { count: 60, price: 74.78, pricePerBottle: 1.25 },
+          { count: 120, price: 132.17, pricePerBottle: 1.1 },
+          { count: 240, price: 246.96, pricePerBottle: 1.03 },
+          { count: 300, price: 304.35, pricePerBottle: 1.01 },
+        ],
+      },
+      {
+        mg: "1000",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 48.15, pricePerBottle: 1.61 },
+          { count: 60, price: 81.48, pricePerBottle: 1.36 },
+          { count: 120, price: 148.15, pricePerBottle: 1.23 },
+          { count: 240, price: 281.48, pricePerBottle: 1.17 },
+          { count: 300, price: 348.15, pricePerBottle: 1.16 },
+        ],
+      },
+    ],
+    prescription: `Ethambutol eliminates certain bacteria that cause tuberculosis (TB). It is used with other medicines to treat tuberculosis and to prevent you from giving the infection to others.
+
+    This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Ethambutol comes as a tablet to take by mouth. It usually is taken once a day in the morning. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ethambutol exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor`,
+    additionalDetials: ``,
+  },
+  {
+    productId: 205,
+    name: "Generic Noroxin",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Norfloxacin",
+    rating: 65,
+    star: 4,
+    price: "1.01",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericNoroxin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "400",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 43.7, pricePerBottle: 1.46 },
+          { count: 60, price: 72.59, pricePerBottle: 1.21 },
+          { count: 120, price: 130.07, pricePerBottle: 1.09 },
+          { count: 240, price: 245.7, pricePerBottle: 1.02 },
+          { count: 300, price: 245.7, pricePerBottle: 1.01 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 206,
+    name: "Generic Omnicef",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Cefdinir",
+    rating: 90,
+    star: 4,
+    price: "4.20",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericOmnicef,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "300",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 134.05, pricePerBottle: 4.47 },
+          { count: 60, price: 257.3, pricePerBottle: 4.29 },
+          { count: 120, price: 503.78, pricePerBottle: 4.2 },
+        ],
+      },
+    ],
+    prescription: `Cefdinir is used to treat certain infections caused by bacteria such as bronchitis (infection of the airway tubes leading to the lungs); pneumonia; and infections of the skin, ears, sinuses, throat, and tonsils.. Cefdinir is in a class of medications called cephalosporin antibiotics. It works by killing bacteria.
+
+    Antibiotics such as cefdinir will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Cefdinir comes as a capsule and suspension (liquid) to take by mouth. It is usually taken with or without food every 12 or 24 hours for 5 to 10 days, depending on the condition being treated. Take cefdinir at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cefdinir exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the suspension well before each use to mix the medication evenly.
+    
+    You should begin to feel better during the first few days of treatment with cefdinir. If your symptoms do not improve or get worse, call your doctor.`,
+    additionalDetials: `Continue to take cefdinir even if you feel better. If you stop taking cefdinir too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 207,
+    name: "Generic Prograf",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Tacrolimus",
+    rating: 177,
+    star: 4,
+    price: "3.68",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericPrograf,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.5",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 45.41, pricePerBottle: 4.54 },
+          { count: 20, price: 80, pricePerBottle: 4 },
+          { count: 30, price: 114.59, pricePerBottle: 3.82 },
+          { count: 40, price: 149.19, pricePerBottle: 3.73 },
+          { count: 50, price: 183.78, pricePerBottle: 3.68 },
+        ],
+      },
+      {
+        mg: "1",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 71.91, pricePerBottle: 7.19 },
+          { count: 20, price: 135.32, pricePerBottle: 6.77 },
+          { count: 30, price: 198.72, pricePerBottle: 6.62 },
+          { count: 40, price: 262.13, pricePerBottle: 6.55 },
+          { count: 50, price: 325.53, pricePerBottle: 6.51 },
+        ],
+      },
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [{ count: 10, price: 557.02, pricePerBottle: 55.7 }],
+      },
+    ],
+    prescription: `Tacrolimus injection is used along with other medications to prevent rejection (attack of the transplanted organ by the transplant recipient's immune system) in people who have received kidney, liver, or heart transplants. Tacrolimus injection should only be used by people who are unable to take tacrolimus by mouth. Tacrolimus injection is in a class of medications called immunosupressants. It works by decreasing the activity of the immune system to prevent it from attacking the transplanted organ.`,
+    howToUse: `Tacrolimus injection comes as a solution (liquid) to be injected intravenously (into a vein) by a doctor or nurse in a hospital or medical facility. It is usually given as an ongoing infusion, beginning no sooner than 6 hours after transplant surgery and continuing until tacrolimus can be taken by mouth.`,
+    additionalDetials: `A doctor or nurse will watch you closely during the first 30 minutes of your treatment and then will monitor you often so that you can be treated quickly if you have a serious allergic reaction.`,
+  },
+  {
+    productId: 208,
+    name: "Generic Rocephin",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Ceftriaxone",
+    rating: 157,
+    star: 5,
+    price: "23.59",
+    type: "tube",
+    typeName: "tube",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericLidoderm,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 37.48, pricePerBottle: 37.48 },
+          { count: 2, price: 60.15, pricePerBottle: 30.08 },
+          { count: 4, price: 150.48, pricePerBottle: 26.37 },
+          { count: 8, price: 196.15, pricePerBottle: 24.52 },
+          { count: 16, price: 377.48, pricePerBottle: 23.59 },
+        ],
+      },
+    ],
+    prescription: `Ceftriaxone injection is used to treat certain infections caused by bacteria such as gonorrhea (a sexually transmitted disease), pelvic inflammatory disease (infection of the female reproductive organs that may cause infertility), meningitis (infection of the membranes that surround the brain and spinal cord), and infections of the lungs, ears, skin, urinary tract, blood, bones, joints, and abdomen. Ceftriaxone injection is also sometimes given before certain types of surgery to prevent infections that may develop after the operation. Ceftriaxone injection is in a class of medications called cephalosporin antibiotics. It works by killing bacteria.
+
+    Antibiotics such as ceftriaxone injection will not work for colds, flu, or other viral infections.Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Ceftriaxone injection comes as a powder to be mixed with liquid, or as a premixed product, to be injected intravenously (into a vein) over a period of 30 or 60 minutes.Ceftriaxone injection can also be given intramuscularly (into a muscle). It is sometimes given as a single dose and sometimes given once or twice a day for 4-14 days, depending on the type of infection being treated.
+
+    You may receive ceftriaxone injection in a hospital or doctor's office, or you may administer the medication at home. If you will be receiving ceftriaxone injection at home, your healthcare provider will show you how to use the medication. Be sure that you understand these directions, and ask your healthcare provider if you have any questions.
+    
+    You should begin to feel better during the first few days of your treatment with ceftriaxone injection. If your symptoms do not improve or get worse, call your doctor.`,
+    additionalDetials: `If you will be using more than one dose of ceftriaxone injection, use the medication until you finish the prescription, even if you feel better. If you stop using ceftriaxone injection too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 209,
+    name: "Generic Rulide",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Roxithromycin",
+    rating: 106,
+    star: 5,
+    price: "0.64",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericRulide,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "150",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+    ],
+    prescription: `Ceftriaxone injection is used to treat certain infections caused by bacteria such as gonorrhea (a sexually transmitted disease), pelvic inflammatory disease (infection of the female reproductive organs that may cause infertility), meningitis (infection of the membranes that surround the brain and spinal cord), and infections of the lungs, ears, skin, urinary tract, blood, bones, joints, and abdomen. Ceftriaxone injection is also sometimes given before certain types of surgery to prevent infections that may develop after the operation. Ceftriaxone injection is in a class of medications called cephalosporin antibiotics. It works by killing bacteria.
+
+    Antibiotics such as ceftriaxone injection will not work for colds, flu, or other viral infections.Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Ceftriaxone injection comes as a powder to be mixed with liquid, or as a premixed product, to be injected intravenously (into a vein) over a period of 30 or 60 minutes.Ceftriaxone injection can also be given intramuscularly (into a muscle). It is sometimes given as a single dose and sometimes given once or twice a day for 4-14 days, depending on the type of infection being treated.
+
+    You may receive ceftriaxone injection in a hospital or doctor's office, or you may administer the medication at home. If you will be receiving ceftriaxone injection at home, your healthcare provider will show you how to use the medication. Be sure that you understand these directions, and ask your healthcare provider if you have any questions.
+    
+    You should begin to feel better during the first few days of your treatment with ceftriaxone injection. If your symptoms do not improve or get worse, call your doctor.`,
+    additionalDetials: `If you will be using more than one dose of ceftriaxone injection, use the medication until you finish the prescription, even if you feel better. If you stop using ceftriaxone injection too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 210,
+    name: "Generic Sumycin",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Tetracycline",
+    rating: 80,
+    star: 5,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericSumycin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Bismuth, metronidazole, and tetracycline is used along with other ulcer medications to treat duodenal ulcers. It is in a class of medications called antibacterial agents. It works by preventing the growth and spread of Helicobacter pylori bacteria, which often occurs with ulcers. Treating this infection keeps ulcers from coming back.`,
+    howToUse: `Bismuth, metronidazole, and tetracycline (Helidac) comes as two chewable bismuth tablets, one metronidazole tablet, and one tetracycline capsule to take together by mouth. Bismuth, metronidazole, and tetracycline (Pylera) come as a capsule to take by mouth. It usually is taken four times a day, at meals and at bedtime for 10 days (Pylera) or 14 days (Helidac). Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take this medication exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are taking bismuth, metronidazole, and tetracycline (Helidac), chew and swallow the bismuth tablets. Swallow the metronidazole tablet and tetracycline capsule whole with a full glass of water (8 ounces [240 milliliters]). If you are taking bismuth, metronidazole, and tetracycline (Pylera), swallow the capsules whole with a full glass of water (8 ounces [240 milliliters]). It is especially important to take the bedtime dose with plenty of fluid to prevent irritation of your throat and stomach.
+    
+    Take bismuth, metronidazole, and tetracycline at least 1 hour before or 2 hours after you eat or drink foods that contain calcium, such as dairy products and calcium-fortified juices and foods.`,
+    additionalDetials: `Continue to take this medication even if you feel well. Do not stop taking it without talking to your doctor. If you stop taking this medication too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 211,
+    name: "Generic Suprax",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Cefixime",
+    rating: 174,
+    star: 4,
+    price: "0.67",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericSuprax,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 30.29, pricePerBottle: 1.01 },
+          { count: 60, price: 49.14, pricePerBottle: 0.82 },
+          { count: 120, price: 86.86, pricePerBottle: 0.72 },
+          { count: 240, price: 162.29, pricePerBottle: 0.68 },
+          { count: 300, price: 200, pricePerBottle: 0.67 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.48, pricePerBottle: 1.38 },
+          { count: 60, price: 68.15, pricePerBottle: 1.14 },
+          { count: 120, price: 121.48, pricePerBottle: 1.01 },
+          { count: 240, price: 228.15, pricePerBottle: 0.95 },
+          { count: 300, price: 281.48, pricePerBottle: 0.94 },
+        ],
+      },
+    ],
+    prescription: `Cefixime is used to treat certain infections caused by bacteria such as bronchitis (infection of the airway tubes leading to the lungs); gonorrhea (a sexually transmitted disease); and infections of the ears, throat, tonsils, and urinary tract. Cefixime is in a class of medications called cephalosporin antibiotics. It works by killing bacteria.
+
+    Antibiotics such as cefixime will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Cefixime comes as a tablet, chewable tablet, capsule, and suspension (liquid) to take by mouth. It is usually taken with or without food every 12 or 24 hours . When used for the treatment of gonorrhea it may be given in a single dose. Take cefixime at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cefixime exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the suspension well before each use to mix the medication evenly.
+    
+    If you are taking the chewable tablets, chew these tablets completely before swallowing; do not swallow the chewable tablets whole. If you have trouble chewing you may crush them before swallowing.
+    
+    Cefixime tablets come with a line down the middle of the tablet. If your doctor tells you to take half a tablet, break it carefully on the line. Take half the tablet as directed, and save the other half for your next dose.
+    
+    Different cefixime products are absorbed by the body in different ways and cannot be substituted for one another. If you need to switch from one cefixime product to another, your doctor may need to adjust your dose.`,
+    additionalDetials: `You should begin to feel better during the first few days of treatment with cefixime. If your symptoms do not improve or get worse, call your doctor.
+
+    Continue to take cefixime even if you feel better. If you stop taking cefixime too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 212,
+    name: "Generic Terramycin",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Oxytetracycline",
+    rating: 82,
+    star: 4,
+    price: "0.27",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericLidoderm,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 120, price: 41.48, pricePerBottle: 0.35 },
+          { count: 240, price: 68.15, pricePerBottle: 0.28 },
+          { count: 300, price: 81.48, pricePerBottle: 0.27 },
+        ],
+      },
+    ],
+    prescription: `Phenazopyridine relieves urinary tract pain, burning, irritation, and discomfort, as well as urgent and frequent urination caused by urinary tract infections, surgery, injury, or examination procedures. However, phenazopyridine is not an antibiotic; it does not cure infections.`,
+    howToUse: `Phenazopyridine comes as a tablet or capsule to take by mouth. It usually is taken three times a day after meals. Do not chew or crush the tablets as it may cause your teeth to become stained; swallow them whole with a full glass of water. You may stop taking this drug when pain and discomfort completely disappear. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take phenazopyridine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: ``,
+  },
+  {
+    productId: 213,
+    name: "Generic Trimox",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Amoxicillin",
+    rating: 64,
+    star: 5,
+    price: "0.79",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericTrimox,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 37.04, pricePerBottle: 1.23 },
+          { count: 60, price: 59.26, pricePerBottle: 0.99 },
+          { count: 120, price: 103.7, pricePerBottle: 0.86 },
+          { count: 240, price: 192.59, pricePerBottle: 0.8 },
+          { count: 300, price: 237.04, pricePerBottle: 0.79 },
+        ],
+      },
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 63.7, pricePerBottle: 2.12 },
+          { count: 60, price: 112.59, pricePerBottle: 1.88 },
+          { count: 120, price: 210.37, pricePerBottle: 1.75 },
+          { count: 240, price: 405.93, pricePerBottle: 1.69 },
+          { count: 300, price: 503.7, pricePerBottle: 1.68 },
+        ],
+      },
+    ],
+    prescription: `Amoxicillin is used to treat certain infections caused by bacteria, such as pneumonia; bronchitis (infection of the airway tubes leading to the lungs); and infections of the ears, nose, throat, urinary tract, and skin. It is also used in combination with other medications to eliminate H. pylori, a bacteria that causes ulcers. Amoxicillin is in a class of medications called penicillin-like antibiotics. It works by stopping the growth of bacteria.
+
+    Antibiotics such as amoxicillin will not work for colds, flu, and other viral infections. Taking antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Amoxicillin comes as a capsule, a tablet, a chewable tablet, and as a suspension (liquid) to take by mouth. It is usually taken every 12 hours (twice a day) or every 8 hours (three times a day) with or without food. The length of your treatment depends on the type of infection that you have. Take amoxicillin at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take amoxicillin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the suspension well before each use to mix the medication evenly. The suspension may be placed directly on the child's tongue or added to formula, milk, fruit juice, water, ginger ale, or another cold liquid and taken immediately.
+    
+    The chewable tablets should be crushed or chewed thoroughly before they are swallowed. The tablets and capsules should be swallowed whole and taken with a full glass of water.`,
+    additionalDetials: `You should begin to feel better during the first few days of treatment with amoxicillin. If your symptoms do not improve or get worse, call your doctor.
+
+    Take amoxicillin until you finish the prescription, even if you feel better. If you stop taking amoxicillin too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 214,
+    name: "Generic Vantin",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Cefpodoxime",
+    rating: 138,
+    star: 4,
+    price: "1.90",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericVantin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 70.37, pricePerBottle: 2.35 },
+          { count: 60, price: 125.93, pricePerBottle: 2.1 },
+          { count: 120, price: 237.04, pricePerBottle: 1.98 },
+          { count: 240, price: 459.26, pricePerBottle: 1.91 },
+          { count: 300, price: 570.37, pricePerBottle: 1.9 },
+        ],
+      },
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 83.7, pricePerBottle: 2.79 },
+          { count: 60, price: 152.59, pricePerBottle: 2.54 },
+          { count: 120, price: 290.37, pricePerBottle: 2.42 },
+          { count: 240, price: 565.93, pricePerBottle: 2.36 },
+          { count: 300, price: 703.7, pricePerBottle: 2.35 },
+        ],
+      },
+    ],
+    prescription: `Cefpodoxime is used to treat certain infections caused by bacteria such as bronchitis (infection of the airway tubes leading to the lungs); pneumonia; gonorrhea (a sexually transmitted disease); and infections of the skin, ear, sinuses, throat, tonsils, and urinary tract. Cefpodoxime is in a class of medications called cephalosporin antibiotics. It works by stopping the growth of bacteria.
+
+    Antibiotics such as cefpodoxime will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Cefpodoxime comes as a tablet and suspension (liquid) to take by mouth. It is usually taken every 12 hours for 5 to 14 days depending on the condition being treated. A single dose is given to treat gonorrhea. Take the tablet with food; the suspension can be taken with or without food. Take cefpodoxime at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cefpodoxime exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the suspension well before each use to mix the medication evenly.`,
+    additionalDetials: `You should begin to feel better during the first few days of treatment with cefpodoxime. If your symptoms do not improve or get worse, call your doctor.
+
+    Continue to take cefpodoxime until you finish the prescription even if you feel better. If you stop taking cefpodoxime too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 215,
+    name: "Generic Vigamox",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Moxifloxacin",
+    rating: 90,
+    star: 4,
+    price: "11.80",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericLidoderm,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "400",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 361.48, pricePerBottle: 12.05 },
+          { count: 60, price: 708.15, pricePerBottle: 11.8 },
+        ],
+      },
+    ],
+    prescription: `Moxifloxacin is used to treat certain infections caused by bacteria such as pneumonia, , and , skin, and abdominal (stomach area) infections . Moxifloxacin is also used to prevent and treat plague (a serious infection that may be spread on purpose as part of a bioterror attack.Moxifloxacin may also be used to treat bronchitis or sinus infections but should not be used for these conditions if there are other treatment options available. Moxifloxacin is in a class of antibiotics called fluoroquinolones. It works by killing the bacteria that cause infections.
+
+      Antibiotics such as moxifloxacin will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Moxifloxacin comes as tablet to take by mouth. It is usually taken with or without food once a day for 5 to 21 days. The length of treatment depends on the type of infection being treated. Your doctor will tell you how long to take moxifloxacin. Take moxifloxacin at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take moxifloxacin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    You should begin to feel better during the first few days of treatment with moxifloxacin. If your symptoms do not improve or if they get worse, call your doctor.`,
+    additionalDetials: `Take moxifloxacin until you finish the prescription, even if you feel better. Do not stop taking moxifloxacin without talking to your doctor unless you experience certain serious side effects listed in the IMPORTANT WARNING and SIDE EFFECTS sections. If you stop taking moxifloxacin too soon or if you skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 216,
+    name: "Generic Zithromax",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Azithromycin",
+    rating: 76,
+    star: 4,
+    price: "0.64",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericZithromax,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 35.85, pricePerBottle: 1.19 },
+          { count: 60, price: 55.41, pricePerBottle: 0.92 },
+          { count: 120, price: 94.53, pricePerBottle: 0.79 },
+          { count: 24, price: 172.75, pricePerBottle: 0.72 },
+          { count: 300, price: 211.85, pricePerBottle: 0.71 },
+        ],
+      },
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 77.77, pricePerBottle: 2.59 },
+          { count: 60, price: 133.62, pricePerBottle: 2.23 },
+          { count: 120, price: 245.33, pricePerBottle: 2.04 },
+          { count: 240, price: 468.77, pricePerBottle: 1.95 },
+          { count: 300, price: 580.48, pricePerBottle: 1.93 },
+        ],
+      },
+    ],
+    prescription: `Azithromycin is used to treat certain bacterial infections, such as bronchitis; pneumonia; sexually transmitted diseases (STD); and infections of the ears, lungs, sinuses, skin, throat, and reproductive organs. Azithromycin also is used to treat or prevent disseminated Mycobacterium avium complex (MAC) infection [a type of lung infection that often affects people with human immunodeficiency virus (HIV)]. Azithromycin is in a class of medications called macrolide antibiotics. It works by stopping the growth of bacteria.
+
+    Antibiotics such as azithromycin will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Azithromycin comes as a tablet, an extended-release (long-acting) suspension (liquid), and a suspension (liquid) to take by mouth. The tablets and suspension (Zithromax) are usually taken with or without food once a day for 1-5 days. When used for the prevention of disseminated MAC infection, azithromycin tablets are usually taken with or without food once weekly. The extended-release suspension (Zmax) is usually taken on an empty stomach (at least 1 hour before or 2 hours after a meal) as a one-time dose. To help you remember to take azithromycin, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take azithromycin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the liquid well before each use to mix the medication evenly. Use a dosing spoon, oral syringe, or measuring cup to measure the correct amount of medication. Rinse the measuring device with water after taking the full dose of medication.
+    
+    If you receive azithromycin powder for suspension (Zithromax) in the single-dose, 1-gram packet, you must first mix it with water before you take the medication. Mix the contents of the 1-gram packet with 1/4 cup (60 mL) of water in a glass and consume the entire contents immediately. Add an additional 1/4 cup (60 mL) of water to the same glass, mix, and consume the entire contents to ensure that you receive the entire dose.
+    
+    If you receive azithromycin extended-release suspension (Zmax) as a dry powder, you must first add water to the bottle before you take the medication. Open the bottle by pressing down on the cap and twisting. Measure 1/4 cup (60 mL) of water, and add to the bottle. Close the bottle tightly, and shake well to mix. Use the azithromycin extended-release suspension within 12 hours of receiving it from the pharmacy or after adding water to the powder.
+    
+    If you vomit within an hour after taking azithromycin, call your doctor right away. Your doctor will tell you if you need to take another dose. Do not take another dose unless your doctor tells you to do so.`,
+    additionalDetials: `You should begin to feel better during the first few days of treatment with azithromycin. If your symptoms do not improve, or get worse, call your doctor.
+
+    Take azithromycin until you finish the prescription, even if you feel better. Do not stop taking azithromycin unless you experience the severe side effects described in the SIDE EFFECTS section. If you stop taking azithromycin too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 217,
+    name: "Levotas",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Levofloxacin",
+    rating: 75,
+    star: 4,
+    price: "2.74",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: Levotas,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: " 5 tabs / pack 250",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 39.26, pricePerBottle: 3.93 },
+          { count: 20, price: 63.7, pricePerBottle: 3.19 },
+          { count: 30, price: 88.15, pricePerBottle: 2.94 },
+          { count: 40, price: 112.59, pricePerBottle: 2.81 },
+          { count: 50, price: 137.04, pricePerBottle: 2.74 },
+        ],
+      },
+    ],
+    prescription: `Levofloxacin injection is used to treat infections such as pneumonia; and kidney, prostate (a male reproductive gland), and skin infections. Levofloxacin injection is also used to prevent anthrax (a serious infection that may be spread on purpose as part of a bioterror attack) in people who may have been exposed to anthrax germs in the air and treat and prevent plague (a serious infection that may be spread on purpose as part of a bioterror attack. Levofloxacin may also be used to treat bronchitis, sinus infections, or urinary tract infections but should not be used for bronchitis and certain types of urinary tract infections if there are other treatment options available. Levofloxacin injection is in a class of antibiotics called fluoroquinolones. It works by killing bacteria that cause infections.
+
+      Antibiotics such as levofloxacin injection will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Levofloxacin injection comes as a solution (liquid) to be given through a needle or catheter placed in your vein. It is usually infused (injected slowly) intravenously (into a vein) over a period of 60 or 90 minutes, once every 24 hours. The length of your treatment depends on the type of infection you have. Your doctor will tell you how long to use levofloxacin injection.
+
+    You may receive levofloxacin injection in a hospital or you may use the medication at home. If you will be using levofloxacin injection at home, your healthcare provider will show you how to infuse the medication. Be sure that you understand these directions, and ask your healthcare provider if you have any questions. Ask your healthcare provider what to do if you have any problems infusing levofloxacin injection.
+    
+    You should begin feeling better during the first few days of your treatment with levofloxacin injection. If your symptoms do not improve, or if they get worse, call your doctor.`,
+    additionalDetials: `Use levofloxacin injection until you finish the prescription, even if you feel better. Do not stop using levofloxacin injection without talking to your doctor unless you experience certain serious side effects listed in the IMPORTANT WARNING or SIDE EFFECTS sections. If you stop using levofloxacin injection too soon or if you skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 218,
+    name: "Megaclox",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Dicloxacillin+Ampicillin",
+    rating: 84,
+    star: 5,
+    price: "0.94",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.48, pricePerBottle: 1.38 },
+          { count: 60, price: 68.15, pricePerBottle: 1.14 },
+          { count: 120, price: 121.48, pricePerBottle: 1.01 },
+          { count: 240, price: 228.15, pricePerBottle: 0.95 },
+          { count: 300, price: 281.48, pricePerBottle: 0.94 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 219,
+    name: "Mitomycin",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Mitomycin",
+    rating: 76,
+    star: 4,
+    price: "93.93",
+    type: "vail",
+    typeName: "vail",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1 vial 10",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 106.89, pricePerBottle: 106.89 },
+          { count: 2, price: 198.96, pricePerBottle: 99.48 },
+          { count: 4, price: 383.11, pricePerBottle: 95.78 },
+          { count: 8, price: 751.41, pricePerBottle: 93.93 },
+        ],
+      },
+    ],
+    prescription: `Mitomycin is used in combination with other medications to treat cancer of the stomach or pancreas that has spread to other parts of the body and has not improved or worsened after treatment with other medications, surgery, or radiation therapy. Mitomycin is a type of antibiotic that is only used in cancer chemotherapy. It slows or stops the growth of cancer cells in your body.`,
+    howToUse: ``,
+    additionalDetials: `Your doctor may need to delay your treatment or change your dose if you experience certain side effects. It is important for you to tell your doctor how you are feeling during your treatment with mitomycin injection.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 220,
+    name: "Novamox CV",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Amoxicillin + Clavulanic acid",
+    rating: 196,
+    star: 4,
+    price: "16.93",
+    type: "item",
+    typeName: "item",
+    ManufacturedBy: "Cipla",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: " 1.2 g powder for injection",
+        unit: "item",
+        bottle: [
+          { count: 1, price: 30.81, pricePerBottle: 30.81 },
+          { count: 2, price: 46.81, pricePerBottle: 23.41 },
+          { count: 4, price: 78.81, pricePerBottle: 19.7 },
+          { count: 8, price: 142.81, pricePerBottle: 17.85 },
+          { count: 16, price: 270.81, pricePerBottle: 16.93 },
+        ],
+      },
+    ],
+    prescription: `The combination of amoxicillin and clavulanic acid is used to treat certain infections caused by bacteria, including infections of the ears, lungs, sinus, skin, and urinary tract. Amoxicillin is in a class of medications called penicillin-like antibiotics. It works by stopping the growth of bacteria. Clavulanic acid is in a class of medications called beta-lactamase inhibitors. It works by preventing bacteria from destroying amoxicillin. Antibiotics will not work for colds, flu, or other viral infections.`,
+    howToUse: `The combination of amoxicillin and clavulanic acid comes as a tablet, a chewable tablet, and a suspension (liquid) to take by mouth. It is usually taken with a meal or a snack every 8 hours (three times a day) or every 12 hours (twice a day). To help you remember to take amoxicillin and clavulanate, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take amoxicillin and clavulanic acid exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the liquid well before each use to mix the medication evenly.
+    
+    The chewable tablets should be chewed thoroughly before they are swallowed. The other tablets should be taken with a full glass of water.`,
+    additionalDetials: `The 250 mg and 500 mg tablets of amoxicillin and clavulanic acid contain the same amount of clavulanic acid. Do not substitute two 250 mg tablets for one 500 mg tablet. The 250 mg regular tablet and the 250 mg chewable tablet contain different amounts of clavulanic acid. They also should not be substituted.
+
+    Take amoxicillin and clavulanic acid until you finish the prescription, even if you feel better. Stopping amoxicillin and clavulanic acid too soon may cause bacteria to become resistant to antibiotics.`,
+  },
+  {
+    productId: 221,
+    name: "Phexin",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Cephalexin",
+    rating: 132,
+    star: 4,
+    price: "3.48",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "GSK GlaxoSmithKline",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 46.67, pricePerBottle: 4.67 },
+          { count: 20, price: 78.52, pricePerBottle: 3.93 },
+          { count: 30, price: 110.37, pricePerBottle: 3.68 },
+          { count: 40, price: 142.22, pricePerBottle: 3.56 },
+          { count: 50, price: 174.07, pricePerBottle: 3.48 },
+        ],
+      },
+    ],
+    prescription: `Cephalexin is used to treat certain infections caused by bacteria such as pneumonia and other respiratory tract infections; and infections of the bone, skin, ears, , genital, and urinary tract. Cephalexin is in a class of medications called cephalosporin antibiotics. It works by killing bacteria.
+
+    Antibiotics such as cephalexin will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Cephalexin comes as a capsule, tablet, and suspension (liquid) to take by mouth. It is usually taken with or without food every 6 or 12 hours for 7 to 14 days, depending on the condition being treated. Take cephalexin at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cephalexin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the liquid well before each use to mix the medication evenly.
+    
+    You should begin to feel better during the first few days of treatment with cephalexin. If your symptoms do not improve or get worse, call your doctor.`,
+    additionalDetials: `Continue to take cephalexin until you finish the prescription even if you feel better. If you stop taking cephalexin too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 222,
+    name: "Synclar-250",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Clarithromycin",
+    rating: 71,
+    star: 4,
+    price: "11.82",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Cipla",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "4 tabs / pack 250",
+        unit: "mg",
+        bottle: [
+          { count: 2, price: 36.59, pricePerBottle: 18.3 },
+          { count: 4, price: 58.37, pricePerBottle: 14.59 },
+          { count: 8, price: 101.93, pricePerBottle: 12.74 },
+          { count: 16, price: 189.04, pricePerBottle: 11.82 },
+        ],
+      },
+    ],
+    prescription: `Clarithromycin is used to treat certain bacterial infections, such as pneumonia (a lung infection), bronchitis (infection of the tubes leading to the lungs), and infections of the ears, sinuses, skin, and throat. It also is used to treat and prevent disseminated Mycobacterium avium complex (MAC) infection [a type of lung infection that often affects people with human immunodeficiency virus (HIV)]. It is used in combination with other medications to eliminate H. pylori, a bacterium that causes ulcers. Clarithromycin is in a class of medications called macrolide antibiotics. It works by stopping the growth of bacteria.
+
+    Antibiotics such as clarithromycin will not work for colds, flu, or other viral infections. Taking antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Clarithromycin comes as a tablet, an extended-release (long-acting) tablet, and a suspension (liquid) to take by mouth. The regular tablet and liquid are usually taken with or without food every 8 (three times a day) to 12 hours (twice a day) for 7 to 14 days. The long-acting tablet is usually taken with food every 24 hours (once a day) for 7 to 14 days. Your doctor may tell you to take clarithromycin for a longer time depending on your condition. Take clarithromycin at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take clarithromycin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the suspension well before each use to mix the medication evenly.
+    
+    Swallow the long-acting tablets whole; do not split, chew, or crush them.`,
+    additionalDetials: `You should begin to feel better during the first few days of treatment with clarithromycin. If your symptoms do not improve or get worse, call your doctor.
+
+    Take clarithromycin until you finish the prescription, even if you feel better. If you stop taking clarithromycin too soon, or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 223,
+    name: "Synclar-500",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Clarithromycin",
+    rating: 120,
+    star: 4,
+    price: "13.15",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Cipla",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "4 tabs / pack 500",
+        unit: "mg",
+        bottle: [
+          { count: 2, price: 39.26, pricePerBottle: 19.63 },
+          { count: 4, price: 63.7, pricePerBottle: 15.93 },
+          { count: 8, price: 112.59, pricePerBottle: 14.07 },
+          { count: 16, price: 210.37, pricePerBottle: 13.15 },
+        ],
+      },
+    ],
+    prescription: `Clarithromycin is used to treat certain bacterial infections, such as pneumonia (a lung infection), bronchitis (infection of the tubes leading to the lungs), and infections of the ears, sinuses, skin, and throat. It also is used to treat and prevent disseminated Mycobacterium avium complex (MAC) infection [a type of lung infection that often affects people with human immunodeficiency virus (HIV)]. It is used in combination with other medications to eliminate H. pylori, a bacterium that causes ulcers. Clarithromycin is in a class of medications called macrolide antibiotics. It works by stopping the growth of bacteria.
+
+    Antibiotics such as clarithromycin will not work for colds, flu, or other viral infections. Taking antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Clarithromycin comes as a tablet, an extended-release (long-acting) tablet, and a suspension (liquid) to take by mouth. The regular tablet and liquid are usually taken with or without food every 8 (three times a day) to 12 hours (twice a day) for 7 to 14 days. The long-acting tablet is usually taken with food every 24 hours (once a day) for 7 to 14 days. Your doctor may tell you to take clarithromycin for a longer time depending on your condition. Take clarithromycin at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take clarithromycin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the suspension well before each use to mix the medication evenly.
+    
+    Swallow the long-acting tablets whole; do not split, chew, or crush them.`,
+    additionalDetials: `You should begin to feel better during the first few days of treatment with clarithromycin. If your symptoms do not improve or get worse, call your doctor.
+
+    Take clarithromycin until you finish the prescription, even if you feel better. If you stop taking clarithromycin too soon, or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 224,
+    name: "Vigamox Opthalmic Sol",
+    categoryName: "ANTIBIOTICS",
+    activeIngredient: "Moxifloxacin",
+    rating: 88,
+    star: 4,
+    price: "62.45",
+    type: "vail",
+    typeName: "vail",
+    ManufacturedBy: "Alcon",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.5% w/v 5",
+        unit: "ml",
+        bottle: [
+          { count: 1, price: 75.41, pricePerBottle: 75.41 },
+          { count: 2, price: 136, pricePerBottle: 68 },
+          { count: 4, price: 257.19, pricePerBottle: 64.3 },
+          { count: 8, price: 499.56, pricePerBottle: 62.45 },
+        ],
+      },
+    ],
+    prescription: `Moxifloxacin is used to treat certain infections caused by bacteria such as pneumonia, , and , skin, and abdominal (stomach area) infections . Moxifloxacin is also used to prevent and treat plague (a serious infection that may be spread on purpose as part of a bioterror attack.Moxifloxacin may also be used to treat bronchitis or sinus infections but should not be used for these conditions if there are other treatment options available. Moxifloxacin is in a class of antibiotics called fluoroquinolones. It works by killing the bacteria that cause infections.
+
+      Antibiotics such as moxifloxacin will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.`,
+    howToUse: `Moxifloxacin comes as tablet to take by mouth. It is usually taken with or without food once a day for 5 to 21 days. The length of treatment depends on the type of infection being treated. Your doctor will tell you how long to take moxifloxacin. Take moxifloxacin at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take moxifloxacin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    You should begin to feel better during the first few days of treatment with moxifloxacin. If your symptoms do not improve or if they get worse, call your doctor.`,
+    additionalDetials: `Take moxifloxacin until you finish the prescription, even if you feel better. Do not stop taking moxifloxacin without talking to your doctor unless you experience certain serious side effects listed in the IMPORTANT WARNING and SIDE EFFECTS sections. If you stop taking moxifloxacin too soon or if you skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.`,
+  },
+  {
+    productId: 225,
+    name: "Maxiliv injection",
+    categoryName: "ANTIOXIDANT",
+    activeIngredient: "Glutathione",
+    rating: 139,
+    star: 4,
+    price: "168.89",
+    type: "vail",
+    typeName: "vail",
+    ManufacturedBy: "Alcon",
+    image: maxilivInjection,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5 ml vial 600 mg (powder for injection + 5 ml sterile water)",
+        unit: "ml",
+        bottle: [
+          { count: 1, price: 180, pricePerBottle: 180 },
+          { count: 2, price: 345.19, pricePerBottle: 172 },
+          { count: 4, price: 675.56, pricePerBottle: 168 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 226,
+    name: "Adelphane Esidrex",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Dihydralazine+Hydrochlorothiazide+Reserpine",
+    rating: 151,
+    star: 4,
+    price: "1.68",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Sandoz",
+    image: maxilivInjection,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "",
+        unit: "",
+        bottle: [
+          { count: 30, price: 63.7, pricePerBottle: 2.12 },
+          { count: 60, price: 112.59, pricePerBottle: 1.88 },
+          { count: 120, price: 210.37, pricePerBottle: 1.75 },
+          { count: 240, price: 405.93, pricePerBottle: 1.69 },
+          { count: 300, price: 503.7, pricePerBottle: 1.68 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 225,
+    name: "Maxiliv injection",
+    categoryName: "ANTIOXIDANT",
+    activeIngredient: "Glutathione",
+    rating: 139,
+    star: 4,
+    price: "168.89",
+    type: "vail",
+    typeName: "vail",
+    ManufacturedBy: "Alcon",
+    image: maxilivInjection,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5 ml vial 600 mg (powder for injection + 5 ml sterile water)",
+        unit: "ml",
+        bottle: [
+          { count: 1, price: 180, pricePerBottle: 180 },
+          { count: 2, price: 345.19, pricePerBottle: 172 },
+          { count: 4, price: 675.56, pricePerBottle: 168 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 226,
+    name: "Amlip",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Amlodipine",
+    rating: 195,
+    star: 4,
+    price: "0.42",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Sandoz",
+    image: amlip,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "",
+        unit: "",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+    ],
+    prescription: `Amlodipine is used alone or in combination with other medications to treat high blood pressure and chest pain (angina). Amlodipine is in a class of medications called calcium channel blockers. It lowers blood pressure by relaxing the blood vessels so the heart does not have to pump as hard. It controls chest pain by increasing the supply of blood to the heart. If taken regularly, amlodipine controls chest pain, but it does not stop chest pain once it starts. Your doctor may prescribe a different medication to take when you have chest pain.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Amlodipine comes as a tablet to take by mouth. It is usually taken once a day. To help you remember to take amlodipine, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take amlodipine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on a low dose of amlodipine and gradually increase your dose.`,
+    additionalDetials: `Amlodipine controls high blood pressure and chest pain (angina) but does not cure them. Continue to take amlodipine even if you feel well. Do not stop taking amlodipine without talking to your doctor.`,
+  },
+  {
+    productId: 227,
+    name: "Arkamin",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Clonidine",
+    rating: 150,
+    star: 5,
+    price: "6.48",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Unichem Laboratories",
+    image: Arkamin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "30 tabs / blister 0.1",
+        unit: "mg",
+        bottle: [
+          { count: 4, price: 37.04, pricePerBottle: 9.26 },
+          { count: 8, price: 59.26, pricePerBottle: 7.41 },
+          { count: 16, price: 103.7, pricePerBottle: 6.48 },
+        ],
+      },
+    ],
+    prescription: `Clonidine tablets (Catapres) are used alone or in combination with other medications to treat high blood pressure. Clonidine extended-release (long-acting) tablets (Kapvay) are used alone or in combination with other medications as part of a treatment program to control symptoms of attention deficit hyperactivity disorder (ADHD; more difficulty focusing, controlling actions, and remaining still or quiet than other people who are the same age) in children. Clonidine is in a class of medications called centrally acting alpha-agonist hypotensive agents. Clonidine treats high blood pressure by decreasing your heart rate and relaxing the blood vessels so that blood can flow more easily through the body. Clonidine extended-release tablets may treat ADHD by affecting the part of the brain that controls attention and impulsivity.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Clonidine comes as a tablet and an extended-release (long-acting) tablet to take by mouth. The tablet is usually taken two times a day at evenly spaced intervals. The extended-release tablet is usually taken once or twice a day with or without food. Take clonidine at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take clonidine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the extended-release tablets whole; do not split, chew or crush them.
+    
+    Your doctor may start you on a low dose of clonidine and gradually increase your dose, not more than once every week.`,
+    additionalDetials: `Clonidine may help to control your condition but will not cure it. Continue to take clonidine even if you feel well. Do not stop taking clonidine without talking to your doctor. If you suddenly stop taking clonidine, it can cause a rapid rise in your blood pressure and symptoms such as nervousness, headache, and uncontrollable shaking of a part of the body. Your doctor will probably decrease your dose gradually over 2 to days for the regular tablet and 3 to 7 days for the extended-release tablet.`,
+  },
+  {
+    productId: 228,
+    name: "Betapro",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Propranolol",
+    rating: 62,
+    star: 5,
+    price: "0.42",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Cranialz",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 6.42 },
+        ],
+      },
+    ],
+    prescription: `Propranolol is used to treat high blood pressure, irregular heart rhythms, pheochromocytoma (tumor on a small gland near the kidneys), certain types of tremor, and hypertrophic subaortic stenosis (a heart muscle disease). It is also used to prevent angina (chest pain), migraine headaches, and to improve survival after a heart attack. Propranolol is in a class of medications called beta blockers. It works by relaxing blood vessels and slowing heart rate to improve blood flow and decrease blood pressure.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Propranolol comes as a tablet, solution (liquid),and as an extended-release (long-acting) capsule to take by mouth. The extended-release propranolol capsule (brand name: Inderal LA) usually is taken once a day. The extended-release capsule (Innopran XL, Inderal XL) is usually taken at bedtime and should consistently be taken either always with or always without food each time. Immediate-acting propranolol tablets or solution may be taken two, three, or four times a day. Take propranolol at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take propranolol exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Swallow the extended-release capsules whole; do not split, chew, or crush them.`,
   },
 ];
