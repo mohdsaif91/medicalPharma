@@ -126,6 +126,56 @@ import Levotas from "../images/products/Levotas.gif";
 import maxilivInjection from "../images/products/maxilivInjection.gif";
 import amlip from "../images/products/Amlip.gif";
 import Arkamin from "../images/products/Arkamin.gif";
+import cresarHMicardisHCT from "../images/products/cresarH(Micardis HCT).gif";
+import genericAceon from "../images/products/genericAceon.gif";
+import adalat from "../images/products/adalat.gif";
+import altace from "../images/products/altace.gif";
+import avalide from "../images/products/avalide.gif";
+import avapro from "../images/products/avapro.gif";
+import genericBenicar from "../images/products/genericBenicar.gif";
+import genericBystolic from "../images/products/genericBystolic.gif";
+import genericCalan from "../images/products/genericCalan.gif";
+import genericCardizem from "../images/products/genericCardizem.gif";
+import genericClonidine from "../images/products/genericClonidine.gif";
+import genericCombipres from "../images/products/genericCombipres.gif";
+import genericCoreg from "../images/products/genericCoreg.gif";
+import genericCoumadin from "../images/products/genericCoumadin.gif";
+import genericCoversyl from "../images/products/genericCoversyl.gif";
+import genericCozaar from "../images/products/genericCozaar.gif";
+import genericDiltiazem from "../images/products/genericDiltiazem.jpg";
+import genericDiltiazemHCI from "../images/products/genericDiltiazemHCI.gif";
+import genericDiovan from "../images/products/genericDiovan.gif";
+import genericDostinex from "../images/products/genericDostinex.gif";
+import genericFrumil from "../images/products/genericFrumil.gif";
+import hyzaar from "../images/products/hyzaar.gif";
+import inderal from "../images/products/inderal.gif";
+import isoptin from "../images/products/isoptin.gif";
+import genericLopressor from "../images/products/genericLopressor.gif";
+import genericLozol from "../images/products/genericLozol.gif";
+import genericMicardis from "../images/products/genericMicardis.gif";
+import genericMicrozide from "../images/products/genericMicrozide.gif";
+import genericNitroglycerin from "../images/products/genericNitroglycerin.gif";
+import genericNorvasc from "../images/products/genericNorvasc.gif";
+import genericPlavix from "../images/products/genericPlavix.gif";
+import genericTenoretic from "../images/products/genericTenoretic.gif";
+import genericTenormin from "../images/products/genericTenormin.gif";
+import genericTrandate from "../images/products/genericTrandate.gif";
+import genericVasotec from "../images/products/genericVasotec.gif";
+import genericZebeta from "../images/products/genericZebeta.gif";
+import genericZestril from "../images/products/genericZestril.gif";
+import genericZiac from "../images/products/genericZiac.gif";
+import Lasix from "../images/products/Lasix.gif";
+import Plavix from "../images/products/Plavix.gif";
+import Telma from "../images/products/Telma.gif";
+import TelmaHMicardisHCT from "../images/products/TelmaH(Micardis HCT).gif";
+import Tenoric from "../images/products/Tenoric.gif";
+import genericCrestor from "../images/products/genericCrestor.gif";
+import genericLipitor from "../images/products/genericLipitor.gif";
+import genericLopid from "../images/products/genericLopid.gif";
+import genericTricor from "../images/products/genericTricor.gif";
+import genericZetia from "../images/products/genericZetia.gif";
+import genericZocor from "../images/products/genericZocor.gif";
+import lipitor from "../images/products/lipitor.gif";
 
 export const category = [
   "AIDS or HIV Treatment",
@@ -10437,5 +10487,3072 @@ export const masterData = [
     High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
     howToUse: `Propranolol comes as a tablet, solution (liquid),and as an extended-release (long-acting) capsule to take by mouth. The extended-release propranolol capsule (brand name: Inderal LA) usually is taken once a day. The extended-release capsule (Innopran XL, Inderal XL) is usually taken at bedtime and should consistently be taken either always with or always without food each time. Immediate-acting propranolol tablets or solution may be taken two, three, or four times a day. Take propranolol at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take propranolol exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
     additionalDetials: `Swallow the extended-release capsules whole; do not split, chew, or crush them.`,
+  },
+  {
+    productId: 229,
+    name: "Clopivas",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Clopidogrel",
+    rating: 99,
+    star: 4,
+    price: "1.01",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Cipla",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "75",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 43.7, pricePerBottle: 1.46 },
+          { count: 60, price: 72.59, pricePerBottle: 1.21 },
+          { count: 120, price: 130.37, pricePerBottle: 1.09 },
+          { count: 240, price: 245.93, pricePerBottle: 1.02 },
+          { count: 300, price: 303.7, pricePerBottle: 1.01 },
+        ],
+      },
+    ],
+    prescription: `Clopidogrel is used alone or with aspirin to prevent serious or life-threatening problems with the heart and blood vessels in people who have had a stroke, heart attack, or severe chest pain. This includes people who have percutaneous coronary intervention (PCI; angioplasty; a type of heart surgery) that may involve inserting coronary stents (metal tubes surgically placed in clogged blood vessels to improve blood flow) or who have coronary artery bypass grafting (CABG; a type of heart surgery). Clopidogrel is also used to prevent serious or life-threatening problems with the heart and blood vessels in people who have peripheral arterial disease (poor circulation in the blood vessels that supply blood to the legs). Clopidogrel is in a class of medications called antiplatelet medications. It works by preventing platelets (a type of blood cell) from collecting and forming clots that may cause a heart attack or stroke.`,
+    howToUse: `Clopidogrel comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take clopidogrel at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take clopidogrel exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Clopidogrel will help prevent serious problems with your heart and blood vessels only as long as you take the medication. Continue to take clopidogrel even if you feel well. Do not stop taking clopidogrel without talking to your doctor. If you stop taking clopidogrel, there is a higher risk that you may have a heart attack or stroke. If you have a stent, there is also a higher risk that you could develop a blood clot in the stent if you stop taking clopidogrel too soon.`,
+  },
+  {
+    productId: 230,
+    name: "Cresar H (Micardis HCT)",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Telmisartan + Hydrochlorothiazide",
+    rating: 130,
+    star: 5,
+    price: "1.31",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Cipla",
+    image: cresarHMicardisHCT,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "40mg / 12.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 52.59, pricePerBottle: 1.75 },
+          { count: 60, price: 90.37, pricePerBottle: 1.51 },
+          { count: 120, price: 165.93, pricePerBottle: 1.38 },
+          { count: 240, price: 317.04, pricePerBottle: 1.32 },
+          { count: 300, price: 392.59, pricePerBottle: 1.31 },
+        ],
+      },
+    ],
+    prescription: `Amlodipine is used alone or in combination with other medications to treat high blood pressure and chest pain (angina). Amlodipine is in a class of medications called calcium channel blockers. It lowers blood pressure by relaxing the blood vessels so the heart does not have to pump as hard. It controls chest pain by increasing the supply of blood to the heart. If taken regularly, amlodipine controls chest pain, but it does not stop chest pain once it starts. Your doctor may prescribe a different medication to take when you have chest pain.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Amlodipine comes as a tablet to take by mouth. It is usually taken once a day. To help you remember to take amlodipine, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take amlodipine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on a low dose of amlodipine and gradually increase your dose.`,
+    additionalDetials: `Amlodipine controls high blood pressure and chest pain (angina) but does not cure them. Continue to take amlodipine even if you feel well. Do not stop taking amlodipine without talking to your doctor.`,
+  },
+  {
+    productId: 231,
+    name: "Generic Aceon",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Perindopril",
+    rating: 183,
+    star: 4,
+    price: "1.83",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericAceon,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "2",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 68.15, pricePerBottle: 2.27 },
+          { count: 60, price: 121.48, pricePerBottle: 2.02 },
+          { count: 120, price: 228.15, pricePerBottle: 1.9 },
+          { count: 240, price: 441.48, pricePerBottle: 1.84 },
+          { count: 300, price: 548.15, pricePerBottle: 1.83 },
+        ],
+      },
+      {
+        mg: "4",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 83.7, pricePerBottle: 2.79 },
+          { count: 60, price: 152.59, pricePerBottle: 2.54 },
+          { count: 120, price: 290.37, pricePerBottle: 2.42 },
+          { count: 240, price: 565.93, pricePerBottle: 2.36 },
+          { count: 300, price: 703.7, pricePerBottle: 2.35 },
+        ],
+      },
+    ],
+    prescription: `Perindopril is used alone or in combination with other medications to treat high blood pressure. Perindopril is in a class of medications called angiotensin-converting enzyme (ACE) inhibitors. It makes blood flow more smoothly by preventing the production of certain natural chemicals that tighten the blood vessels.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys, and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Perindopril comes as a tablet to take by mouth. It is usually taken once or twice a day. To help you remember to take perindopril, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take perindopril exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of perindopril and gradually increase your dose.`,
+    additionalDetials: `Perindopril controls high blood pressure but does not cure it. Continue to take perindopril even if you feel well. Do not stop taking perindopril without talking to your doctor.`,
+  },
+  {
+    productId: 232,
+    name: "Generic Adalat",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Nifedipine",
+    rating: 137,
+    star: 4,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: adalat,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "30",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.48, pricePerBottle: 1.38 },
+          { count: 60, price: 68.15, pricePerBottle: 1.14 },
+          { count: 120, price: 121.48, pricePerBottle: 1.01 },
+          { count: 240, price: 228.15, pricePerBottle: 0.95 },
+          { count: 300, price: 281.48, pricePerBottle: 0.94 },
+        ],
+      },
+    ],
+    prescription: `Nifedipine is used to treat high blood pressure and to control angina (chest pain). Nifedipine is in a class of medications called calcium-channel blockers. It lowers blood pressure by relaxing the blood vessels so the heart does not have to pump as hard. It controls chest pain by increasing the supply of blood and oxygen to the heart.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Nifedipine comes as a capsule and an extended-release (long-acting) tablet to take by mouth. The capsule is usually taken three or four times a day. The extended-release tablet should be taken once daily on an empty stomach, either 1 hour before or 2 hours after a meal. To help you remember to take nifedipine, take it at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take nifedipine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the extended-release tablets whole; do not split, chew, or crush them.
+    
+    Your doctor will probably start you on a low dose of nifedipine and gradually increase your dose, generally once every 7 to 14 days.
+    
+    If taken regularly, nifedipine controls chest pain, but it does not stop chest pain once it starts. Your doctor may prescribe a different medication to take when you have chest pain.`,
+    additionalDetials: `Nifedipine controls high blood pressure and chest pain (angina) but does not cure them. Continue to take nifedipine even if you feel well. Do not stop taking nifedipine without talking to your doctor. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 233,
+    name: "Generic Altace",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Ramipril",
+    rating: 145,
+    star: 4,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: altace,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "2.5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `Ramipril is used alone or in combination with other medications to treat high blood pressure. It is also used to reduce the risk of heart attack and stroke in patients at risk for these problems and to improve survival in patients with heart failure after a heart attack. Ramipril is in a class of medications called angiotensin-converting enzyme (ACE) inhibitors. It works by decreasing certain chemicals that tighten the blood vessels, so blood flows more smoothly and the heart can pump blood more efficiently.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys, and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation`,
+    howToUse: `Ramipril comes as a capsule to take by mouth. It is usually taken once or twice a day with or without food. To help you remember to take ramipril, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ramipril exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the capsule whole, or open the capsule and sprinkle the contents on a small amount of applesauce (about 4 oz.) or in 4 oz. (about 120 mL) of water or apple juice. Eat or drink the entire mixture. This mixture can be prepared in advance and stored for 24 hours at room temperature or 48 hours in the refrigerator.
+    
+    Your doctor will probably start you on a low dose of ramipril and gradually increase your dose.`,
+    additionalDetials: `Ramipril controls high blood pressure and heart failure but does not cure them. Continue to take ramipril even if you feel well. Do not stop taking ramipril without talking to your doctor.`,
+  },
+  {
+    productId: 234,
+    name: "Generic Avalide",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Hydrochlorothiazide + Irbesartan",
+    rating: 138,
+    star: 4,
+    price: "2.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: avalide,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "150 mg /12.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 88.15, pricePerBottle: 2.94 },
+          { count: 60, price: 161.48, pricePerBottle: 2.96 },
+          { count: 120, price: 308.15, pricePerBottle: 2.57 },
+          { count: 240, price: 601.48, pricePerBottle: 2.51 },
+          { count: 300, price: 748.15, pricePerBottle: 2.49 },
+        ],
+      },
+    ],
+    prescription: `Irbesartan is used alone or in combination with other medications to treat high blood pressure. It is also used to reduce the risk of heart attack and stroke in patients at risk for these problems and to improve survival in patients with heart failure after a heart attack. Ramipril is in a class of medications called angiotensin-converting enzyme (ACE) inhibitors. It works by decreasing certain chemicals that tighten the blood vessels, so blood flows more smoothly and the heart can pump blood more efficiently.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys, and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation`,
+    howToUse: `Irbesartan comes as a capsule to take by mouth. It is usually taken once or twice a day with or without food. To help you remember to take ramipril, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ramipril exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the capsule whole, or open the capsule and sprinkle the contents on a small amount of applesauce (about 4 oz.) or in 4 oz. (about 120 mL) of water or apple juice. Eat or drink the entire mixture. This mixture can be prepared in advance and stored for 24 hours at room temperature or 48 hours in the refrigerator.
+    
+    Your doctor will probably start you on a low dose of ramipril and gradually increase your dose.`,
+    additionalDetials: `Irbesartan controls high blood pressure and heart failure but does not cure them. Continue to take ramipril even if you feel well. Do not stop taking ramipril without talking to your doctor.`,
+  },
+  {
+    productId: 235,
+    name: "Generic Avapro",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Irbesartan",
+    rating: 89,
+    star: 4,
+    price: "1.46",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: avapro,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "150",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 57.04, pricePerBottle: 1.9 },
+          { count: 60, price: 99.26, pricePerBottle: 1.65 },
+          { count: 120, price: 183.7, pricePerBottle: 1.53 },
+          { count: 240, price: 352.59, pricePerBottle: 1.47 },
+          { count: 300, price: 437.04, pricePerBottle: 1.46 },
+        ],
+      },
+      {
+        mg: "300",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 83.7, pricePerBottle: 2.79 },
+          { count: 60, price: 152.59, pricePerBottle: 2.54 },
+          { count: 120, price: 290.37, pricePerBottle: 2.42 },
+          { count: 240, price: 565.93, pricePerBottle: 2.36 },
+          { count: 300, price: 703.7, pricePerBottle: 2.35 },
+        ],
+      },
+    ],
+    prescription: `Irbesartan is used alone or in combination with other medications to treat high blood pressure. It is also used to reduce the risk of heart attack and stroke in patients at risk for these problems and to improve survival in patients with heart failure after a heart attack. Ramipril is in a class of medications called angiotensin-converting enzyme (ACE) inhibitors. It works by decreasing certain chemicals that tighten the blood vessels, so blood flows more smoothly and the heart can pump blood more efficiently.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys, and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation`,
+    howToUse: `Irbesartan comes as a capsule to take by mouth. It is usually taken once or twice a day with or without food. To help you remember to take ramipril, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ramipril exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the capsule whole, or open the capsule and sprinkle the contents on a small amount of applesauce (about 4 oz.) or in 4 oz. (about 120 mL) of water or apple juice. Eat or drink the entire mixture. This mixture can be prepared in advance and stored for 24 hours at room temperature or 48 hours in the refrigerator.
+    
+    Your doctor will probably start you on a low dose of ramipril and gradually increase your dose.`,
+    additionalDetials: `Irbesartan controls high blood pressure and heart failure but does not cure them. Continue to take ramipril even if you feel well. Do not stop taking ramipril without talking to your doctor.`,
+  },
+  {
+    productId: 236,
+    name: "Generic Benicar",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Olmesartan Medoxomil",
+    rating: 133,
+    star: 4,
+    price: "1.09",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericBenicar,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 48.15, pricePerBottle: 1.61 },
+          { count: 60, price: 81.48, pricePerBottle: 1.36 },
+          { count: 120, price: 148.15, pricePerBottle: 1.23 },
+          { count: 240, price: 281.48, pricePerBottle: 1.17 },
+          { count: 300, price: 348.15, pricePerBottle: 1.16 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 45.93, pricePerBottle: 1.53 },
+          { count: 60, price: 77.04, pricePerBottle: 1.28 },
+          { count: 120, price: 139.26, pricePerBottle: 1.16 },
+          { count: 240, price: 263.7, pricePerBottle: 1.1 },
+          { count: 300, price: 325.93, pricePerBottle: 1.09 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 72.59, pricePerBottle: 2.42 },
+          { count: 60, price: 130.37, pricePerBottle: 2.17 },
+          { count: 120, price: 245.93, pricePerBottle: 2.05 },
+          { count: 240, price: 477.04, pricePerBottle: 1.99 },
+          { count: 300, price: 592.59, pricePerBottle: 1.98 },
+        ],
+      },
+    ],
+    prescription: `Olmesartan is used alone or in combination with other medications to treat high blood pressure. It is also used to reduce the risk of heart attack and stroke in patients at risk for these problems and to improve survival in patients with heart failure after a heart attack. Ramipril is in a class of medications called angiotensin-converting enzyme (ACE) inhibitors. It works by decreasing certain chemicals that tighten the blood vessels, so blood flows more smoothly and the heart can pump blood more efficiently.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys, and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation`,
+    howToUse: `Olmesartan comes as a capsule to take by mouth. It is usually taken once or twice a day with or without food. To help you remember to take ramipril, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ramipril exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the capsule whole, or open the capsule and sprinkle the contents on a small amount of applesauce (about 4 oz.) or in 4 oz. (about 120 mL) of water or apple juice. Eat or drink the entire mixture. This mixture can be prepared in advance and stored for 24 hours at room temperature or 48 hours in the refrigerator.
+    
+    Your doctor will probably start you on a low dose of ramipril and gradually increase your dose.`,
+    additionalDetials: `Olmesartan controls high blood pressure and heart failure but does not cure them. Continue to take ramipril even if you feel well. Do not stop taking ramipril without talking to your doctor.`,
+  },
+  {
+    productId: 237,
+    name: "Generic Betoptic",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Betaxolol Hydrochloride",
+    rating: 168,
+    star: 5,
+    price: "8.74",
+    type: "bottle",
+    typeName: "bottle",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericLidoderm,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.5% 5",
+        unit: "ml",
+        bottle: [
+          { count: 2, price: 32.7, pricePerBottle: 16.35 },
+          { count: 4, price: 48, pricePerBottle: 12 },
+          { count: 8, price: 78.61, pricePerBottle: 9.83 },
+          { count: 16, price: 139.83, pricePerBottle: 8.74 },
+        ],
+      },
+    ],
+    prescription: `Betaxolol is used alone or in combination with other medications to treat high blood pressure. It is also used to reduce the risk of heart attack and stroke in patients at risk for these problems and to improve survival in patients with heart failure after a heart attack. Ramipril is in a class of medications called angiotensin-converting enzyme (ACE) inhibitors. It works by decreasing certain chemicals that tighten the blood vessels, so blood flows more smoothly and the heart can pump blood more efficiently.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys, and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation`,
+    howToUse: `Betaxolol comes as a capsule to take by mouth. It is usually taken once or twice a day with or without food. To help you remember to take ramipril, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ramipril exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the capsule whole, or open the capsule and sprinkle the contents on a small amount of applesauce (about 4 oz.) or in 4 oz. (about 120 mL) of water or apple juice. Eat or drink the entire mixture. This mixture can be prepared in advance and stored for 24 hours at room temperature or 48 hours in the refrigerator.
+    
+    Your doctor will probably start you on a low dose of ramipril and gradually increase your dose.`,
+    additionalDetials: `Betaxolol controls high blood pressure and heart failure but does not cure them. Continue to take ramipril even if you feel well. Do not stop taking ramipril without talking to your doctor.`,
+  },
+  {
+    productId: 238,
+    name: "Generic Bystolic",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Nebivolol Hydrochloride",
+    rating: 66,
+    star: 5,
+    price: "0.86",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericBystolic,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "2.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 45.93, pricePerBottle: 1.53 },
+          { count: 60, price: 77.04, pricePerBottle: 1.28 },
+          { count: 120, price: 139.26, pricePerBottle: 1.16 },
+          { count: 240, price: 263.7, pricePerBottle: 1.1 },
+          { count: 300, price: 325.93, pricePerBottle: 1.09 },
+        ],
+      },
+      {
+        mg: "2.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 95.43, pricePerBottle: 3.18 },
+          { count: 60, price: 179.43, pricePerBottle: 2.99 },
+          { count: 120, price: 347.43, pricePerBottle: 2.9 },
+          { count: 240, price: 683.43, pricePerBottle: 2.85 },
+          { count: 300, price: 851.43, pricePerBottle: 2.84 },
+        ],
+      },
+    ],
+    prescription: `Nebivolol is used alone or in combination with other medications to treat high blood pressure. Nebivolol is in a class of medications called beta blockers. It works by relaxing blood vessels and slowing heart rate to improve blood flow and decrease blood pressure.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Nebivolol comes as a tablet to take by mouth. It is usually taken with or without food once a day. To help you remember to take nebivolol, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take nebivolol exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of nebivolol and gradually increase your dose not more than once every 2 weeks.`,
+    additionalDetials: `Nebivolol controls high blood pressure but does not cure it. It may take 2 weeks before the full benefit of nebivolol is seen in blood pressure readings. Continue to take nebivolol even if you feel well. Do not stop taking nebivolol without talking to your doctor. If you suddenly stop taking nebivolol it may cause angina (chest pain), heart attack, or irregular heartbeat. Your doctor will probably decrease your dose gradually over 1 to 2 weeks.`,
+  },
+  {
+    productId: 239,
+    name: "Generic Calan",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Verapamil Hydrochloride",
+    rating: 54,
+    star: 5,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericCalan,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.59 },
+        ],
+      },
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.59 },
+        ],
+      },
+      {
+        mg: "2.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `Verapamil is used to treat high blood pressure and to control angina (chest pain). The immediate-release tablets are also used alone or with other medications to prevent and treat irregular heartbeats. Verapamil is in a class of medications called calcium-channel blockers. It works by relaxing the blood vessels so the heart does not have to pump as hard. It also increases the supply of blood and oxygen to the heart and slows electrical activity in the heart to control the heart rate.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Verapamil comes as a tablet, an extended-release (long-acting) tablet, and an extended-release (long-acting) capsule to take by mouth. The regular tablet is usually taken three to four times a day. The extended-release tablets and capsules are usually taken once or twice a day. Take verapamil at around the same time(s) every day. Certain verapamil products should be taken in the morning and others at bedtime. Ask your doctor what the best time is for you to take your medication. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take verapamil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the extended-release tablets and capsules whole. Do not chew or crush them. Ask your pharmacist if the tablets may be split in half, as the instructions vary by product.
+    
+    If you can not swallow the extended-release capsules you may carefully open the capsule and sprinkle the entire contents onto a spoonful of applesauce. The applesauce should not be hot, and it should be soft enough to be swallowed without chewing. Swallow the applesauce immediately without chewing, and then drink a glass of cool water to make sure that you have swallowed all of the medicine. Do not store the mixture for future use.`,
+    additionalDetials: `Your doctor will probably start you on a low dose of verapamil and gradually increase your dose.
+
+    Verapamil controls arrhythmias, high blood pressure, and angina but does not cure these conditions. Continue to take verapamil even if you feel well. Do not stop taking verapamil without talking to your doctor.`,
+  },
+  {
+    productId: 240,
+    name: "Generic Cardizem",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Diltiazem Hydrochloride",
+    rating: 147,
+    star: 5,
+    price: "0.79",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericCardizem,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "30",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 37.04, pricePerBottle: 1.23 },
+          { count: 60, price: 59.26, pricePerBottle: 0.99 },
+          { count: 120, price: 103.7, pricePerBottle: 0.86 },
+          { count: 240, price: 192.59, pricePerBottle: 0.8 },
+          { count: 300, price: 237.04, pricePerBottle: 0.79 },
+        ],
+      },
+      {
+        mg: "60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 52.59, pricePerBottle: 1.75 },
+          { count: 60, price: 90.37, pricePerBottle: 1.51 },
+          { count: 120, price: 165.93, pricePerBottle: 1.38 },
+          { count: 240, price: 317.04, pricePerBottle: 1.32 },
+          { count: 300, price: 392.59, pricePerBottle: 1.31 },
+        ],
+      },
+      {
+        mg: "90",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 63.7, pricePerBottle: 2.12 },
+          { count: 60, price: 112.59, pricePerBottle: 1.88 },
+          { count: 120, price: 210.37, pricePerBottle: 1.75 },
+          { count: 240, price: 405.93, pricePerBottle: 1.69 },
+          { count: 300, price: 503.7, pricePerBottle: 1.68 },
+        ],
+      },
+      {
+        mg: "120",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 68.15, pricePerBottle: 2.27 },
+          { count: 60, price: 121.48, pricePerBottle: 2.02 },
+          { count: 120, price: 228.15, pricePerBottle: 1.9 },
+          { count: 240, price: 441.48, pricePerBottle: 1.84 },
+          { count: 300, price: 548.15, pricePerBottle: 1.83 },
+        ],
+      },
+      {
+        mg: "180",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 88.15, pricePerBottle: 2.94 },
+          { count: 60, price: 161.48, pricePerBottle: 2.69 },
+          { count: 120, price: 308.15, pricePerBottle: 2.57 },
+          { count: 240, price: 601.48, pricePerBottle: 2.51 },
+          { count: 300, price: 748.15, pricePerBottle: 2.49 },
+        ],
+      },
+    ],
+    prescription: `Diltiazem is used to treat high blood pressure and to control angina (chest pain). Diltiazem is in a class of medications called calcium-channel blockers. It works by relaxing the blood vessels so the heart does not have to pump as hard. It also increases the supply of blood and oxygen to the heart.
+
+    High blood pressure is a common condition, and when not treated it can cause damage to the brain, heart, blood vessels, kidneys, and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Diltiazem comes as a tablet, an extended-release (long-acting) tablet, and an extended-release capsule to take by mouth. The regular tablet is usually taken three or four times a day. The extended-release capsule and tablet are usually taken one or two times a day. Ask your pharmacist if you should take diltiazem with or without food, because instructions may vary with each product. Take diltiazem at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take diltiazem exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the extended-release capsules and tablets whole; do not chew or crush them.
+    
+    Your doctor will probably start you on a low dose of diltiazem and gradually increase your dose, not more than once every 7 to 14 days if you are taking the extended-release tablet or capsule and not more than once every 1 to 2 days if you are taking the regular tablet.`,
+    additionalDetials: `If taken regularly, diltiazem may control chest pain, but it does not stop chest pain once it starts. Your doctor may give you a different medication to take when you have chest pain.
+
+    Diltiazem controls high blood pressure and chest pain (angina) but does not cure them. It may take up to 2 weeks before you feel the full benefit of diltiazem. Continue to take diltiazem even if you feel well. Do not stop taking diltiazem without talking to your doctor.`,
+  },
+  {
+    productId: 241,
+    name: "Generic Cardizem ER",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Diltiazem Hydrochloride",
+    rating: 92,
+    star: 5,
+    price: "1.01",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericLidoderm,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "120",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 43.7, pricePerBottle: 1.46 },
+          { count: 60, price: 72.59, pricePerBottle: 1.21 },
+          { count: 120, price: 103.37, pricePerBottle: 1.09 },
+          { count: 240, price: 245.93, pricePerBottle: 1.02 },
+          { count: 300, price: 303.7, pricePerBottle: 1.01 },
+        ],
+      },
+    ],
+    prescription: `Diltiazem is used to treat high blood pressure and to control angina (chest pain). Diltiazem is in a class of medications called calcium-channel blockers. It works by relaxing the blood vessels so the heart does not have to pump as hard. It also increases the supply of blood and oxygen to the heart.
+
+    High blood pressure is a common condition, and when not treated it can cause damage to the brain, heart, blood vessels, kidneys, and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Diltiazem comes as a tablet, an extended-release (long-acting) tablet, and an extended-release capsule to take by mouth. The regular tablet is usually taken three or four times a day. The extended-release capsule and tablet are usually taken one or two times a day. Ask your pharmacist if you should take diltiazem with or without food, because instructions may vary with each product. Take diltiazem at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take diltiazem exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the extended-release capsules and tablets whole; do not chew or crush them.
+    
+    Your doctor will probably start you on a low dose of diltiazem and gradually increase your dose, not more than once every 7 to 14 days if you are taking the extended-release tablet or capsule and not more than once every 1 to 2 days if you are taking the regular tablet.
+    
+    If taken regularly, diltiazem may control chest pain, but it does not stop chest pain once it starts. Your doctor may give you a different medication to take when you have chest pain.`,
+    additionalDetials: `Diltiazem controls high blood pressure and chest pain (angina) but does not cure them. It may take up to 2 weeks before you feel the full benefit of diltiazem. Continue to take diltiazem even if you feel well. Do not stop taking diltiazem without talking to your doctor.`,
+  },
+  {
+    productId: 242,
+    name: "Generic Clonidine",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Clonidine",
+    rating: 144,
+    star: 5,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericClonidine,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.1",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+    ],
+    prescription: `Clonidine tablets (Catapres) are used alone or in combination with other medications to treat high blood pressure. Clonidine extended-release (long-acting) tablets (Kapvay) are used alone or in combination with other medications as part of a treatment program to control symptoms of attention deficit hyperactivity disorder (ADHD; more difficulty focusing, controlling actions, and remaining still or quiet than other people who are the same age) in children. Clonidine is in a class of medications called centrally acting alpha-agonist hypotensive agents. Clonidine treats high blood pressure by decreasing your heart rate and relaxing the blood vessels so that blood can flow more easily through the body. Clonidine extended-release tablets may treat ADHD by affecting the part of the brain that controls attention and impulsivity.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Clonidine comes as a tablet and an extended-release (long-acting) tablet to take by mouth. The tablet is usually taken two times a day at evenly spaced intervals. The extended-release tablet is usually taken once or twice a day with or without food. Take clonidine at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take clonidine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the extended-release tablets whole; do not split, chew or crush them.
+    
+    Your doctor may start you on a low dose of clonidine and gradually increase your dose, not more than once every week.`,
+    additionalDetials: `Clonidine may help to control your condition but will not cure it. Continue to take clonidine even if you feel well. Do not stop taking clonidine without talking to your doctor. If you suddenly stop taking clonidine, it can cause a rapid rise in your blood pressure and symptoms such as nervousness, headache, and uncontrollable shaking of a part of the body. Your doctor will probably decrease your dose gradually over 2 to days for the regular tablet and 3 to 7 days for the extended-release tablet.`,
+  },
+  {
+    productId: 243,
+    name: "Generic Combipres",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Clonidine + Chlorthalidone",
+    rating: 169,
+    star: 5,
+    price: "0.79",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericCombipres,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.1 mg/ 20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 37.04, pricePerBottle: 1.23 },
+          { count: 60, price: 59.26, pricePerBottle: 0.99 },
+          { count: 120, price: 103.7, pricePerBottle: 0.86 },
+          { count: 240, price: 192.59, pricePerBottle: 0.8 },
+          { count: 300, price: 237.04, pricePerBottle: 0.79 },
+        ],
+      },
+    ],
+    prescription: `Clonidine tablets (Catapres) are used alone or in combination with other medications to treat high blood pressure. Clonidine extended-release (long-acting) tablets (Kapvay) are used alone or in combination with other medications as part of a treatment program to control symptoms of attention deficit hyperactivity disorder (ADHD; more difficulty focusing, controlling actions, and remaining still or quiet than other people who are the same age) in children. Clonidine is in a class of medications called centrally acting alpha-agonist hypotensive agents. Clonidine treats high blood pressure by decreasing your heart rate and relaxing the blood vessels so that blood can flow more easily through the body. Clonidine extended-release tablets may treat ADHD by affecting the part of the brain that controls attention and impulsivity.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Clonidine comes as a tablet and an extended-release (long-acting) tablet to take by mouth. The tablet is usually taken two times a day at evenly spaced intervals. The extended-release tablet is usually taken once or twice a day with or without food. Take clonidine at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take clonidine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the extended-release tablets whole; do not split, chew or crush them.
+    
+    Your doctor may start you on a low dose of clonidine and gradually increase your dose, not more than once every week.`,
+    additionalDetials: `Clonidine may help to control your condition but will not cure it. Continue to take clonidine even if you feel well. Do not stop taking clonidine without talking to your doctor. If you suddenly stop taking clonidine, it can cause a rapid rise in your blood pressure and symptoms such as nervousness, headache, and uncontrollable shaking of a part of the body. Your doctor will probably decrease your dose gradually over 2 to days for the regular tablet and 3 to 7 days for the extended-release tablet.`,
+  },
+  {
+    productId: 244,
+    name: "Generic Combipres",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Clonidine + Chlorthalidone",
+    rating: 169,
+    star: 5,
+    price: "0.79",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericCombipres,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.1 mg/ 20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 37.04, pricePerBottle: 1.23 },
+          { count: 60, price: 59.26, pricePerBottle: 0.99 },
+          { count: 120, price: 103.7, pricePerBottle: 0.86 },
+          { count: 240, price: 192.59, pricePerBottle: 0.8 },
+          { count: 300, price: 237.04, pricePerBottle: 0.79 },
+        ],
+      },
+    ],
+    prescription: `Clonidine tablets (Catapres) are used alone or in combination with other medications to treat high blood pressure. Clonidine extended-release (long-acting) tablets (Kapvay) are used alone or in combination with other medications as part of a treatment program to control symptoms of attention deficit hyperactivity disorder (ADHD; more difficulty focusing, controlling actions, and remaining still or quiet than other people who are the same age) in children. Clonidine is in a class of medications called centrally acting alpha-agonist hypotensive agents. Clonidine treats high blood pressure by decreasing your heart rate and relaxing the blood vessels so that blood can flow more easily through the body. Clonidine extended-release tablets may treat ADHD by affecting the part of the brain that controls attention and impulsivity.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Clonidine comes as a tablet and an extended-release (long-acting) tablet to take by mouth. The tablet is usually taken two times a day at evenly spaced intervals. The extended-release tablet is usually taken once or twice a day with or without food. Take clonidine at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take clonidine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the extended-release tablets whole; do not split, chew or crush them.
+    
+    Your doctor may start you on a low dose of clonidine and gradually increase your dose, not more than once every week.`,
+    additionalDetials: `Clonidine may help to control your condition but will not cure it. Continue to take clonidine even if you feel well. Do not stop taking clonidine without talking to your doctor. If you suddenly stop taking clonidine, it can cause a rapid rise in your blood pressure and symptoms such as nervousness, headache, and uncontrollable shaking of a part of the body. Your doctor will probably decrease your dose gradually over 2 to days for the regular tablet and 3 to 7 days for the extended-release tablet.`,
+  },
+  {
+    productId: 245,
+    name: "Generic Coreg",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Carvedilol",
+    rating: 158,
+    star: 5,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericCoreg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "6.25",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "12.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 54.81, pricePerBottle: 1.83 },
+          { count: 60, price: 94.81, pricePerBottle: 1.58 },
+          { count: 120, price: 174.81, pricePerBottle: 1.46 },
+          { count: 240, price: 334.81, pricePerBottle: 1.4 },
+          { count: 300, price: 414.81, pricePerBottle: 1.38 },
+        ],
+      },
+    ],
+    prescription: `Carvedilol is used to treat heart failure (condition in which the heart cannot pump enough blood to all parts of the body) and high blood pressure. It also is used to treat people who have had a heart attack. Carvedilol is often used in combination with other medications. Carvedilol is in a class of medications called beta-blockers. It works by relaxing blood vessels and slowing heart rate to improve blood flow and decrease blood pressure
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Clonidine comes as a tablet and an extended-release (long-acting) tablet to take by mouth. The tablet is usually taken two times a day at evenly spaced intervals. The extended-release tablet is usually taken once or twice a day with or without food. Take clonidine at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take clonidine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the extended-release tablets whole; do not split, chew or crush them.
+    
+    Your doctor may start you on a low dose of clonidine and gradually increase your dose, not more than once every week.`,
+    additionalDetials: `Carvedilol may help to control your condition but will not cure it. Continue taking carvedilol even if you feel well. Do not stop taking carvedilol without talking to your doctor. If you suddenly stop taking carvedilol, you may experience serious heart problems such as severe chest pain, a heart attack, or an irregular heartbeat. Your doctor will probably want to decrease your dose gradually over 1 to 2 weeks. Your doctor will watch you carefully and will probably tell you to avoid physical activity during this time.`,
+  },
+  {
+    productId: 246,
+    name: "Generic Coumadin",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Warfarin",
+    rating: 116,
+    star: 5,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericCoumadin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+    ],
+    prescription: `Warfarin is used to prevent blood clots from forming or growing larger in your blood and blood vessels. It is prescribed for people with certain types of irregular heartbeat, people with prosthetic (replacement or mechanical) heart valves, and people who have suffered a heart attack. Warfarin is also used to treat or prevent venous thrombosis (swelling and blood clot in a vein) and pulmonary embolism (a blood clot in the lung). Warfarin is in a class of medications called anticoagulants ('blood thinners'). It works by decreasing the clotting ability of the blood.`,
+    howToUse: `Warfarin comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take warfarin at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take warfarin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor. Call your doctor immediately if you take more than your prescribed dose of warfarin.`,
+    additionalDetials: `Your doctor will probably start you on a low dose of warfarin and gradually increase or decrease your dose based on the results of your blood tests. Make sure you understand any new dosing instructions from your doctor.
+
+    Continue to take warfarin even if you feel well. Do not stop taking warfarin without talking to your doctor.`,
+  },
+  {
+    productId: 247,
+    name: "Generic Coversyl",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Perindopril Arginine",
+    rating: 184,
+    star: 5,
+    price: "1.83",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericCoversyl,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "4",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 68.15, pricePerBottle: 2.27 },
+          { count: 60, price: 121.48, pricePerBottle: 2.02 },
+          { count: 120, price: 228.15, pricePerBottle: 1.9 },
+          { count: 240, price: 441.48, pricePerBottle: 1.84 },
+          { count: 300, price: 548.15, pricePerBottle: 1.83 },
+        ],
+      },
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 70.37, pricePerBottle: 2.35 },
+          { count: 60, price: 125.93, pricePerBottle: 2.1 },
+          { count: 120, price: 237.04, pricePerBottle: 1.98 },
+          { count: 240, price: 459.26, pricePerBottle: 1.91 },
+          { count: 300, price: 570.37, pricePerBottle: 1.9 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 248,
+    name: "Generic Cozaar",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Losartan",
+    rating: 49,
+    star: 5,
+    price: "0.86",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericCozaar,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 59.26, pricePerBottle: 1.98 },
+          { count: 60, price: 103.7, pricePerBottle: 1.73 },
+          { count: 120, price: 192.59, pricePerBottle: 1.6 },
+          { count: 240, price: 370.37, pricePerBottle: 1.54 },
+          { count: 300, price: 459.26, pricePerBottle: 1.53 },
+        ],
+      },
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 48.15, pricePerBottle: 1.61 },
+          { count: 60, price: 81.48, pricePerBottle: 1.36 },
+          { count: 120, price: 148.15, pricePerBottle: 1.23 },
+          { count: 240, price: 281.48, pricePerBottle: 1.17 },
+          { count: 300, price: 348.15, pricePerBottle: 1.16 },
+        ],
+      },
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `Losartan is used alone or in combination with other medications to treat high blood pressure. Losartan is also used to decrease the risk of stroke in people who have high blood pressure and a heart condition called left ventricular hypertrophy (enlargement of the walls of the left side of the heart). Losartan may not decrease the risk of stroke in African Americans who have these conditions. This medication is also used to treat kidney disease in people who have type 2 diabetes (condition in which the body does not use insulin normally and therefore cannot control the amount of sugar in the blood) and high blood pressure. Losartan is in a class of medications called angiotensin II receptor antagonists. It works by blocking the action of certain natural substances that tighten the blood vessels, allowing the blood to flow more smoothly and the heart to pump more efficiently.
+
+    High blood pressure is a common condition, and when not treated it can cause damage to the brain, heart, blood vessels, kidneys, and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Losartan comes as a tablet to take by mouth. It is usually taken once or twice a day with or without food. To help you remember to take losartan, take it at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take losartan exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on a low dose of losartan and gradually increase your dose.
+    
+    If your child can not swallow a tablet, talk to your doctor or pharmacist. The pharmacist can prepare a liquid form of this medication for your child.`,
+    additionalDetials: `Losartan controls high blood pressure but does not cure it. Your blood pressure may decrease during the first week of your treatment, but it may take 3 to 6 weeks for you to notice the full benefit of losartan. Continue to take losartan even if you feel well. Do not stop taking losartan without talking to your doctor.
+Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 249,
+    name: "Generic Diltiazem",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Diltiazem Hydrochloride",
+    rating: 177,
+    star: 5,
+    price: "2.64",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericDiltiazem,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "180",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 92.59, pricePerBottle: 3.09 },
+          { count: 60, price: 170.37, pricePerBottle: 2.84 },
+          { count: 120, price: 325.93, pricePerBottle: 2.72 },
+          { count: 240, price: 637.04, pricePerBottle: 2.65 },
+          { count: 300, price: 792.59, pricePerBottle: 2.64 },
+        ],
+      },
+    ],
+    prescription: `Diltiazem is used to treat high blood pressure and to control angina (chest pain). Diltiazem is in a class of medications called calcium-channel blockers. It works by relaxing the blood vessels so the heart does not have to pump as hard. It also increases the supply of blood and oxygen to the heart.
+
+    High blood pressure is a common condition, and when not treated it can cause damage to the brain, heart, blood vessels, kidneys, and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Diltiazem comes as a tablet, an extended-release (long-acting) tablet, and an extended-release capsule to take by mouth. The regular tablet is usually taken three or four times a day. The extended-release capsule and tablet are usually taken one or two times a day. Ask your pharmacist if you should take diltiazem with or without food, because instructions may vary with each product. Take diltiazem at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take diltiazem exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the extended-release capsules and tablets whole; do not chew or crush them.
+    
+    Your doctor will probably start you on a low dose of diltiazem and gradually increase your dose, not more than once every 7 to 14 days if you are taking the extended-release tablet or capsule and not more than once every 1 to 2 days if you are taking the regular tablet.
+    
+    If taken regularly, diltiazem may control chest pain, but it does not stop chest pain once it starts. Your doctor may give you a different medication to take when you have chest pain.`,
+    additionalDetials: `Diltiazem controls high blood pressure and chest pain (angina) but does not cure them. It may take up to 2 weeks before you feel the full benefit of diltiazem. Continue to take diltiazem even if you feel well. Do not stop taking diltiazem without talking to your doctor.`,
+  },
+  {
+    productId: 250,
+    name: "Generic Diltiazem HCI",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Diltiazem Hydrochloride",
+    rating: 105,
+    star: 5,
+    price: "1.16",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericDiltiazemHCI,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 48.15, pricePerBottle: 1.61 },
+          { count: 60, price: 81.48, pricePerBottle: 1.36 },
+          { count: 120, price: 148.48, pricePerBottle: 1.23 },
+          { count: 240, price: 281.48, pricePerBottle: 1.17 },
+          { count: 300, price: 348.15, pricePerBottle: 1.16 },
+        ],
+      },
+    ],
+    prescription: `Diltiazem is used to treat high blood pressure and to control angina (chest pain). Diltiazem is in a class of medications called calcium-channel blockers. It works by relaxing the blood vessels so the heart does not have to pump as hard. It also increases the supply of blood and oxygen to the heart.
+
+    High blood pressure is a common condition, and when not treated it can cause damage to the brain, heart, blood vessels, kidneys, and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Diltiazem comes as a tablet, an extended-release (long-acting) tablet, and an extended-release capsule to take by mouth. The regular tablet is usually taken three or four times a day. The extended-release capsule and tablet are usually taken one or two times a day. Ask your pharmacist if you should take diltiazem with or without food, because instructions may vary with each product. Take diltiazem at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take diltiazem exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the extended-release capsules and tablets whole; do not chew or crush them.
+    
+    Your doctor will probably start you on a low dose of diltiazem and gradually increase your dose, not more than once every 7 to 14 days if you are taking the extended-release tablet or capsule and not more than once every 1 to 2 days if you are taking the regular tablet.
+    
+    If taken regularly, diltiazem may control chest pain, but it does not stop chest pain once it starts. Your doctor may give you a different medication to take when you have chest pain.`,
+    additionalDetials: `Diltiazem controls high blood pressure and chest pain (angina) but does not cure them. It may take up to 2 weeks before you feel the full benefit of diltiazem. Continue to take diltiazem even if you feel well. Do not stop taking diltiazem without talking to your doctor.`,
+  },
+  {
+    productId: 251,
+    name: "Generic Diovan",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Valsartan",
+    rating: 63,
+    star: 5,
+    price: "0.94",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericDiovan,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.48, pricePerBottle: 1.38 },
+          { count: 60, price: 68.15, pricePerBottle: 1.14 },
+          { count: 120, price: 121.48, pricePerBottle: 1.01 },
+          { count: 240, price: 228.15, pricePerBottle: 0.95 },
+          { count: 300, price: 281.48, pricePerBottle: 0.94 },
+        ],
+      },
+      {
+        mg: "80",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.48, pricePerBottle: 1.38 },
+          { count: 60, price: 68.15, pricePerBottle: 1.14 },
+          { count: 120, price: 121.48, pricePerBottle: 1.01 },
+          { count: 240, price: 228.15, pricePerBottle: 0.95 },
+          { count: 300, price: 281.48, pricePerBottle: 0.94 },
+        ],
+      },
+      {
+        mg: "160",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 72.59, pricePerBottle: 2.42 },
+          { count: 60, price: 130.37, pricePerBottle: 2.17 },
+          { count: 120, price: 245.93, pricePerBottle: 2.05 },
+          { count: 240, price: 477.04, pricePerBottle: 1.99 },
+          { count: 300, price: 592.59, pricePerBottle: 1.98 },
+        ],
+      },
+    ],
+    prescription: `The combination of valsartan and sacubitril is usually used in combination with other medications to lower the risk of death and hospitalization with certain types of heart failure. Valsartan is in a class of medications called angiotensin II receptor antagonists. It works by blocking the action of certain natural substances that tighten the blood vessels, allowing the blood to flow more smoothly and the heart to pump more efficiently. Sacubitril is in a class of medications called neprilysin inhibitors. It works to help control blood volume.`,
+    howToUse: `The combination of valsartan and sacubitril comes as a tablet to take by mouth. It is usually taken twice a day with or without food. To help you remember to take the combination of valsartan and sacubitril, take it at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take valsartan and sacubitril exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of valsartan and sacubitril and gradually increase your dose.`,
+    additionalDetials: `The combination of valsartan and sacubitril controls heart failure but does not cure it. Continue to take valsartan and sacubitril even if you feel well. Do not stop taking valsartan and sacubitril without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 252,
+    name: "Generic Dostinex",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Cabergoline",
+    rating: 58,
+    star: 5,
+    price: "6.07",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericDostinex,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.5",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 80, pricePerBottle: 8 },
+          { count: 20, price: 145.19, pricePerBottle: 7.26 },
+          { count: 3, price: 210.37, pricePerBottle: 7.01 },
+          { count: 40, price: 275.56, pricePerBottle: 6.89 },
+          { count: 50, price: 340.74, pricePerBottle: 6.81 },
+        ],
+      },
+      {
+        mg: "0.25",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 72.59, pricePerBottle: 7.26 },
+          { count: 20, price: 130.37, pricePerBottle: 6.52 },
+          { count: 3, price: 188.15, pricePerBottle: 6.27 },
+          { count: 40, price: 245.93, pricePerBottle: 6.15 },
+          { count: 50, price: 303.7, pricePerBottle: 6.07 },
+        ],
+      },
+    ],
+    prescription: `Cabergoline is used to treat hyperprolactinemia (high levels of prolactin, a natural substance that helps breast-feeding women produce milk but can cause symptoms such as infertility, sexual problems, and bone loss in women who are not breast-feeding or men). Cabergoline is in a class of medications called dopamine receptor agonists. It works by decreasing the amount of prolactin in the body`,
+    howToUse: `Cabergoline comes as a tablet to take by mouth. It is usually taken with or without food two times a week. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cabergoline exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on a low dose of cabergoline and gradually increase your dose, not more often than once every 4 weeks.`,
+    additionalDetials: `Do not stop taking cabergoline without talking to your doctor. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 253,
+    name: "Generic Frumil",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Amiloride hydrochloride + Furosemide",
+    rating: 69,
+    star: 4,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericFrumil,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+    ],
+    prescription: `The combination of aspirin and extended-release dipyridamole is in a class of drugs called antiplatelet agents. It works by preventing excessive blood clotting. It is used to reduce the risk of stroke in patients who have had or are at risk of stroke.`,
+    howToUse: `The combination of aspirin and extended-release dipyridamole comes as a capsule to take by mouth. It is usually taken twice a day, one capsule in the morning and one in the evening. Aspirin and extended-release dipyridamole should be swallowed whole. Do not open, crush, break, or chew the capsules.
+
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take aspirin and extended-release dipyridamole exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `The combination of aspirin and extended-release dipyridamole decreases the risk of having a stroke but does not eliminate that risk. Continue to take aspirin and extended-release dipyridamole even if you feel well. Do not stop taking aspirin and extended-release dipyridamole without talking to your doctor.`,
+  },
+  {
+    productId: 254,
+    name: "Generic Hyzaar",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Hydrochlorothiazide + Losartan",
+    rating: 159,
+    star: 5,
+    price: "0.72",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: hyzaar,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "50 mg / 12.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.82, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `Losartan is used alone or in combination with other medications to treat high blood pressure. Losartan is also used to decrease the risk of stroke in people who have high blood pressure and a heart condition called left ventricular hypertrophy (enlargement of the walls of the left side of the heart). Losartan may not decrease the risk of stroke in African Americans who have these conditions. This medication is also used to treat kidney disease in people who have type 2 diabetes (condition in which the body does not use insulin normally and therefore cannot control the amount of sugar in the blood) and high blood pressure. Losartan is in a class of medications called angiotensin II receptor antagonists. It works by blocking the action of certain natural substances that tighten the blood vessels, allowing the blood to flow more smoothly and the heart to pump more efficiently.
+
+    High blood pressure is a common condition, and when not treated it can cause damage to the brain, heart, blood vessels, kidneys, and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Losartan comes as a tablet to take by mouth. It is usually taken once or twice a day with or without food. To help you remember to take losartan, take it at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take losartan exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on a low dose of losartan and gradually increase your dose.
+    
+    If your child can not swallow a tablet, talk to your doctor or pharmacist. The pharmacist can prepare a liquid form of this medication for your child.
+    
+    Losartan controls high blood pressure but does not cure it. Your blood pressure may decrease during the first week of your treatment, but it may take 3 to 6 weeks for you to notice the full benefit of losartan. Continue to take losartan even if you feel well. Do not stop taking losartan without talking to your doctor.`,
+    additionalDetials: `Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 255,
+    name: "Generic Inderal",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Propranolol",
+    rating: 66,
+    star: 5,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: inderal,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 30.43, pricePerBottle: 1.01 },
+          { count: 60, price: 43.48, pricePerBottle: 0.72 },
+          { count: 120, price: 69.57, pricePerBottle: 0.58 },
+          { count: 240, price: 121.74, pricePerBottle: 0.51 },
+          { count: 300, price: 147.83, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.04, pricePerBottle: 1.1 },
+          { count: 60, price: 48.7, pricePerBottle: 0.81 },
+          { count: 120, price: 80, pricePerBottle: 0.67 },
+          { count: 240, price: 142.61, pricePerBottle: 0.59 },
+          { count: 300, price: 173.91, pricePerBottle: 0.58 },
+        ],
+      },
+      {
+        mg: "80",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 45.93, pricePerBottle: 1.53 },
+          { count: 60, price: 77.04, pricePerBottle: 1.28 },
+          { count: 120, price: 139.26, pricePerBottle: 1.16 },
+          { count: 240, price: 263.7, pricePerBottle: 1.1 },
+          { count: 300, price: 325.93, pricePerBottle: 1.09 },
+        ],
+      },
+    ],
+    prescription: `Propranolol is used alone or in combination with other medications to treat high blood pressure. Propranolol is also used to decrease the risk of stroke in people who have high blood pressure and a heart condition called left ventricular hypertrophy (enlargement of the walls of the left side of the heart). Propranolol may not decrease the risk of stroke in African Americans who have these conditions. This medication is also used to treat kidney disease in people who have type 2 diabetes (condition in which the body does not use insulin normally and therefore cannot control the amount of sugar in the blood) and high blood pressure. Propranolol is in a class of medications called angiotensin II receptor antagonists. It works by blocking the action of certain natural substances that tighten the blood vessels, allowing the blood to flow more smoothly and the heart to pump more efficiently.
+
+    High blood pressure is a common condition, and when not treated it can cause damage to the brain, heart, blood vessels, kidneys, and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Propranolol comes as a tablet to take by mouth. It is usually taken once or twice a day with or without food. To help you remember to take Propranolol, take it at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Propranolol exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on a low dose of Propranolol and gradually increase your dose.
+    
+    If your child can not swallow a tablet, talk to your doctor or pharmacist. The pharmacist can prepare a liquid form of this medication for your child.
+    
+    Propranolol controls high blood pressure but does not cure it. Your blood pressure may decrease during the first week of your treatment, but it may take 3 to 6 weeks for you to notice the full benefit of Propranolol. Continue to take losartan even if you feel well. Do not stop taking losartan without talking to your doctor.`,
+    additionalDetials: `Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 256,
+    name: "Generic Isoptin",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Verapamil",
+    rating: 191,
+    star: 5,
+    price: "0.27",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: isoptin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 120, price: 41.48, pricePerBottle: 0.35 },
+          { count: 240, price: 68.15, pricePerBottle: 0.28 },
+          { count: 300, price: 81.48, pricePerBottle: 0.27 },
+        ],
+      },
+      {
+        mg: "80",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 43.48, pricePerBottle: 0.72 },
+          { count: 120, price: 69.57, pricePerBottle: 0.58 },
+          { count: 240, price: 121.74, pricePerBottle: 0.51 },
+          { count: 300, price: 147.83, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.04, pricePerBottle: 1.1 },
+          { count: 60, price: 48.7, pricePerBottle: 0.81 },
+          { count: 120, price: 80, pricePerBottle: 0.67 },
+          { count: 240, price: 142.61, pricePerBottle: 0.59 },
+          { count: 300, price: 173.91, pricePerBottle: 0.58 },
+        ],
+      },
+      {
+        mg: "80",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 45.93, pricePerBottle: 1.53 },
+          { count: 60, price: 77.04, pricePerBottle: 1.28 },
+          { count: 120, price: 139.26, pricePerBottle: 1.16 },
+          { count: 240, price: 263.7, pricePerBottle: 1.1 },
+          { count: 300, price: 325.93, pricePerBottle: 1.09 },
+        ],
+      },
+    ],
+    prescription: `Propranolol is used alone or in combination with other medications to treat high blood pressure. Propranolol is also used to decrease the risk of stroke in people who have high blood pressure and a heart condition called left ventricular hypertrophy (enlargement of the walls of the left side of the heart). Propranolol may not decrease the risk of stroke in African Americans who have these conditions. This medication is also used to treat kidney disease in people who have type 2 diabetes (condition in which the body does not use insulin normally and therefore cannot control the amount of sugar in the blood) and high blood pressure. Propranolol is in a class of medications called angiotensin II receptor antagonists. It works by blocking the action of certain natural substances that tighten the blood vessels, allowing the blood to flow more smoothly and the heart to pump more efficiently.
+
+    High blood pressure is a common condition, and when not treated it can cause damage to the brain, heart, blood vessels, kidneys, and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Propranolol comes as a tablet to take by mouth. It is usually taken once or twice a day with or without food. To help you remember to take Propranolol, take it at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Propranolol exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on a low dose of Propranolol and gradually increase your dose.
+    
+    If your child can not swallow a tablet, talk to your doctor or pharmacist. The pharmacist can prepare a liquid form of this medication for your child.
+    
+    Propranolol controls high blood pressure but does not cure it. Your blood pressure may decrease during the first week of your treatment, but it may take 3 to 6 weeks for you to notice the full benefit of Propranolol. Continue to take losartan even if you feel well. Do not stop taking losartan without talking to your doctor.`,
+    additionalDetials: `Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 257,
+    name: "Generic Isoptin SR",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Verapamil",
+    rating: 155,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericLidoderm,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "120",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Verapamil is used to treat high blood pressure and to control angina (chest pain). The immediate-release tablets are also used alone or with other medications to prevent and treat irregular heartbeats. Verapamil is in a class of medications called calcium-channel blockers. It works by relaxing the blood vessels so the heart does not have to pump as hard. It also increases the supply of blood and oxygen to the heart and slows electrical activity in the heart to control the heart rate.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Verapamil comes as a tablet, an extended-release (long-acting) tablet, and an extended-release (long-acting) capsule to take by mouth. The regular tablet is usually taken three to four times a day. The extended-release tablets and capsules are usually taken once or twice a day. Take verapamil at around the same time(s) every day. Certain verapamil products should be taken in the morning and others at bedtime. Ask your doctor what the best time is for you to take your medication. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take verapamil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the extended-release tablets and capsules whole. Do not chew or crush them. Ask your pharmacist if the tablets may be split in half, as the instructions vary by product.
+    
+    If you can not swallow the extended-release capsules you may carefully open the capsule and sprinkle the entire contents onto a spoonful of applesauce. The applesauce should not be hot, and it should be soft enough to be swallowed without chewing. Swallow the applesauce immediately without chewing, and then drink a glass of cool water to make sure that you have swallowed all of the medicine. Do not store the mixture for future use.`,
+    additionalDetials: `Your doctor will probably start you on a low dose of verapamil and gradually increase your dose.
+
+    Verapamil controls arrhythmias, high blood pressure, and angina but does not cure these conditions. Continue to take verapamil even if you feel well. Do not stop taking verapamil without talking to your doctor.`,
+  },
+  {
+    productId: 258,
+    name: "Generic Lopressor",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Metoprolol",
+    rating: 68,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericLopressor,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12.5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 38.89, pricePerBottle: 0.65 },
+          { count: 120, price: 66.29, pricePerBottle: 0.55 },
+          { count: 240, price: 121.14, pricePerBottle: 0.5 },
+          { count: 300, price: 148.57, pricePerBottle: 0.5 },
+        ],
+      },
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.04, pricePerBottle: 1.1 },
+          { count: 60, price: 48.7, pricePerBottle: 0.81 },
+          { count: 120, price: 80, pricePerBottle: 0.67 },
+          { count: 240, price: 142.61, pricePerBottle: 0.59 },
+          { count: 300, price: 173.91, pricePerBottle: 0.58 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 43.7, pricePerBottle: 1.46 },
+          { count: 60, price: 72.59, pricePerBottle: 1.21 },
+          { count: 120, price: 130.37, pricePerBottle: 1.09 },
+          { count: 240, price: 245.93, pricePerBottle: 1.02 },
+          { count: 300, price: 303.7, pricePerBottle: 1.01 },
+        ],
+      },
+    ],
+    prescription: `Metoprolol is used to treat high blood pressure and to control angina (chest pain). The immediate-release tablets are also used alone or with other medications to prevent and treat irregular heartbeats. Metoprolol is in a class of medications called calcium-channel blockers. It works by relaxing the blood vessels so the heart does not have to pump as hard. It also increases the supply of blood and oxygen to the heart and slows electrical activity in the heart to control the heart rate.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Metoprolol comes as a tablet, an extended-release (long-acting) tablet, and an extended-release (long-acting) capsule to take by mouth. The regular tablet is usually taken three to four times a day. The extended-release tablets and capsules are usually taken once or twice a day. Take Metoprolol at around the same time(s) every day. Certain Metoprolol products should be taken in the morning and others at bedtime. Ask your doctor what the best time is for you to take your medication. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Metoprolol exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the extended-release tablets and capsules whole. Do not chew or crush them. Ask your pharmacist if the tablets may be split in half, as the instructions vary by product.
+    
+    If you can not swallow the extended-release capsules you may carefully open the capsule and sprinkle the entire contents onto a spoonful of applesauce. The applesauce should not be hot, and it should be soft enough to be swallowed without chewing. Swallow the applesauce immediately without chewing, and then drink a glass of cool water to make sure that you have swallowed all of the medicine. Do not store the mixture for future use.`,
+    additionalDetials: `Your doctor will probably start you on a low dose of Metoprolol and gradually increase your dose.
+
+    Metoprolol controls arrhythmias, high blood pressure, and angina but does not cure these conditions. Continue to take Metoprolol even if you feel well. Do not stop taking Metoprolol without talking to your doctor.`,
+  },
+  {
+    productId: 259,
+    name: "Generic Lozol",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Indapamide",
+    rating: 172,
+    star: 5,
+    price: "1.68",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericLozol,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 63.7, pricePerBottle: 2.12 },
+          { count: 60, price: 112.59, pricePerBottle: 1.88 },
+          { count: 120, price: 210.37, pricePerBottle: 1.75 },
+          { count: 240, price: 405.93, pricePerBottle: 1.69 },
+          { count: 300, price: 503.7, pricePerBottle: 1.68 },
+        ],
+      },
+      {
+        mg: "2.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 68.15, pricePerBottle: 2.27 },
+          { count: 60, price: 121.48, pricePerBottle: 2.02 },
+          { count: 120, price: 228.15, pricePerBottle: 1.9 },
+          { count: 240, price: 441.48, pricePerBottle: 1.84 },
+          { count: 300, price: 548.15, pricePerBottle: 1.83 },
+        ],
+      },
+    ],
+    prescription: `Indapamide, a 'water pill,' is used to reduce the swelling and fluid retention caused by heart disease. It also is used to treat high blood pressure. It causes the kidneys to get rid of unneeded water and salt from the body into the urine.
+
+    This medicine is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Indapamide comes as a tablet to take by mouth. It usually is taken once a day, in the morning. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take indapamide exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Indapamide controls high blood pressure but does not cure it. Continue to take indapamide even if you feel well. Do not stop taking indapamide without talking to your doctor.`,
+  },
+  {
+    productId: 260,
+    name: "Generic Micardis",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Telmisartan",
+    rating: 148,
+    star: 5,
+    price: "0.72",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericMicardis,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 54.81, pricePerBottle: 1.83 },
+          { count: 60, price: 94.81, pricePerBottle: 1.58 },
+          { count: 120, price: 174.81, pricePerBottle: 1.46 },
+          { count: 240, price: 334.81, pricePerBottle: 1.4 },
+          { count: 300, price: 414.81, pricePerBottle: 1.38 },
+        ],
+      },
+    ],
+    prescription: `Telmisartan is used alone or in combination with other medications to treat high blood pressure. Telmisartan is also used to decrease the chance of heart attack, stroke, or death in people 55 years of age or older who are at high risk for cardiovascular disease. Telmisartan is in a class of medications called angiotensin II receptor antagonists. It works by blocking the action of certain natural substances that tighten the blood vessels, allowing the blood to flow more smoothly and the heart to pump more efficiently.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Telmisartan comes as a tablet to take by mouth. It is usually taken once a day with or without food. To help you remember to take telmisartan, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take telmisartan exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Telmisartan tablets come in individual blister packs that can be opened by peeling back the paper layer from the foil and pushing the tablet through the foil. Do not open a blister pack until you are ready to swallow the tablet it contains.
+    
+    Your doctor may start you on a low dose of telmisartan and gradually increase your dose.`,
+    additionalDetials: `Telmisartan controls high blood pressure but does not cure it. Your blood pressure may decrease during the first 2 weeks of your treatment, but it may take 4 weeks for you to notice the full benefit of telmisartan. Continue to take telmisartan even if you feel well. Do not stop taking telmisartan without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 261,
+    name: "Generic Microzide",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Hydrochlorothiazide",
+    rating: 93,
+    star: 5,
+    price: "0.27",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericMicrozide,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12.5",
+        unit: "mg",
+        bottle: [
+          { count: 120, price: 41.48, pricePerBottle: 0.35 },
+          { count: 240, price: 68.15, pricePerBottle: 0.28 },
+          { count: 300, price: 81.48, pricePerBottle: 0.27 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Hydrochlorothiazide is used alone or in combination with other medications to treat high blood pressure. Hydrochlorothiazide is also used to decrease the chance of heart attack, stroke, or death in people 55 years of age or older who are at high risk for cardiovascular disease. Hydrochlorothiazide is in a class of medications called angiotensin II receptor antagonists. It works by blocking the action of certain natural substances that tighten the blood vessels, allowing the blood to flow more smoothly and the heart to pump more efficiently.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Hydrochlorothiazide comes as a tablet to take by mouth. It is usually taken once a day with or without food. To help you remember to take Hydrochlorothiazide, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Hydrochlorothiazide exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Hydrochlorothiazide tablets come in individual blister packs that can be opened by peeling back the paper layer from the foil and pushing the tablet through the foil. Do not open a blister pack until you are ready to swallow the tablet it contains.
+    
+    Your doctor may start you on a low dose of Hydrochlorothiazide and gradually increase your dose.`,
+    additionalDetials: `Hydrochlorothiazide controls high blood pressure but does not cure it. Your blood pressure may decrease during the first 2 weeks of your treatment, but it may take 4 weeks for you to notice the full benefit of Hydrochlorothiazide. Continue to take telmisartan even if you feel well. Do not stop taking telmisartan without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 262,
+    name: "Generic Minipress",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Prazosin",
+    rating: 105,
+    star: 5,
+    price: "0.86",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericMicrozide,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "2.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 45.93, pricePerBottle: 1.53 },
+          { count: 60, price: 77.04, pricePerBottle: 1.28 },
+          { count: 120, price: 139.26, pricePerBottle: 1.16 },
+          { count: 240, price: 263.7, pricePerBottle: 1.1 },
+          { count: 300, price: 325.93, pricePerBottle: 1.09 },
+        ],
+      },
+    ],
+    prescription: `Prazosin is used alone or in combination with other medications to treat high blood pressure. Prazosin is also used to decrease the chance of heart attack, stroke, or death in people 55 years of age or older who are at high risk for cardiovascular disease. Prazosin is in a class of medications called angiotensin II receptor antagonists. It works by blocking the action of certain natural substances that tighten the blood vessels, allowing the blood to flow more smoothly and the heart to pump more efficiently.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Prazosin comes as a tablet to take by mouth. It is usually taken once a day with or without food. To help you remember to take Prazosin, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Prazosin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Prazosin tablets come in individual blister packs that can be opened by peeling back the paper layer from the foil and pushing the tablet through the foil. Do not open a blister pack until you are ready to swallow the tablet it contains.
+    
+    Your doctor may start you on a low dose of Prazosin and gradually increase your dose.`,
+    additionalDetials: `Prazosin controls high blood pressure but does not cure it. Your blood pressure may decrease during the first 2 weeks of your treatment, but it may take 4 weeks for you to notice the full benefit of Prazosin. Continue to take telmisartan even if you feel well. Do not stop taking telmisartan without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 263,
+    name: "Generic Minoxidil",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Minoxidil",
+    rating: 112,
+    star: 5,
+    price: "18.48",
+    type: "bottle",
+    typeName: "bottle",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericLidoderm,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "2% 60",
+        unit: "ml",
+        bottle: [
+          { count: 1, price: 32.27, pricePerBottle: 32.37 },
+          { count: 2, price: 49.93, pricePerBottle: 24.97 },
+          { count: 4, price: 85.04, pricePerBottle: 21.26 },
+          { count: 8, price: 155.26, pricePerBottle: 19.41 },
+          { count: 16, price: 295.7, pricePerBottle: 18.48 },
+        ],
+      },
+      {
+        mg: "5% 60",
+        unit: "ml",
+        bottle: [
+          { count: 1, price: 38.89, pricePerBottle: 38.89 },
+          { count: 2, price: 62.96, pricePerBottle: 31.48 },
+          { count: 4, price: 111.11, pricePerBottle: 27.78 },
+          { count: 8, price: 207.41, pricePerBottle: 25.93 },
+          { count: 16, price: 400, pricePerBottle: 25 },
+        ],
+      },
+    ],
+    prescription: `Minoxidil is used to stimulate hair growth and to slow balding. It is most effective for people under 40 years of age whose hair loss is recent. Minoxidil has no effect on receding hairlines. It does not cure baldness; most new hair is lost within a few months after the drug is stopped.`,
+    howToUse: `Minoxidil comes as a liquid to be applied to your scalp. Minoxidil usually is used twice a day.
+
+    Follow the directions on your package or prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use minoxidil exactly as directed. Do not use more or less of it or use it more often than directed by your doctor.
+    
+    Exceeding the recommended dosage does not produce greater or faster hair growth and may cause increased side effects. You must use minoxidil for at least 4 months, and possibly for up to 1 year, before you see any effect.
+    
+    Three special applicators are provided: a metered-spray applicator for large scalp areas, an extender spray applicator (used with the metered-spray applicator) for small areas or under the hair, and a rub-on applicator.
+    
+    Remove the outer and inner caps from the bottle, choose an applicator, and screw it tightly onto the bottle.
+    
+    To use the extender spray applicator, first assemble the metered-spray applicator and then follow the instructions provided to attach the extender spray applicator. Pump the metered-spray or extender spray applicator six times for each dose. Try not to inhale the mist. Place the large cap on the metered-spray bottle or the small cap on the extender spray nozzle when not in use.
+    
+    To use the rub-on applicator, hold the bottle upright and squeeze it until the upper chamber of the applicator is filled to the black line. Then turn the bottle upside down and rub on the medication. Place the large cap on the bottle when not in use. If you use your fingertips to apply the medication, wash them thoroughly afterwards.`,
+    additionalDetials: `Apply minoxidil to dry hair and scalp only. Do not apply it to other body areas, and keep it away from your eyes and sensitive skin. If it accidentally comes in contact with these areas, wash them with lots of cool water; call your doctor if they become irritated.
+
+    Do not apply minoxidil to a sunburned or irritated scalp.`,
+  },
+  {
+    productId: 264,
+    name: "Generic Nitroglycerin",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Nitroglycerin",
+    rating: 179,
+    star: 5,
+    price: "29.44",
+    type: "bottle",
+    typeName: "bottle",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericNitroglycerin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "30 tabs / bottle 6.4",
+        unit: "ml",
+        bottle: [
+          { count: 1, price: 43.33, pricePerBottle: 43.33 },
+          { count: 2, price: 71.85, pricePerBottle: 35.93 },
+          { count: 4, price: 128.89, pricePerBottle: 32.22 },
+          { count: 8, price: 242.96, pricePerBottle: 30.37 },
+          { count: 16, price: 471.11, pricePerBottle: 29.44 },
+        ],
+      },
+    ],
+    prescription: `Nitroglycerin ointment (Nitro-Bid) is used to prevent episodes of angina (chest pain) in people who have coronary artery disease (narrowing of the blood vessels that supply blood to the heart). Nitroglycerin ointment can only be used to prevent attacks of angina; it cannot be used to treat an attack of angina once it has begun. Nitroglycerin ointment (Rectiv) is used in adults to treat pain from anal fissures (a split or tear in the tissue near the rectal area). Nitroglycerin is in a class of medications called vasodilators. Nitroglycerin ointment prevents angina by relaxing the blood vessels so that the heart does not need to work as hard and therefore does not need as much oxygen. Nitroglycerin ointment treats anal fissure pain by relaxing the blood vessels, which reduces the pressure in the anal tissues.`,
+    howToUse: `Topical nitroglycerin comes as an ointment to apply to the skin. When used to prevent angina, it is usually applied twice a day, once right after waking in the morning, and again 6 hours later. When used to treat anal fissure pain, it is usually applied every 12 hours for up to 3 weeks. If you still have anal fissure pain after using the ointment for 3 weeks, call your doctor. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use nitroglycerin ointment exactly as directed. Do not apply more or less of it or apply it more often than prescribed by your doctor.
+
+    If you are using nitroglycerin ointment to prevent angina, your doctor will probably start you on a lower dose of nitroglycerin ointment and may gradually increase your dose as needed to control your angina. Nitroglycerin ointment may not work as well after it has been used for some time, especially at higher doses. To help prevent this, your doctor will schedule your doses so that there is a period of time when you are not exposed to nitroglycerin every day. If your angina attacks happen more often, last longer, or become more severe at any time during your treatment, call your doctor.
+    
+    Nitroglycerin ointment helps to prevent angina attacks but does not cure coronary artery disease. Continue to use nitroglycerin ointment even if you feel well. Do not stop using nitroglycerin ointment without talking to your doctor.
+    
+    If you are using nitroglycerin ointment to prevent angina, follow your doctor's directions and the guidelines in this paragraph to apply the medication. Nitroglycerin ointment comes with a paper applicator with a ruled line for measuring the dose (in inches). Place the paper on a flat surface and squeeze the ointment onto the paper, carefully measuring the amount specified on your prescription label. If your ointment comes in foil packets, you should know that each packet contains 1 inch of ointment and is to be used for a single dose only. Place the paper on your skin with the ointment side down, and use the paper to lightly spread the ointment to cover an area of skin at least as large as the applicator. Do not rub the ointment into the skin. Tape the applicator in place and cover it with a piece of plastic kitchen wrap to prevent the ointment from staining your clothing. If your ointment comes in a tube, replace the cap and screw it on tightly. If your ointment came in a small foil packet, dispose of the packet. Try not to get the ointment on your fingers. Wash your hands after applying the ointment.`,
+    additionalDetials: `If you are using nitroglycerin ointment to treat anal fissure pain, follow your doctor's directions and the guidelines in this paragraph to apply the medication. Cover your finger with plastic wrap, a disposable surgical glove, or a finger cot. Lay the covered finger alongside the 1 inch dosing line on the side of the nitroglycerin ointment box so that the tip of the finger is at one end of the dosing line. Starting at the finger tip, squeeze the ointment onto your finger for the same length as marked on the box by the 1-inch dosing line. Gently insert the finger with the ointment into the anal canal, up to the first finger joint. Smear the ointment around the inside of the anal canal. If this is too painful, then apply the ointment directly to the outside of the anus. Dispose of the finger covering. Wash your hands after applying the ointment.
+
+    If you are using nitroglycerin ointment to treat anal fissure pain, ask your pharmacist or doctor for a copy of the manufacturer's information for the patient`,
+  },
+  {
+    productId: 265,
+    name: "Generic Norvasc",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Amlodipine",
+    rating: 179,
+    star: 5,
+    price: "0.27",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericNorvasc,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "2.5",
+        unit: "mg",
+        bottle: [
+          { count: 120, price: 41.48, pricePerBottle: 0.35 },
+          { count: 240, price: 68.15, pricePerBottle: 0.28 },
+          { count: 300, price: 81.48, pricePerBottle: 0.27 },
+        ],
+      },
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 43.7, pricePerBottle: 1.46 },
+          { count: 60, price: 72.59, pricePerBottle: 1.21 },
+          { count: 120, price: 130.37, pricePerBottle: 1.09 },
+          { count: 240, price: 245.93, pricePerBottle: 1.02 },
+          { count: 300, price: 303.7, pricePerBottle: 1.01 },
+        ],
+      },
+    ],
+    prescription: `Amlodipine is used alone or in combination with other medications to treat high blood pressure and chest pain (angina). Amlodipine is in a class of medications called calcium channel blockers. It lowers blood pressure by relaxing the blood vessels so the heart does not have to pump as hard. It controls chest pain by increasing the supply of blood to the heart. If taken regularly, amlodipine controls chest pain, but it does not stop chest pain once it starts. Your doctor may prescribe a different medication to take when you have chest pain.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Amlodipine comes as a tablet to take by mouth. It is usually taken once a day. To help you remember to take amlodipine, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take amlodipine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor`,
+    additionalDetials: `Your doctor will probably start you on a low dose of amlodipine and gradually increase your dose.
+
+    Amlodipine controls high blood pressure and chest pain (angina) but does not cure them. Continue to take amlodipine even if you feel well. Do not stop taking amlodipine without talking to your doctor.`,
+  },
+  {
+    productId: 266,
+    name: "Generic Plavix",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Clopidogrel",
+    rating: 139,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericPlavix,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "75",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "150",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `Clopidogrel is used alone or with aspirin to prevent serious or life-threatening problems with the heart and blood vessels in people who have had a stroke, heart attack, or severe chest pain. This includes people who have percutaneous coronary intervention (PCI; angioplasty; a type of heart surgery) that may involve inserting coronary stents (metal tubes surgically placed in clogged blood vessels to improve blood flow) or who have coronary artery bypass grafting (CABG; a type of heart surgery). Clopidogrel is also used to prevent serious or life-threatening problems with the heart and blood vessels in people who have peripheral arterial disease (poor circulation in the blood vessels that supply blood to the legs). Clopidogrel is in a class of medications called antiplatelet medications. It works by preventing platelets (a type of blood cell) from collecting and forming clots that may cause a heart attack or stroke.`,
+    howToUse: `Clopidogrel comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take clopidogrel at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take clopidogrel exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Clopidogrel will help prevent serious problems with your heart and blood vessels only as long as you take the medication. Continue to take clopidogrel even if you feel well. Do not stop taking clopidogrel without talking to your doctor. If you stop taking clopidogrel, there is a higher risk that you may have a heart attack or stroke. If you have a stent, there is also a higher risk that you could develop a blood clot in the stent if you stop taking clopidogrel too soon.`,
+  },
+  {
+    productId: 267,
+    name: "Generic Tenoretic",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Atenolol + Chlorthalidone",
+    rating: 121,
+    star: 4,
+    price: "1.75",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericTenoretic,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100 mg / 25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 65.93, pricePerBottle: 2.2 },
+          { count: 60, price: 117.04, pricePerBottle: 1.95 },
+          { count: 120, price: 219.26, pricePerBottle: 1.83 },
+          { count: 240, price: 423.7, pricePerBottle: 1.77 },
+          { count: 300, price: 525.93, pricePerBottle: 1.75 },
+        ],
+      },
+    ],
+    prescription: `Chlorthalidone, a 'water pill,' is used to treat high blood pressure and fluid retention caused by various conditions, including heart disease. It causes the kidneys to get rid of unneeded water and salt from the body into the urine.
+
+    This medicine is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Chlorthalidone comes as a tablet to take by mouth. It usually is taken once a day or every other day after a meal, preferably breakfast. It is best to take this medicine in the morning to avoid going to the bathroom during the night. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take chlorthalidone exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Chlorthalidone controls high blood pressure but does not cure it. Continue to take chlorthalidone even if you feel well. Do not stop taking chlorthalidone without talking to your doctor.`,
+  },
+  {
+    productId: 268,
+    name: "Generic Tenormin",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Atenolol",
+    rating: 100,
+    star: 5,
+    price: "0.27",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericTenormin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 120, price: 41.48, pricePerBottle: 0.35 },
+          { count: 240, price: 68.15, pricePerBottle: 0.28 },
+          { count: 300, price: 81.48, pricePerBottle: 0.27 },
+        ],
+      },
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 36.13, pricePerBottle: 0.6 },
+          { count: 120, price: 59.35, pricePerBottle: 0.49 },
+          { count: 240, price: 105.81, pricePerBottle: 0.44 },
+          { count: 300, price: 129.03, pricePerBottle: 0.43 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 33.04, pricePerBottle: 0.55 },
+          { count: 120, price: 48.7, pricePerBottle: 0.41 },
+          { count: 240, price: 80, pricePerBottle: 0.33 },
+          { count: 300, price: 95.65, pricePerBottle: 0.32 },
+        ],
+      },
+    ],
+    prescription: `Atenolol is used alone or in combination with other medications to treat high blood pressure. It also is used to prevent angina (chest pain) and improve survival after a heart attack. Atenolol is in a class of medications called beta blockers. It works by relaxing blood vessels and slowing heart rate to improve blood flow and decrease blood pressure.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Atenolol comes as a tablet to take by mouth. It is usually taken once or twice a day. To help you remember to take atenolol, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take atenolol exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Atenolol controls high blood pressure and angina but does not cure them. It may take 1-2 weeks before you feel the full benefit of atenolol. Continue to take atenolol even if you feel well. Do not stop taking atenolol without talking to your doctor.`,
+  },
+  {
+    productId: 269,
+    name: "Generic Tenormin",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Labetalol",
+    rating: 156,
+    star: 4,
+    price: "1.90",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericTrandate,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 70.37, pricePerBottle: 2.35 },
+          { count: 60, price: 125.93, pricePerBottle: 2.1 },
+          { count: 120, price: 237.04, pricePerBottle: 1.98 },
+          { count: 240, price: 459.26, pricePerBottle: 1.91 },
+          { count: 300, price: 570.37, pricePerBottle: 1.9 },
+        ],
+      },
+    ],
+    prescription: `Labetalol is used to treat high blood pressure. Labetalol is in a class of medications called beta blockers. It works by relaxing blood vessels and slowing heart rate to improve blood flow and decrease blood pressure.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Labetalol comes as a tablet to take by mouth. It usually is taken two or three times a day. To help you remember to take labetalol, take it around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take labetalol exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Labetalol controls high blood pressure but does not cure it. Continue to take labetalol even if you feel well. Do not stop taking labetalol without talking to your doctor. If you suddenly stop taking labetalol, you may experience serious heart problems such as angina (chest pain) or heart attack.`,
+  },
+  {
+    productId: 270,
+    name: "Generic Vasotec",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Enalapril",
+    rating: 165,
+    star: 4,
+    price: "0.27",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericVasotec,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "2.5",
+        unit: "mg",
+        bottle: [
+          { count: 120, price: 41.48, pricePerBottle: 0.35 },
+          { count: 240, price: 65.15, pricePerBottle: 0.28 },
+          { count: 300, price: 81.48, pricePerBottle: 0.27 },
+        ],
+      },
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.04, pricePerBottle: 1.1 },
+          { count: 60, price: 48.7, pricePerBottle: 0.81 },
+          { count: 120, price: 80, pricePerBottle: 0.67 },
+          { count: 240, price: 142.61, pricePerBottle: 0.59 },
+          { count: 300, price: 173.91, pricePerBottle: 0.58 },
+        ],
+      },
+    ],
+    prescription: `The combination of enalapril and hydrochlorothiazide is used to treat high blood pressure. Enalapril is in a class of medications called angiotensin-converting enzyme (ACE) inhibitors. It works by decreasing certain chemicals that tighten the blood vessels, so blood flows more smoothly. Hydrochlorothiazide is in a class of medications called diuretics ('water pills'). It works by causing the kidneys to get rid of unneeded water and salt from the body into the urine.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `The combination of enalapril and hydrochlorothiazide comes as a tablet to take by mouth. It is usually taken with or without food once or twice a day. To help you remember to take enalapril and hydrochlorothiazide, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take enalapril and hydrochlorothiazide exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Enalapril and hydrochlorothiazide controls high blood pressure but does not cure it. Continue to take enalapril and hydrochlorothiazide even if you feel well. Do not stop taking enalapril and hydrochlorothiazide without talking to your doctor.`,
+  },
+  {
+    productId: 271,
+    name: "Generic Zebeta",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Bisoprolol",
+    rating: 169,
+    star: 5,
+    price: "0.79",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericZebeta,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "2.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 37.04, pricePerBottle: 1.23 },
+          { count: 60, price: 52.26, pricePerBottle: 0.99 },
+          { count: 120, price: 103.7, pricePerBottle: 0.86 },
+          { count: 240, price: 192.59, pricePerBottle: 0.8 },
+          { count: 300, price: 237.04, pricePerBottle: 0.79 },
+        ],
+      },
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 52.59, pricePerBottle: 1.75 },
+          { count: 60, price: 90.37, pricePerBottle: 1.51 },
+          { count: 120, price: 165.93, pricePerBottle: 1.38 },
+          { count: 240, price: 317.04, pricePerBottle: 1.32 },
+          { count: 300, price: 392.59, pricePerBottle: 1.31 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.48, pricePerBottle: 1.38 },
+          { count: 60, price: 68.15, pricePerBottle: 1.14 },
+          { count: 120, price: 121.48, pricePerBottle: 1.01 },
+          { count: 240, price: 228.15, pricePerBottle: 0.95 },
+          { count: 300, price: 281.48, pricePerBottle: 0.94 },
+        ],
+      },
+    ],
+    prescription: `Bisoprolol is used alone or in combination with other medications to treat high blood pressure. Bisoprolol is in a class of medications called beta blockers. It works by relaxing blood vessels and slowing heart rate to improve and decrease blood pressure.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Bisoprolol comes as a tablet to take by mouth. It is usually taken once a day. To help you remember to take bisoprolol, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take bisoprolol exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Your doctor will probably start you on a low dose of bisoprolol and gradually increase your dose.
+
+    Bisoprolol controls high blood pressure but does not cure it. It may take a few weeks before you feel the full benefit of bisoprolol. Continue to take bisoprolol even if you feel well. Do not stop taking bisoprolol without talking to your doctor. Suddenly stopping bisoprolol may cause angina (chest pain), heart attack, or irregular heartbeat. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 272,
+    name: "Generic Zestril",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Lisinopril",
+    rating: 193,
+    star: 5,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericZestril,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "2.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 48.15, pricePerBottle: 1.61 },
+          { count: 60, price: 81.48, pricePerBottle: 1.36 },
+          { count: 120, price: 148.15, pricePerBottle: 1.23 },
+          { count: 240, price: 281.48, pricePerBottle: 1.17 },
+          { count: 300, price: 348.15, pricePerBottle: 1.16 },
+        ],
+      },
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+    ],
+    prescription: `Lisinopril is used alone or in combination with other medications to treat high blood pressure. Lisinopril is in a class of medications called beta blockers. It works by relaxing blood vessels and slowing heart rate to improve and decrease blood pressure.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Lisinopril comes as a tablet to take by mouth. It is usually taken once a day. To help you remember to take Lisinopril, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Lisinopril exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Your doctor will probably start you on a low dose of Lisinopril and gradually increase your dose.
+
+    Lisinopril controls high blood pressure but does not cure it. It may take a few weeks before you feel the full benefit of Lisinopril. Continue to take bisoprolol even if you feel well. Do not stop taking bisoprolol without talking to your doctor. Suddenly stopping bisoprolol may cause angina (chest pain), heart attack, or irregular heartbeat. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 273,
+    name: "Generic Ziac",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Hydrochlorothiazide + Bisoprolo",
+    rating: 113,
+    star: 5,
+    price: "2.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericZiac,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5 mg / 6.25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 88.15, pricePerBottle: 2.94 },
+          { count: 60, price: 161.48, pricePerBottle: 2.69 },
+          { count: 120, price: 308.15, pricePerBottle: 2.57 },
+          { count: 240, price: 601.48, pricePerBottle: 2.51 },
+          { count: 300, price: 748.15, pricePerBottle: 2.49 },
+        ],
+      },
+    ],
+    prescription: `Bisoprolol is used alone or in combination with other medications to treat high blood pressure. Bisoprolol is in a class of medications called beta blockers. It works by relaxing blood vessels and slowing heart rate to improve and decrease blood pressure.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Bisoprolol comes as a tablet to take by mouth. It is usually taken once a day. To help you remember to take Bisoprolol, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Bisoprolol exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Your doctor will probably start you on a low dose of Bisoprolol and gradually increase your dose.
+
+    Bisoprolol controls high blood pressure but does not cure it. It may take a few weeks before you feel the full benefit of Bisoprolol. Continue to take bisoprolol even if you feel well. Do not stop taking bisoprolol without talking to your doctor. Suddenly stopping bisoprolol may cause angina (chest pain), heart attack, or irregular heartbeat. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 274,
+    name: "Hydrocl",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Hydrochlorothiazide",
+    rating: 42,
+    star: 5,
+    price: "0.72",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.48, pricePerBottle: 1.38 },
+          { count: 60, price: 68.15, pricePerBottle: 1.14 },
+          { count: 120, price: 121.48, pricePerBottle: 1.01 },
+          { count: 240, price: 228.15, pricePerBottle: 0.95 },
+          { count: 300, price: 281.48, pricePerBottle: 0.94 },
+        ],
+      },
+    ],
+    prescription: `Hydrochlorothiazide is used alone or in combination with other medications to treat high blood pressure. Hydrochlorothiazide is in a class of medications called beta blockers. It works by relaxing blood vessels and slowing heart rate to improve and decrease blood pressure.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Hydrochlorothiazide comes as a tablet to take by mouth. It is usually taken once a day. To help you remember to take Hydrochlorothiazide, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Hydrochlorothiazide exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Your doctor will probably start you on a low dose of Hydrochlorothiazide and gradually increase your dose.
+
+    Hydrochlorothiazide controls high blood pressure but does not cure it. It may take a few weeks before you feel the full benefit of Hydrochlorothiazide. Continue to take bisoprolol even if you feel well. Do not stop taking bisoprolol without talking to your doctor. Suddenly stopping bisoprolol may cause angina (chest pain), heart attack, or irregular heartbeat. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 275,
+    name: "Inderal",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Propranolol",
+    rating: 80,
+    star: 4,
+    price: "0.64",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Abbott Healthcare Pvt Ltd.",
+    image: inderal,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+    ],
+    prescription: `Propranolol is used to treat high blood pressure, irregular heart rhythms, pheochromocytoma (tumor on a small gland near the kidneys), certain types of tremor, and hypertrophic subaortic stenosis (a heart muscle disease). It is also used to prevent angina (chest pain), migraine headaches, and to improve survival after a heart attack. Propranolol is in a class of medications called beta blockers. It works by relaxing blood vessels and slowing heart rate to improve blood flow and decrease blood pressure.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Propranolol comes as a tablet, solution (liquid),and as an extended-release (long-acting) capsule to take by mouth. The extended-release propranolol capsule (brand name: Inderal LA) usually is taken once a day. The extended-release capsule (Innopran XL, Inderal XL) is usually taken at bedtime and should consistently be taken either always with or always without food each time. Immediate-acting propranolol tablets or solution may be taken two, three, or four times a day. Take propranolol at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take propranolol exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Swallow the extended-release capsules whole; do not split, chew, or crush them.`,
+  },
+  {
+    productId: 276,
+    name: "Lasipen",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Frusemide",
+    rating: 194,
+    star: 4,
+    price: "0.35",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Morepen Laboratories Ltd.",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 32.59, pricePerBottle: 0.54 },
+          { count: 120, price: 50.37, pricePerBottle: 0.42 },
+          { count: 240, price: 85.93, pricePerBottle: 0.36 },
+          { count: 300, price: 103.7, pricePerBottle: 0.35 },
+        ],
+      },
+    ],
+    prescription: `Furosemide is used alone or in combination with other medications to treat high blood pressure. Furosemide is used to treat edema (fluid retention; excess fluid held in body tissues) caused by various medical problems, including heart, kidney, and liver disease. Furosemide is in a class of medications called diuretics ('water pills'). It works by causing the kidneys to get rid of unneeded water and salt from the body into the urine.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Furosemide comes as a tablet and as a solution (liquid) to take by mouth. It usually is taken once or twice a day. When used to treat edema, furosemide may be taken daily or only on certain days of the week. When used to treat hypertension, take furosemide around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take furosemide exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Furosemide controls high blood pressure and edema but does not cure these conditions. Continue to take furosemide even if you feel well. Do not stop taking furosemide without talking to your doctor.`,
+  },
+  {
+    productId: 277,
+    name: "Lasix",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Frusemide",
+    rating: 166,
+    star: 4,
+    price: "0.35",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Sanofi India Limited.",
+    image: Lasix,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 32.59, pricePerBottle: 0.54 },
+          { count: 120, price: 50.37, pricePerBottle: 0.42 },
+          { count: 240, price: 85.93, pricePerBottle: 0.36 },
+          { count: 300, price: 103.7, pricePerBottle: 0.35 },
+        ],
+      },
+    ],
+    prescription: `Furosemide is used alone or in combination with other medications to treat high blood pressure. Furosemide is used to treat edema (fluid retention; excess fluid held in body tissues) caused by various medical problems, including heart, kidney, and liver disease. Furosemide is in a class of medications called diuretics ('water pills'). It works by causing the kidneys to get rid of unneeded water and salt from the body into the urine.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Furosemide comes as a tablet and as a solution (liquid) to take by mouth. It usually is taken once or twice a day. When used to treat edema, furosemide may be taken daily or only on certain days of the week. When used to treat hypertension, take furosemide around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take furosemide exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Furosemide controls high blood pressure and edema but does not cure these conditions. Continue to take furosemide even if you feel well. Do not stop taking furosemide without talking to your doctor.`,
+  },
+  {
+    productId: 278,
+    name: "Lonitab",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Minoxidil",
+    rating: 54,
+    star: 4,
+    price: "3.25",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Sanofi India Limited.",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 110.37, pricePerBottle: 0.54 },
+          { count: 60, price: 205.93, pricePerBottle: 0.54 },
+          { count: 120, price: 397.04, pricePerBottle: 0.42 },
+          { count: 240, price: 779.26, pricePerBottle: 0.36 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 170.37, pricePerBottle: 5.68 },
+          { count: 60, price: 325.93, pricePerBottle: 5.43 },
+          { count: 120, price: 637.04, pricePerBottle: 5.31 },
+        ],
+      },
+    ],
+    prescription: `Minoxidil is used to stimulate hair growth and to slow balding. It is most effective for people under 40 years of age whose hair loss is recent. Minoxidil has no effect on receding hairlines. It does not cure baldness; most new hair is lost within a few months after the drug is stopped.`,
+    howToUse: `Minoxidil comes as a liquid to be applied to your scalp. Minoxidil usually is used twice a day.
+
+    Follow the directions on your package or prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use minoxidil exactly as directed. Do not use more or less of it or use it more often than directed by your doctor.
+    
+    Exceeding the recommended dosage does not produce greater or faster hair growth and may cause increased side effects. You must use minoxidil for at least 4 months, and possibly for up to 1 year, before you see any effect.
+    
+    Three special applicators are provided: a metered-spray applicator for large scalp areas, an extender spray applicator (used with the metered-spray applicator) for small areas or under the hair, and a rub-on applicator.
+    
+    Remove the outer and inner caps from the bottle, choose an applicator, and screw it tightly onto the bottle.
+    
+    To use the extender spray applicator, first assemble the metered-spray applicator and then follow the instructions provided to attach the extender spray applicator. Pump the metered-spray or extender spray applicator six times for each dose. Try not to inhale the mist. Place the large cap on the metered-spray bottle or the small cap on the extender spray nozzle when not in use.
+    
+    To use the rub-on applicator, hold the bottle upright and squeeze it until the upper chamber of the applicator is filled to the black line. Then turn the bottle upside down and rub on the medication. Place the large cap on the bottle when not in use. If you use your fingertips to apply the medication, wash them thoroughly afterwards.`,
+    additionalDetials: `Apply minoxidil to dry hair and scalp only. Do not apply it to other body areas, and keep it away from your eyes and sensitive skin. If it accidentally comes in contact with these areas, wash them with lots of cool water; call your doctor if they become irritated.
+
+    Do not apply minoxidil to a sunburned or irritated scalp.`,
+  },
+  {
+    productId: 279,
+    name: "Nicardia Retard CD",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Nifedipine",
+    rating: 52,
+    star: 4,
+    price: "101.09",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Unique Pharmaceutical Labs.",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100 tabs / pack 30",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 110.96, pricePerBottle: 110.96 },
+          { count: 2, price: 207.11, pricePerBottle: 103.56 },
+          { count: 3, price: 303.26, pricePerBottle: 101.09 },
+        ],
+      },
+    ],
+    prescription: `Nifedipine is used to treat high blood pressure and to control angina (chest pain). Nifedipine is in a class of medications called calcium-channel blockers. It lowers blood pressure by relaxing the blood vessels so the heart does not have to pump as hard. It controls chest pain by increasing the supply of blood and oxygen to the heart.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Nifedipine comes as a capsule and an extended-release (long-acting) tablet to take by mouth. The capsule is usually taken three or four times a day. The extended-release tablet should be taken once daily on an empty stomach, either 1 hour before or 2 hours after a meal. To help you remember to take nifedipine, take it at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take nifedipine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the extended-release tablets whole; do not split, chew, or crush them.
+    
+    Your doctor will probably start you on a low dose of nifedipine and gradually increase your dose, generally once every 7 to 14 days.`,
+    additionalDetials: `If taken regularly, nifedipine controls chest pain, but it does not stop chest pain once it starts. Your doctor may prescribe a different medication to take when you have chest pain.
+
+    Nifedipine controls high blood pressure and chest pain (angina) but does not cure them. Continue to take nifedipine even if you feel well. Do not stop taking nifedipine without talking to your doctor. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 280,
+    name: "Plavix",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Clopidogrel Bisulfate",
+    rating: 81,
+    star: 4,
+    price: "47.67",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Sanofi Aventis",
+    image: Plavix,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "28 tabs / pack 75",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 61.56, pricePerBottle: 61.56 },
+          { count: 2, price: 108.3, pricePerBottle: 54.15 },
+          { count: 4, price: 201.78, pricePerBottle: 50.45 },
+          { count: 8, price: 388.74, pricePerBottle: 48.59 },
+          { count: 16, price: 762.67, pricePerBottle: 47.67 },
+        ],
+      },
+    ],
+    prescription: `Clopidogrel is used alone or with aspirin to prevent serious or life-threatening problems with the heart and blood vessels in people who have had a stroke, heart attack, or severe chest pain. This includes people who have percutaneous coronary intervention (PCI; angioplasty; a type of heart surgery) that may involve inserting coronary stents (metal tubes surgically placed in clogged blood vessels to improve blood flow) or who have coronary artery bypass grafting (CABG; a type of heart surgery). Clopidogrel is also used to prevent serious or life-threatening problems with the heart and blood vessels in people who have peripheral arterial disease (poor circulation in the blood vessels that supply blood to the legs). Clopidogrel is in a class of medications called antiplatelet medications. It works by preventing platelets (a type of blood cell) from collecting and forming clots that may cause a heart attack or stroke.`,
+    howToUse: `Clopidogrel comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take clopidogrel at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take clopidogrel exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Clopidogrel will help prevent serious problems with your heart and blood vessels only as long as you take the medication. Continue to take clopidogrel even if you feel well. Do not stop taking clopidogrel without talking to your doctor. If you stop taking clopidogrel, there is a higher risk that you may have a heart attack or stroke. If you have a stent, there is also a higher risk that you could develop a blood clot in the stent if you stop taking clopidogrel too soon.`,
+  },
+  {
+    productId: 281,
+    name: "Telma",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Telmisartan",
+    rating: 81,
+    star: 4,
+    price: "32.93",
+    type: "blister",
+    typeName: "blister",
+    ManufacturedBy: "Glenmark Gracewell Division",
+    image: Telma,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "15 tabs / blister 80",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 46.81, pricePerBottle: 46.81 },
+          { count: 2, price: 78.81, pricePerBottle: 39.41 },
+          { count: 4, price: 142.81, pricePerBottle: 35.7 },
+          { count: 8, price: 270.81, pricePerBottle: 33.85 },
+          { count: 16, price: 526.81, pricePerBottle: 32.93 },
+        ],
+      },
+    ],
+    prescription: `Telmisartan is used alone or in combination with other medications to treat high blood pressure. Telmisartan is also used to decrease the chance of heart attack, stroke, or death in people 55 years of age or older who are at high risk for cardiovascular disease. Telmisartan is in a class of medications called angiotensin II receptor antagonists. It works by blocking the action of certain natural substances that tighten the blood vessels, allowing the blood to flow more smoothly and the heart to pump more efficiently.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Telmisartan comes as a tablet to take by mouth. It is usually taken once a day with or without food. To help you remember to take telmisartan, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take telmisartan exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Telmisartan tablets come in individual blister packs that can be opened by peeling back the paper layer from the foil and pushing the tablet through the foil. Do not open a blister pack until you are ready to swallow the tablet it contains.
+    
+    Your doctor may start you on a low dose of telmisartan and gradually increase your dose.`,
+    additionalDetials: `Telmisartan controls high blood pressure but does not cure it. Your blood pressure may decrease during the first 2 weeks of your treatment, but it may take 4 weeks for you to notice the full benefit of telmisartan. Continue to take telmisartan even if you feel well. Do not stop taking telmisartan without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 282,
+    name: "Telma H (Micardis HCT)",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Telmisartan",
+    rating: 183,
+    star: 4,
+    price: "2.74",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Telmisartan + Hydrochlorothiazide",
+    image: TelmaHMicardisHCT,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "80 / 12.5",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 39.26, pricePerBottle: 3.93 },
+          { count: 20, price: 63.7, pricePerBottle: 3.19 },
+          { count: 30, price: 88.15, pricePerBottle: 2.94 },
+          { count: 40, price: 112.59, pricePerBottle: 2.81 },
+          { count: 50, price: 137.04, pricePerBottle: 2.74 },
+        ],
+      },
+    ],
+    prescription: `Amlodipine is used alone or in combination with other medications to treat high blood pressure and chest pain (angina). Amlodipine is in a class of medications called calcium channel blockers. It lowers blood pressure by relaxing the blood vessels so the heart does not have to pump as hard. It controls chest pain by increasing the supply of blood to the heart. If taken regularly, amlodipine controls chest pain, but it does not stop chest pain once it starts. Your doctor may prescribe a different medication to take when you have chest pain.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Amlodipine comes as a tablet to take by mouth. It is usually taken once a day. To help you remember to take amlodipine, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take amlodipine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor`,
+    additionalDetials: `Your doctor will probably start you on a low dose of amlodipine and gradually increase your dose.
+
+    Amlodipine controls high blood pressure and chest pain (angina) but does not cure them. Continue to take amlodipine even if you feel well. Do not stop taking amlodipine without talking to your doctor.`,
+  },
+  {
+    productId: 283,
+    name: "Tenoric",
+    categoryName: "BLOOD PRESSURE",
+    activeIngredient: "Atenolol + Chlorthalidone",
+    rating: 53,
+    star: 4,
+    price: "87.46",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Ipca Lab",
+    image: Tenoric,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100 tabs / pack 50 / 12.5",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 97.33, pricePerBottle: 97.33 },
+          { count: 2, price: 179.85, pricePerBottle: 89.93 },
+          { count: 3, price: 262.37, pricePerBottle: 87.46 },
+        ],
+      },
+    ],
+    prescription: `Chlorthalidone, a 'water pill,' is used to treat high blood pressure and fluid retention caused by various conditions, including heart disease. It causes the kidneys to get rid of unneeded water and salt from the body into the urine.
+
+    This medicine is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Chlorthalidone comes as a tablet to take by mouth. It usually is taken once a day or every other day after a meal, preferably breakfast. It is best to take this medicine in the morning to avoid going to the bathroom during the night. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take chlorthalidone exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Chlorthalidone controls high blood pressure but does not cure it. Continue to take chlorthalidone even if you feel well. Do not stop taking chlorthalidone without talking to your doctor.`,
+  },
+  {
+    productId: 284,
+    name: "Atorlip",
+    categoryName: "CHOLESTEROL",
+    activeIngredient: "Atorvastatin",
+    rating: 111,
+    star: 4,
+    price: "0.79",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Cipla",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 37.04, pricePerBottle: 1.23 },
+          { count: 60, price: 59.26, pricePerBottle: 0.99 },
+          { count: 120, price: 103.7, pricePerBottle: 0.86 },
+          { count: 240, price: 192.59, pricePerBottle: 0.8 },
+          { count: 300, price: 237.04, pricePerBottle: 0.79 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 43.7, pricePerBottle: 1.46 },
+          { count: 60, price: 72.59, pricePerBottle: 1.21 },
+          { count: 120, price: 130.37, pricePerBottle: 1.09 },
+          { count: 240, price: 245.93, pricePerBottle: 1.02 },
+          { count: 300, price: 303.7, pricePerBottle: 1.01 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 40, pricePerBottle: 4 },
+          { count: 20, price: 65.19, pricePerBottle: 3.26 },
+          { count: 30, price: 90.37, pricePerBottle: 3.01 },
+          { count: 40, price: 115.56, pricePerBottle: 2.89 },
+          { count: 50, price: 140.74, pricePerBottle: 2.81 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 45.19, pricePerBottle: 4.52 },
+          { count: 20, price: 75.56, pricePerBottle: 3.78 },
+          { count: 30, price: 105.93, pricePerBottle: 3.53 },
+          { count: 40, price: 146.3, pricePerBottle: 3.41 },
+          { count: 50, price: 166.67, pricePerBottle: 3.33 },
+        ],
+      },
+    ],
+    prescription: `Atorvastatin is used together with diet, weight loss, and exercise to reduce the risk of heart attack and stroke and to decrease the chance that heart surgery will be needed in people who have heart disease or who are at risk of developing heart disease. Atorvastatin is also used to decrease the amount of fatty substances such as low-density lipoprotein (LDL) cholesterol ('bad cholesterol') and triglycerides in the blood and to increase the amount of high-density lipoprotein (HDL) cholesterol ('good cholesterol') in the blood. Atorvastatin may also be used to decrease the amount of cholesterol and other fatty substances in the blood in children and teenagers 10 to 17 years of age who have familial heterozygous hypercholesterolemia (an inherited condition in which cholesterol cannot be removed from the body normally). Atorvastatin is in a class of medications called HMG-CoA reductase inhibitors (statins). It works by slowing the production of cholesterol in the body to decrease the amount of cholesterol that may build up on the walls of the arteries and block blood flow to the heart, brain, and other parts of the body.
+
+    Accumulation of cholesterol and fats along the walls of your arteries (a process known as atherosclerosis) decreases blood flow and, therefore, the oxygen supply to your heart, brain, and other parts of your body. Lowering your blood level of cholesterol and fats with atorvastatin has been shown to prevent heart disease, angina (chest pain), strokes, and heart attacks.`,
+    howToUse: `Atorvastatin comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take atorvastatin at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take atorvastatin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Your doctor may start you on a low dose of atorvastatin and gradually increase your dose, not more than once every 2 to 4 weeks.
+
+    Continue to take atorvastatin even if you feel well. Do not stop taking atorvastatin without talking to your doctor.`,
+  },
+  {
+    productId: 285,
+    name: "Generic Crestor",
+    categoryName: "CHOLESTEROL",
+    activeIngredient: "Rosuvastatin calcium",
+    rating: 156,
+    star: 4,
+    price: "0.86",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Cipla",
+    image: genericCrestor,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 54.81, pricePerBottle: 1.83 },
+          { count: 60, price: 94.81, pricePerBottle: 1.58 },
+          { count: 120, price: 174.81, pricePerBottle: 1.46 },
+          { count: 240, price: 334.81, pricePerBottle: 1.4 },
+          { count: 300, price: 414.81, pricePerBottle: 1.38 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 57.04, pricePerBottle: 1.9 },
+          { count: 60, price: 99.26, pricePerBottle: 1.65 },
+          { count: 120, price: 183.7, pricePerBottle: 1.53 },
+          { count: 240, price: 352.59, pricePerBottle: 1.47 },
+          { count: 300, price: 437.04, pricePerBottle: 1.46 },
+        ],
+      },
+    ],
+    prescription: `Rosuvastatin is used together with diet, weight-loss, and exercise to reduce the risk of heart attack and stroke and to decrease the chance that heart surgery will be needed in people who have heart disease or who are at risk of developing heart disease. Rosuvastatin is also used to decrease the amount of cholesterol such as low-density lipoprotein (LDL) cholesterol ('bad cholesterol') and triglycerides in the blood and to increase the amount of high-density lipoprotein (HDL) cholesterol ('good cholesterol') in the blood. Rosuvastatin may also be used to decrease the amount of cholesterol and other fatty substances in the blood in children and teenagers 10 to 17 years of age who have familial heterozygous hypercholesterolemia (an inherited condition in which cholesterol cannot be removed from the body normally). Rosuvastatin is in a class of medications called HMG-CoA reductase inhibitors (statins). It works by slowing the production of cholesterol in the body to decrease the amount of cholesterol that may build up on the walls of the arteries and block blood flow to the heart, brain, and other parts of the body.
+
+    Accumulation of cholesterol and fats along the walls of your arteries (a process known as atherosclerosis) decreases blood flow and, therefore, the oxygen supply to your heart, brain, and other parts of your body. Lowering your blood level of cholesterol and fats with rosuvastatin has been shown to prevent heart disease, angina (chest pain), strokes, and heart attacks.`,
+    howToUse: `Rosuvastatin comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take rosuvastatin at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take rosuvastatin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Your doctor will probably start you on a low dose of rosuvastatin and gradually increase your dose, not more than once every 2 to 4 weeks.
+
+    Continue to take rosuvastatin even if you feel well. Do not stop taking rosuvastatin without talking to your doctor.`,
+  },
+  {
+    productId: 286,
+    name: "Generic Lipitor",
+    categoryName: "CHOLESTEROL",
+    activeIngredient: "Atorvastatin",
+    rating: 182,
+    star: 5,
+    price: "0.53",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: genericLipitor,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 43.87, pricePerBottle: 0.73 },
+          { count: 120, price: 74.84, pricePerBottle: 0.62 },
+          { count: 240, price: 136.77, pricePerBottle: 0.57 },
+          { count: 300, price: 167.74, pricePerBottle: 0.56 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 30.4, pricePerBottle: 1.01 },
+          { count: 60, price: 44.8, pricePerBottle: 0.75 },
+          { count: 120, price: 73.6, pricePerBottle: 0.61 },
+          { count: 240, price: 131.2, pricePerBottle: 0.55 },
+          { count: 300, price: 160, pricePerBottle: 0.53 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.04, pricePerBottle: 1.1 },
+          { count: 60, price: 48.7, pricePerBottle: 0.81 },
+          { count: 120, price: 80, pricePerBottle: 0.67 },
+          { count: 240, price: 142.61, pricePerBottle: 0.59 },
+          { count: 300, price: 173.91, pricePerBottle: 0.58 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+      {
+        mg: "80",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 84.65, pricePerBottle: 2.82 },
+          { count: 60, price: 160, pricePerBottle: 2.67 },
+          { count: 120, price: 310.7, pricePerBottle: 2.59 },
+          { count: 240, price: 612.09, pricePerBottle: 2.55 },
+          { count: 300, price: 762.79, pricePerBottle: 2.54 },
+        ],
+      },
+    ],
+    prescription: `Atorvastatin is used together with diet, weight loss, and exercise to reduce the risk of heart attack and stroke and to decrease the chance that heart surgery will be needed in people who have heart disease or who are at risk of developing heart disease. Atorvastatin is also used to decrease the amount of fatty substances such as low-density lipoprotein (LDL) cholesterol ('bad cholesterol') and triglycerides in the blood and to increase the amount of high-density lipoprotein (HDL) cholesterol ('good cholesterol') in the blood. Atorvastatin may also be used to decrease the amount of cholesterol and other fatty substances in the blood in children and teenagers 10 to 17 years of age who have familial heterozygous hypercholesterolemia (an inherited condition in which cholesterol cannot be removed from the body normally). Atorvastatin is in a class of medications called HMG-CoA reductase inhibitors (statins). It works by slowing the production of cholesterol in the body to decrease the amount of cholesterol that may build up on the walls of the arteries and block blood flow to the heart, brain, and other parts of the body.
+
+    Accumulation of cholesterol and fats along the walls of your arteries (a process known as atherosclerosis) decreases blood flow and, therefore, the oxygen supply to your heart, brain, and other parts of your body. Lowering your blood level of cholesterol and fats with atorvastatin has been shown to prevent heart disease, angina (chest pain), strokes, and heart attacks.`,
+    howToUse: `Atorvastatin comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take Atorvastatin at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Atorvastatin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Your doctor will probably start you on a low dose of Atorvastatin and gradually increase your dose, not more than once every 2 to 4 weeks.
+
+    Continue to take Atorvastatin even if you feel well. Do not stop taking Atorvastatin without talking to your doctor.`,
+  },
+  {
+    productId: 287,
+    name: "Generic Lopid",
+    categoryName: "CHOLESTEROL",
+    activeIngredient: "Gemfibrozil",
+    rating: 49,
+    star: 5,
+    price: "2.20",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: genericLopid,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "300",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 79.26, pricePerBottle: 2.64 },
+          { count: 60, price: 143.7, pricePerBottle: 2.4 },
+          { count: 120, price: 272.59, pricePerBottle: 2.27 },
+          { count: 240, price: 530.37, pricePerBottle: 2.21 },
+          { count: 300, price: 659.26, pricePerBottle: 2.2 },
+        ],
+      },
+    ],
+    prescription: `Gemfibrozil is used with diet changes (restriction of cholesterol and fat intake) to reduce the amount of cholesterol and triglycerides (other fatty substances) in the blood in certain people with very high triglycerides who are at risk of pancreatic disease (conditions affecting the pancreas, a gland that produces fluid to break down food and hormones to control blood sugar). Gemfibrozil is also used in people with a combination of low high-density lipoprotein (HDL; 'good cholesterol') levels and high low-density lipoprotein (LDL; 'bad cholesterol') and triglyceride levels to reduce the risk of heart disease. Gemfibrozil is in a class of lipid-regulating medications called fibrates. It works by reducing the production of triglycerides in the liver.`,
+    howToUse: `Gemfibrozil comes as a tablet to take by mouth. It is usually taken twice a day, 30 minutes before the morning and evening meals. Take gemfibrozil at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take gemfibrozil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Gemfibrozil controls high triglycerides and low HDL, but does not cure them. Continue to take gemfibrozil even if you feel well. Do not stop taking gemfibrozil without talking to your doctor.`,
+  },
+  {
+    productId: 288,
+    name: "Generic Tricor",
+    categoryName: "CHOLESTEROL",
+    activeIngredient: "Fenofibrate",
+    rating: 171,
+    star: 4,
+    price: "1.60",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: genericTricor,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "160",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 61.48, pricePerBottle: 2.05 },
+          { count: 60, price: 108.15, pricePerBottle: 1.8 },
+          { count: 120, price: 210.48, pricePerBottle: 1.68 },
+          { count: 240, price: 388.15, pricePerBottle: 1.62 },
+          { count: 300, price: 481.48, pricePerBottle: 1.6 },
+        ],
+      },
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 90.37, pricePerBottle: 3.01 },
+          { count: 60, price: 165.93, pricePerBottle: 2.77 },
+          { count: 120, price: 317.04, pricePerBottle: 2.64 },
+          { count: 240, price: 619.26, pricePerBottle: 2.58 },
+          { count: 300, price: 770.37, pricePerBottle: 2.57 },
+        ],
+      },
+    ],
+    prescription: `Fenofibrate is used with a low-fat diet, exercise, and sometimes with other medications to reduce the amounts of fatty substances such as cholesterol and triglycerides in the blood and to increase the amount of HDL (high-density lipoprotein; a type of fatty substance that decreases the risk of heart disease) in the blood. Build-up of cholesterol and fats along the walls of the arteries (a process known as atherosclerosis) decreases the blood flow and, therefore, the oxygen supply to the heart, brain, and other parts of the body. This increases the risk of heart disease, angina (chest pain), strokes, and heart attacks. Although fenofibrate decreases the levels of fatty substances in the blood, it has not been shown to decrease the risk of heart attacks or strokes. Fenofibrate is in a class of medications called antilipemic agents. It works by speeding the natural processes that remove cholesterol from the body.`,
+    howToUse: `Fenofibrate comes as a capsule, a delayed-release (long-acting) capsule, and a tablet to take by mouth. It is usually taken once a day. Some fenofibrate products (Fenoglide, Lipofen, and Lofibra) should be taken with a meal. Other brands (Antara, Fibricor, Tricor, Triglide, and Trilipix) may be taken with or without food. Ask your doctor or pharmacist if you do not know if you should take your medication with food. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take fenofibrate exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on an average dose of fenofibrate and may increase or decrease your dose depending on the results of laboratory tests that you will take to measure the amount of fatty substances in your blood. Your doctor may tell you to stop taking fenofibrate if your test results do not show improvement after 2 months.
+    
+    If you are taking Trilipix tablets, swallow the tablets whole; do not split, chew, or crush them`,
+    additionalDetials: `If you are taking Triglide tablets, do not use any tablets that are chipped or broken.
+
+    Fenofibrate will help decrease the amount of fatty substances in your blood only as long as you continue to take it. Continue to take fenofibrate even if you feel well. Do not stop taking fenofibrate without talking to your doctor.`,
+  },
+  {
+    productId: 289,
+    name: "Generic Zetia",
+    categoryName: "CHOLESTEROL",
+    activeIngredient: "Ezetimibe",
+    rating: 46,
+    star: 4,
+    price: "1.60",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: genericZetia,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 61.48, pricePerBottle: 2.05 },
+          { count: 60, price: 108.15, pricePerBottle: 1.8 },
+          { count: 120, price: 210.48, pricePerBottle: 1.68 },
+          { count: 240, price: 388.15, pricePerBottle: 1.62 },
+          { count: 300, price: 481.48, pricePerBottle: 1.6 },
+        ],
+      },
+    ],
+    prescription: `Ezetimibe is used together with lifestyle changes (diet, weight-loss, exercise) to reduce the amount of cholesterol (a fat-like substance) and other fatty substances in the blood. It may be used alone or in combination with an HMG-CoA reductase inhibitor (statin). Ezetimibe is in a class of medications called cholesterol-lowering medications. It works by preventing the absorption of cholesterol in the intestine.
+
+    Buildup of cholesterol and fats along the walls of the blood vessels (a process known as atherosclerosis) decreases blood flow, which decreases the oxygen supply to the heart, brain, and other parts of the body. Lowering blood levels of cholesterol and fats may help reduce this buildup and may decrease your chances of developing heart conditions such as angina (chest pain), strokes, and heart attacks. Results of a clinical study that compared people who took ezetimibe and simvastatin with people who took simvastatin alone found that although the group of people taking ezetimibe and simvastatin had lower amounts of cholesterol in the blood, there was no difference between the two groups in the amount of cholesterol and fat buildup on the insides of the blood vessels in the neck. It is not currently understood why the additional lowering of cholesterol levels in the blood did not lead to a greater decrease in cholesterol and fat buildup along the walls of the blood vessels in people taking ezetimibe and simvastatin. Further studies are underway to compare treatment with ezetimibe and simvastatin to treatment with simvastatin alone to see if there is a difference in the risk of developing heart disease. Talk to your doctor if you have questions about the risks and benefits of treating increased amounts of cholesterol in your blood with ezetimibe and other medications.
+    
+    In addition to taking a cholesterol-lowering medication, making certain changes in your daily habits can also lower your blood cholesterol levels. You should eat a diet that is low in saturated fat and cholesterol (see SPECIAL DIETARY); exercise 30 minutes on most, if not all, days; and lose weight if you are overweight.`,
+    howToUse: `Ezetimibe comes as a tablet to take by mouth. It is usually taken once a day with or without food. To help you remember to take ezetimibe, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ezetimibe exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Continue to take ezetimibe even if you feel well. Do not stop taking ezetimibe without talking to your doctor.`,
+  },
+  {
+    productId: 290,
+    name: "Generic Zocor",
+    categoryName: "CHOLESTEROL",
+    activeIngredient: "Simvastatin",
+    rating: 97,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: genericZocor,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 45.93, pricePerBottle: 1.53 },
+          { count: 60, price: 77.04, pricePerBottle: 1.28 },
+          { count: 120, price: 139.26, pricePerBottle: 1.16 },
+          { count: 240, price: 263.7, pricePerBottle: 1.1 },
+          { count: 300, price: 325.93, pricePerBottle: 1.09 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 48.15, pricePerBottle: 1.61 },
+          { count: 60, price: 81.48, pricePerBottle: 1.36 },
+          { count: 120, price: 148.15, pricePerBottle: 1.23 },
+          { count: 240, price: 281.48, pricePerBottle: 1.17 },
+          { count: 300, price: 348.15, pricePerBottle: 1.16 },
+        ],
+      },
+    ],
+    prescription: `Simvastatin is used together with diet, weight-loss, and exercise to reduce the risk of heart attack and stroke and to decrease the chance that heart surgery will be needed in people who have heart disease or who are at risk of developing heart disease. Simvastatin is also used to decrease the amount of fatty substances such as low-density lipoprotein (LDL) cholesterol ('bad cholesterol') and triglycerides in the blood and to increase the amount of high-density lipoprotein (HDL) cholesterol ('good cholesterol') in the blood. Simvastatin may also be used to decrease the amount of cholesterol and other fatty substances in the blood in children and teenagers 10 to 17 years of age who have familial heterozygous hypercholesterolemia (an inherited condition in which cholesterol cannot be removed from the body normally). Simvastatin is in a class of medications called HMG-CoA reductase inhibitors (statins). It works by slowing the production of cholesterol in the body to decrease the amount of cholesterol that may build up on the walls of the arteries and block blood flow to the heart, brain, and other parts of the body.
+
+    Accumulation of cholesterol and fats along the walls of your arteries (a process known as atherosclerosis) decreases blood flow and, therefore, the oxygen supply to your heart, brain, and other parts of your body. Lowering your blood level of cholesterol and fats with simvastatin has been shown to prevent heart disease, angina (chest pain), strokes, and heart attacks.`,
+    howToUse: `Simvastatin comes as a tablet to take by mouth. It usually is taken once a day in the evening. Take simvastatin at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take simvastatin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Your doctor may start you on a low dose of simvastatin and gradually increase your dose, not more than once every 4 weeks.
+
+    Continue to take simvastatin even if you feel well. Do not stop taking simvastatin without talking to your doctor.`,
+  },
+  {
+    productId: 291,
+    name: "Lescol-XL",
+    categoryName: "CHOLESTEROL",
+    activeIngredient: "Fluvastatin",
+    rating: 181,
+    star: 4,
+    price: "62",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "14 tablets / pack 8",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 74.96, pricePerBottle: 74.96 },
+          { count: 2, price: 135.11, pricePerBottle: 67.56 },
+          { count: 4, price: 255.41, pricePerBottle: 63.85 },
+          { count: 8, price: 496, pricePerBottle: 62 },
+        ],
+      },
+    ],
+    prescription: `Fluvastatin is used together with diet, weight loss, and exercise to reduce the risk of heart attack and stroke and to decrease the chance that heart surgery will be needed in people who have heart disease or who are at risk of developing heart disease. Fluvastatin is also used to decrease the amount of fatty substances such as low-density lipoprotein (LDL) cholesterol ('bad cholesterol') and triglycerides in the blood and to increase the amount of high-density lipoprotein (HDL) cholesterol ('good cholesterol') in the blood. Fluvastatin may also be used to decrease the amount of cholesterol and other fatty substances in the blood in children and teenagers 10 to 17 years of age who have familial heterozygous hypercholesterolemia (an inherited condition in which cholesterol cannot be removed from the body normally). Fluvastatin is in a class of medications called HMG-CoA reductase inhibitors (statins). It works by slowing the production of cholesterol in the body to decrease the amount of cholesterol that may build up on the walls of the arteries and block blood flow to the heart, brain, and other parts of the body.
+
+    Accumulation of cholesterol and fats along the walls of your arteries (a process known as atherosclerosis) decreases blood flow and, therefore, the oxygen supply to your heart, brain, and other parts of your body. Lowering your blood level of cholesterol and fats with fluvastatin has been shown to prevent heart disease, angina (chest pain), strokes, and heart attacks.`,
+    howToUse: `Fluvastatin comes as a capsule and an extended-release (long-acting) tablet to take by mouth. The capsule is usually taken with or without food once a day at bedtime or twice a day. The extended-release tablet is usually taken once a day with or without food. Take fluvastatin at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take fluvastatin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Swallow the extended-release tablets whole; do not split, chew, or crush them.
+
+    Your doctor may start you on a low dose of fluvastatin and gradually increase your dose, not more than once every 4 weeks.
+    
+    Continue to take fluvastatin even if you feel well. Do not stop taking fluvastatin without talking to your doctor.`,
+  },
+  {
+    productId: 292,
+    name: "Lipitor",
+    categoryName: "CHOLESTEROL",
+    activeIngredient: "Atorvastatin",
+    rating: 169,
+    star: 4,
+    price: "39.44",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: " Any on stock available manufacturer",
+    image: lipitor,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "30 tabs / pack 40",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 94.07, pricePerBottle: 94.07 },
+          { count: 2, price: 173.33, pricePerBottle: 86.67 },
+          { count: 4, price: 331.85, pricePerBottle: 82.96 },
+          { count: 8, price: 648.89, pricePerBottle: 81.11 },
+        ],
+      },
+      {
+        mg: "30 tabs / pack 20",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 70.37, pricePerBottle: 70.37 },
+          { count: 2, price: 125.93, pricePerBottle: 62.97 },
+          { count: 4, price: 237.04, pricePerBottle: 59.26 },
+          { count: 8, price: 459.26, pricePerBottle: 57.41 },
+        ],
+      },
+      {
+        mg: "30 tabs / pack 10",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 53.33, pricePerBottle: 53.33 },
+          { count: 2, price: 91.85, pricePerBottle: 45.93 },
+          { count: 4, price: 168.89, pricePerBottle: 42.22 },
+          { count: 8, price: 322.96, pricePerBottle: 40.37 },
+          { count: 16, price: 631.11, pricePerBottle: 39.44 },
+        ],
+      },
+    ],
+    prescription: `Atorvastatin is used together with diet, weight loss, and exercise to reduce the risk of heart attack and stroke and to decrease the chance that heart surgery will be needed in people who have heart disease or who are at risk of developing heart disease. Atorvastatin is also used to decrease the amount of fatty substances such as low-density lipoprotein (LDL) cholesterol ('bad cholesterol') and triglycerides in the blood and to increase the amount of high-density lipoprotein (HDL) cholesterol ('good cholesterol') in the blood. Atorvastatin may also be used to decrease the amount of cholesterol and other fatty substances in the blood in children and teenagers 10 to 17 years of age who have familial heterozygous hypercholesterolemia (an inherited condition in which cholesterol cannot be removed from the body normally). Atorvastatin is in a class of medications called HMG-CoA reductase inhibitors (statins). It works by slowing the production of cholesterol in the body to decrease the amount of cholesterol that may build up on the walls of the arteries and block blood flow to the heart, brain, and other parts of the body.
+
+    Accumulation of cholesterol and fats along the walls of your arteries (a process known as atherosclerosis) decreases blood flow and, therefore, the oxygen supply to your heart, brain, and other parts of your body. Lowering your blood level of cholesterol and fats with atorvastatin has been shown to prevent heart disease, angina (chest pain), strokes, and heart attacks.`,
+    howToUse: `Atorvastatin comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take atorvastatin at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take atorvastatin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Your doctor may start you on a low dose of atorvastatin and gradually increase your dose, not more than once every 2 to 4 weeks.
+
+    Continue to take atorvastatin even if you feel well. Do not stop taking atorvastatin without talking to your doctor.`,
+  },
+  {
+    productId: 293,
+    name: "Rosulip",
+    categoryName: "CHOLESTEROL",
+    activeIngredient: "Rosuvastatin",
+    rating: 61,
+    star: 4,
+    price: "3.48",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Cipla",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 46.67, pricePerBottle: 4.67 },
+          { count: 20, price: 78.52, pricePerBottle: 3.93 },
+          { count: 30, price: 110.37, pricePerBottle: 3.68 },
+          { count: 40, price: 142.22, pricePerBottle: 3.56 },
+          { count: 50, price: 174.07, pricePerBottle: 3.48 },
+        ],
+      },
+    ],
+    prescription: `Rosuvastatin is used together with diet, weight-loss, and exercise to reduce the risk of heart attack and stroke and to decrease the chance that heart surgery will be needed in people who have heart disease or who are at risk of developing heart disease. Rosuvastatin is also used to decrease the amount of cholesterol such as low-density lipoprotein (LDL) cholesterol ('bad cholesterol') and triglycerides in the blood and to increase the amount of high-density lipoprotein (HDL) cholesterol ('good cholesterol') in the blood. Rosuvastatin may also be used to decrease the amount of cholesterol and other fatty substances in the blood in children and teenagers 10 to 17 years of age who have familial heterozygous hypercholesterolemia (an inherited condition in which cholesterol cannot be removed from the body normally). Rosuvastatin is in a class of medications called HMG-CoA reductase inhibitors (statins). It works by slowing the production of cholesterol in the body to decrease the amount of cholesterol that may build up on the walls of the arteries and block blood flow to the heart, brain, and other parts of the body.
+
+    Accumulation of cholesterol and fats along the walls of your arteries (a process known as atherosclerosis) decreases blood flow and, therefore, the oxygen supply to your heart, brain, and other parts of your body. Lowering your blood level of cholesterol and fats with rosuvastatin has been shown to prevent heart disease, angina (chest pain), strokes, and heart attacks.`,
+    howToUse: `Rosuvastatin comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take rosuvastatin at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take rosuvastatin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Your doctor will probably start you on a low dose of rosuvastatin and gradually increase your dose, not more than once every 2 to 4 weeks.
+    Continue to take rosuvastatin even if you feel well. Do not stop taking rosuvastatin without talking to your doctor.`,
   },
 ];
