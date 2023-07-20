@@ -176,6 +176,69 @@ import genericTricor from "../images/products/genericTricor.gif";
 import genericZetia from "../images/products/genericZetia.gif";
 import genericZocor from "../images/products/genericZocor.gif";
 import lipitor from "../images/products/lipitor.gif";
+import ApcalisSXOralJelly from "../images/products/ApcalisSXOralJelly.gif";
+import Assurans from "../images/products/Assurans.gif";
+import Aurogra from "../images/products/Aurogra.gif";
+import Avana from "../images/products/Avana.gif";
+import caverta from "../images/products/caverta.gif";
+import Cenforce from "../images/products/Cenforce.gif";
+import eliProfessional from "../images/products/eliProfessional.gif";
+import ExtraSuperAvana from "../images/products/ExtraSuperAvana.gif";
+import extraSuperPForce from "../images/products/extraSuperP-Force.gif";
+import fildena from "../images/products/fildena.gif";
+import FildenaSuperActive from "../images/products/FildenaSuperActive.gif";
+import filitraProfessional from "../images/products/filitraProfessional.gif";
+import Forzest from "../images/products/Forzest.jpg";
+import genericAlprostadil from "../images/products/genericAlprostadil.gif";
+import Generic_Cialis from "../images/products/Generic_Cialis.png";
+import genericCialisOralJelly from "../images/products/genericCialisOralJelly.gif";
+import genericCialisSoftTabs from "../images/products/genericCialisSoftTabs.gif";
+import genericCialisSuperActive from "../images/products/genericCialisSuperActive.gif";
+import genericCialiswithDapoxetine from "../images/products/genericCialiswithDapoxetine.gif";
+import genericLevitra from "../images/products/genericLevitra.gif";
+import genericLevitraProfessional from "../images/products/genericLevitraProfessional.gif";
+import genericLevitraSoft from "../images/products/genericLevitraSoft.gif";
+import genericPriligy from "../images/products/genericPriligy.gif";
+import vigra from "../images/products/vigra.gif";
+import genericViagraGold from "../images/products/genericViagraGold.gif";
+import genericViagraOralJelly from "../images/products/genericViagraOralJelly.gif";
+import genericViagraProfessional from "../images/products/genericViagraProfessional.gif";
+import genericViagraSoftFlavored from "../images/products/genericViagraSoftFlavored.gif";
+import genericViagraSoftTabs from "../images/products/genericViagraSoftTabs.gif";
+import GenericViagraSuperActive from "../images/products/GenericViagraSuperActive.gif";
+import GenericViagracapsules from "../images/products/GenericViagracapsules.gif";
+import GenericViagrawithDapoxetine from "../images/products/GenericViagrawithDapoxetine.gif";
+import intagra from "../images/products/intagra.gif";
+import KamagraChewableFlavoured from "../images/products/KamagraChewableFlavoured.gif";
+import KamagraEffervescent from "../images/products/KamagraEffervescent.gif";
+import KamagraPolo from "../images/products/KamagraPolo.gif";
+import MalegraDXT from "../images/products/MalegraDXT.gif";
+import MalegraDXTPlus from "../images/products/MalegraDXTPlus.gif";
+import MalegraFXT from "../images/products/MalegraFXT.gif";
+import Novosil from "../images/products/Novosil.gif";
+import pForce from "../images/products/P-Force.gif";
+import Penegra from "../images/products/Penegra.jpg";
+import silagra from "../images/products/silagra.gif";
+import Sildigra from "../images/products/Sildigra.gif";
+import suhagra from "../images/products/suhagra.gif";
+import SuperKamagra from "../images/products/SuperKamagra.gif";
+import Tadacip from "../images/products/Tadacip.gif";
+import FildenaProfessional from "../images/products/FildenaProfessional.gif";
+import Kamagra from "../images/products/Kamagra.gif";
+import TadagraStrong from "../images/products/TadagraStrong.gif";
+import TadalisSX from "../images/products/TadalisSX.gif";
+import tadalista from "../images/products/tadalista.gif";
+import tadalistaProfessional from "../images/products/tadalistaProfessional.gif";
+import tadalistaSuperActive from "../images/products/tadalistaSuperActive.gif";
+import tadapox from "../images/products/tadapox.jpg";
+import Tadarise from "../images/products/Tadarise.gif";
+import tadora from "../images/products/tadora.jpg";
+import valif from "../images/products/valif.gif";
+import Vigora from "../images/products/Vigora.gif";
+import vilitra from "../images/products/vilitra.gif";
+import vitria from "../images/products/vitria.jpg";
+import zenegra from "../images/products/zenegra.jpg";
+import zydena from "../images/products/zydena.gif";
 
 export const category = [
   "AIDS or HIV Treatment",
@@ -13554,5 +13617,5080 @@ Ask your pharmacist or doctor for a copy of the manufacturer's information for t
     howToUse: `Rosuvastatin comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take rosuvastatin at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take rosuvastatin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
     additionalDetials: `Your doctor will probably start you on a low dose of rosuvastatin and gradually increase your dose, not more than once every 2 to 4 weeks.
     Continue to take rosuvastatin even if you feel well. Do not stop taking rosuvastatin without talking to your doctor.`,
+  },
+  {
+    productId: 294,
+    name: "Apcalis SX Oral Jelly",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 135,
+    star: 4,
+    price: "3.19",
+    type: "sachet",
+    typeName: "sachet",
+    ManufacturedBy: "Ajanta Pharma Limited",
+    image: ApcalisSXOralJelly,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 43.7, pricePerBottle: 4.37 },
+          { count: 20, price: 72.59, pricePerBottle: 3.63 },
+          { count: 30, price: 101.48, pricePerBottle: 3.38 },
+          { count: 40, price: 130.37, pricePerBottle: 3.26 },
+          { count: 50, price: 159.26, pricePerBottle: 3.19 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.
+    
+    If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.`,
+    additionalDetials: `If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 295,
+    name: "Assurans",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 111,
+    star: 4,
+    price: "1.90",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Cipla",
+    image: Assurans,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 70.37, pricePerBottle: 2.35 },
+          { count: 40, price: 125.93, pricePerBottle: 2.1 },
+          { count: 120, price: 237.04, pricePerBottle: 1.98 },
+          { count: 240, price: 459.26, pricePerBottle: 1.91 },
+          { count: 300, price: 570.37, pricePerBottle: 1.9 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (vigra) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Sildenafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking Sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking Sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take Sildenafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Sildenafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take Sildenafil before sexual activity. Sildenafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking Sildenafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Sildenafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking Sildenafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take Sildenafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take Sildenafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with Sildenafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.
+    
+    If you are taking Sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of Sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if Sildenafil is not working well or if you are experiencing side effects.`,
+    additionalDetials: `If you are taking Sildenafil for PAH, you should know that Sildenafil controls PAH but does not cure it. Continue to take Sildenafil even if you feel well. Do not stop taking Sildenafil without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 296,
+    name: "Aurogra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 180,
+    star: 4,
+    price: "0.42",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Aurochem Labs",
+    image: Aurogra,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 40, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (vigra) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Sildenafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking Sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking Sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take Sildenafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Sildenafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take Sildenafil before sexual activity. Sildenafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking Sildenafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Sildenafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking Sildenafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take Sildenafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take Sildenafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with Sildenafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.
+    
+    If you are taking Sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of Sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if Sildenafil is not working well or if you are experiencing side effects.`,
+    additionalDetials: `If you are taking Sildenafil for PAH, you should know that Sildenafil controls PAH but does not cure it. Continue to take Sildenafil even if you feel well. Do not stop taking Sildenafil without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 297,
+    name: "Avana",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Avanafil",
+    rating: 103,
+    star: 5,
+    price: "25.37",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Sunrise Remedies",
+    image: Avana,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "4 tabs / pack 50",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 39.26, pricePerBottle: 39.26 },
+          { count: 2, price: 63.7, pricePerBottle: 31.85 },
+          { count: 4, price: 112.59, pricePerBottle: 28.15 },
+          { count: 8, price: 210.37, pricePerBottle: 26.3 },
+          { count: 16, price: 405.93, pricePerBottle: 25.37 },
+        ],
+      },
+      {
+        mg: "4 tabs / pack 200",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 75.93, pricePerBottle: 75.93 },
+          { count: 2, price: 137.04, pricePerBottle: 68.52 },
+          { count: 4, price: 259.26, pricePerBottle: 64.82 },
+          { count: 8, price: 503.7, pricePerBottle: 62.96 },
+        ],
+      },
+      {
+        mg: "4 tabs / pack 100",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 46.37, pricePerBottle: 46.37 },
+          { count: 2, price: 77.93, pricePerBottle: 38.97 },
+          { count: 4, price: 141.04, pricePerBottle: 35.26 },
+          { count: 8, price: 267.26, pricePerBottle: 33.41 },
+          { count: 16, price: 519.7, pricePerBottle: 32.48 },
+        ],
+      },
+    ],
+    prescription: `Avanafil is used to treat erectile dysfunction (ED: impotence; inability to get or keep an erection in men). Avanafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Avanafil does not cure erectile dysfunction or increase sexual desire. Avanafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Avanafil comes as a tablet to take by mouth. For men taking the 100- mg or 200-mg doses, avanafil is usually taken with or without food as needed, about 15 minutes before sexual activity. For men taking the 50-mg dose, avanafil is usually taken with or without food as needed, about 30 minutes before sexual activity. Do not take avanafil more often than once in 24 hours. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take avanafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Your doctor will probably start you on an average dose of avanafil and may increase or decrease your dose depending on how you respond to the medication. Tell your doctor if avanafil is not working well or if you experience side effects.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient`,
+  },
+  {
+    productId: 298,
+    name: "Avana Super",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Avanafil+Dapoxetine",
+    rating: 121,
+    star: 5,
+    price: "40.70",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Sunrise Remedies",
+    image: Avana,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "4 tabs / pack 100 / 60",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 54.59, pricePerBottle: 54.59 },
+          { count: 2, price: 94.37, pricePerBottle: 47.19 },
+          { count: 4, price: 173.93, pricePerBottle: 43.48 },
+          { count: 8, price: 333.04, pricePerBottle: 41.63 },
+          { count: 16, price: 651.26, pricePerBottle: 40.7 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 299,
+    name: "Caverta",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 116,
+    star: 5,
+    price: "3.40",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Ranbaxy",
+    image: caverta,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 81.48, pricePerBottle: 4.07 },
+          { count: 60, price: 214.81, pricePerBottle: 3.58 },
+          { count: 120, price: 414.81, pricePerBottle: 3.46 },
+          { count: 240, price: 814.81, pricePerBottle: 3.4 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 140.52, pricePerBottle: 7.03 },
+          { count: 60, price: 393.17, pricePerBottle: 6.55 },
+          { count: 120, price: 772.14, pricePerBottle: 6.43 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `How should this medicine be used?
+    Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+    
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 300,
+    name: "Cenforce",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 121,
+    star: 5,
+    price: "0.43",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Centurion Laboratories",
+    image: Cenforce,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.12, pricePerBottle: 1.14 },
+          { count: 60, price: 44.71, pricePerBottle: 0.75 },
+          { count: 120, price: 65.88, pricePerBottle: 0.55 },
+          { count: 240, price: 108.24, pricePerBottle: 0.45 },
+          { count: 300, price: 129.41, pricePerBottle: 0.43 },
+        ],
+      },
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 38.67, pricePerBottle: 1.29 },
+          { count: 60, price: 50.67, pricePerBottle: 0.84 },
+          { count: 120, price: 74.67, pricePerBottle: 0.62 },
+          { count: 240, price: 122.67, pricePerBottle: 0.51 },
+          { count: 300, price: 146.67, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.12, pricePerBottle: 1.14 },
+          { count: 60, price: 44.71, pricePerBottle: 0.75 },
+          { count: 120, price: 65.88, pricePerBottle: 0.55 },
+          { count: 240, price: 108.24, pricePerBottle: 0.45 },
+          { count: 300, price: 129.41, pricePerBottle: 0.43 },
+        ],
+      },
+      {
+        mg: "150",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 44.71, pricePerBottle: 1.49 },
+          { count: 60, price: 65.88, pricePerBottle: 1.1 },
+          { count: 120, price: 108.24, pricePerBottle: 0.9 },
+          { count: 240, price: 192.94, pricePerBottle: 0.8 },
+          { count: 300, price: 235.29, pricePerBottle: 0.78 },
+        ],
+      },
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 51.76, pricePerBottle: 1.73 },
+          { count: 60, price: 80, pricePerBottle: 1.33 },
+          { count: 120, price: 136.47, pricePerBottle: 1.14 },
+          { count: 240, price: 294.41, pricePerBottle: 1.04 },
+          { count: 300, price: 305.88, pricePerBottle: 1.02 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `How should this medicine be used?
+    Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+    
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 301,
+    name: "Cenforce Professional",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 185,
+    star: 4,
+    price: "0.70",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Centurion Laboratories",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 40, pricePerBottle: 1.33 },
+          { count: 60, price: 58.95, pricePerBottle: 0.98 },
+          { count: 120, price: 96.84, pricePerBottle: 0.81 },
+          { count: 240, price: 172.63, pricePerBottle: 0.72 },
+          { count: 300, price: 210.53, pricePerBottle: 0.7 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `How should this medicine be used?
+    Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+    
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 302,
+    name: "Eli",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 170,
+    star: 4,
+    price: "0.58",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Aurochem Labs",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.04, pricePerBottle: 1.1 },
+          { count: 60, price: 48.7, pricePerBottle: 0.81 },
+          { count: 120, price: 80, pricePerBottle: 0.67 },
+          { count: 240, price: 142.61, pricePerBottle: 0.59 },
+          { count: 300, price: 173.91, pricePerBottle: 0.58 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Tadalafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take Tadalafil, but in some cases, a doctor may decide that Tadalafil (Revatio) is the best medication to treat a child's condition. Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Tadalafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking Tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `How should this medicine be used?
+    Tadalafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+    
+    If you are taking Tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take Tadalafil as needed before sexual activity. The best time to take Tadalafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Tadalafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Tadalafil less often. You can take Tadalafil with or without food. However, if you take Tadalafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking Tadalafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take Tadalafil three times a day with or without food. Take Tadalafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking Tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of Tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if Tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking Tadalafil for PAH, you should know that Tadalafil controls PAH but does not cure it. Continue to take Tadalafil even if you feel well. Do not stop taking Tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 303,
+    name: "Eli Professional",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 79,
+    star: 4,
+    price: "0.58",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Aurochem Labs",
+    image: eliProfessional,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.04, pricePerBottle: 1.1 },
+          { count: 60, price: 48.7, pricePerBottle: 0.81 },
+          { count: 120, price: 80, pricePerBottle: 0.67 },
+          { count: 240, price: 142.61, pricePerBottle: 0.59 },
+          { count: 300, price: 173.91, pricePerBottle: 0.58 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Tadalafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take Tadalafil, but in some cases, a doctor may decide that Tadalafil (Revatio) is the best medication to treat a child's condition. Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Tadalafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking Tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `How should this medicine be used?
+    Tadalafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+    
+    If you are taking Tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take Tadalafil as needed before sexual activity. The best time to take Tadalafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Tadalafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Tadalafil less often. You can take Tadalafil with or without food. However, if you take Tadalafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking Tadalafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take Tadalafil three times a day with or without food. Take Tadalafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking Tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of Tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if Tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking Tadalafil for PAH, you should know that Tadalafil controls PAH but does not cure it. Continue to take Tadalafil even if you feel well. Do not stop taking Tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 304,
+    name: "Eunice",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 70,
+    star: 4,
+    price: "3.19",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Sandoz",
+    image: eliProfessional,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "4 tabs / pack 100",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 43.7, pricePerBottle: 4.37 },
+          { count: 20, price: 72.59, pricePerBottle: 3.63 },
+          { count: 30, price: 101.48, pricePerBottle: 3.38 },
+          { count: 40, price: 130.37, pricePerBottle: 3.26 },
+          { count: 50, price: 159.26, pricePerBottle: 3.19 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take Sildenafil, but in some cases, a doctor may decide that Sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking Sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `How should this medicine be used?
+    Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+    
+    If you are taking Sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take Sildenafil as needed before sexual activity. The best time to take Sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Sildenafil less often. You can take Sildenafil with or without food. However, if you take Sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking Sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take Sildenafil three times a day with or without food. Take Sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking Sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of Sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if Sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking Sildenafil for PAH, you should know that Sildenafil controls PAH but does not cure it. Continue to take Sildenafil even if you feel well. Do not stop taking Sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 305,
+    name: "Extra Super Avana",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Avanafil+Dapoxetine",
+    rating: 93,
+    star: 4,
+    price: "83.04",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Sandoz",
+    image: ExtraSuperAvana,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "4 tabs / pack 200/60",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 96, pricePerBottle: 96 },
+          { count: 2, price: 177.19, pricePerBottle: 88.6 },
+          { count: 4, price: 339.56, pricePerBottle: 84.89 },
+          { count: 8, price: 664.3, pricePerBottle: 83.04 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 306,
+    name: "Extra Super P-Force",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate + Dapoxetine",
+    rating: 56,
+    star: 4,
+    price: "14.81",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Sandoz",
+    image: extraSuperPForce,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "4 tabs / pack 100 / 100",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 32.67, pricePerBottle: 32.67 },
+          { count: 2, price: 46.29, pricePerBottle: 23.15 },
+          { count: 4, price: 73.52, pricePerBottle: 18.38 },
+          { count: 8, price: 128, pricePerBottle: 16 },
+          { count: 16, price: 236.95, pricePerBottle: 14.81 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 306,
+    name: "Extra Super Tadarise",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil + Dapoxetine",
+    rating: 141,
+    star: 4,
+    price: "2.12",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Sunrise Remedies",
+    image: extraSuperPForce,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "40 / 60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 77.04, pricePerBottle: 2.57 },
+          { count: 60, price: 139.26, pricePerBottle: 2.32 },
+          { count: 120, price: 263.7, pricePerBottle: 2.2 },
+          { count: 240, price: 512.59, pricePerBottle: 2.14 },
+          { count: 300, price: 637.04, pricePerBottle: 2.12 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 306,
+    name: "Extra Super P-Force",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate + Dapoxetine",
+    rating: 56,
+    star: 4,
+    price: "14.81",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Sandoz",
+    image: extraSuperPForce,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "4 tabs / pack 100 / 100",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 32.67, pricePerBottle: 32.67 },
+          { count: 2, price: 46.29, pricePerBottle: 23.15 },
+          { count: 4, price: 73.52, pricePerBottle: 18.38 },
+          { count: 8, price: 128, pricePerBottle: 16 },
+          { count: 16, price: 236.95, pricePerBottle: 14.81 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 307,
+    name: "Filagra Oral Jelly Flavored",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 83,
+    star: 4,
+    price: "1.83",
+    type: "sachet",
+    typeName: "sachet",
+    ManufacturedBy: "Centurion Laboratories",
+    image: ApcalisSXOralJelly,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 32.17, pricePerBottle: 3.22 },
+          { count: 20, price: 46.96, pricePerBottle: 2.35 },
+          { count: 30, price: 61.74, pricePerBottle: 2.06 },
+          { count: 40, price: 76.52, pricePerBottle: 1.91 },
+          { count: 50, price: 91.3, pricePerBottle: 1.83 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 308,
+    name: "Fildena",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 180,
+    star: 4,
+    price: "0.49",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Fortune Health Care",
+    image: fildena,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.04, pricePerBottle: 1.1 },
+          { count: 60, price: 48.7, pricePerBottle: 0.81 },
+          { count: 120, price: 80, pricePerBottle: 0.67 },
+          { count: 240, price: 142.61, pricePerBottle: 0.59 },
+          { count: 300, price: 173.91, pricePerBottle: 0.58 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 30.43, pricePerBottle: 1.01 },
+          { count: 60, price: 43.48, pricePerBottle: 0.72 },
+          { count: 120, price: 69.57, pricePerBottle: 0.58 },
+          { count: 240, price: 121.74, pricePerBottle: 0.51 },
+          { count: 300, price: 147.83, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 309,
+    name: "Fildena Professional",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 129,
+    star: 4,
+    price: "0.58",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Fortune Health Care",
+    image: FildenaProfessional,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.04, pricePerBottle: 1.1 },
+          { count: 60, price: 48.7, pricePerBottle: 0.81 },
+          { count: 120, price: 80, pricePerBottle: 0.67 },
+          { count: 240, price: 142.61, pricePerBottle: 0.59 },
+          { count: 300, price: 173.91, pricePerBottle: 0.58 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 310,
+    name: "Fildena Super Active",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 73,
+    star: 4,
+    price: "0.58",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Fortune Health Care",
+    image: FildenaSuperActive,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.04, pricePerBottle: 1.1 },
+          { count: 60, price: 48.7, pricePerBottle: 0.81 },
+          { count: 120, price: 80, pricePerBottle: 0.67 },
+          { count: 240, price: 142.61, pricePerBottle: 0.59 },
+          { count: 300, price: 173.91, pricePerBottle: 0.58 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 311,
+    name: "Filitra Professional",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Vardenafil",
+    rating: 157,
+    star: 4,
+    price: "1.16",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Fortune Health Care",
+    image: filitraProfessional,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 48.15, pricePerBottle: 1.61 },
+          { count: 60, price: 81.48, pricePerBottle: 1.36 },
+          { count: 120, price: 148.15, pricePerBottle: 1.23 },
+          { count: 240, price: 281.48, pricePerBottle: 1.17 },
+          { count: 300, price: 348.15, pricePerBottle: 1.16 },
+        ],
+      },
+    ],
+    prescription: `Vardenafil is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Vardenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Vardenafil does not cure erectile dysfunction or increase sexual desire. Vardenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Vardenafil comes as a tablet and a rapidly disintegrating (dissolves in the mouth and is swallowed without water) tablet to take by mouth. It is usually taken as needed, with or without food, 60 minutes before sexual activity. Vardenafil usually should not be taken more often than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take vardenafil less often. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take vardenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are taking the rapidly disintegrating tablet, check the blister pack before you take your first dose. Do not use any of the medication from the pack if any of the blisters are torn, broken, or do not contain tablets. Follow the package directions to remove the tablet from the blister package. Do not try to push the tablet through the foil. After you remove the tablet from the blister package, immediately place it on your tongue and close your mouth. The tablet will quickly dissolve. Do not take the rapidly disintegrating tablet with water or other liquids.`,
+    additionalDetials: `Your doctor will probably start you on an average dose of vardenafil tablets and increase or decrease your dose depending on your response to the medication. If you are taking the rapidly disintegrating tablets, your doctor will not be able to adjust your dose because the rapidly disintegrating tablets are only available in one strength. If you need a higher or lower dose, your doctor may prescribe the regular tablets instead. Tell your doctor if vardenafil is not working well or if you are experiencing side effects.
+
+    Vardenafil rapidly disintegrating tablets cannot be substituted for vardenafil tablets. Be sure that you receive only the type of vardenafil that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of vardenafil you were given.`,
+  },
+  {
+    productId: 312,
+    name: "Forzest",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 66,
+    star: 4,
+    price: "3.10",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Ranbaxy",
+    image: Forzest,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 75.56, pricePerBottle: 3.78 },
+          { count: 60, price: 197.04, pricePerBottle: 3.28 },
+          { count: 120, price: 379.26, pricePerBottle: 3.16 },
+          { count: 240, price: 743.7, pricePerBottle: 3.1 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet and a rapidly disintegrating (dissolves in the mouth and is swallowed without water) tablet to take by mouth. It is usually taken as needed, with or without food, 60 minutes before sexual activity. Tadalafil usually should not be taken more often than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Tadalafil less often. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are taking the rapidly disintegrating tablet, check the blister pack before you take your first dose. Do not use any of the medication from the pack if any of the blisters are torn, broken, or do not contain tablets. Follow the package directions to remove the tablet from the blister package. Do not try to push the tablet through the foil. After you remove the tablet from the blister package, immediately place it on your tongue and close your mouth. The tablet will quickly dissolve. Do not take the rapidly disintegrating tablet with water or other liquids.`,
+    additionalDetials: `Your doctor will probably start you on an average dose of Tadalafil tablets and increase or decrease your dose depending on your response to the medication. If you are taking the rapidly disintegrating tablets, your doctor will not be able to adjust your dose because the rapidly disintegrating tablets are only available in one strength. If you need a higher or lower dose, your doctor may prescribe the regular tablets instead. Tell your doctor if Tadalafil is not working well or if you are experiencing side effects.
+
+    Tadalafil rapidly disintegrating tablets cannot be substituted for Tadalafil tablets. Be sure that you receive only the type of Tadalafil that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of Tadalafil you were given.`,
+  },
+  {
+    productId: 313,
+    name: "Generic Alprostadil",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Alprostadil",
+    rating: 183,
+    star: 4,
+    price: "532.77",
+    type: "vial",
+    typeName: "vial",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericAlprostadil,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "500 mcg /",
+        unit: "ml",
+        bottle: [{ count: 1, price: 532.77, pricePerBottle: 532.77 }],
+      },
+    ],
+    prescription: `Alprostadil injection and suppositories are used to treat certain types of erectile dysfunction (impotence; inability to get or keep an erection) in men. Alprostadil injection is also sometimes used in combination with other tests to diagnose erectile dysfunction. Alprostadil is in a class of medications called vasodilators. It works by relaxing the muscles and blood vessels in the penis to keep enough blood in the penis so that an erection can occur.
+
+Alprostadil does not cure erectile dysfunction or increase sexual desire. Alprostadil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Alprostadil comes as a powder to be mixed with the liquid provided in the package and injected into the penis and as a urethral suppository (pellet to be placed into the urinary opening of the penis). Alprostadil is used as needed before sexual activity. An erection may occur within 5 to 20 minutes after using the injection and within 5 to 10 minutes after using the pellet. The erection should last approximately 30 to 60 minutes. Alprostadil injection should not be used more than three times per week, with at least 24 hours between uses. Alprostadil pellets should not be used more than twice in a 24-hour period. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use alprostadil exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Your doctor will administer the first dose of alprostadil in his or her office to determine the proper dose for you. After you begin to use alprostadil at home, your doctor may gradually increase or decrease your dose. Tell your doctor if you do not experience satisfactory erections or if your erections last for too long, but do not change your dose without talking to your doctor.
+    
+    You must be trained by your doctor before using alprostadil at home. Be sure that you understand exactly how to use alprostadil. Ask your doctor or pharmacist if you have any questions about how to use your medication.`,
+    additionalDetials: `Do not reuse needles, syringes, cartridges, vials , pellets, or applicators. Dispose of used needles and syringes in a puncture-resistant container. Ask your doctor or pharmacist how to dispose of the container.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 314,
+    name: "Cialis",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 100,
+    star: 4,
+    price: "0.41",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: Generic_Cialis,
+    currency: "€",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "2.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 36.16, pricePerBottle: 1.21 },
+          { count: 60, price: 43.78, pricePerBottle: 0.73 },
+          { count: 90, price: 53.78, pricePerBottle: 0.6 },
+          { count: 120, price: 59.77, pricePerBottle: 0.5 },
+          { count: 180, price: 94.11, pricePerBottle: 0.52 },
+          { count: 270, price: 194.4, pricePerBottle: 0.72 },
+          { count: 360, price: 253.13, pricePerBottle: 0.7 },
+        ],
+      },
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 44.52, pricePerBottle: 1.48 },
+          { count: 60, price: 70.01, pricePerBottle: 1.17 },
+          { count: 90, price: 89.35, pricePerBottle: 0.99 },
+          { count: 120, price: 111.65, pricePerBottle: 0.93 },
+          { count: 180, price: 156.68, pricePerBottle: 0.87 },
+          { count: 270, price: 223.38, pricePerBottle: 0.83 },
+          { count: 360, price: 289.1, pricePerBottle: 0.8 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 42.75, pricePerBottle: 1.65 },
+          { count: 60, price: 53.17, pricePerBottle: 1.31 },
+          { count: 90, price: 88.42, pricePerBottle: 1.2 },
+          { count: 120, price: 122.19, pricePerBottle: 1.15 },
+          { count: 180, price: 157.31, pricePerBottle: 1.09 },
+          { count: 270, price: 225.86, pricePerBottle: 1.05 },
+          { count: 360, price: 371.73, pricePerBottle: 1.03 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 42.75, pricePerBottle: 2.14 },
+          { count: 30, price: 53.17, pricePerBottle: 1.71 },
+          { count: 60, price: 88.42, pricePerBottle: 1.47 },
+          { count: 90, price: 122.19, pricePerBottle: 1.36 },
+          { count: 120, price: 157.31, pricePerBottle: 1.31 },
+          { count: 180, price: 225.86, pricePerBottle: 1.25 },
+          { count: 270, price: 330.52, pricePerBottle: 1.22 },
+          { count: 360, price: 336.97, pricePerBottle: 1.2 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 61.27, pricePerBottle: 3.06 },
+          { count: 30, price: 88.77, pricePerBottle: 2.96 },
+          { count: 60, price: 173.95, pricePerBottle: 2.9 },
+          { count: 90, price: 259.67, pricePerBottle: 2.89 },
+          { count: 120, price: 302.37, pricePerBottle: 2.52 },
+          { count: 180, price: 399.93, pricePerBottle: 2.22 },
+          { count: 270, price: 519.62, pricePerBottle: 1.92 },
+          { count: 360, price: 632.58, pricePerBottle: 1.76 },
+        ],
+      },
+      {
+        mg: "60",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 59.4, pricePerBottle: 2.97 },
+          { count: 30, price: 68.3, pricePerBottle: 2.28 },
+          { count: 60, price: 111.63, pricePerBottle: 1.86 },
+          { count: 90, price: 184.9, pricePerBottle: 2.05 },
+          { count: 120, price: 223.24, pricePerBottle: 1.86 },
+          { count: 180, price: 302.02, pricePerBottle: 1.68 },
+          { count: 270, price: 366.48, pricePerBottle: 1.36 },
+          { count: 360, price: 461.91, pricePerBottle: 1.28 },
+        ],
+      },
+      {
+        mg: "80",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 51.78, pricePerBottle: 5.18 },
+          { count: 30, price: 89.15, pricePerBottle: 4.46 },
+          { count: 60, price: 117.06, pricePerBottle: 3.9 },
+          { count: 90, price: 198.19, pricePerBottle: 3.3 },
+          { count: 120, price: 274.7, pricePerBottle: 3.05 },
+          { count: 180, price: 354.27, pricePerBottle: 2.95 },
+          { count: 270, price: 514.26, pricePerBottle: 2.86 },
+          { count: 360, price: 752.89, pricePerBottle: 2.79 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil is indicated for erectile dysfunction by blocking certain enzymes in the body. Combined with sexual stimulation, this drug helps blood flow to the penis thereby sustaining penile erection. This drug does not protect against unwanted pregnancy and sexually transmitted diseases.`,
+    howToUse: `Take tadalafil as prescribed by the doctor just before sexual activity. Do not take in large doses and follow the instructions on the label or prescription. This medication can be taken with a full glass of water and with or without food. Contact physician if erection is painful and last for 4 hours, prolonged erection can damage the penis. For more detailed information please see label and please consult specialist. Do not take more Tadalafil than it is indicated at the label without consulting your doctor.`,
+    additionalDetials: `Inform the doctor or pharmacist if the patient is allergic to tadalafil or has any other allergies before taking this medication. Taladafil may cause dizziness or changes in vision therefore limit activities that require mental alertness. Alcoholic beverages are avoided when taking this drug to minimize dizziness and lightheadedness. This drug is not indicated for use in women or children.`,
+  },
+  {
+    productId: 315,
+    name: "Generic Cialis Oral Jelly",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 119,
+    star: 4,
+    price: "3.18",
+    type: "tube",
+    typeName: "tube",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericCialisOralJelly,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20 mg 5",
+        unit: "g",
+        bottle: [
+          { count: 1, price: 37.69, pricePerBottle: 37.69 },
+          { count: 2, price: 44.62, pricePerBottle: 22.31 },
+          { count: 4, price: 58.46, pricePerBottle: 14.62 },
+          { count: 8, price: 86.15, pricePerBottle: 10.77 },
+          { count: 16, price: 141.54, pricePerBottle: 8.85 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "g",
+        bottle: [
+          { count: 10, price: 50.59, pricePerBottle: 5.06 },
+          { count: 20, price: 77.65, pricePerBottle: 3.88 },
+          { count: 30, price: 104.71, pricePerBottle: 3.49 },
+          { count: 40, price: 131.76, pricePerBottle: 3.29 },
+          { count: 50, price: 158.82, pricePerBottle: 3.18 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 316,
+    name: "Generic Cialis Professional",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 187,
+    star: 4,
+    price: "1.21",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: Generic_Cialis,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 69.09, pricePerBottle: 2.3 },
+          { count: 60, price: 101.82, pricePerBottle: 1.7 },
+          { count: 120, price: 167.27, pricePerBottle: 1.39 },
+          { count: 240, price: 298.18, pricePerBottle: 1.24 },
+          { count: 300, price: 363.64, pricePerBottle: 1.21 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 317,
+    name: "Generic Cialis Soft Tabs",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 188,
+    star: 4,
+    price: "0.89",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericCialisSoftTabs,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 50.67, pricePerBottle: 1.69 },
+          { count: 60, price: 74.67, pricePerBottle: 1.24 },
+          { count: 120, price: 122.67, pricePerBottle: 1.02 },
+          { count: 240, price: 218.67, pricePerBottle: 0.91 },
+          { count: 300, price: 266.67, pricePerBottle: 0.89 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 54.67, pricePerBottle: 1.82 },
+          { count: 60, price: 82.67, pricePerBottle: 1.38 },
+          { count: 120, price: 138.67, pricePerBottle: 1.16 },
+          { count: 240, price: 250.67, pricePerBottle: 1.04 },
+          { count: 300, price: 306.67, pricePerBottle: 1.02 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 318,
+    name: "Generic Cialis Sublingual",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 47,
+    star: 4,
+    price: "1.21",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 69.09, pricePerBottle: 2.3 },
+          { count: 60, price: 101.82, pricePerBottle: 1.7 },
+          { count: 120, price: 167.27, pricePerBottle: 1.39 },
+          { count: 240, price: 298.18, pricePerBottle: 1.24 },
+          { count: 300, price: 363.64, pricePerBottle: 1.21 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 319,
+    name: "Generic Cialis Super Active",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 83,
+    star: 4,
+    price: "1.21",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericCialisSuperActive,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 69.09, pricePerBottle: 2.3 },
+          { count: 60, price: 101.82, pricePerBottle: 1.7 },
+          { count: 120, price: 167.27, pricePerBottle: 1.39 },
+          { count: 240, price: 298.18, pricePerBottle: 1.24 },
+          { count: 300, price: 363.64, pricePerBottle: 1.21 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 320,
+    name: "Generic Cialis with Dapoxetine",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil + Dapoxetine",
+    rating: 92,
+    star: 4,
+    price: "3.18",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericCialiswithDapoxetine,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20 mg / 60",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 118.67, pricePerBottle: 3.96 },
+          { count: 120, price: 210.27, pricePerBottle: 3.51 },
+          { count: 240, price: 394.67, pricePerBottle: 3.29 },
+          { count: 300, price: 762.67, pricePerBottle: 3.18 },
+        ],
+      },
+      {
+        mg: "40 mg / 60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 142.67, pricePerBottle: 4.76 },
+          { count: 60, price: 258.67, pricePerBottle: 4.31 },
+          { count: 120, price: 490.67, pricePerBottle: 4.09 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 321,
+    name: "Generic Levitra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Vardenafil",
+    rating: 65,
+    star: 5,
+    price: "1.31",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericLevitra,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 52.59, pricePerBottle: 1.75 },
+          { count: 60, price: 90.37, pricePerBottle: 1.51 },
+          { count: 120, price: 165.93, pricePerBottle: 1.38 },
+          { count: 240, price: 317.04, pricePerBottle: 1.32 },
+          { count: 300, price: 392.59, pricePerBottle: 1.31 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 63.7, pricePerBottle: 2.12 },
+          { count: 60, price: 112.59, pricePerBottle: 1.88 },
+          { count: 120, price: 210.37, pricePerBottle: 1.75 },
+          { count: 240, price: 405.93, pricePerBottle: 1.69 },
+          { count: 300, price: 503.7, pricePerBottle: 1.68 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 85.93, pricePerBottle: 2.86 },
+          { count: 60, price: 157.04, pricePerBottle: 2.62 },
+          { count: 120, price: 299.26, pricePerBottle: 2.49 },
+          { count: 240, price: 583.7, pricePerBottle: 2.43 },
+          { count: 300, price: 725.93, pricePerBottle: 2.42 },
+        ],
+      },
+      {
+        mg: "60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 110.37, pricePerBottle: 3.68 },
+          { count: 60, price: 205.93, pricePerBottle: 3.43 },
+          { count: 120, price: 397.04, pricePerBottle: 3.31 },
+          { count: 240, price: 377.26, pricePerBottle: 3.25 },
+        ],
+      },
+    ],
+    prescription: `Vardenafil is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Vardenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Vardenafil does not cure erectile dysfunction or increase sexual desire. Vardenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Vardenafil comes as a tablet and a rapidly disintegrating (dissolves in the mouth and is swallowed without water) tablet to take by mouth. It is usually taken as needed, with or without food, 60 minutes before sexual activity. Vardenafil usually should not be taken more often than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take vardenafil less often. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take vardenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are taking the rapidly disintegrating tablet, check the blister pack before you take your first dose. Do not use any of the medication from the pack if any of the blisters are torn, broken, or do not contain tablets. Follow the package directions to remove the tablet from the blister package. Do not try to push the tablet through the foil. After you remove the tablet from the blister package, immediately place it on your tongue and close your mouth. The tablet will quickly dissolve. Do not take the rapidly disintegrating tablet with water or other liquids.
+    
+    Your doctor will probably start you on an average dose of vardenafil tablets and increase or decrease your dose depending on your response to the medication. If you are taking the rapidly disintegrating tablets, your doctor will not be able to adjust your dose because the rapidly disintegrating tablets are only available in one strength. If you need a higher or lower dose, your doctor may prescribe the regular tablets instead. Tell your doctor if vardenafil is not working well or if you are experiencing side effects.`,
+    additionalDetials: `Vardenafil rapidly disintegrating tablets cannot be substituted for vardenafil tablets. Be sure that you receive only the type of vardenafil that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of vardenafil you were given.`,
+  },
+  {
+    productId: 322,
+    name: "Generic Levitra Professional",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Vardenafil",
+    rating: 117,
+    star: 4,
+    price: "2.41",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericLevitraProfessional,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 100, pricePerBottle: 3.33 },
+          { count: 60, price: 169.23, pricePerBottle: 2.82 },
+          { count: 120, price: 307.69, pricePerBottle: 2.56 },
+          { count: 240, price: 584.62, pricePerBottle: 2.44 },
+          { count: 300, price: 723.08, pricePerBottle: 2.41 },
+        ],
+      },
+    ],
+    prescription: `Vardenafil is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Vardenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Vardenafil does not cure erectile dysfunction or increase sexual desire. Vardenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Vardenafil comes as a tablet and a rapidly disintegrating (dissolves in the mouth and is swallowed without water) tablet to take by mouth. It is usually taken as needed, with or without food, 60 minutes before sexual activity. Vardenafil usually should not be taken more often than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take vardenafil less often. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take vardenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are taking the rapidly disintegrating tablet, check the blister pack before you take your first dose. Do not use any of the medication from the pack if any of the blisters are torn, broken, or do not contain tablets. Follow the package directions to remove the tablet from the blister package. Do not try to push the tablet through the foil. After you remove the tablet from the blister package, immediately place it on your tongue and close your mouth. The tablet will quickly dissolve. Do not take the rapidly disintegrating tablet with water or other liquids.
+    
+    Your doctor will probably start you on an average dose of vardenafil tablets and increase or decrease your dose depending on your response to the medication. If you are taking the rapidly disintegrating tablets, your doctor will not be able to adjust your dose because the rapidly disintegrating tablets are only available in one strength. If you need a higher or lower dose, your doctor may prescribe the regular tablets instead. Tell your doctor if vardenafil is not working well or if you are experiencing side effects.`,
+    additionalDetials: `Vardenafil rapidly disintegrating tablets cannot be substituted for vardenafil tablets. Be sure that you receive only the type of vardenafil that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of vardenafil you were given.`,
+  },
+  {
+    productId: 323,
+    name: "Generic Levitra Soft",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Vardenafil",
+    rating: 121,
+    star: 5,
+    price: "1.46",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericLevitraSoft,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 57.04, pricePerBottle: 1.9 },
+          { count: 60, price: 99.26, pricePerBottle: 1.65 },
+          { count: 120, price: 183.7, pricePerBottle: 1.53 },
+          { count: 240, price: 352.59, pricePerBottle: 1.47 },
+          { count: 300, price: 437.04, pricePerBottle: 1.46 },
+        ],
+      },
+    ],
+    prescription: `Vardenafil is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Vardenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Vardenafil does not cure erectile dysfunction or increase sexual desire. Vardenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Vardenafil comes as a tablet and a rapidly disintegrating (dissolves in the mouth and is swallowed without water) tablet to take by mouth. It is usually taken as needed, with or without food, 60 minutes before sexual activity. Vardenafil usually should not be taken more often than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take vardenafil less often. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take vardenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are taking the rapidly disintegrating tablet, check the blister pack before you take your first dose. Do not use any of the medication from the pack if any of the blisters are torn, broken, or do not contain tablets. Follow the package directions to remove the tablet from the blister package. Do not try to push the tablet through the foil. After you remove the tablet from the blister package, immediately place it on your tongue and close your mouth. The tablet will quickly dissolve. Do not take the rapidly disintegrating tablet with water or other liquids.
+    
+    Your doctor will probably start you on an average dose of vardenafil tablets and increase or decrease your dose depending on your response to the medication. If you are taking the rapidly disintegrating tablets, your doctor will not be able to adjust your dose because the rapidly disintegrating tablets are only available in one strength. If you need a higher or lower dose, your doctor may prescribe the regular tablets instead. Tell your doctor if vardenafil is not working well or if you are experiencing side effects.`,
+    additionalDetials: `Vardenafil rapidly disintegrating tablets cannot be substituted for vardenafil tablets. Be sure that you receive only the type of vardenafil that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of vardenafil you were given.`,
+  },
+  {
+    productId: 324,
+    name: "Generic Levitra with Dapoxetine",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Vardenafil + Dapoxetine",
+    rating: 179,
+    star: 4,
+    price: "2.75",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericLevitra,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20 mg / 60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 94.19, pricePerBottle: 3.15 },
+          { count: 60, price: 175.48, pricePerBottle: 2.92 },
+          { count: 120, price: 338.06, pricePerBottle: 2.82 },
+          { count: 240, price: 663.23, pricePerBottle: 2.76 },
+          { count: 300, price: 824.81, pricePerBottle: 2.75 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 325,
+    name: "Generic Priligy",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Dapoxetine",
+    rating: 63,
+    star: 4,
+    price: "1.22",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericPriligy,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "30",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 48.97, pricePerBottle: 1.63 },
+          { count: 60, price: 84.14, pricePerBottle: 1.49 },
+          { count: 120, price: 154.48, pricePerBottle: 1.29 },
+          { count: 240, price: 295.17, pricePerBottle: 1.23 },
+          { count: 300, price: 365.52, pricePerBottle: 1.22 },
+        ],
+      },
+      {
+        mg: "60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 57.24, pricePerBottle: 1.91 },
+          { count: 60, price: 100.69, pricePerBottle: 1.68 },
+          { count: 120, price: 187.59, pricePerBottle: 1.56 },
+          { count: 240, price: 361.38, pricePerBottle: 1.51 },
+          { count: 300, price: 448.28, pricePerBottle: 1.49 },
+        ],
+      },
+      {
+        mg: "90",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 90.34, pricePerBottle: 3.01 },
+          { count: 60, price: 166.9, pricePerBottle: 2.78 },
+          { count: 120, price: 320, pricePerBottle: 2.67 },
+          { count: 240, price: 629.21, pricePerBottle: 2.61 },
+          { count: 300, price: 779.31, pricePerBottle: 2.6 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 326,
+    name: "Viagra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 71,
+    star: 4,
+    price: "0.56",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: vigra,
+    currency: "€",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 36.74, pricePerBottle: 1.22 },
+          { count: 60, price: 40.28, pricePerBottle: 0.67 },
+          { count: 90, price: 46.27, pricePerBottle: 0.51 },
+          { count: 120, price: 49.36, pricePerBottle: 0.41 },
+          { count: 180, price: 58.76, pricePerBottle: 0.33 },
+          { count: 270, price: 74.26, pricePerBottle: 0.28 },
+          { count: 360, price: 88.9, pricePerBottle: 0.25 },
+        ],
+      },
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.94, pricePerBottle: 1.4 },
+          { count: 60, price: 58.36, pricePerBottle: 0.97 },
+          { count: 90, price: 76.05, pricePerBottle: 0.85 },
+          { count: 120, price: 92.93, pricePerBottle: 0.77 },
+          { count: 180, price: 126.6, pricePerBottle: 0.7 },
+          { count: 270, price: 178.37, pricePerBottle: 0.66 },
+          { count: 360, price: 230.96, pricePerBottle: 0.64 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 48.67, pricePerBottle: 1.62 },
+          { count: 60, price: 86.62, pricePerBottle: 1.44 },
+          { count: 90, price: 100.6, pricePerBottle: 1.12 },
+          { count: 120, price: 125.87, pricePerBottle: 1.05 },
+          { count: 180, price: 178.5, pricePerBottle: 0.99 },
+          { count: 270, price: 255.81, pricePerBottle: 0.95 },
+          { count: 360, price: 330.12, pricePerBottle: 0.92 },
+        ],
+      },
+      {
+        mg: "120",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 43.12, pricePerBottle: 2.16 },
+          { count: 30, price: 54.19, pricePerBottle: 1.81 },
+          { count: 60, price: 99.23, pricePerBottle: 1.65 },
+          { count: 90, price: 135.15, pricePerBottle: 1.5 },
+          { count: 120, price: 160.92, pricePerBottle: 1.34 },
+          { count: 180, price: 360.84, pricePerBottle: 1.22 },
+          { count: 270, price: 234.85, pricePerBottle: 1.34 },
+          { count: 360, price: 234.85, pricePerBottle: 1.18 },
+        ],
+      },
+      {
+        mg: "130",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 51.55, pricePerBottle: 2.58 },
+          { count: 30, price: 65.21, pricePerBottle: 2.17 },
+          { count: 60, price: 119.08, pricePerBottle: 1.98 },
+          { count: 90, price: 159.99, pricePerBottle: 1.78 },
+          { count: 120, price: 192.52, pricePerBottle: 1.6 },
+          { count: 180, price: 257.04, pricePerBottle: 1.43 },
+        ],
+      },
+      {
+        mg: "150",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 50.3, pricePerBottle: 2.52 },
+          { count: 30, price: 64.54, pricePerBottle: 2.15 },
+          { count: 60, price: 119.04, pricePerBottle: 1.98 },
+          { count: 90, price: 160.71, pricePerBottle: 1.79 },
+          { count: 120, price: 192.04, pricePerBottle: 1.6 },
+          { count: 180, price: 262.25, pricePerBottle: 1.46 },
+          { count: 270, price: 464.76, pricePerBottle: 1.72 },
+          { count: 360, price: 534.99, pricePerBottle: 1.49 },
+        ],
+      },
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 55.03, pricePerBottle: 2.75 },
+          { count: 30, price: 82.97, pricePerBottle: 2.77 },
+          { count: 60, price: 137.38, pricePerBottle: 2.29 },
+          { count: 90, price: 185.09, pricePerBottle: 2.06 },
+          { count: 120, price: 221.82, pricePerBottle: 1.85 },
+          { count: 180, price: 299.51, pricePerBottle: 1.66 },
+          { count: 270, price: 431.73, pricePerBottle: 1.6 },
+          { count: 360, price: 486.02, pricePerBottle: 1.35 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil is used to treat impotence in men and can improve the ability to exercise in people with pulmonary arterial hypertension. It is also used to enhance the vasodilatory effect of nitric oxide of the penis thus sustaining an erection. Studies show that this drug cannot cure erectile dysfunction, prevent pregnancy or the spread of sexually transmitted diseases.`,
+    howToUse: `If Sildenafil is for erectile dysfunction it is taken as needed before any sexual activity as prescribed by the doctor. The best time to take this drug is an hour before sexual contact and should be taken only once a day. Sildenafil is taken with or without food. Medication will take longer to effect if medication taken together with a high fat meal. If Sildenafil is used to treat pulmonary arterial hypertension, doctor′s prescription should be followed. It is usually taken three times a day with or without food. Take this drug at around the same time every day, and space the doses about 4 to 6 hours apart. For more detailed information please see label and please consult specialist. Do not take more Sildenafil than it is indicated at the label without consulting your doctor.`,
+    additionalDetials: `Precaution
+    Common side effects of Sildenafil are facial flushing, headache, stomach ache, nausea, and diarrhea. More severe effects include sudden hearing loss and dizziness. In rare cases patients suffer painful and prolonged erection that last for 4 hours, immediately stop using the drug and seek medical attention before permanent problems arise.
+    
+    Side Effects
+    Common side effects of Sildenafil are facial flushing, headache, stomach ache, nausea, and diarrhea. More severe effects include sudden hearing loss and dizziness. In rare cases patients suffer painful and prolonged erection that last for 4 hours, immediately stop using the drug and seek medical attention before permanent problems arise.`,
+  },
+  {
+    productId: 327,
+    name: "Generic Viagra Gold",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 109,
+    star: 4,
+    price: "2.90",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericViagraGold,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 108.24, pricePerBottle: 3.61 },
+          { count: 60, price: 192.24, pricePerBottle: 3.22 },
+          { count: 120, price: 362.35, pricePerBottle: 3.02 },
+          { count: 240, price: 701.18, pricePerBottle: 2.92 },
+          { count: 300, price: 870.59, pricePerBottle: 2.9 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.
+    
+    If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.`,
+    additionalDetials: `If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 328,
+    name: "Generic Viagra Oral Jelly",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 151,
+    star: 4,
+    price: "2.27",
+    type: "sachet",
+    typeName: "sachet",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericViagraOralJelly,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 44, pricePerBottle: 4.4 },
+          { count: 20, price: 61.33, pricePerBottle: 3.07 },
+          { count: 30, price: 78.67, pricePerBottle: 2.62 },
+          { count: 40, price: 96, pricePerBottle: 2.4 },
+          { count: 50, price: 113.33, pricePerBottle: 2.27 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.
+    
+    If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.`,
+    additionalDetials: `If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 329,
+    name: "Generic Viagra Professional",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 78,
+    star: 4,
+    price: "1.03",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericViagraProfessional,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 58.46, pricePerBottle: 1.95 },
+          { count: 60, price: 86.15, pricePerBottle: 1.44 },
+          { count: 120, price: 141.54, pricePerBottle: 1.18 },
+          { count: 240, price: 252.31, pricePerBottle: 1.05 },
+          { count: 300, price: 307.69, pricePerBottle: 1.03 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.
+    
+    If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.`,
+    additionalDetials: `If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 330,
+    name: "Generic Viagra Soft Flavored",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 93,
+    star: 4,
+    price: "1.64",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericViagraSoftFlavored,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 76.92, pricePerBottle: 2.56 },
+          { count: 60, price: 123.08, pricePerBottle: 2.05 },
+          { count: 120, price: 215.38, pricePerBottle: 1.79 },
+          { count: 240, price: 400, pricePerBottle: 1.67 },
+          { count: 300, price: 492.31, pricePerBottle: 1.64 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.
+    
+    If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.`,
+    additionalDetials: `If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 331,
+    name: "Generic Viagra Soft Tabs",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 168,
+    star: 4,
+    price: "0.87",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: genericViagraSoftTabs,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 63.64, pricePerBottle: 2.12 },
+          { count: 60, price: 90.91, pricePerBottle: 1.52 },
+          { count: 120, price: 145.45, pricePerBottle: 1.21 },
+          { count: 240, price: 254.55, pricePerBottle: 1.06 },
+          { count: 300, price: 309.09, pricePerBottle: 1.03 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 53.85, pricePerBottle: 1.8 },
+          { count: 60, price: 76.92, pricePerBottle: 1.28 },
+          { count: 120, price: 123.08, pricePerBottle: 1.03 },
+          { count: 240, price: 215.38, pricePerBottle: 0.9 },
+          { count: 300, price: 261.54, pricePerBottle: 0.87 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.
+    
+    If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.`,
+    additionalDetials: `If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 332,
+    name: "Generic Viagra Super Active",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 120,
+    star: 4,
+    price: "1.03",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericViagraSuperActive,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 58.46, pricePerBottle: 1.95 },
+          { count: 60, price: 86.15, pricePerBottle: 1.44 },
+          { count: 120, price: 145.54, pricePerBottle: 1.18 },
+          { count: 240, price: 252.31, pricePerBottle: 1.05 },
+          { count: 300, price: 307.69, pricePerBottle: 1.03 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 53.85, pricePerBottle: 1.8 },
+          { count: 60, price: 76.92, pricePerBottle: 1.28 },
+          { count: 120, price: 123.08, pricePerBottle: 1.03 },
+          { count: 240, price: 215.38, pricePerBottle: 0.9 },
+          { count: 300, price: 261.54, pricePerBottle: 0.87 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.
+    
+    If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.`,
+    additionalDetials: `If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 333,
+    name: "Generic Viagra capsules",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 146,
+    star: 4,
+    price: "1.21",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericViagracapsules,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 79.26, pricePerBottle: 2.64 },
+          { count: 60, price: 143.7, pricePerBottle: 2.4 },
+          { count: 120, price: 272.59, pricePerBottle: 2.27 },
+          { count: 240, price: 530.37, pricePerBottle: 2.21 },
+          { count: 300, price: 659.26, pricePerBottle: 2.2 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 69.09, pricePerBottle: 2.3 },
+          { count: 60, price: 101.82, pricePerBottle: 1.7 },
+          { count: 120, price: 167.27, pricePerBottle: 1.39 },
+          { count: 240, price: 298.18, pricePerBottle: 1.24 },
+          { count: 300, price: 363.64, pricePerBottle: 1.21 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.
+    
+    If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.`,
+    additionalDetials: `If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 334,
+    name: "Generic Viagra with Dapoxetine",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate + Dapoxetine",
+    rating: 95,
+    star: 4,
+    price: "1.97",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericViagrawithDapoxetine,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: " 50 mg / 30",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 74.78, pricePerBottle: 2.49 },
+          { count: 60, price: 132.17, pricePerBottle: 2.2 },
+          { count: 120, price: 246.96, pricePerBottle: 2.06 },
+          { count: 240, price: 476.52, pricePerBottle: 1.99 },
+          { count: 300, price: 591.3, pricePerBottle: 1.97 },
+        ],
+      },
+      {
+        mg: "100 / 60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 95.65, pricePerBottle: 3.19 },
+          { count: 60, price: 173.91, pricePerBottle: 2.9 },
+          { count: 120, price: 330.43, pricePerBottle: 2.75 },
+          { count: 240, price: 643.48, pricePerBottle: 2.68 },
+          { count: 300, price: 800, pricePerBottle: 2.67 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 335,
+    name: "Generic Viagra with Duloxetine",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate + Duloxetine",
+    rating: 172,
+    star: 4,
+    price: "206",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericViagrawithDapoxetine,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100 mg / 60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 77.39, pricePerBottle: 2.58 },
+          { count: 60, price: 137.39, pricePerBottle: 2.29 },
+          { count: 120, price: 257.39, pricePerBottle: 2.14 },
+          { count: 240, price: 497.39, pricePerBottle: 2.07 },
+          { count: 300, price: 617.39, pricePerBottle: 2.06 },
+        ],
+      },
+      {
+        mg: "100 mg / 30",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 80, pricePerBottle: 2.67 },
+          { count: 60, price: 142.61, pricePerBottle: 2.38 },
+          { count: 120, price: 267.83, pricePerBottle: 2.23 },
+          { count: 240, price: 518.26, pricePerBottle: 2.16 },
+          { count: 300, price: 643.48, pricePerBottle: 2.14 },
+        ],
+      },
+    ],
+    prescription: `Nebivolol is used alone or in combination with other medications to treat high blood pressure. Nebivolol is in a class of medications called beta blockers. It works by relaxing blood vessels and slowing heart rate to improve blood flow and decrease blood pressure.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Nebivolol comes as a tablet to take by mouth. It is usually taken with or without food once a day. To help you remember to take nebivolol, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take nebivolol exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of nebivolol and gradually increase your dose not more than once every 2 weeks.`,
+    additionalDetials: `Nebivolol controls high blood pressure but does not cure it. It may take 2 weeks before the full benefit of nebivolol is seen in blood pressure readings. Continue to take nebivolol even if you feel well. Do not stop taking nebivolol without talking to your doctor. If you suddenly stop taking nebivolol it may cause angina (chest pain), heart attack, or irregular heartbeat. Your doctor will probably decrease your dose gradually over 1 to 2 weeks.`,
+  },
+  {
+    productId: 336,
+    name: "HardOn Oral Jelly Flavoured",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 131,
+    star: 4,
+    price: "15.00",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Aurochem Labs",
+    image: ApcalisSXOralJelly,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "7 sachets pack 100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 31.3, pricePerBottle: 31.3 },
+          { count: 60, price: 45.22, pricePerBottle: 22.61 },
+          { count: 120, price: 73.04, pricePerBottle: 18.26 },
+          { count: 240, price: 128.7, pricePerBottle: 16.09 },
+          { count: 300, price: 240, pricePerBottle: 15 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 337,
+    name: "Intagra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 83,
+    star: 4,
+    price: "0.84",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Intas Pharmaceuticals Ltd",
+    image: intagra,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.04, pricePerBottle: 1.65 },
+          { count: 60, price: 64.35, pricePerBottle: 1.07 },
+          { count: 120, price: 111.3, pricePerBottle: 0.93 },
+          { count: 240, price: 205.22, pricePerBottle: 0.86 },
+          { count: 300, price: 252.17, pricePerBottle: 0.84 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 338,
+    name: "Kamagra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 197,
+    star: 4,
+    price: "1.16",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Intas Pharmaceuticals Ltd",
+    image: Kamagra,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 37.04, pricePerBottle: 1.85 },
+          { count: 60, price: 81.48, pricePerBottle: 1.36 },
+          { count: 120, price: 148.15, pricePerBottle: 1.23 },
+          { count: 240, price: 281.48, pricePerBottle: 1.17 },
+          { count: 300, price: 348.15, pricePerBottle: 1.16 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 339,
+    name: "Kamagra Chewable Flavoured",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 118,
+    star: 4,
+    price: "2.20",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Ajanta Pharma Limited",
+    image: KamagraChewableFlavoured,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 57.78, pricePerBottle: 2.89 },
+          { count: 60, price: 143.7, pricePerBottle: 2.4 },
+          { count: 120, price: 272.59, pricePerBottle: 2.27 },
+          { count: 240, price: 530.37, pricePerBottle: 2.21 },
+          { count: 300, price: 348.15, pricePerBottle: 2.2 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 340,
+    name: "Kamagra Effervescent",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 160,
+    star: 4,
+    price: "19.30",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Ajanta Pharma Limited",
+    image: KamagraEffervescent,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "7 tabs / vial 100",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 33.19, pricePerBottle: 33.19 },
+          { count: 2, price: 51.56, pricePerBottle: 25.78 },
+          { count: 4, price: 88.3, pricePerBottle: 22.08 },
+          { count: 8, price: 161.78, pricePerBottle: 20.22 },
+          { count: 16, price: 308.74, pricePerBottle: 19.3 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 341,
+    name: "Kamagra Oral Jelly Flavoured",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 180,
+    star: 4,
+    price: "4.10",
+    type: "sachet",
+    typeName: "sachet",
+    ManufacturedBy: "Ajanta Pharma Limited",
+    image: ApcalisSXOralJelly,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "7 tabs / vial 100",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 56.19, pricePerBottle: 5.62 },
+          { count: 20, price: 93.33, pricePerBottle: 4.67 },
+          { count: 30, price: 130.48, pricePerBottle: 4.35 },
+          { count: 40, price: 167.62, pricePerBottle: 4.19 },
+          { count: 50, price: 204.76, pricePerBottle: 4.1 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 342,
+    name: "Kamagra Polo",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 83,
+    star: 4,
+    price: "2.35",
+    type: "sachet",
+    typeName: "sachet",
+    ManufacturedBy: "Ajanta Pharma Limited",
+    image: KamagraPolo,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 60.74, pricePerBottle: 3.04 },
+          { count: 20, price: 154.29, pricePerBottle: 2.54 },
+          { count: 30, price: 290.37, pricePerBottle: 2.42 },
+          { count: 40, price: 565.93, pricePerBottle: 2.36 },
+          { count: 50, price: 703.7, pricePerBottle: 2.35 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 343,
+    name: "Kamini Oral Jelly Flavoured",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 172,
+    star: 4,
+    price: "2.44",
+    type: "sachet",
+    typeName: "sachet",
+    ManufacturedBy: "Samokk Overseas",
+    image: ApcalisSXOralJelly,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 36.3, pricePerBottle: 3.63 },
+          { count: 20, price: 57.78, pricePerBottle: 2.89 },
+          { count: 30, price: 79.26, pricePerBottle: 2.64 },
+          { count: 40, price: 100.74, pricePerBottle: 2.52 },
+          { count: 50, price: 122.22, pricePerBottle: 2.44 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 344,
+    name: "Malegra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 126,
+    star: 5,
+    price: "0.39",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Sunrise Remedies",
+    image: Aurogra,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 30.53, pricePerBottle: 1.02 },
+          { count: 60, price: 40, pricePerBottle: 0.67 },
+          { count: 120, price: 58.95, pricePerBottle: 0.49 },
+          { count: 240, price: 96.84, pricePerBottle: 0.4 },
+          { count: 300, price: 115.79, pricePerBottle: 0.39 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 30.53, pricePerBottle: 1.02 },
+          { count: 60, price: 40, pricePerBottle: 0.67 },
+          { count: 120, price: 58.95, pricePerBottle: 0.49 },
+          { count: 240, price: 96.84, pricePerBottle: 0.4 },
+          { count: 300, price: 115.79, pricePerBottle: 0.39 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 345,
+    name: "Malegra DXT",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil CitrateDuloxetine",
+    rating: 107,
+    star: 5,
+    price: "1.83",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Sunrise Remedies",
+    image: MalegraDXT,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100mg / 30",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 68.15, pricePerBottle: 2.27 },
+          { count: 60, price: 121.48, pricePerBottle: 2.02 },
+          { count: 120, price: 228.15, pricePerBottle: 1.9 },
+          { count: 240, price: 441.48, pricePerBottle: 1.84 },
+          { count: 300, price: 548.15, pricePerBottle: 1.83 },
+        ],
+      },
+    ],
+    prescription: `Nebivolol (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Nebivolol (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take Nebivolol, but in some cases, a doctor may decide that Nebivolol (Revatio) is the best medication to treat a child's condition. Nebivolol is in a class of medications called phosphodiesterase (PDE) inhibitors. Nebivolol treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Nebivolol treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+If you are taking Nebivolol to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Nebivolol does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Nebivolol comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking Nebivolol to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take Nebivolol as needed before sexual activity. The best time to take Nebivolol is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Nebivolol usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Nebivolol less often. You can take Nebivolol with or without food. However, if you take Nebivolol with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking Nebivolol to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take Nebivolol three times a day with or without food. Take Nebivolol at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Nebivolol exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking Nebivolol for erectile dysfunction, your doctor will probably start you on an average dose of Nebivolol and increase or decrease your dose depending on your response to the medication. Tell your doctor if Nebivolol is not working well or if you are experiencing side effects.
+
+    If you are taking Nebivolol for PAH, you should know that Nebivolol controls PAH but does not cure it. Continue to take Nebivolol even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 346,
+    name: "Malegra DXT Plus",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil CitrateDuloxetine",
+    rating: 92,
+    star: 5,
+    price: "1.75",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Sunrise Remedies",
+    image: MalegraDXTPlus,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100mg / 60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 65.93, pricePerBottle: 2.2 },
+          { count: 60, price: 117.04, pricePerBottle: 1.95 },
+          { count: 120, price: 219.26, pricePerBottle: 1.83 },
+          { count: 240, price: 423.7, pricePerBottle: 1.77 },
+          { count: 300, price: 525.93, pricePerBottle: 1.75 },
+        ],
+      },
+    ],
+    prescription: `Nebivolol is used alone or in combination with other medications to treat high blood pressure. Nebivolol is in a class of medications called beta blockers. It works by relaxing blood vessels and slowing heart rate to improve blood flow and decrease blood pressure.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Nebivolol comes as a tablet to take by mouth. It is usually taken with or without food once a day. To help you remember to take nebivolol, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take nebivolol exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of nebivolol and gradually increase your dose not more than once every 2 weeks.`,
+    additionalDetials: `Nebivolol controls high blood pressure but does not cure it. It may take 2 weeks before the full benefit of nebivolol is seen in blood pressure readings. Continue to take nebivolol even if you feel well. Do not stop taking nebivolol without talking to your doctor. If you suddenly stop taking nebivolol it may cause angina (chest pain), heart attack, or irregular heartbeat. Your doctor will probably decrease your dose gradually over 1 to 2 weeks.`,
+  },
+  {
+    productId: 347,
+    name: "Malegra FXT",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil + Fluoxetine",
+    rating: 110,
+    star: 5,
+    price: "1.46",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Sunrise Remedies",
+    image: MalegraFXT,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100 mg / 40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 57.04, pricePerBottle: 1.9 },
+          { count: 60, price: 99.26, pricePerBottle: 1.65 },
+          { count: 120, price: 183.7, pricePerBottle: 1.53 },
+          { count: 240, price: 352.59, pricePerBottle: 1.47 },
+          { count: 300, price: 437.04, pricePerBottle: 1.46 },
+        ],
+      },
+    ],
+    prescription: `Nebivolol is used alone or in combination with other medications to treat high blood pressure. Nebivolol is in a class of medications called beta blockers. It works by relaxing blood vessels and slowing heart rate to improve blood flow and decrease blood pressure.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Nebivolol comes as a tablet to take by mouth. It is usually taken with or without food once a day. To help you remember to take nebivolol, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take nebivolol exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of nebivolol and gradually increase your dose not more than once every 2 weeks.`,
+    additionalDetials: `Nebivolol controls high blood pressure but does not cure it. It may take 2 weeks before the full benefit of nebivolol is seen in blood pressure readings. Continue to take nebivolol even if you feel well. Do not stop taking nebivolol without talking to your doctor. If you suddenly stop taking nebivolol it may cause angina (chest pain), heart attack, or irregular heartbeat. Your doctor will probably decrease your dose gradually over 1 to 2 weeks.`,
+  },
+  {
+    productId: 348,
+    name: "Malegra FXT Plus",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil + Fluoxetine",
+    rating: 86,
+    star: 5,
+    price: "1.75",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Sunrise Remedies",
+    image: MalegraDXTPlus,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100 mg / 60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 65.93, pricePerBottle: 2.2 },
+          { count: 60, price: 117.04, pricePerBottle: 1.95 },
+          { count: 120, price: 219.26, pricePerBottle: 1.83 },
+          { count: 240, price: 423.7, pricePerBottle: 1.77 },
+          { count: 300, price: 525.93, pricePerBottle: 1.75 },
+        ],
+      },
+    ],
+    prescription: `Nebivolol is used alone or in combination with other medications to treat high blood pressure. Nebivolol is in a class of medications called beta blockers. It works by relaxing blood vessels and slowing heart rate to improve blood flow and decrease blood pressure.
+
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Nebivolol comes as a tablet to take by mouth. It is usually taken with or without food once a day. To help you remember to take nebivolol, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take nebivolol exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of nebivolol and gradually increase your dose not more than once every 2 weeks.`,
+    additionalDetials: `Nebivolol controls high blood pressure but does not cure it. It may take 2 weeks before the full benefit of nebivolol is seen in blood pressure readings. Continue to take nebivolol even if you feel well. Do not stop taking nebivolol without talking to your doctor. If you suddenly stop taking nebivolol it may cause angina (chest pain), heart attack, or irregular heartbeat. Your doctor will probably decrease your dose gradually over 1 to 2 weeks.`,
+  },
+  {
+    productId: 349,
+    name: "Malegra Oral Jelly Flavoured",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 139,
+    star: 4,
+    price: "0.79",
+    type: "sachet",
+    typeName: "sachet",
+    ManufacturedBy: "Sunrise Remedies",
+    image: ApcalisSXOralJelly,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 37.04, pricePerBottle: 1.23 },
+          { count: 60, price: 59.26, pricePerBottle: 0.99 },
+          { count: 120, price: 103.7, pricePerBottle: 0.86 },
+          { count: 240, price: 192.59, pricePerBottle: 0.8 },
+          { count: 300, price: 237.04, pricePerBottle: 0.79 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 350,
+    name: "Malegra Pro",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 144,
+    star: 4,
+    price: "0.63",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Sunrise Remedies",
+    image: eliProfessional,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 36.19, pricePerBottle: 1.21 },
+          { count: 60, price: 53.33, pricePerBottle: 0.89 },
+          { count: 120, price: 87.62, pricePerBottle: 0.73 },
+          { count: 240, price: 156.19, pricePerBottle: 0.65 },
+          { count: 300, price: 190.48, pricePerBottle: 0.63 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 351,
+    name: "Megalis",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 177,
+    star: 5,
+    price: "2.27",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Macleods",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "4 tabs / pack 20",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 38.74, pricePerBottle: 38.74 },
+          { count: 2, price: 53.27, pricePerBottle: 26.63 },
+          { count: 4, price: 82.32, pricePerBottle: 20.58 },
+          { count: 8, price: 140.43, pricePerBottle: 17.55 },
+          { count: 16, price: 256.64, pricePerBottle: 16.04 },
+        ],
+      },
+      {
+        mg: "4 tabs / pack 10",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 31.47, pricePerBottle: 31.47 },
+          { count: 2, price: 41.89, pricePerBottle: 20.95 },
+          { count: 4, price: 62.74, pricePerBottle: 15.69 },
+          { count: 8, price: 104.42, pricePerBottle: 13.05 },
+          { count: 16, price: 187.79, pricePerBottle: 11.74 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 59.26, pricePerBottle: 2.96 },
+          { count: 60, price: 148.15, pricePerBottle: 2.47 },
+          { count: 120, price: 241.48, pricePerBottle: 2.35 },
+          { count: 240, price: 548.15, pricePerBottle: 2.28 },
+          { count: 300, price: 681.48, pricePerBottle: 2.27 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 352,
+    name: "Novosil",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 181,
+    star: 5,
+    price: "29.44",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Euphoria Healthcare",
+    image: Novosil,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "7 strips / pack 50",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 43.33, pricePerBottle: 43.33 },
+          { count: 2, price: 71.85, pricePerBottle: 35.93 },
+          { count: 4, price: 128.89, pricePerBottle: 32.22 },
+          { count: 8, price: 242.96, pricePerBottle: 20.37 },
+          { count: 16, price: 471.11, pricePerBottle: 29.44 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Vigra) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Sildenafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking Sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking Sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take Sildenafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Sildenafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take Sildenafil before sexual activity. Sildenafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking Sildenafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Sildenafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking Sildenafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take Sildenafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take Sildenafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with Sildenafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking Sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of Sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if Sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking Sildenafil for PAH, you should know that Sildenafil controls PAH but does not cure it. Continue to take Sildenafil even if you feel well. Do not stop taking Sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 353,
+    name: "P-Force",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 104,
+    star: 5,
+    price: "0.70",
+    type: "cap",
+    typeName: "cap",
+    ManufacturedBy: "Sunrise Remedies",
+    image: pForce,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 40, pricePerBottle: 1.33 },
+          { count: 60, price: 58.95, pricePerBottle: 0.98 },
+          { count: 120, price: 96.84, pricePerBottle: 0.81 },
+          { count: 240, price: 172.63, pricePerBottle: 0.72 },
+          { count: 300, price: 210.53, pricePerBottle: 0.7 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Vigra) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Sildenafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking Sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking Sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take Sildenafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Sildenafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take Sildenafil before sexual activity. Sildenafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking Sildenafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Sildenafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking Sildenafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take Sildenafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take Sildenafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with Sildenafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking Sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of Sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if Sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking Sildenafil for PAH, you should know that Sildenafil controls PAH but does not cure it. Continue to take Sildenafil even if you feel well. Do not stop taking Sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 354,
+    name: "P-Force Fort",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 62,
+    star: 4,
+    price: "0.78",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Sunrise Remedies",
+    image: pForce,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "150",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 44.71, pricePerBottle: 1.49 },
+          { count: 60, price: 65.88, pricePerBottle: 1.1 },
+          { count: 120, price: 108.24, pricePerBottle: 0.9 },
+          { count: 240, price: 192.94, pricePerBottle: 0.8 },
+          { count: 300, price: 235.29, pricePerBottle: 0.78 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Vigra) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Sildenafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking Sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking Sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take Sildenafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Sildenafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take Sildenafil before sexual activity. Sildenafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking Sildenafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Sildenafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking Sildenafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take Sildenafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take Sildenafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with Sildenafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking Sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of Sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if Sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking Sildenafil for PAH, you should know that Sildenafil controls PAH but does not cure it. Continue to take Sildenafil even if you feel well. Do not stop taking Sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 355,
+    name: "Penegra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 51,
+    star: 5,
+    price: "2.79",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Sunrise Remedies",
+    image: Penegra,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 67.03, pricePerBottle: 3.35 },
+          { count: 60, price: 179.46, pricePerBottle: 2.99 },
+          { count: 120, price: 348.11, pricePerBottle: 2.9 },
+          { count: 240, price: 685.41, pricePerBottle: 2.86 },
+          { count: 300, price: 854.05, pricePerBottle: 2.85 },
+        ],
+      },
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 111.11, pricePerBottle: 5.56 },
+          { count: 60, price: 303.7, pricePerBottle: 5.06 },
+          { count: 120, price: 592.59, pricePerBottle: 4.94 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 69.63, pricePerBottle: 3.48 },
+          { count: 60, price: 179.26, pricePerBottle: 2.99 },
+          { count: 120, price: 343.7, pricePerBottle: 2.85 },
+          { count: 240, price: 672.59, pricePerBottle: 2.8 },
+          { count: 300, price: 837.04, pricePerBottle: 2.79 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Vigra) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Sildenafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking Sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking Sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take Sildenafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Sildenafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take Sildenafil before sexual activity. Sildenafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking Sildenafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Sildenafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking Sildenafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take Sildenafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take Sildenafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with Sildenafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking Sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of Sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if Sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking Sildenafil for PAH, you should know that Sildenafil controls PAH but does not cure it. Continue to take Sildenafil even if you feel well. Do not stop taking Sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 356,
+    name: "Poxet",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Dapoxetine",
+    rating: 167,
+    star: 5,
+    price: "14.85",
+    type: "blister",
+    typeName: "blister",
+    ManufacturedBy: "Sunrise Remedies",
+    image: genericPriligy,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10 tabs / blister 90",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 42.52, pricePerBottle: 42.52 },
+          { count: 2, price: 70.22, pricePerBottle: 35.11 },
+          { count: 4, price: 125.63, pricePerBottle: 31.41 },
+          { count: 8, price: 236.44, pricePerBottle: 29.56 },
+          { count: 16, price: 458.07, pricePerBottle: 28.63 },
+        ],
+      },
+      {
+        mg: "10 tabs / blister 60",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 37.93, pricePerBottle: 37.93 },
+          { count: 2, price: 61.04, pricePerBottle: 20.52 },
+          { count: 4, price: 107.26, pricePerBottle: 26.82 },
+          { count: 8, price: 199.7, pricePerBottle: 24.96 },
+          { count: 16, price: 384.59, pricePerBottle: 24.04 },
+        ],
+      },
+      {
+        mg: "10 tabs / blister 30",
+        unit: "mg",
+        bottle: [
+          { count: 2, price: 42.67, pricePerBottle: 21.34 },
+          { count: 4, price: 70.52, pricePerBottle: 17.63 },
+          { count: 8, price: 126.22, pricePerBottle: 15.78 },
+          { count: 16, price: 237.63, pricePerBottle: 14.85 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 357,
+    name: "Pulmopres",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 166,
+    star: 5,
+    price: "3.62",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Cipla",
+    image: genericPriligy,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 121.48, pricePerBottle: 4.05 },
+          { count: 60, price: 228.15, pricePerBottle: 3.8 },
+          { count: 120, price: 441.48, pricePerBottle: 3.68 },
+          { count: 240, price: 868.15, pricePerBottle: 3.62 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking Tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking Tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take Tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take Tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking Tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking Tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take Tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take Tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with Tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking Tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of Tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if Tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking Tadalafil for PAH, you should know that Tadalafil controls PAH but does not cure it. Continue to take Tadalafil even if you feel well. Do not stop taking Sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 358,
+    name: "Silagra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 57,
+    star: 5,
+    price: "0.86",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Cipla",
+    image: silagra,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 31.11, pricePerBottle: 1.56 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Vigra) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Sildenafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking Sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking Sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take Sildenafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Sildenafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take Sildenafil before sexual activity. Sildenafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking Sildenafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Sildenafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking Sildenafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take Sildenafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take Sildenafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with Sildenafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking Sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of Sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if Sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking Sildenafil for PAH, you should know that Sildenafil controls PAH but does not cure it. Continue to take Sildenafil even if you feel well. Do not stop taking Sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 359,
+    name: "Sildigra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate + Tadalafil Citrate",
+    rating: 141,
+    star: 4,
+    price: "0.49",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Cipla",
+    image: Sildigra,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100 mg / 20",
+        unit: "mg",
+        bottle: [
+          { count: 6, price: 36.24, pricePerBottle: 6.04 },
+          { count: 12, price: 48.94, pricePerBottle: 4.08 },
+          { count: 18, price: 61.65, pricePerBottle: 3.43 },
+          { count: 24, price: 74.35, pricePerBottle: 3.1 },
+          { count: 30, price: 87.06, pricePerBottle: 2.9 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 360,
+    name: "Silagra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate + Tadalafil Citrate",
+    rating: 137,
+    star: 4,
+    price: "2.90",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Dharam Distributors",
+    image: Sildigra,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 30.43, pricePerBottle: 1.01 },
+          { count: 60, price: 43.48, pricePerBottle: 0.72 },
+          { count: 120, price: 69.57, pricePerBottle: 0.58 },
+          { count: 240, price: 121.74, pricePerBottle: 0.51 },
+          { count: 300, price: 147.83, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 30.43, pricePerBottle: 1.01 },
+          { count: 60, price: 43.48, pricePerBottle: 0.72 },
+          { count: 120, price: 69.57, pricePerBottle: 0.58 },
+          { count: 240, price: 121.74, pricePerBottle: 0.51 },
+          { count: 300, price: 147.83, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Vigra) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Sildenafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking Sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking Sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take Sildenafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Sildenafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take Sildenafil before sexual activity. Sildenafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking Sildenafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Sildenafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking Sildenafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take Sildenafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take Sildenafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with Sildenafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking Sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of Sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if Sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking Sildenafil for PAH, you should know that Sildenafil controls PAH but does not cure it. Continue to take Sildenafil even if you feel well. Do not stop taking Sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 361,
+    name: "Sildigra Prof",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate + Tadalafil Citrate",
+    rating: 84,
+    star: 5,
+    price: "0.58",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Dharam Distributors",
+    image: eliProfessional,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.04, pricePerBottle: 1.1 },
+          { count: 60, price: 48.7, pricePerBottle: 0.81 },
+          { count: 120, price: 80, pricePerBottle: 0.67 },
+          { count: 240, price: 142.61, pricePerBottle: 0.59 },
+          { count: 300, price: 173.91, pricePerBottle: 0.58 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Vigra) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Sildenafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking Sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking Sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take Sildenafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Sildenafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take Sildenafil before sexual activity. Sildenafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking Sildenafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Sildenafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking Sildenafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take Sildenafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take Sildenafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with Sildenafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking Sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of Sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if Sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking Sildenafil for PAH, you should know that Sildenafil controls PAH but does not cure it. Continue to take Sildenafil even if you feel well. Do not stop taking Sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 362,
+    name: "Sildigra Super Power",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate + Tadalafil Citrate",
+    rating: 55,
+    star: 4,
+    price: "2.42",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "RSM Enterprises",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "160",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 62.22, pricePerBottle: 3.11 },
+          { count: 60, price: 157.04, pricePerBottle: 2.62 },
+          { count: 120, price: 299.26, pricePerBottle: 2.49 },
+          { count: 240, price: 583.7, pricePerBottle: 2.43 },
+          { count: 300, price: 725.93, pricePerBottle: 2.42 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Vigra) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Sildenafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking Sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking Sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take Sildenafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Sildenafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take Sildenafil before sexual activity. Sildenafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking Sildenafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Sildenafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking Sildenafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take Sildenafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take Sildenafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with Sildenafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking Sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of Sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if Sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking Sildenafil for PAH, you should know that Sildenafil controls PAH but does not cure it. Continue to take Sildenafil even if you feel well. Do not stop taking Sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 363,
+    name: "Snovitra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Vardenafil",
+    rating: 143,
+    star: 5,
+    price: "0.94",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Dharam Distributors",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.48, pricePerBottle: 1.38 },
+          { count: 60, price: 68.15, pricePerBottle: 1.14 },
+          { count: 120, price: 121.48, pricePerBottle: 1.01 },
+          { count: 240, price: 228.15, pricePerBottle: 0.95 },
+          { count: 300, price: 281.48, pricePerBottle: 0.94 },
+        ],
+      },
+    ],
+    prescription: `Vardenafil is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Vardenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Vardenafil does not cure erectile dysfunction or increase sexual desire. Vardenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Vardenafil comes as a tablet and a rapidly disintegrating (dissolves in the mouth and is swallowed without water) tablet to take by mouth. It is usually taken as needed, with or without food, 60 minutes before sexual activity. Vardenafil usually should not be taken more often than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take vardenafil less often. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take vardenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are taking the rapidly disintegrating tablet, check the blister pack before you take your first dose. Do not use any of the medication from the pack if any of the blisters are torn, broken, or do not contain tablets. Follow the package directions to remove the tablet from the blister package. Do not try to push the tablet through the foil. After you remove the tablet from the blister package, immediately place it on your tongue and close your mouth. The tablet will quickly dissolve. Do not take the rapidly disintegrating tablet with water or other liquids.
+    
+    Your doctor will probably start you on an average dose of vardenafil tablets and increase or decrease your dose depending on your response to the medication. If you are taking the rapidly disintegrating tablets, your doctor will not be able to adjust your dose because the rapidly disintegrating tablets are only available in one strength. If you need a higher or lower dose, your doctor may prescribe the regular tablets instead. Tell your doctor if vardenafil is not working well or if you are experiencing side effects.`,
+    additionalDetials: `Vardenafil rapidly disintegrating tablets cannot be substituted for vardenafil tablets. Be sure that you receive only the type of vardenafil that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of vardenafil you were given.`,
+  },
+  {
+    productId: 364,
+    name: "Suhagra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 70,
+    star: 4,
+    price: "0.63",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "CIpla",
+    image: suhagra,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 30.48, pricePerBottle: 1.52 },
+          { count: 60, price: 53.33, pricePerBottle: 0.89 },
+          { count: 120, price: 87.62, pricePerBottle: 0.73 },
+          { count: 240, price: 156.19, pricePerBottle: 0.65 },
+          { count: 300, price: 190.48, pricePerBottle: 0.63 },
+        ],
+      },
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.04, pricePerBottle: 1.65 },
+          { count: 60, price: 64.35, pricePerBottle: 1.07 },
+          { count: 120, price: 111.3, pricePerBottle: 0.93 },
+          { count: 240, price: 205.22, pricePerBottle: 0.86 },
+          { count: 300, price: 252.17, pricePerBottle: 0.84 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.04, pricePerBottle: 1.65 },
+          { count: 60, price: 64.35, pricePerBottle: 1.07 },
+          { count: 120, price: 111.3, pricePerBottle: 0.93 },
+          { count: 240, price: 205.22, pricePerBottle: 0.86 },
+          { count: 300, price: 252.17, pricePerBottle: 0.84 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 365,
+    name: "Super Filagra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 125,
+    star: 4,
+    price: "13.86",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Dadha Pharma Pvt. Ltd.",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: " 4 tabs / pack 100mg / 60",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 31.71, pricePerBottle: 31.71 },
+          { count: 2, price: 44.38, pricePerBottle: 22.19 },
+          { count: 4, price: 69.71, pricePerBottle: 17.43 },
+          { count: 8, price: 120.38, pricePerBottle: 15.05 },
+          { count: 16, price: 221.71, pricePerBottle: 13.86 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 366,
+    name: "Super Fildena",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate + Dapoxetine",
+    rating: 83,
+    star: 4,
+    price: "16.48",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Fortune Health Care",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: " 4 tabs / pack 100mg / 60",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 30.37, pricePerBottle: 30.37 },
+          { count: 2, price: 45.93, pricePerBottle: 22.97 },
+          { count: 4, price: 77.04, pricePerBottle: 19.26 },
+          { count: 8, price: 139.26, pricePerBottle: 17.41 },
+          { count: 16, price: 263.7, pricePerBottle: 16.48 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 367,
+    name: "Super Force Jelly",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate + Dapoxetine",
+    rating: 194,
+    star: 5,
+    price: "4.00",
+    type: "sachet",
+    typeName: "sachet",
+    ManufacturedBy: "Samok Overseas",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "160",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 51.85, pricePerBottle: 5.19 },
+          { count: 20, price: 88.89, pricePerBottle: 4.44 },
+          { count: 30, price: 125.93, pricePerBottle: 4.2 },
+          { count: 40, price: 162.96, pricePerBottle: 4.07 },
+          { count: 50, price: 200, pricePerBottle: 4 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 368,
+    name: "Super Kamagra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate + Dapoxetine",
+    rating: 41,
+    star: 4,
+    price: "3.19",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Ajanta Pharma Limited",
+    image: SuperKamagra,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100mg / 60",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 88.89, pricePerBottle: 3.71 },
+          { count: 60, price: 125.93, pricePerBottle: 3.33 },
+          { count: 120, price: 162.96, pricePerBottle: 3.24 },
+          { count: 240, price: 200, pricePerBottle: 3.19 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 369,
+    name: "Super P Force",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate + Dapoxetine",
+    rating: 113,
+    star: 4,
+    price: "3.41",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Ajanta Pharma Limited",
+    image: pForce,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "160",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 85.71, pricePerBottle: 4.29 },
+          { count: 60, price: 219.05, pricePerBottle: 3.65 },
+          { count: 120, price: 419.05, pricePerBottle: 3.49 },
+          { count: 240, price: 819.05, pricePerBottle: 3.41 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 370,
+    name: "Super Tadarise",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 56,
+    star: 4,
+    price: "1.75",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Sunrise Remedies",
+    image: pForce,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20 / 60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 65.93, pricePerBottle: 2.2 },
+          { count: 60, price: 117.04, pricePerBottle: 1.95 },
+          { count: 120, price: 219.26, pricePerBottle: 1.83 },
+          { count: 240, price: 423.7, pricePerBottle: 1.77 },
+          { count: 300, price: 525.93, pricePerBottle: 1.75 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.
+    
+    If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.`,
+    additionalDetials: `If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 370,
+    name: "Super Vilitra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Vardenafil + Dapoxetine",
+    rating: 58,
+    star: 4,
+    price: "3.17",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Centurion Laboratories",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20 / 60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 108.15, pricePerBottle: 3.61 },
+          { count: 60, price: 201.48, pricePerBottle: 3.36 },
+          { count: 120, price: 388.15, pricePerBottle: 3.23 },
+          { count: 240, price: 761.48, pricePerBottle: 3.17 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 371,
+    name: "Tadacip",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 132,
+    star: 4,
+    price: "1.09",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Cipla",
+    image: Tadacip,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 35.56, pricePerBottle: 1.78 },
+          { count: 60, price: 77.04, pricePerBottle: 1.28 },
+          { count: 120, price: 139.26, pricePerBottle: 1.16 },
+          { count: 240, price: 263.7, pricePerBottle: 1.1 },
+          { count: 240, price: 325.93, pricePerBottle: 1.09 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 372,
+    name: "Tadaga",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 93,
+    star: 4,
+    price: "0.54",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "RSM Enterprises",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.33, pricePerBottle: 1.11 },
+          { count: 60, price: 47.62, pricePerBottle: 0.79 },
+          { count: 120, price: 76.19, pricePerBottle: 0.63 },
+          { count: 240, price: 133.33, pricePerBottle: 0.56 },
+          { count: 300, price: 161.9, pricePerBottle: 0.54 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 373,
+    name: "Tadaga Oral Jelly Flavoured",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 128,
+    star: 4,
+    price: "3.19",
+    type: "sachet",
+    typeName: "sachet",
+    ManufacturedBy: "Samok Overseas",
+    image: ApcalisSXOralJelly,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 43.7, pricePerBottle: 4.37 },
+          { count: 20, price: 72.59, pricePerBottle: 3.63 },
+          { count: 30, price: 101.48, pricePerBottle: 3.38 },
+          { count: 40, price: 130.37, pricePerBottle: 3.26 },
+          { count: 50, price: 159.26, pricePerBottle: 3.19 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 374,
+    name: "Tadagra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 47,
+    star: 5,
+    price: "0.63",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Dharam Distributors",
+    image: extraSuperPForce,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 36.19, pricePerBottle: 1.21 },
+          { count: 60, price: 53.33, pricePerBottle: 0.89 },
+          { count: 120, price: 87.62, pricePerBottle: 0.73 },
+          { count: 240, price: 156.19, pricePerBottle: 0.65 },
+          { count: 300, price: 190.48, pricePerBottle: 0.63 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 375,
+    name: "Tadagra Prof",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 97,
+    star: 4,
+    price: "0.63",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "RSM Enterprises",
+    image: eliProfessional,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 36.19, pricePerBottle: 1.21 },
+          { count: 60, price: 53.33, pricePerBottle: 0.89 },
+          { count: 120, price: 87.62, pricePerBottle: 0.73 },
+          { count: 240, price: 156.19, pricePerBottle: 0.65 },
+          { count: 300, price: 190.48, pricePerBottle: 0.63 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 376,
+    name: "Tadagra Softgel",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 182,
+    star: 4,
+    price: "0.64",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "RSM Enterprises",
+    image: extraSuperPForce,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 377,
+    name: "Tadagra Strong",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 147,
+    star: 4,
+    price: "0.64",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Dharam Distributors",
+    image: TadagraStrong,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 378,
+    name: "Tadalis SX",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 116,
+    star: 4,
+    price: "1.46",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Ajanta Pharma Limited",
+    image: TadalisSX,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 42.96, pricePerBottle: 2.15 },
+          { count: 60, price: 99.26, pricePerBottle: 1.65 },
+          { count: 120, price: 183.7, pricePerBottle: 1.53 },
+          { count: 240, price: 352.59, pricePerBottle: 1.47 },
+          { count: 300, price: 437.04, pricePerBottle: 1.46 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 379,
+    name: "Tadalista",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 83,
+    star: 4,
+    price: "0.44",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Fortune Health Care",
+    image: tadalista,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 30.48, pricePerBottle: 1.02 },
+          { count: 60, price: 41.9, pricePerBottle: 0.7 },
+          { count: 120, price: 64.76, pricePerBottle: 0.54 },
+          { count: 240, price: 110.48, pricePerBottle: 0.46 },
+          { count: 300, price: 133.33, pricePerBottle: 0.44 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33.04, pricePerBottle: 1.1 },
+          { count: 60, price: 48.7, pricePerBottle: 0.81 },
+          { count: 120, price: 80, pricePerBottle: 0.67 },
+          { count: 240, price: 142.61, pricePerBottle: 0.59 },
+          { count: 300, price: 173.91, pricePerBottle: 0.58 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 36.19, pricePerBottle: 1.21 },
+          { count: 60, price: 53.33, pricePerBottle: 0.89 },
+          { count: 120, price: 87.62, pricePerBottle: 0.73 },
+          { count: 240, price: 156.19, pricePerBottle: 0.65 },
+          { count: 300, price: 190.48, pricePerBottle: 0.63 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 380,
+    name: "Tadalista Professional",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 81,
+    star: 5,
+    price: "0.49",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Fortune Health Care",
+    image: tadalistaProfessional,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 381,
+    name: "Tadalista Super Active",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 44,
+    star: 5,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Fortune Health Care",
+    image: tadalistaSuperActive,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 382,
+    name: "Tadapox",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil + Dapoxetine",
+    rating: 150,
+    star: 4,
+    price: "1.98",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Dharam Distributors",
+    image: tadapox,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20 /60 ",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 72.59, pricePerBottle: 2.42 },
+          { count: 60, price: 130.37, pricePerBottle: 2.17 },
+          { count: 120, price: 245.93, pricePerBottle: 2.05 },
+          { count: 240, price: 477.04, pricePerBottle: 1.99 },
+          { count: 300, price: 592.59, pricePerBottle: 1.98 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 383,
+    name: "Tadarise",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 110,
+    star: 4,
+    price: "0.27",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Sunrise Remedies",
+    image: Tadarise,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 120, price: 41.48, pricePerBottle: 0.35 },
+          { count: 240, price: 68.15, pricePerBottle: 0.28 },
+          { count: 300, price: 81.48, pricePerBottle: 0.27 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 41.48, pricePerBottle: 1.37 },
+          { count: 60, price: 58.82, pricePerBottle: 0.98 },
+          { count: 120, price: 94.12, pricePerBottle: 0.78 },
+          { count: 240, price: 164.71, pricePerBottle: 0.69 },
+          { count: 300, price: 200, pricePerBottle: 0.67 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 384,
+    name: "Tadarise Pro",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 111,
+    star: 4,
+    price: "0.49",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Sunrise Remedies",
+    image: eliProfessional,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 385,
+    name: "Tadasoft",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 111,
+    star: 4,
+    price: "0.64",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Sunrise Remedies",
+    image: eliProfessional,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 386,
+    name: "Tadora",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 81,
+    star: 4,
+    price: "0.72",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "German Remedies",
+    image: tadora,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 387,
+    name: "V-Tada Super",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Tadalafil",
+    rating: 137,
+    star: 4,
+    price: "0.49",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Vipro Life Science",
+    image: extraSuperPForce,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 388,
+    name: "Valif",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Vardenafil",
+    rating: 178,
+    star: 4,
+    price: "3.04",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Ajanta Pharma Limited",
+    image: valif,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 111.76, pricePerBottle: 3.73 },
+          { count: 60, price: 200, pricePerBottle: 3.33 },
+          { count: 120, price: 376.47, pricePerBottle: 3.14 },
+          { count: 240, price: 726.41, pricePerBottle: 3.04 },
+        ],
+      },
+    ],
+    prescription: `Vardenafil is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Vardenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Vardenafil does not cure erectile dysfunction or increase sexual desire. Vardenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Vardenafil comes as a tablet and a rapidly disintegrating (dissolves in the mouth and is swallowed without water) tablet to take by mouth. It is usually taken as needed, with or without food, 60 minutes before sexual activity. Vardenafil usually should not be taken more often than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take vardenafil less often. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take vardenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are taking the rapidly disintegrating tablet, check the blister pack before you take your first dose. Do not use any of the medication from the pack if any of the blisters are torn, broken, or do not contain tablets. Follow the package directions to remove the tablet from the blister package. Do not try to push the tablet through the foil. After you remove the tablet from the blister package, immediately place it on your tongue and close your mouth. The tablet will quickly dissolve. Do not take the rapidly disintegrating tablet with water or other liquids`,
+    additionalDetials: `Your doctor will probably start you on an average dose of vardenafil tablets and increase or decrease your dose depending on your response to the medication. If you are taking the rapidly disintegrating tablets, your doctor will not be able to adjust your dose because the rapidly disintegrating tablets are only available in one strength. If you need a higher or lower dose, your doctor may prescribe the regular tablets instead. Tell your doctor if vardenafil is not working well or if you are experiencing side effects.
+
+    Vardenafil rapidly disintegrating tablets cannot be substituted for vardenafil tablets. Be sure that you receive only the type of vardenafil that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of vardenafil you were given.`,
+  },
+  {
+    productId: 389,
+    name: "Valif Oral Jelly",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Vardenafil",
+    rating: 200,
+    star: 4,
+    price: "6.85",
+    type: "sachet",
+    typeName: "sachet",
+    ManufacturedBy: "Ajanta Pharma Limited",
+    image: ApcalisSXOralJelly,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 4, price: 38.52, pricePerBottle: 9.63 },
+          { count: 8, price: 62.22, pricePerBottle: 7.78 },
+          { count: 16, price: 109.63, pricePerBottle: 6.85 },
+        ],
+      },
+    ],
+    prescription: `Vardenafil is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Vardenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Vardenafil does not cure erectile dysfunction or increase sexual desire. Vardenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Vardenafil comes as a tablet and a rapidly disintegrating (dissolves in the mouth and is swallowed without water) tablet to take by mouth. It is usually taken as needed, with or without food, 60 minutes before sexual activity. Vardenafil usually should not be taken more often than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take vardenafil less often. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take vardenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are taking the rapidly disintegrating tablet, check the blister pack before you take your first dose. Do not use any of the medication from the pack if any of the blisters are torn, broken, or do not contain tablets. Follow the package directions to remove the tablet from the blister package. Do not try to push the tablet through the foil. After you remove the tablet from the blister package, immediately place it on your tongue and close your mouth. The tablet will quickly dissolve. Do not take the rapidly disintegrating tablet with water or other liquids`,
+    additionalDetials: `Your doctor will probably start you on an average dose of vardenafil tablets and increase or decrease your dose depending on your response to the medication. If you are taking the rapidly disintegrating tablets, your doctor will not be able to adjust your dose because the rapidly disintegrating tablets are only available in one strength. If you need a higher or lower dose, your doctor may prescribe the regular tablets instead. Tell your doctor if vardenafil is not working well or if you are experiencing side effects.
+
+    Vardenafil rapidly disintegrating tablets cannot be substituted for vardenafil tablets. Be sure that you receive only the type of vardenafil that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of vardenafil you were given.`,
+  },
+  {
+    productId: 390,
+    name: "Vega",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Vardenafil",
+    rating: 123,
+    star: 4,
+    price: "0.86",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Signature Pharmaseuticals Ltd.",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 31.11, pricePerBottle: 1.56 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `Vardenafil is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Vardenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Vardenafil does not cure erectile dysfunction or increase sexual desire. Vardenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Vardenafil comes as a tablet and a rapidly disintegrating (dissolves in the mouth and is swallowed without water) tablet to take by mouth. It is usually taken as needed, with or without food, 60 minutes before sexual activity. Vardenafil usually should not be taken more often than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take vardenafil less often. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take vardenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are taking the rapidly disintegrating tablet, check the blister pack before you take your first dose. Do not use any of the medication from the pack if any of the blisters are torn, broken, or do not contain tablets. Follow the package directions to remove the tablet from the blister package. Do not try to push the tablet through the foil. After you remove the tablet from the blister package, immediately place it on your tongue and close your mouth. The tablet will quickly dissolve. Do not take the rapidly disintegrating tablet with water or other liquids`,
+    additionalDetials: `Your doctor will probably start you on an average dose of vardenafil tablets and increase or decrease your dose depending on your response to the medication. If you are taking the rapidly disintegrating tablets, your doctor will not be able to adjust your dose because the rapidly disintegrating tablets are only available in one strength. If you need a higher or lower dose, your doctor may prescribe the regular tablets instead. Tell your doctor if vardenafil is not working well or if you are experiencing side effects.
+
+    Vardenafil rapidly disintegrating tablets cannot be substituted for vardenafil tablets. Be sure that you receive only the type of vardenafil that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of vardenafil you were given.`,
+  },
+  {
+    productId: 391,
+    name: "Vidalista",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Vardenafil",
+    rating: 150,
+    star: 4,
+    price: "0.27",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Centurion Laboratories",
+    image: Tadacip,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 120, price: 41.48, pricePerBottle: 0.35 },
+          { count: 240, price: 68.15, pricePerBottle: 0.28 },
+          { count: 300, price: 81.48, pricePerBottle: 0.27 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 391,
+    name: "Vidalista CT",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Vardenafil",
+    rating: 82,
+    star: 4,
+    price: "0.49",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Centurion Laboratories",
+    image: Tadacip,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 392,
+    name: "Vidalista Professional",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Vardenafil",
+    rating: 61,
+    star: 5,
+    price: "0.49",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Centurion Laboratories",
+    image: eliProfessional,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 393,
+    name: "Vidalista Yellow",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Vardenafil",
+    rating: 193,
+    star: 5,
+    price: "1.38",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Centurion Laboratories",
+    image: Tadacip,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "80",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 54.81, pricePerBottle: 1.83 },
+          { count: 60, price: 94.81, pricePerBottle: 1.58 },
+          { count: 120, price: 174.81, pricePerBottle: 1.46 },
+          { count: 240, price: 334.81, pricePerBottle: 1.4 },
+          { count: 300, price: 414.81, pricePerBottle: 1.38 },
+        ],
+      },
+    ],
+    prescription: `Tadalafil (Cialis) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Tadalafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Tadalafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Tadalafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking tadalafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Tadalafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Tadalafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking tadalafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take tadalafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Tadalafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take tadalafil before sexual activity. Tadalafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking tadalafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take tadalafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take tadalafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking tadalafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take tadalafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take tadalafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with tadalafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking tadalafil for erectile dysfunction, your doctor will probably start you on an average dose of tadalafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if tadalafil is not working well or if you are experiencing side effects.
+
+    If you are taking tadalafil for PAH, you should know that tadalafil controls PAH but does not cure it. Continue to take tadalafil even if you feel well. Do not stop taking tadalafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 394,
+    name: "Vigora",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 170,
+    star: 4,
+    price: "0.64",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "German Remedies",
+    image: Vigora,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 59.26, pricePerBottle: 0.99 },
+          { count: 120, price: 103.7, pricePerBottle: 0.86 },
+          { count: 240, price: 192.59, pricePerBottle: 0.8 },
+          { count: 300, price: 237.04, pricePerBottle: 0.79 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Vigra) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Sildenafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking Sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking Sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take Sildenafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Sildenafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take Sildenafil before sexual activity. Sildenafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking Sildenafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Sildenafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking Sildenafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take Sildenafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take Sildenafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with Sildenafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking Sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of Sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if Sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking Sildenafil for PAH, you should know that Sildenafil controls PAH but does not cure it. Continue to take Sildenafil even if you feel well. Do not stop taking Sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 395,
+    name: "Vilitra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Vardenafil",
+    rating: 141,
+    star: 5,
+    price: "1.31",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Centurion Laboratories",
+    image: vilitra,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 52.59, pricePerBottle: 1.75 },
+          { count: 60, price: 90.37, pricePerBottle: 1.51 },
+          { count: 120, price: 165.93, pricePerBottle: 1.38 },
+          { count: 240, price: 317.04, pricePerBottle: 1.32 },
+          { count: 300, price: 392.59, pricePerBottle: 1.31 },
+        ],
+      },
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 63.7, pricePerBottle: 2.12 },
+          { count: 60, price: 112.59, pricePerBottle: 1.88 },
+          { count: 120, price: 210.37, pricePerBottle: 1.75 },
+          { count: 240, price: 405.93, pricePerBottle: 1.69 },
+          { count: 300, price: 503.7, pricePerBottle: 1.68 },
+        ],
+      },
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 85.93, pricePerBottle: 2.86 },
+          { count: 60, price: 157.04, pricePerBottle: 2.62 },
+          { count: 120, price: 299.26, pricePerBottle: 2.49 },
+          { count: 240, price: 583.7, pricePerBottle: 2.43 },
+          { count: 300, price: 725.93, pricePerBottle: 2.42 },
+        ],
+      },
+      {
+        mg: "60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 110.37, pricePerBottle: 3.68 },
+          { count: 60, price: 205.93, pricePerBottle: 3.43 },
+          { count: 120, price: 397.04, pricePerBottle: 3.31 },
+          { count: 240, price: 779.26, pricePerBottle: 3.25 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Vigra) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Sildenafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking Sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking Sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take Sildenafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Sildenafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take Sildenafil before sexual activity. Sildenafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking Sildenafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Sildenafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking Sildenafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take Sildenafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take Sildenafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with Sildenafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking Sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of Sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if Sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking Sildenafil for PAH, you should know that Sildenafil controls PAH but does not cure it. Continue to take Sildenafil even if you feel well. Do not stop taking Sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 396,
+    name: "Viproga",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 92,
+    star: 4,
+    price: "0.64",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Vipro Life Science",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Vigra) is used to treat erectile dysfunction (ED, impotence; inability to get or keep an erection), and the symptoms of benign prostatic hyperplasia (BPH; an enlarged prostate) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency in adult men. Sildenafil (Adcirca) is used to improve the ability to exercise in people with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works to treat erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow more easily.
+
+    If you are taking Sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet to take by mouth. It may be taken with or without food.
+
+    If you are taking Sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. There are two different ways to take Sildenafil, either daily or on an as needed basis. Talk to your doctor about which dosing schedule is right for you. Sildenafil is sometimes taken as needed, usually at least 30 minutes before sexual activity and not more often than once every 24 hours. Your doctor will help you decide the best time for you to take Sildenafil before sexual activity. Sildenafil is also sometimes taken once a day every day without regard to timing of sexual activity. You may attempt sexual activity at any time between doses. If you are taking Sildenafil on a regular schedule, take it at around the same time every day. If you have certain health conditions or are taking certain medications, your doctor may tell you to take Sildenafil less often or may prescribe a lower dose to be taken once a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    If you are taking Sildenafil to treat PAH or BPH, follow your doctor's directions and the guidelines in this paragraph. You should take Sildenafil one time a day. Take all of the tablets for your daily dose at one time each day; do not divide the tablets to take as separate doses. Take Sildenafil at around the same time every day. If you are already taking medication to treat BPH, your doctor may tell you to stop taking your other medication at least one day before starting treatment with Sildenafil. Follow your doctor's directions carefully, and ask your doctor or pharmacist to explain any part you do not understand.`,
+    additionalDetials: `If you are taking Sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of Sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if Sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking Sildenafil for PAH, you should know that Sildenafil controls PAH but does not cure it. Continue to take Sildenafil even if you feel well. Do not stop taking Sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 397,
+    name: "Vitara V 20",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Vardenafil",
+    rating: 101,
+    star: 4,
+    price: "1.23",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Signature Pharmaseuticals Ltd.",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "V20 20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 50.37, pricePerBottle: 1.68 },
+          { count: 60, price: 85.93, pricePerBottle: 1.43 },
+          { count: 120, price: 157.04, pricePerBottle: 1.31 },
+          { count: 240, price: 299.26, pricePerBottle: 1.25 },
+          { count: 300, price: 370.37, pricePerBottle: 1.23 },
+        ],
+      },
+    ],
+    prescription: `Vardenafil is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Vardenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Vardenafil does not cure erectile dysfunction or increase sexual desire. Vardenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Vardenafil comes as a tablet and a rapidly disintegrating (dissolves in the mouth and is swallowed without water) tablet to take by mouth. It is usually taken as needed, with or without food, 60 minutes before sexual activity. Vardenafil usually should not be taken more often than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take vardenafil less often. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take vardenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are taking the rapidly disintegrating tablet, check the blister pack before you take your first dose. Do not use any of the medication from the pack if any of the blisters are torn, broken, or do not contain tablets. Follow the package directions to remove the tablet from the blister package. Do not try to push the tablet through the foil. After you remove the tablet from the blister package, immediately place it on your tongue and close your mouth. The tablet will quickly dissolve. Do not take the rapidly disintegrating tablet with water or other liquids.
+    
+    Your doctor will probably start you on an average dose of vardenafil tablets and increase or decrease your dose depending on your response to the medication. If you are taking the rapidly disintegrating tablets, your doctor will not be able to adjust your dose because the rapidly disintegrating tablets are only available in one strength. If you need a higher or lower dose, your doctor may prescribe the regular tablets instead. Tell your doctor if vardenafil is not working well or if you are experiencing side effects.`,
+    additionalDetials: `Vardenafil rapidly disintegrating tablets cannot be substituted for vardenafil tablets. Be sure that you receive only the type of vardenafil that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of vardenafil you were given.`,
+  },
+  {
+    productId: 398,
+    name: "Vitria",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Vardenafil",
+    rating: 65,
+    star: 4,
+    price: "2.49",
+    type: "strip",
+    typeName: "strip",
+    ManufacturedBy: "Aavishkaar Oral Strips Pvt. Ltd",
+    image: vitria,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 88.15, pricePerBottle: 2.94 },
+          { count: 60, price: 161.48, pricePerBottle: 2.69 },
+          { count: 120, price: 308.15, pricePerBottle: 2.57 },
+          { count: 240, price: 601.48, pricePerBottle: 2.51 },
+          { count: 300, price: 748.15, pricePerBottle: 2.49 },
+        ],
+      },
+    ],
+    prescription: `Vardenafil is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Vardenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. It works by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Vardenafil does not cure erectile dysfunction or increase sexual desire. Vardenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Vardenafil comes as a tablet and a rapidly disintegrating (dissolves in the mouth and is swallowed without water) tablet to take by mouth. It is usually taken as needed, with or without food, 60 minutes before sexual activity. Vardenafil usually should not be taken more often than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take vardenafil less often. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take vardenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are taking the rapidly disintegrating tablet, check the blister pack before you take your first dose. Do not use any of the medication from the pack if any of the blisters are torn, broken, or do not contain tablets. Follow the package directions to remove the tablet from the blister package. Do not try to push the tablet through the foil. After you remove the tablet from the blister package, immediately place it on your tongue and close your mouth. The tablet will quickly dissolve. Do not take the rapidly disintegrating tablet with water or other liquids.
+    
+    Your doctor will probably start you on an average dose of vardenafil tablets and increase or decrease your dose depending on your response to the medication. If you are taking the rapidly disintegrating tablets, your doctor will not be able to adjust your dose because the rapidly disintegrating tablets are only available in one strength. If you need a higher or lower dose, your doctor may prescribe the regular tablets instead. Tell your doctor if vardenafil is not working well or if you are experiencing side effects.`,
+    additionalDetials: `Vardenafil rapidly disintegrating tablets cannot be substituted for vardenafil tablets. Be sure that you receive only the type of vardenafil that was prescribed by your doctor. Ask your pharmacist if you have any questions about the type of vardenafil you were given.`,
+  },
+  {
+    productId: 399,
+    name: "Zenegra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 41,
+    star: 4,
+    price: "0.49",
+    type: "strip",
+    typeName: "strip",
+    ManufacturedBy: "Aavishkaar Oral Strips Pvt. Ltd",
+    image: zenegra,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 400,
+    name: "Zhewitra",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Vardenafil",
+    rating: 196,
+    star: 4,
+    price: "2.42",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Sunrise Remedies",
+    image: zenegra,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 85.93, pricePerBottle: 2.86 },
+          { count: 60, price: 157.04, pricePerBottle: 2.62 },
+          { count: 120, price: 299.26, pricePerBottle: 2.49 },
+          { count: 240, price: 583.7, pricePerBottle: 2.43 },
+          { count: 300, price: 725.93, pricePerBottle: 2.42 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 401,
+    name: "Zudena",
+    categoryName: "ERECTILE DYSFUNCTION",
+    activeIngredient: "Udenafil",
+    rating: 86,
+    star: 5,
+    price: "55.82",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Sunrise Remedies",
+    image: zydena,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "4 tabs /pack 100",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 69.7, pricePerBottle: 69.7 },
+          { count: 2, price: 124.59, pricePerBottle: 62.3 },
+          { count: 4, price: 234.93, pricePerBottle: 58.59 },
+          { count: 8, price: 453.93, pricePerBottle: 56.74 },
+          { count: 16, price: 893.04, pricePerBottle: 55.82 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 402,
+    name: "Applicators for Lumigan",
+    categoryName: "EYE CARE",
+    activeIngredient: "",
+    rating: 73,
+    star: 5,
+    price: "14.26",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "",
+    image: pForce,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "30 pieces pack",
+        unit: "",
+        bottle: [
+          { count: 2, price: 41.48, pricePerBottle: 20.74 },
+          { count: 4, price: 68.15, pricePerBottle: 17.04 },
+          { count: 8, price: 121.48, pricePerBottle: 15.19 },
+          { count: 16, price: 228.15, pricePerBottle: 14.26 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
   },
 ];
