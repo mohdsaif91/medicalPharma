@@ -7,6 +7,8 @@ import Cart from "../../images/icon/shopping-cart-empty-side-view.png";
 import Auth from "../../images/icon/user.png";
 import Logo from "../../images/logo.jpg";
 import { masterData } from "../../data/masterData";
+import navigationIcon from "../../images/icon/navigation-bar.png";
+import crossIcon from "../../images/icon/close.png";
 
 import style from "./header.module.scss";
 // import globalStyle from "../../app.module.scss";
@@ -14,6 +16,7 @@ import style from "./header.module.scss";
 const Header = () => {
   const [selectValue, setSelectedValue] = useState(null);
   const [options, setOptions] = useState([]);
+  const [menuOpen, setMenuOpen] = useState(false);
 
   const navigate = useNavigate();
   const loacation = useLocation();
@@ -32,13 +35,16 @@ const Header = () => {
     setSelectedValue(selectedOption);
     navigate(`/productView/${selectedOption.value}`);
   };
+  console.log(menuOpen);
 
   return (
     <div className={style.headerContainer}>
       <div className={style.firstRow}>
-        <span className={style.redHeading}>CORONAVIRUS! </span>
-        Prepare, don't panic. Here's what you need to keep the disease at bay.
-        Know more
+        <div className={style.redHeading}>CORONAVIRUS! </div>
+        <div className={style.redHeadingSub}>
+          Prepare, don't panic. Here's what you need to keep the disease at bay.
+          Know more
+        </div>
       </div>
       <div className={style.secondRow}>
         <div className={style.primaryItems}>
@@ -50,7 +56,7 @@ const Header = () => {
                 className={style.logoImage}
                 src={Logo}
               />
-              <span>united</span>
+              <span className={style.mainLogoHeading}>united</span>
             </div>
             <div className={style.logoName}> healthcare pharmacy</div>
           </div>
@@ -128,6 +134,35 @@ const Header = () => {
             <div className={style.iconContainer}>
               <img className={style.headerIcon} src={Auth} alt="Auth" />
             </div>
+          </div>
+        </div>
+        <div className={style.navigationIcon}>
+          <img
+            onClick={() => setMenuOpen(!menuOpen)}
+            className={style.naviIcon}
+            src={navigationIcon}
+            alt=""
+          />
+        </div>
+        <input
+          id="menuOpner"
+          className={style.menuCheckbox}
+          type="checkbox"
+          checked={menuOpen}
+        />
+
+        <div className={style.mobileNavigateionContainer}>
+          <div className={style.menuContainer}>
+            <div className={style.menuHeader}>
+              <div className={style.headerText}>United Healtcare Pharmacy</div>
+              <img
+                onClick={() => setMenuOpen(false)}
+                className={style.closeIcon}
+                src={crossIcon}
+                alt="close"
+              />
+            </div>
+            <div className={style.MenuRoutList}></div>
           </div>
         </div>
       </div>

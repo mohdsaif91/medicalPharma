@@ -61,7 +61,10 @@
         }
       }
     }
-    .dealContainer {
+    .dealContainerMobile {
+      display: none;
+    }
+    .dealContainerDesktop {
       display: grid;
       grid-template-columns: 19% 19% 19% 19% 19%;
       grid-gap: 1%;
@@ -132,4 +135,63 @@
 .borderBottom {
   padding-top: 24px;
   border-bottom: 1px solid #333;
+}
+
+@media (max-width: 600px) {
+  .homeContainer {
+    .heroContainer {
+      margin: 12px 0;
+      .serviceCards {
+        margin: 12px 8px;
+        .serviceCardsItem {
+          padding: 8px;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          .cardIcon {
+            margin-right: 0;
+          }
+          .serviceCardText {
+            .serviceCardTextMain {
+              margin-top: 4px;
+              font-size: 12px;
+            }
+            .serviceCardTextsub {
+              font-size: 10px;
+              margin-top: 4px;
+              text-align: center;
+            }
+          }
+        }
+      }
+    }
+    .container {
+      margin: 15px;
+      .containerHeading {
+        font-size: 16px;
+      }
+      .certificatesList {
+        display: grid;
+        grid-template-columns: auto auto;
+        place-items: center;
+        gap: 3%;
+      }
+      .categoryContainerParent {
+        .categoryContainer {
+          padding-left: 0;
+          grid-template-columns: auto auto;
+          .categoryItem {
+            padding: 8px;
+            font-size: 14px;
+            margin: 0 8px 8px 0;
+          }
+        }
+      }
+    }
+  }
+  .serviceCards {
+    .dealContainerMobile {
+      display: block;
+    }
+  }
 }

@@ -82,3 +82,15 @@
     }
   }
 }
+
+@media (max-width: 600px) {
+  .footerContainer {
+    .conatinerOne {
+      margin: 24px 0;
+      flex-direction: column;
+      .footerLinks {
+        margin: 8px 0;
+      }
+    }
+  }
+}

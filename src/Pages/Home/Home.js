@@ -1,5 +1,6 @@
 import React from "react";
 import { Carousel } from "react-responsive-carousel";
+import { useNavigate } from "react-router-dom";
 
 import hero1 from "../../images/heroBanner1.jpg";
 import hero2 from "../../images/heroBanner2.jpg";
@@ -8,7 +9,6 @@ import Medicen from "../../images/medicine.png";
 import Truck from "../../images/shipped.png";
 import CreditCard from "../../images/credit-card.png";
 import Message from "../../images/conversation.png";
-import vigra from "../../images/products/vigra.gif";
 import Hacker from "../../images/certificates/hackerSafe.jpg";
 import Postal from "../../images/certificates/postalservice.jpg";
 import EMS from "../../images/certificates/ems.jpg";
@@ -16,12 +16,12 @@ import Eagle from "../../images/certificates/eagle.png";
 import Verisign from "../../images/certificates/verisign.png";
 import Visa from "../../images/certificates/vis.png";
 import checker from "../../images/certificates/checker.png";
+import { category, masterData } from "../../data/masterData";
+import noImage from "../../images/noImage.jpg";
 
-import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import style from "./home.module.scss";
 import globalStyle from "../../app.module.scss";
-import { category } from "../../data/masterData";
-import { useNavigate } from "react-router-dom";
+import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 const Home = () => {
   const navigate = useNavigate();
@@ -30,6 +30,12 @@ const Home = () => {
     const formatedcategoryValue = categoryValue.split(" ").join("-");
     navigate(`/productByCategory/${formatedcategoryValue}`);
   };
+
+  const generateRandomProduct = () => {
+    const randomNumber = Math.floor(Math.random() * masterData.length + 1);
+    return masterData.slice(randomNumber, randomNumber + 5);
+  };
+
   return (
     <div className={style.homeContainer}>
       <div className={style.heroContainer}>
@@ -54,28 +60,34 @@ const Home = () => {
             <img src={Medicen} alt="" className={style.cardIcon} />
             <div className={style.serviceCardText}>
               <div className={style.serviceCardTextMain}>Reliable</div>
-              <div>over 25K products</div>
+              <div className={style.serviceCardTextsub}>over 25K products</div>
             </div>
           </div>
           <div className={style.serviceCardsItem}>
             <img src={Truck} alt="" className={style.cardIcon} />
             <div className={style.serviceCardText}>
               <div className={style.serviceCardTextMain}>90 days return</div>
-              <div>If goods have problem</div>
+              <div className={style.serviceCardTextsub}>
+                If goods have problem
+              </div>
             </div>
           </div>
           <div className={style.serviceCardsItem}>
             <img src={CreditCard} alt="" className={style.cardIcon} />
             <div className={style.serviceCardText}>
               <div className={style.serviceCardTextMain}>Secure Payment</div>
-              <div>100% secure payment</div>
+              <div className={style.serviceCardTextsub}>
+                100% secure payment
+              </div>
             </div>
           </div>
           <div className={style.serviceCardsItem}>
             <img src={Message} alt="" className={style.cardIcon} />
             <div className={style.serviceCardText}>
               <div className={style.serviceCardTextMain}>24/7 Support</div>
-              <div>Dedicated support in 24h</div>
+              <div className={style.serviceCardTextsub}>
+                Dedicated support in 24h
+              </div>
             </div>
           </div>
         </div>
@@ -101,158 +113,92 @@ const Home = () => {
           Deals of the day
           {/* <div className={style.borderBottom} /> */}
         </div>
-        <div className={style.dealContainer}>
-          <div className={style.dealCard}>
-            <div className={style.cardTitle}>Generic Viagra</div>
-            <img className={style.dealCardImage} src={vigra} alt="" />
-            <div className={style.cardSubTitle}>
-              <div className={style.cardTitleLabel}>Active ingredient:</div>
-              <span className={style.cardTitleMain}>Sildenafil Citrate</span>
+        <div className={style.dealContainerDesktop}>
+          {generateRandomProduct().map((m) => (
+            <div className={style.dealCard}>
+              <div className={style.cardTitle}>{m.name}</div>
+              <img
+                className={style.dealCardImage}
+                src={m.image === "" ? noImage : m.image}
+                alt=""
+              />
+              <div className={style.cardSubTitle}>
+                <div className={style.cardTitleLabel}>Active ingredient:</div>
+                <span className={style.cardTitleMain}>Sildenafil Citrate</span>
+              </div>
+              <div className={style.starRating}>
+                {[...Array(5)].map((star, index) => {
+                  return (
+                    <span
+                      key={index}
+                      className={`${style.starItem} ${
+                        index + 1 <= 4 ? style.on : style.of
+                      }`}
+                    >
+                      &#9733;
+                    </span>
+                  );
+                })}
+              </div>
+              <div className={style.homeBtnContainer}>
+                <button className={`${globalStyle.btn} ${style.buyBtn}`}>
+                  Buy now
+                </button>
+                <button className={`${globalStyle.btn} ${style.cartBtn}`}>
+                  Add to cart
+                </button>
+              </div>
             </div>
-            <div className={style.starRating}>
-              {[...Array(5)].map((star, index) => {
-                return (
-                  <span
-                    key={index}
-                    className={`${style.starItem} ${
-                      index + 1 <= 4 ? style.on : style.of
-                    }`}
-                  >
-                    &#9733;
-                  </span>
-                );
-              })}
-            </div>
-            <div className={style.homeBtnContainer}>
-              <button className={`${globalStyle.btn} ${style.buyBtn}`}>
-                Buy now
-              </button>
-              <button className={`${globalStyle.btn} ${style.cartBtn}`}>
-                Add to cart
-              </button>
-            </div>
-          </div>
-          <div className={style.dealCard}>
-            <div className={style.cardTitle}>Generic Viagra</div>
-            <img className={style.dealCardImage} src={vigra} alt="" />
-            <div className={style.cardSubTitle}>
-              <div className={style.cardTitleLabel}>Active ingredient:</div>
-              <span className={style.cardTitleMain}>Sildenafil Citrate</span>
-            </div>
-            <div className={style.starRating}>
-              {[...Array(5)].map((star, index) => {
-                return (
-                  <span
-                    key={index}
-                    className={`${style.starItem} ${
-                      index + 1 <= 4 ? style.on : style.of
-                    }`}
-                  >
-                    &#9733;
-                  </span>
-                );
-              })}
-            </div>
-            <div className={style.homeBtnContainer}>
-              <button className={`${globalStyle.btn} ${style.buyBtn}`}>
-                Buy now
-              </button>
-              <button className={`${globalStyle.btn} ${style.cartBtn}`}>
-                Add to cart
-              </button>
-            </div>
-          </div>
-          <div className={style.dealCard}>
-            <div className={style.cardTitle}>Generic Viagra</div>
-            <img className={style.dealCardImage} src={vigra} alt="" />
-            <div className={style.cardSubTitle}>
-              <div className={style.cardTitleLabel}>Active ingredient:</div>
-              <span className={style.cardTitleMain}>Sildenafil Citrate</span>
-            </div>
-            <div className={style.starRating}>
-              {[...Array(5)].map((star, index) => {
-                return (
-                  <span
-                    key={index}
-                    className={`${style.starItem} ${
-                      index + 1 <= 4 ? style.on : style.of
-                    }`}
-                  >
-                    &#9733;
-                  </span>
-                );
-              })}
-            </div>
-            <div className={style.homeBtnContainer}>
-              <button className={`${globalStyle.btn} ${style.buyBtn}`}>
-                Buy now
-              </button>
-              <button className={`${globalStyle.btn} ${style.cartBtn}`}>
-                Add to cart
-              </button>
-            </div>
-          </div>
-          <div className={style.dealCard}>
-            <div className={style.cardTitle}>Generic Viagra</div>
-            <img className={style.dealCardImage} src={vigra} alt="" />
-            <div className={style.cardSubTitle}>
-              <div className={style.cardTitleLabel}>Active ingredient:</div>
-              <span className={style.cardTitleMain}>Sildenafil Citrate</span>
-            </div>
-            <div className={style.starRating}>
-              {[...Array(5)].map((star, index) => {
-                return (
-                  <span
-                    key={index}
-                    className={`${style.starItem} ${
-                      index + 1 <= 4 ? style.on : style.of
-                    }`}
-                  >
-                    &#9733;
-                  </span>
-                );
-              })}
-            </div>
-            <div className={style.homeBtnContainer}>
-              <button className={`${globalStyle.btn} ${style.buyBtn}`}>
-                Buy now
-              </button>
-              <button className={`${globalStyle.btn} ${style.cartBtn}`}>
-                Add to cart
-              </button>
-            </div>
-          </div>
-          <div className={style.dealCard}>
-            <div className={style.cardTitle}>Generic Viagra</div>
-            <img className={style.dealCardImage} src={vigra} alt="" />
-            <div className={style.cardSubTitle}>
-              <div className={style.cardTitleLabel}>Active ingredient:</div>
-              <span className={style.cardTitleMain}>Sildenafil Citrate</span>
-            </div>
-            <div className={style.starRating}>
-              {[...Array(5)].map((star, index) => {
-                return (
-                  <span
-                    key={index}
-                    className={`${style.starItem} ${
-                      index + 1 <= 4 ? style.on : style.of
-                    }`}
-                  >
-                    &#9733;
-                  </span>
-                );
-              })}
-            </div>
-            <div className={style.homeBtnContainer}>
-              <button className={`${globalStyle.btn} ${style.buyBtn}`}>
-                Buy now
-              </button>
-              <button className={`${globalStyle.btn} ${style.cartBtn}`}>
-                Add to cart
-              </button>
-            </div>
-          </div>
+          ))}
         </div>
+        <div className={style.dealContainerMobile}>
+          <Carousel
+            autoPlay={true}
+            infiniteLoop={true}
+            showStatus={false}
+            showThumbs={false}
+          >
+            {generateRandomProduct().map((m) => (
+              <div className={style.dealCard}>
+                <div className={style.cardTitle}>{m.name}</div>
+                <img
+                  className={style.dealCardImage}
+                  src={m.image === "" ? noImage : m.image}
+                  alt=""
+                />
+                <div className={style.cardSubTitle}>
+                  <div className={style.cardTitleLabel}>Active ingredient:</div>
+                  <span className={style.cardTitleMain}>
+                    Sildenafil Citrate
+                  </span>
+                </div>
+                <div className={style.starRating}>
+                  {[...Array(5)].map((star, index) => {
+                    return (
+                      <span
+                        key={index}
+                        className={`${style.starItem} ${
+                          index + 1 <= 4 ? style.on : style.of
+                        }`}
+                      >
+                        &#9733;
+                      </span>
+                    );
+                  })}
+                </div>
+                <div className={style.homeBtnContainer}>
+                  <button className={`${globalStyle.btn} ${style.buyBtn}`}>
+                    Buy now
+                  </button>
+                  <button className={`${globalStyle.btn} ${style.cartBtn}`}>
+                    Add to cart
+                  </button>
+                </div>
+              </div>
+            ))}
+          </Carousel>
+        </div>
+        <div></div>
       </div>
       <div className={style.container}>
         <div className={`${style.containerHeading}`}>Certificates</div>

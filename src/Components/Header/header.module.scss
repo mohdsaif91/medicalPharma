@@ -51,6 +51,9 @@
         }
       }
     }
+    .navigationIcon {
+      display: none;
+    }
     .secondaryItems {
       display: flex;
       align-items: center;
@@ -110,4 +113,104 @@
   // margin-top: 4px;
   color: #000 !important;
   border-bottom: 2.5px solid #333;
+}
+.mobileMenuBtn {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .headerContainer {
+    .firstRow {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 4px;
+      .redHeading {
+        font-size: 14px;
+      }
+      .redHeadingSub {
+        font-size: 10px;
+        text-align: center;
+      }
+    }
+    .secondRow {
+      .primaryItems {
+        .logoAndNameContainer {
+          padding: 8px;
+          .mainLogoHeading {
+            display: none;
+          }
+          .logoImage {
+            height: 32px;
+            width: 40px;
+          }
+        }
+        .inputContainer {
+          width: 240px;
+        }
+        .logoName {
+          display: none;
+        }
+      }
+      padding: 6px 4px;
+      .navigationIcon {
+        margin-right: 14px;
+        display: block;
+        .naviIcon {
+          height: 32px;
+        }
+      }
+      .secondaryItems {
+        display: none;
+      }
+    }
+  }
+  .mobileMenuBtn {
+    display: block;
+  }
+  nav p {
+    display: none;
+  }
+  .mobileMenu {
+    display: none;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+}
+.menuCheckbox {
+  display: none;
+}
+
+.menuCheckbox:checked ~ .mobileNavigateionContainer {
+  display: block;
+  animation: slide-in 0.5s ease;
+  animation-fill-mode: forwards;
+}
+
+.mobileNavigateionContainer {
+  position: fixed;
+  display: none;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-color: $borderColor;
+  z-index: 9;
+  .menuContainer {
+    padding: 32px 16px;
+    .menuHeader {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      .headerText {
+        font-weight: 600;
+        font-size: 24px;
+      }
+      .closeIcon {
+        height: 30px;
+      }
+    }
+  }
 }
