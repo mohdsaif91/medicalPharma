@@ -17,3 +17,12 @@
     gap: 1%;
   }
 }
+
+@media (max-width: 600px) {
+  .productContainer {
+    .productList {
+      grid-template-columns: 100%;
+      gap: 0;
+    }
+  }
+}

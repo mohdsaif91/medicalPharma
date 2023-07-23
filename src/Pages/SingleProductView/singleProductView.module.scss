@@ -140,3 +140,49 @@
     }
   }
 }
+
+@media (max-width: 600px) {
+  .singleProductContainer {
+    flex-direction: column;
+    .productImageContainer {
+      margin-left: 0;
+    }
+    .productDetialsContainer {
+      margin-left: 0;
+      width: auto;
+    }
+    .productDeliveryMessage {
+      margin-left: 0;
+      width: auto;
+    }
+  }
+  .productquantity {
+    padding: 0;
+    .productTableContainer {
+      .productQuantityTable {
+        .tabledata {
+          padding: 0;
+          font-size: 14px;
+          .inputContainer {
+            .input {
+              width: 12px;
+            }
+            .minusBtn {
+              height: 16px;
+            }
+            .plusBtn {
+              height: 16px;
+            }
+          }
+          .orderBtn {
+            font-size: 12px !important;
+            padding: 8px !important;
+          }
+        }
+        .tableHeaderRow {
+          font-size: 14px;
+        }
+      }
+    }
+  }
+}

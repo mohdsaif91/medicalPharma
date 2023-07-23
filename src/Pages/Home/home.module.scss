@@ -187,11 +187,13 @@
           }
         }
       }
-    }
-  }
-  .serviceCards {
-    .dealContainerMobile {
-      display: block;
+      .dealContainerMobile {
+        display: block;
+        margin-top: 24px;
+      }
+      .dealContainerDesktop {
+        display: none;
+      }
     }
   }
 }

@@ -35,7 +35,6 @@ const Header = () => {
     setSelectedValue(selectedOption);
     navigate(`/productView/${selectedOption.value}`);
   };
-  console.log(menuOpen);
 
   return (
     <div className={style.headerContainer}>
@@ -124,9 +123,6 @@ const Header = () => {
               <a className={style.removeUnderLine} href="tel:7577675778">
                 757-7675778
               </a>
-              {/* <a className={style.removeUnderLine} href="tel:555-666-7777">
-                555-666-7777
-              </a> */}
             </div>
             <div className={style.iconContainer}>
               <img className={style.headerIcon} src={Cart} alt="Cart" />
@@ -151,7 +147,11 @@ const Header = () => {
           checked={menuOpen}
         />
 
-        <div className={style.mobileNavigateionContainer}>
+        <div
+          className={`${style.mobileNavigateionContainer} ${
+            menuOpen ? style.disBloack : style.disNone
+          }`}
+        >
           <div className={style.menuContainer}>
             <div className={style.menuHeader}>
               <div className={style.headerText}>United Healtcare Pharmacy</div>
@@ -162,7 +162,76 @@ const Header = () => {
                 alt="close"
               />
             </div>
-            <div className={style.MenuRoutList}></div>
+            <div className={style.MenuRoutList}>
+              <div className={style.mobileLinkContainer}>
+                <Link
+                  onClick={() => setTimeout(() => setMenuOpen(false), 500)}
+                  className={`${style.listItemLinkMobile} ${
+                    loacation.pathname === "/" && style.active
+                  }`}
+                  to="/"
+                >
+                  Home
+                </Link>
+              </div>
+              <div className={style.mobileLinkContainer}>
+                <Link
+                  onClick={() => setTimeout(() => setMenuOpen(false), 500)}
+                  className={`${style.listItemLinkMobile} ${
+                    loacation.pathname === "/product" && style.active
+                  }`}
+                  to="/product"
+                >
+                  Product
+                </Link>
+              </div>
+              <div className={style.mobileLinkContainer}>
+                <Link
+                  onClick={() => setTimeout(() => setMenuOpen(false), 500)}
+                  className={`${style.listItemLinkMobile} ${
+                    loacation.pathname === "/about" && style.active
+                  }`}
+                  to="/about"
+                >
+                  About us
+                </Link>
+              </div>
+              <div className={style.mobileLinkContainer}>
+                <Link
+                  onClick={() => setTimeout(() => setMenuOpen(false), 500)}
+                  className={`${style.listItemLinkMobile} ${
+                    loacation.pathname === "/contact" && style.active
+                  }`}
+                  to="/contact"
+                >
+                  Contact us
+                </Link>
+              </div>
+            </div>
+            <div className={style.mobileNavContact}>
+              <div className={style.iconContainerMobile}>
+                <img
+                  className={style.headerIconMobile}
+                  src={Phone}
+                  alt="phone"
+                />
+                <a className={style.removeUnderLine} href="tel:7577675778">
+                  757-7675778
+                </a>
+              </div>
+              <div className={style.iconContainerMobile}>
+                <img className={style.headerIconMobile} src={Cart} alt="Cart" />
+                <a className={style.removeUnderLine} href="/#">
+                  Cart
+                </a>
+              </div>
+              <div className={style.iconContainerMobile}>
+                <img className={style.headerIconMobile} src={Auth} alt="Auth" />
+                <a className={style.removeUnderLine} href="/#">
+                  Login
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>

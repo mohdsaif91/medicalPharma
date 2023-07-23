@@ -15,6 +15,7 @@
       font-weight: 600;
     }
     .activeIngredientvalue {
+      word-wrap: break-word;
       font-weight: 600;
     }
   }
@@ -69,6 +70,21 @@
       background-color: $primaryButtonColor;
       font-weight: 600;
       color: $headerPrimaryColor;
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  .productItem {
+    .activeIngradient {
+      margin: 12px 0;
+      text-align: center;
+      .activeingredientlabel {
+        font-size: 10px;
+      }
+      .activeIngredientvalue {
+        font-size: 18px;
+      }
     }
   }
 }

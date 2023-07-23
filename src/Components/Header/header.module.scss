@@ -184,14 +184,20 @@
 }
 
 .menuCheckbox:checked ~ .mobileNavigateionContainer {
-  display: block;
   animation: slide-in 0.5s ease;
   animation-fill-mode: forwards;
 }
 
+.disBloack {
+  display: block;
+}
+.disNone {
+  display: none;
+}
+
 .mobileNavigateionContainer {
   position: fixed;
-  display: none;
+
   top: 0;
   bottom: 0;
   right: 0;
@@ -210,6 +216,52 @@
       }
       .closeIcon {
         height: 30px;
+      }
+    }
+  }
+  .MenuRoutList {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 96px 8px;
+    .mobileLinkContainer {
+      margin-bottom: 24px;
+      .listItemLinkMobile {
+        padding: 8px;
+        font-size: 48px;
+        text-decoration: none;
+      }
+    }
+  }
+  .mobileNavContact {
+    display: flex;
+    flex-direction: column;
+    .iconContainerMobile {
+      display: flex;
+      // justify-content: center;
+      align-items: center;
+      margin-bottom: 12px;
+
+      .removeUnderLine {
+        font-size: 40px;
+        text-decoration: none;
+      }
+      .headerIconMobile {
+        margin-right: 16px;
+        height: 56px;
+        width: 56px;
+      }
+    }
+  }
+}
+@media (max-width: 400px) {
+  .headerContainer {
+    .secondRow {
+      .primaryItems {
+        .inputContainer {
+          width: 220px;
+        }
       }
     }
   }
