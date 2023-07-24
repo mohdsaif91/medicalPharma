@@ -186,3 +186,14 @@
     }
   }
 }
+
+@media (max-width: 720px) {
+  .singleProductContainer {
+    .productImageContainer {
+      .productImage {
+        height: 160px;
+        width: 160px;
+      }
+    }
+  }
+}

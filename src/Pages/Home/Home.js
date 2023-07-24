@@ -31,9 +31,134 @@ const Home = () => {
     navigate(`/productByCategory/${formatedcategoryValue}`);
   };
 
-  const generateRandomProduct = () => {
+  const generateRandomProduct = (extendedNumber) => {
     const randomNumber = Math.floor(Math.random() * masterData.length + 1);
-    return masterData.slice(randomNumber, randomNumber + 5);
+    return masterData.slice(randomNumber, randomNumber + extendedNumber);
+  };
+
+  const generateMobile = () => {
+    return generateRandomProduct(5).map((m) => (
+      <div className={style.dealCard}>
+        <div className={style.cardTitle}>{m.name}</div>
+        <img
+          className={style.dealCardImage}
+          src={m.image === "" ? noImage : m.image}
+          alt=""
+        />
+        <div className={style.cardSubTitle}>
+          <div className={style.cardTitleLabel}>Active ingredient:</div>
+          <span className={style.cardTitleMain}>Sildenafil Citrate</span>
+        </div>
+        <div className={style.starRating}>
+          {[...Array(5)].map((star, index) => {
+            return (
+              <span
+                key={index}
+                className={`${style.starItem} ${
+                  index + 1 <= 4 ? style.on : style.of
+                }`}
+              >
+                &#9733;
+              </span>
+            );
+          })}
+        </div>
+        <div className={style.homeBtnContainer}>
+          <button className={`${globalStyle.btn} ${style.buyBtn}`}>
+            Buy now
+          </button>
+          <button className={`${globalStyle.btn} ${style.cartBtn}`}>
+            Add to cart
+          </button>
+        </div>
+      </div>
+    ));
+  };
+
+  const generateTab = () => {
+    const generatedArray = generateRandomProduct(6);
+    return generatedArray.map((m, i) => {
+      return (
+        <div className={style.tabDealCard} key={i}>
+          <div className={style.dealCard}>
+            <div className={style.cardTitle}>{m.name}</div>
+            <img
+              className={style.dealCardImage}
+              src={m.image === "" ? noImage : m.image}
+              alt=""
+            />
+            <div className={style.cardSubTitle}>
+              <div className={style.cardTitleLabel}>Active ingredient:</div>
+              <span className={style.cardTitleMain}>Sildenafil Citrate</span>
+            </div>
+            <div className={style.starRating}>
+              {[...Array(5)].map((star, index) => {
+                return (
+                  <span
+                    key={index}
+                    className={`${style.starItem} ${
+                      index + 1 <= 4 ? style.on : style.of
+                    }`}
+                  >
+                    &#9733;
+                  </span>
+                );
+              })}
+            </div>
+            <div className={style.homeBtnContainer}>
+              <button className={`${globalStyle.btn} ${style.buyBtn}`}>
+                Buy now
+              </button>
+              <button className={`${globalStyle.btn} ${style.cartBtn}`}>
+                Add to cart
+              </button>
+            </div>
+          </div>
+          <div className={style.dealCard}>
+            <div className={style.cardTitle}>
+              {generatedArray[generatedArray.length === i + 1 ? i : i + 1].name}
+            </div>
+            <img
+              className={style.dealCardImage}
+              src={
+                generatedArray[generatedArray.length === i + 1 ? i : i + 1]
+                  .image === ""
+                  ? noImage
+                  : generatedArray[generatedArray.length === i + 1 ? i : i + 1]
+                      .image
+              }
+              alt=""
+            />
+            <div className={style.cardSubTitle}>
+              <div className={style.cardTitleLabel}>Active ingredient:</div>
+              <span className={style.cardTitleMain}>Sildenafil Citrate</span>
+            </div>
+            <div className={style.starRating}>
+              {[...Array(5)].map((star, index) => {
+                return (
+                  <span
+                    key={index}
+                    className={`${style.starItem} ${
+                      index + 1 <= 4 ? style.on : style.of
+                    }`}
+                  >
+                    &#9733;
+                  </span>
+                );
+              })}
+            </div>
+            <div className={style.homeBtnContainer}>
+              <button className={`${globalStyle.btn} ${style.buyBtn}`}>
+                Buy now
+              </button>
+              <button className={`${globalStyle.btn} ${style.cartBtn}`}>
+                Add to cart
+              </button>
+            </div>
+          </div>
+        </div>
+      );
+    });
   };
 
   return (
@@ -158,7 +283,10 @@ const Home = () => {
             showStatus={false}
             showThumbs={false}
           >
-            {generateRandomProduct().map((m) => (
+            {window.screen.width <= 800 && window.screen.width > 601
+              ? generateTab()
+              : generateMobile()}
+            {/* {generateRandomProduct().map((m) => (
               <div className={style.dealCard}>
                 <div className={style.cardTitle}>{m.name}</div>
                 <img
@@ -195,7 +323,7 @@ const Home = () => {
                   </button>
                 </div>
               </div>
-            ))}
+            ))} */}
           </Carousel>
         </div>
         <div></div>

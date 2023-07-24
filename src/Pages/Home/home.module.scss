@@ -81,10 +81,7 @@
           font-weight: 600;
           font-size: 24px;
         }
-        .dealCardImage {
-          height: 100px;
-          width: 100px;
-        }
+
         .cardSubTitle {
           font-size: 18px;
           margin-bottom: 24px;
@@ -104,19 +101,6 @@
             color: $borderColor;
           }
         }
-        .homeBtnContainer {
-          margin: 24px 16px;
-          display: flex;
-          flex-direction: column;
-          justify-content: space-between;
-          .buyBtn {
-            margin-bottom: 12px;
-            background-color: $primaryButtonColor;
-          }
-          .cartBtn {
-            background-color: $secondaryButtonColor;
-          }
-        }
       }
     }
     .certificatesList {
@@ -128,6 +112,23 @@
     }
   }
 }
+.dealCardImage {
+  height: 100px;
+  width: 70px;
+}
+.homeBtnContainer {
+  margin: 24px 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  .buyBtn {
+    margin-bottom: 12px;
+    background-color: $primaryButtonColor;
+  }
+  .cartBtn {
+    background-color: $secondaryButtonColor;
+  }
+}
 .containerHeading {
   font-weight: 600;
   font-size: 20px;
@@ -135,6 +136,11 @@
 .borderBottom {
   padding-top: 24px;
   border-bottom: 1px solid #333;
+}
+.tabDealCard {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
 
 @media (max-width: 600px) {
@@ -193,6 +199,59 @@
       }
       .dealContainerDesktop {
         display: none;
+      }
+    }
+  }
+}
+
+@media (max-width: 850px) {
+  .homeContainer {
+    .container {
+      margin: 24px 8px;
+      .certificatesList {
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+        gap: 30px;
+      }
+      .dealContainerMobile {
+        display: block;
+        margin-top: 24px;
+      }
+      .dealContainerDesktop {
+        display: none;
+      }
+    }
+    .heroContainer {
+      .serviceCards {
+        margin: 12px 8px;
+        .serviceCardsItem {
+          padding: 16px;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          .cardIcon {
+            margin-right: 0;
+          }
+          .serviceCardText {
+            .serviceCardTextMain {
+              margin-top: 4px;
+              font-size: 18px;
+            }
+            .serviceCardTextsub {
+              font-size: 14px;
+              margin-top: 4px;
+              text-align: center;
+            }
+          }
+        }
+      }
+    }
+    .container {
+      .categoryContainerParent {
+        .categoryContainer {
+          padding-left: 0;
+          grid-template-columns: auto auto auto;
+        }
       }
     }
   }

@@ -48,7 +48,7 @@ const Header = () => {
       <div className={style.secondRow}>
         <div className={style.primaryItems}>
           <div className={style.logoAndNameContainer}>
-            <div>
+            <div className={style.imgAndName}>
               <img
                 onClick={() => navigate("/")}
                 alt=""
