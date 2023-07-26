@@ -239,6 +239,30 @@ import vilitra from "../images/products/vilitra.gif";
 import vitria from "../images/products/vitria.jpg";
 import zenegra from "../images/products/zenegra.jpg";
 import zydena from "../images/products/zydena.gif";
+import azopt from "../images/products/azopt.gif";
+import bimatoprost from "../images/products/bimatoprost.gif";
+import Careprost_Eye_drops from "../images/products/Careprost_Eye_drops.jpeg";
+import actonel from "../images/products/actonel.gif";
+import FmlEyeDrop from "../images/products/FmlEyeDrop.gif";
+import Generic_Latisse_Ophthalmic from "../images/products/Generic_Latisse_Ophthalmic.jpeg";
+import Famocid from "../images/products/Famocid.gif";
+import aciphex from "../images/products/aciphex.gif";
+import albenza from "../images/products/albenza.gif";
+import asacol from "../images/products/asacol.gif";
+import colospa from "../images/products/colospa.gif";
+import dulcolax from "../images/products/dulcolax.gif";
+import duphalac from "../images/products/duphalac.gif";
+import aldactone from "../images/products/aldactone.gif";
+import arimidex from "../images/products/arimidex.gif";
+import AsthalinHFAInhaler from "../images/products/AsthalinHFAInhaler.gif";
+import Axepta from "../images/products/Axepta.gif";
+import Betnesol from "../images/products/Betnesol.gif";
+import Caberlin from "../images/products/Caberlin.gif";
+import calciumCarbonate from "../images/products/calcium-carbonate.gif";
+import colchicine_b from "../images/products/colchicine_b.gif";
+import fosamax from "../images/products/fosamax.gif";
+import duprost from "../images/products/duprost.gif";
+import Cobix from "../images/products/Cobix.gif";
 
 export const category = [
   "AIDS or HIV Treatment",
@@ -18692,5 +18716,1554 @@ If you are taking tadalafil to treat erectile dysfunction, you should know that 
     prescription: ``,
     howToUse: ``,
     additionalDetials: ``,
+  },
+  {
+    productId: 403,
+    name: "Azopt eye drop",
+    categoryName: "EYE CARE",
+    activeIngredient: "Brinzolamide",
+    rating: 77,
+    star: 4,
+    price: "74.96",
+    type: "bottle",
+    typeName: "bottle",
+    ManufacturedBy: "Alcon",
+    image: azopt,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1% 5",
+        unit: "ml",
+        bottle: [
+          { count: 1, price: 87.93, pricePerBottle: 87.93 },
+          { count: 2, price: 161.04, pricePerBottle: 80.52 },
+          { count: 4, price: 307.26, pricePerBottle: 76.82 },
+          { count: 8, price: 599.7, pricePerBottle: 74.96 },
+        ],
+      },
+    ],
+    prescription: `Bimatoprost ophthalmic is used to treat glaucoma, a condition that increases pressure in the eye and leads to vision loss. Brinzolamide is in a class of medications called carbonic anhydrase inhibitors. It decreases the pressure in the eye.`,
+    howToUse: `Bimatoprost ophthalmic comes as a solution (liquid) to instill in the eyes. It is usually instilled three times a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use brinzolamide eye drops exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Brinzolamide eye drops control glaucoma but do not cure it. Continue to use brinzolamide eye drops even if you feel well. Do not stop using brinzolamide eye drops without talking to your doctor.
+    
+    To instill the eye drops, follow these steps:
+    
+    Wash your hands thoroughly with soap and water.
+    Check the dropper tip to make sure that it is not chipped or cracked.
+    Avoid touching the dropper tip against your eye or anything else; eye drops and droppers must be kept clean.
+    While tilting your head back, pull down the lower lid of your eye with your index finger to form a pocket.
+    Hold the dropper (tip down) with the other hand, as close to the eye as possible without touching it.
+    Brace the remaining fingers of that hand against your face.
+    While looking up, gently squeeze the dropper so that a single drop falls into the pocket made by the lower eyelid. Remove your index finger from the lower eyelid.`,
+    additionalDetials: `Close your eye for 2 to 3 minutes and tip your head down as though looking at the floor. Try not to blink or squeeze your eyelids.
+    Place a finger on the tear duct and apply gentle pressure.
+    Wipe any excess liquid from your face with a tissue.
+    If you are to use more than one drop in the same eye, wait at least 5 minutes before instilling the next drop.
+    Replace and tighten the cap on the dropper bottle. Do not wipe or rinse the dropper tip.
+    Wash your hands to remove any medication.`,
+  },
+  {
+    productId: 404,
+    name: "Bimat Eye Drops",
+    categoryName: "EYE CARE",
+    activeIngredient: "Bimatoprost ophthalmic",
+    rating: 188,
+    star: 4,
+    price: "22.33",
+    type: "bottle",
+    typeName: "bottle",
+    ManufacturedBy: "Ajanta Pharma Limited",
+    image: bimatoprost,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.03% w/v 3",
+        unit: "ml",
+        bottle: [
+          { count: 1, price: 36.22, pricePerBottle: 36.22 },
+          { count: 2, price: 57.63, pricePerBottle: 28.82 },
+          { count: 4, price: 100.44, pricePerBottle: 25.11 },
+          { count: 8, price: 186.07, pricePerBottle: 23.26 },
+          { count: 16, price: 357.33, pricePerBottle: 22.33 },
+        ],
+      },
+    ],
+    prescription: `Bimatoprost ophthalmic is used to treat glaucoma, a condition that increases pressure in the eye and leads to vision loss. Brinzolamide is in a class of medications called carbonic anhydrase inhibitors. It decreases the pressure in the eye.`,
+    howToUse: `Bimatoprost ophthalmic comes as a solution (liquid) to instill in the eyes. It is usually instilled three times a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use brinzolamide eye drops exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Brinzolamide eye drops control glaucoma but do not cure it. Continue to use brinzolamide eye drops even if you feel well. Do not stop using brinzolamide eye drops without talking to your doctor.
+    
+    To instill the eye drops, follow these steps:
+    
+    Wash your hands thoroughly with soap and water.
+    Check the dropper tip to make sure that it is not chipped or cracked.
+    Avoid touching the dropper tip against your eye or anything else; eye drops and droppers must be kept clean.
+    While tilting your head back, pull down the lower lid of your eye with your index finger to form a pocket.
+    Hold the dropper (tip down) with the other hand, as close to the eye as possible without touching it.
+    Brace the remaining fingers of that hand against your face.
+    While looking up, gently squeeze the dropper so that a single drop falls into the pocket made by the lower eyelid. Remove your index finger from the lower eyelid.`,
+    additionalDetials: `Wash your hands thoroughly with soap and water.
+    Check the dropper tip to make sure that it is not chipped or cracked.
+    Avoid touching the dropper tip against your eye or anything else; eye drops and droppers must be kept clean.
+    While tilting your head back, pull down the lower lid of your eye with your index finger to form a pocket.
+    Hold the dropper (tip down) with the other hand, as close to the eye as possible without touching it.
+    Brace the remaining fingers of that hand against your face.
+    While looking up, gently squeeze the dropper so that a single drop falls into the pocket made by the lower eyelid. Remove your index finger from the lower eyelid.
+    Close your eye for 2 to 3 minutes and tip your head down as though looking at the floor. Try not to blink or squeeze your eyelids.
+    Place a finger on the tear duct and apply gentle pressure.
+    Wipe any excess liquid from your face with a tissue.
+    If you are to use more than one drop in the same eye, wait at least 5 minutes before instilling the next drop.
+    Replace and tighten the cap on the dropper bottle. Do not wipe or rinse the dropper tip.
+    Wash your hands to remove any medication.`,
+  },
+  {
+    productId: 405,
+    name: "Careprost Eye drops",
+    categoryName: "EYE CARE",
+    activeIngredient: "Bimatoprost ophthalmic",
+    rating: 188,
+    star: 5,
+    price: "42.48",
+    type: "bottle",
+    typeName: "bottle",
+    ManufacturedBy: "Sun Pharmaceuticals Industries",
+    image: Careprost_Eye_drops,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.03% w/v 3",
+        unit: "ml",
+        bottle: [
+          { count: 1, price: 56.37, pricePerBottle: 56.37 },
+          { count: 2, price: 97.93, pricePerBottle: 48.97 },
+          { count: 4, price: 181.04, pricePerBottle: 45.26 },
+          { count: 8, price: 347.26, pricePerBottle: 43.41 },
+          { count: 16, price: 679.7, pricePerBottle: 42.48 },
+        ],
+      },
+    ],
+    prescription: `Bimatoprost ophthalmic is used to treat glaucoma, a condition that increases pressure in the eye and leads to vision loss. Brinzolamide is in a class of medications called carbonic anhydrase inhibitors. It decreases the pressure in the eye.`,
+    howToUse: `Bimatoprost ophthalmic comes as a solution (liquid) to instill in the eyes. It is usually instilled three times a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use brinzolamide eye drops exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Brinzolamide eye drops control glaucoma but do not cure it. Continue to use brinzolamide eye drops even if you feel well. Do not stop using brinzolamide eye drops without talking to your doctor.
+    
+    To instill the eye drops, follow these steps:
+    
+    Wash your hands thoroughly with soap and water.
+    Check the dropper tip to make sure that it is not chipped or cracked.
+    Avoid touching the dropper tip against your eye or anything else; eye drops and droppers must be kept clean.
+    While tilting your head back, pull down the lower lid of your eye with your index finger to form a pocket.
+    Hold the dropper (tip down) with the other hand, as close to the eye as possible without touching it.
+    Brace the remaining fingers of that hand against your face.
+    While looking up, gently squeeze the dropper so that a single drop falls into the pocket made by the lower eyelid. Remove your index finger from the lower eyelid.`,
+    additionalDetials: `Wash your hands thoroughly with soap and water.
+    Check the dropper tip to make sure that it is not chipped or cracked.
+    Avoid touching the dropper tip against your eye or anything else; eye drops and droppers must be kept clean.
+    While tilting your head back, pull down the lower lid of your eye with your index finger to form a pocket.
+    Hold the dropper (tip down) with the other hand, as close to the eye as possible without touching it.
+    Brace the remaining fingers of that hand against your face.
+    While looking up, gently squeeze the dropper so that a single drop falls into the pocket made by the lower eyelid. Remove your index finger from the lower eyelid.
+    Close your eye for 2 to 3 minutes and tip your head down as though looking at the floor. Try not to blink or squeeze your eyelids.
+    Place a finger on the tear duct and apply gentle pressure.
+    Wipe any excess liquid from your face with a tissue.
+    If you are to use more than one drop in the same eye, wait at least 5 minutes before instilling the next drop.
+    Replace and tighten the cap on the dropper bottle. Do not wipe or rinse the dropper tip.
+    Wash your hands to remove any medication.`,
+  },
+  {
+    productId: 406,
+    name: "Combigan",
+    categoryName: "EYE CARE",
+    activeIngredient: "Brimonidine tartrate and timolol maleate ophthalmic",
+    rating: 182,
+    star: 5,
+    price: "46.04",
+    type: "bottle",
+    typeName: "bottle",
+    ManufacturedBy: "Allergan",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.2% -0.5% 5",
+        unit: "ml",
+        bottle: [
+          { count: 1, price: 59.93, pricePerBottle: 59.93 },
+          { count: 2, price: 105.04, pricePerBottle: 52.52 },
+          { count: 4, price: 195.26, pricePerBottle: 48.82 },
+          { count: 8, price: 375.7, pricePerBottle: 46.96 },
+          { count: 16, price: 736.59, pricePerBottle: 46.04 },
+        ],
+      },
+    ],
+    prescription: `Ophthalmic brimonidine is used to lower pressure in the eyes in patients who have glaucoma (high pressure in the eyes that may damage nerves and cause vision loss) and ocular hypertension (pressure in the eyes that is higher than normal but not high enough to cause vision loss). Brimonidine is in a class of drugs called alpha adrenergic agonists. Brimonidine works by decreasing the amount of fluid in the eyes.`,
+    howToUse: `Ophthalmic brimonidine comes as a solution (liquid) to instill in the eyes. It is usually instilled in the affected eye(s) three times a day. Use brimonidine eye drops at around the same times every day, and try to space your 3 daily doses about 8 hours apart. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use brimonidine eye drops exactly as directed. Do not use more or less of them or use them more often than prescribed by your doctor.
+
+    Brimonidine eye drops may control your condition, but will not cure it. Continue to use brimonidine eye drops even if you feel well. Do not stop using brimonidine eye drops without talking to your doctor.`,
+    additionalDetials: `Wash your hands thoroughly with soap and water.
+    Check the dropper tip to make sure that it is not chipped or cracked.
+    Avoid touching the dropper tip against your eye or anything else; eye drops and droppers must be kept clean.
+    While tilting your head back, pull down the lower lid of your eye with your index finger to form a pocket.
+    Hold the dropper (tip down) with the other hand, as close to the eye as possible without touching it.
+    Brace the remaining fingers of that hand against your face.
+    While looking up, gently squeeze the dropper so that a single drop falls into the pocket made by the lower eyelid. Remove your index finger from the lower eyelid.
+    Close your eye for 2 to 3 minutes and tip your head down as though looking at the floor. Try not to blink or squeeze your eyelids.
+    Place a finger on the tear duct and apply gentle pressure.
+    Wipe any excess liquid from your face with a tissue.
+    If you are to use more than one drop in the same eye, wait at least 5 minutes before instilling the next drop.
+    Replace and tighten the cap on the dropper bottle. Do not wipe or rinse the dropper tip.
+    Wash your hands to remove any medication.`,
+  },
+  {
+    productId: 406,
+    name: "Cyclomune eye drops",
+    categoryName: "EYE CARE",
+    activeIngredient: "Cyclosporine",
+    rating: 191,
+    star: 4,
+    price: "57.26",
+    type: "bottle",
+    typeName: "bottle",
+    ManufacturedBy: "Sun Pharmaceuticals Industries",
+    image: actonel,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.05% w/v 3",
+        unit: "ml",
+        bottle: [
+          { count: 1, price: 70.22, pricePerBottle: 70.22 },
+          { count: 2, price: 125.63, pricePerBottle: 62.82 },
+          { count: 4, price: 236.44, pricePerBottle: 59.11 },
+          { count: 8, price: 458.07, pricePerBottle: 57.26 },
+        ],
+      },
+    ],
+    prescription: `Cyclosporine and cyclosporine (modified) are used with other medications to prevent transplant rejection (attack of the transplanted organ by the immune system of the person who received the organ) in people who have received kidney, liver, and heart transplants. Cyclosporine (modified) is also used alone or with methotrexate (Rheumatrex) to treat the symptoms of rheumatoid arthritis (arthritis caused by swelling of the lining of the joints) in patients whose symptoms were not relieved by methotrexate alone. Cyclosporine (modified) is also used to treat psoriasis (a skin disease in which red, scaly patches form on some areas of the body) in certain patients who have not been helped by other treatments. Cyclosporine and cyclosporine (modified) are in a class of medications called immunosuppressants. They work by decreasing the activity of the immune system.`,
+    howToUse: `Cyclosporine and cyclosporine (modified) both come as a capsule and a solution (liquid) to take by mouth. Cyclosporine is usually taken once a day. Cyclosporine (modified) is usually taken twice a day. It is important to take both types of cyclosporine on a regular schedule. Take cyclosporine or cyclosporine (modified) at the same time(s) each day, and allow the same amount of time between doses and meals every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cyclosporine or cyclosporine (modified) exactly as directed. Do not take more or less of the medication or take it more often than prescribed by your doctor.
+
+    Your doctor will probably adjust your dose of cyclosporine or cyclosporine (modified) during your treatment. If you are taking either type of cyclosporine to prevent transplant rejection, your doctor will probably start you on a high dose of the medication and gradually decrease your dose. If you are taking cyclosporine (modified) to treat rheumatoid arthritis or psoriasis, your doctor will probably start you on a low dose of the medication and gradually increase your dose. Your doctor may also decrease your dose if you experience side effects of the medication. Tell your doctor how you are feeling during your treatment.
+    
+    Cyclosporine (modified) helps control the symptoms of psoriasis and rheumatoid arthritis, but does not cure these conditions. If you are taking cyclosporine (modified) to treat psoriasis, it may take 2 weeks or longer for your symptoms to begin to improve, and 12 to 16 weeks for you to feel the full benefit of the medication. If you are taking cyclosporine (modified) to treat rheumatoid arthritis, it may take 4 to 8 weeks for your symptoms to improve. Continue to take cyclosporine (modified) even if you feel well. Do not stop taking cyclosporine (modified) without talking to your doctor. Your doctor may decrease your dose gradually.
+    
+    You may notice an unusual smell when you open a blister card of cyclosporine capsules. This is normal and does not mean that the medication is damaged or unsafe to use.
+    
+    Cyclosporine (modified) oral solution may gel or become lumpy if it is exposed to temperatures below 68 °F (20 °C). You can use the solution even if it has gelled, or you can turn the solution back to a liquid by allowing it to warm to room temperature (77 °F [25 °C]).
+    
+    Cyclosporine and cyclosporine (modified) oral solution must be mixed with a liquid before use. Cyclosporine (modified) oral solution may be mixed with orange juice or apple juice but should not be mixed with milk. Cyclosporine oral solution may be mixed with milk, chocolate milk, or orange juice. You should choose one drink from the appropriate list and always mix your medication with that drink.`,
+    additionalDetials: `Fill a glass (not plastic) cup with the drink you have chosen.
+    Remove the protective cover from the top of the dosing syringe that came with your medication.
+    Place the tip of the syringe into the bottle of solution and pull back on the plunger to fill the syringe with the amount of solution your doctor has prescribed.
+    Hold the syringe over the liquid in your glass and press down on the plunger to place the medication in the glass.
+    Stir the mixture well.
+    Drink all of the liquid in the glass right away.
+    Pour a little more of the drink you have chosen into the glass, swirl the glass around to rinse, and drink the liquid.
+    Dry the outside of the syringe with a clean towel and replace the protective cover. Do not wash the syringe with water. If you do need to wash the syringe, be sure that it is completely dry before you use it to measure another dose.`,
+  },
+  {
+    productId: 407,
+    name: "Fml Eye Drop",
+    categoryName: "EYE CARE",
+    activeIngredient: "Fluorometholone ophthalmic",
+    rating: 77,
+    star: 4,
+    price: "11.52",
+    type: "bottle",
+    typeName: "bottle",
+    ManufacturedBy: "Allergan",
+    image: FmlEyeDrop,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: " 5 ml 1",
+        unit: "mg",
+        bottle: [
+          { count: 2, price: 36, pricePerBottle: 18 },
+          { count: 4, price: 57.19, pricePerBottle: 14.3 },
+          { count: 8, price: 99.56, pricePerBottle: 12.45 },
+          { count: 16, price: 184.3, pricePerBottle: 11.52 },
+        ],
+      },
+    ],
+    prescription: `Ophthalmic tobramycin is used to treat eye infections. Tobramycin is in a class of medications called antibiotics. It works by killing bacteria that cause infections.`,
+    howToUse: `Ophthalmic tobramycin comes as as a solution (liquid) to instill in the eyes and as an eye ointment to apply to the eyes. The eye drops are usually applied every 4 to 8 hours and the ointment is usually applied two to four times a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use tobramycin eye drops or ointment exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.`,
+    additionalDetials: `Wash your hands thoroughly with soap and water.
+    Check the dropper tip to make sure that it is not chipped or cracked.
+    Avoid touching the dropper tip against your eye or anything else; eye drops and droppers must be kept clean.
+    While tilting your head back, pull down the lower lid of your eye with your index finger to form a pocket.
+    Hold the dropper (tip down) with the other hand, as close to the eye as possible without touching it.
+    Brace the remaining fingers of that hand against your face.
+    While looking up, gently squeeze the dropper so that a single drop falls into the pocket made by the lower eyelid. Remove your index finger from the lower eyelid.
+    Close your eye for 2 to 3 minutes and tip your head down as though looking at the floor. Try not to blink or squeeze your eyelids.
+    Place a finger on the tear duct and apply gentle pressure.
+    Wipe any excess liquid from your face with a tissue.
+    If you are to use more than one drop in the same eye, wait at least 5 minutes before instilling the next drop.
+    Replace and tighten the cap on the dropper bottle. Do not wipe or rinse the dropper tip.
+    Wash your hands to remove any medication.`,
+  },
+  {
+    productId: 408,
+    name: "Generic Latisse Ophthalmic",
+    categoryName: "EYE CARE",
+    activeIngredient: "Bimatoprost",
+    rating: 128,
+    star: 4,
+    price: "25",
+    type: "vial",
+    typeName: "vial",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: Generic_Latisse_Ophthalmic,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.03% w/v 3 ",
+        unit: "ml",
+        bottle: [
+          { count: 1, price: 38.89, pricePerBottle: 38.89 },
+          { count: 2, price: 62.96, pricePerBottle: 31.48 },
+          { count: 4, price: 111.11, pricePerBottle: 27.78 },
+          { count: 8, price: 207.41, pricePerBottle: 25.93 },
+          { count: 16, price: 400, pricePerBottle: 25 },
+        ],
+      },
+    ],
+    prescription: `Topical bimatoprost is used to treat hypotrichosis (less than the normal amount of hair) of the eyelashes by promoting the growth of longer, thicker, and darker lashes. Topical bimatoprost is in a class of medications called prostaglandin analogs. It works by increasing the number of eyelash hairs that grow and the amount of time that they grow.`,
+    howToUse: `Topical bimatoprost comes as a solution (liquid) to apply to the upper eyelids. It is usually applied once a day in the evening. Use topical bimatoprost at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use topical bimatoprost exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor. Using topical bimatoprost more often than once a day will not increase eyelash growth more than the recommended use.
+
+    It may take at least 4 weeks before you see any benefit from topical bimatoprost and up to 16 weeks to see the full effect of the medication. Continue to use topical bimatoprost even if you have already seen an effect. Topical bimatoprost will only increase eyelash growth while you are using the medication. If you stop using topical bimatoprost, your eyelashes will return to their original appearance within several weeks to months.
+    
+    Do not apply topical bimatoprost to the lower eyelids or to broken or irritated skin on your upper eyelids.
+    
+    It is possible for hair growth to occur on other areas of your skin with repeated applications of topical bimatoprost. Be careful to blot any excess solution outside the upper eyelid margin with a tissue or other absorbent material to prevent this from happening.
+    
+    If topical bimatoprost gets into your eye(s) while you are applying the solution, it is not expected to cause harm. Do not rinse your eye(s).
+    
+    Topical bimatoprost comes with sterile applicators to apply the medication. Do not reuse applicators and do not use a cotton swab or any other brush or applicator to apply topical bimatoprost.`,
+    additionalDetials: `Wash your hands thoroughly with soap and water.
+    Check the dropper tip to make sure that it is not chipped or cracked.
+    Avoid touching the dropper tip against your eye or anything else; eye drops and droppers must be kept clean.
+    While tilting your head back, pull down the lower lid of your eye with your index finger to form a pocket.
+    Hold the dropper (tip down) with the other hand, as close to the eye as possible without touching it.
+    Brace the remaining fingers of that hand against your face.
+    While looking up, gently squeeze the dropper so that a single drop falls into the pocket made by the lower eyelid. Remove your index finger from the lower eyelid.
+    Close your eye for 2 to 3 minutes and tip your head down as though looking at the floor. Try not to blink or squeeze your eyelids.
+    Place a finger on the tear duct and apply gentle pressure.
+    Wipe any excess liquid from your face with a tissue.
+    If you are to use more than one drop in the same eye, wait at least 5 minutes before instilling the next drop.
+    Replace and tighten the cap on the dropper bottle. Do not wipe or rinse the dropper tip.
+    Wash your hands to remove any medication.`,
+  },
+  {
+    productId: 409,
+    name: "Famocid",
+    categoryName: "GASTROINTESTINAL",
+    activeIngredient: "Famotidine",
+    rating: 149,
+    star: 4,
+    price: "0.51",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: Famocid,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 56, price: 39.7, pricePerBottle: 0.71 },
+          { count: 112, price: 64.59, pricePerBottle: 0.58 },
+          { count: 168, price: 89.48, pricePerBottle: 0.53 },
+          { count: 224, price: 114.37, pricePerBottle: 0.51 },
+        ],
+      },
+    ],
+    prescription: `Prescription famotidine is used to treat ulcers (sores on the lining of the stomach or small intestine); gastroesophageal reflux disease (GERD, a condition in which backward flow of acid from the stomach causes heartburn and injury of the esophagus [tube that connects the mouth and stomach]); and conditions where the stomach produces too much acid, such as Zollinger-Ellison syndrome (tumors in the pancreas or small intestine that cause increased production of stomach acid). Over-the-counter famotidine is used to prevent and treat heartburn due to acid indigestion and sour stomach caused by eating or drinking certain foods or drinks. Famotidine is in a class of medications called H2 blockers. It works by decreasing the amount of acid made in the stomach.`,
+    howToUse: `Prescription famotidine comes as a tablet and a suspension (liquid) to take by mouth. It is usually taken once daily at bedtime or two to four times a day. Over-the-counter famotidine comes as a tablet, a chewable tablet, and a capsule to take by mouth. It is usually taken once or twice a day. To prevent symptoms, it is taken 15 to 60 minutes before eating foods or drinking drinks that may cause heartburn. Follow the directions on your prescription or the package label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take famotidine exactly as directed. Do not take more or less of it or take it more often or for a longer time than prescribed by your doctor.
+
+    Shake the liquid well for 5 to 10 seconds before each use to mix the medicine evenly.
+    
+    Swallow the tablets and capsules with a full glass of water.`,
+    additionalDetials: `Thoroughly chew the chewable tablets before swallowing them. Swallow the chewed tablet with a full glass of water.
+
+    Do not take more than two tablets, capsules, or chewable tablets of over-the-counter famotidine in 24 hours and do not take over-the-counter famotidine for longer than 2 weeks unless your doctor tells you that you should. If symptoms of heartburn, acid indigestion, or sour stomach last longer than 2 weeks, stop taking over-the-counter famotidine and call your doctor.`,
+  },
+  {
+    productId: 410,
+    name: "Generic Aciphex",
+    categoryName: "GASTROINTESTINAL",
+    activeIngredient: "Rabeprazole",
+    rating: 43,
+    star: 4,
+    price: "0.79",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: aciphex,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 37.04, pricePerBottle: 1.23 },
+          { count: 60, price: 59.26, pricePerBottle: 0.99 },
+          { count: 120, price: 103.7, pricePerBottle: 0.86 },
+          { count: 240, price: 192.59, pricePerBottle: 0.8 },
+          { count: 300, price: 237.04, pricePerBottle: 0.79 },
+        ],
+      },
+    ],
+    prescription: `Rabeprazole is used to treat gastroesophageal reflux disease (GERD), a condition in which backward flow of acid from the stomach causes heartburn and possible injury of the esophagus (the tube that connects the throat and stomach). Rabeprazole is used to treat the symptoms of GERD, allow the esophagus to heal, and prevent further damage to the esophagus. Rabeprazole is also used to treat conditions in which the stomach produces too much acid, such as Zollinger-Ellison syndrome. Rabeprazole is used to treat ulcers (sores in the lining of the stomach or intestine) and is used in combination with other medications to eliminate H. pylori, a bacteria that causes ulcers. Rabeprazole is in a class of medications called proton-pump inhibitors. It works by decreasing the amount of acid made in the stomach.`,
+    howToUse: `Rabeprazole comes as a delayed-release (releases the medication in the intestine to prevent break-down of the medication by stomach acids) tablet to take by mouth. When rabeprazole is used to treat most conditions, it is usually taken once a day. When used to treat ulcers, rabeprazole is taken after the morning meal. When used in combination with other medications to eliminate H. pylori, rabeprazole is taken twice a day, with the morning and evening meals, for 7 days. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take rabeprazole exactly as directed. Do not take more or less of it or take it more often or for a longer period of time than prescribed by your doctor.
+
+    Swallow the tablets whole with water; do not split, chew, or crush them.`,
+    additionalDetials: `Continue to take rabeprazole even if you feel well. Do not stop taking rabeprazole without talking to your doctor. If your condition does not improve or gets worse, call your doctor.`,
+  },
+  {
+    productId: 411,
+    name: "Generic Albenza",
+    categoryName: "GASTROINTESTINAL",
+    activeIngredient: "Albendazole",
+    rating: 185,
+    star: 4,
+    price: "0.91",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: albenza,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 46.32, pricePerBottle: 1.54 },
+          { count: 60, price: 71.58, pricePerBottle: 1.19 },
+          { count: 120, price: 122.11, pricePerBottle: 1.02 },
+          { count: 240, price: 223.16, pricePerBottle: 0.93 },
+          { count: 300, price: 273.68, pricePerBottle: 0.91 },
+        ],
+      },
+    ],
+    prescription: `Albendazole is used to treat neurocysticercosis (infection caused by the pork tapeworm in the muscles, brain, and eyes that may cause seizures, brain swelling, and vision problems). Albendazole is also used along with surgery to treat cystic hydatid disease (infection caused by the dog tapeworm in the liver, lung, and lining of the abdomen that may damage these organs). Albendazole is in a class of medications called antihelmintics. It works by killing the worms.`,
+    howToUse: `Albendazole comes as a tablet to take by mouth. It is usually taken with food twice a day. When albendazole is used to treat neurocysticercosis, it is usually taken for 8 to 30 days. When albendazole is used to treat cystic hydatid disease, it is usually taken for 28 days, followed by a 14-day break, and repeated for a total of three cycles. Take albendazole at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take albendazole exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `If you are giving the medication to a child or if you cannot swallow the tablets whole, you may crush or chew the tablets and swallow with a drink of water.
+
+    Take albendazole until you finish the prescription, even if you feel better. If you stop taking albendazole too soon or skip doses, your infection may not be completely treated.`,
+  },
+  {
+    productId: 410,
+    name: "Generic Aciphex",
+    categoryName: "GASTROINTESTINAL",
+    activeIngredient: "Rabeprazole",
+    rating: 43,
+    star: 4,
+    price: "0.79",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: aciphex,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 37.04, pricePerBottle: 1.23 },
+          { count: 60, price: 59.26, pricePerBottle: 0.99 },
+          { count: 120, price: 103.7, pricePerBottle: 0.86 },
+          { count: 240, price: 192.59, pricePerBottle: 0.8 },
+          { count: 300, price: 237.04, pricePerBottle: 0.79 },
+        ],
+      },
+    ],
+    prescription: `Rabeprazole is used to treat gastroesophageal reflux disease (GERD), a condition in which backward flow of acid from the stomach causes heartburn and possible injury of the esophagus (the tube that connects the throat and stomach). Rabeprazole is used to treat the symptoms of GERD, allow the esophagus to heal, and prevent further damage to the esophagus. Rabeprazole is also used to treat conditions in which the stomach produces too much acid, such as Zollinger-Ellison syndrome. Rabeprazole is used to treat ulcers (sores in the lining of the stomach or intestine) and is used in combination with other medications to eliminate H. pylori, a bacteria that causes ulcers. Rabeprazole is in a class of medications called proton-pump inhibitors. It works by decreasing the amount of acid made in the stomach.`,
+    howToUse: `Rabeprazole comes as a delayed-release (releases the medication in the intestine to prevent break-down of the medication by stomach acids) tablet to take by mouth. When rabeprazole is used to treat most conditions, it is usually taken once a day. When used to treat ulcers, rabeprazole is taken after the morning meal. When used in combination with other medications to eliminate H. pylori, rabeprazole is taken twice a day, with the morning and evening meals, for 7 days. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take rabeprazole exactly as directed. Do not take more or less of it or take it more often or for a longer period of time than prescribed by your doctor.
+
+    Swallow the tablets whole with water; do not split, chew, or crush them.`,
+    additionalDetials: `Continue to take rabeprazole even if you feel well. Do not stop taking rabeprazole without talking to your doctor. If your condition does not improve or gets worse, call your doctor.`,
+  },
+  {
+    productId: 412,
+    name: "Generic Asacol",
+    categoryName: "GASTROINTESTINAL",
+    activeIngredient: "Mesalamine",
+    rating: 188,
+    star: 4,
+    price: "1.09",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: asacol,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "400",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 45.93, pricePerBottle: 1.53 },
+          { count: 60, price: 77.04, pricePerBottle: 1.28 },
+          { count: 120, price: 136.26, pricePerBottle: 1.16 },
+          { count: 240, price: 263.7, pricePerBottle: 1.1 },
+          { count: 300, price: 325.93, pricePerBottle: 1.09 },
+        ],
+      },
+    ],
+    prescription: `Rectal mesalamine is used to treat ulcerative colitis (a condition which causes swelling and sores in the lining of the colon [large intestine] and rectum), proctitis (swelling in the rectum), and proctosigmoiditis (swelling in the rectum and sigmoid colon [last section of the colon]). Rectal mesalamine is in a class of medications called anti-inflammatory agents. It works by stopping the body from producing a certain substance that may cause inflammation.`,
+    howToUse: `Rectal mesalamine comes as a suppository and an enema to use in the rectum. The suppository and the enema are usually used once a day at bedtime. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use rectal mesalamine exactly as directed. Do not use it more or less of it or use it more often than prescribed by your doctor.
+
+    You should begin to feel better during the first few days or weeks of your treatment with rectal mesalamine. Continue to use rectal mesalamine until you finish your prescription, even if you feel better at the beginning of your treatment. Do not stop using rectal mesalamine without talking to your doctor.
+    
+    Mesalamine suppositories and enemas may stain clothing and other fabrics, flooring, and painted, marble, granite, enamel, vinyl, and other surfaces. Take precautions to prevent staining when you use these medications.`,
+    additionalDetials: `Try to have a bowel movement. The medication will work best if your bowels are empty.
+    Use scissors to cut the seal of the protective foil pouch that holds seven bottles of medication. Be careful not to squeeze or cut the bottles. Remove one bottle from the pouch.
+    Look at the liquid inside the bottle. It should be off-white or tan colored. The liquid may darken slightly if the bottles are left out of the foil pouch for a time. You may use liquid that has darkened a little bit, but do not use liquid that is dark brown.
+    Shake the bottle well to make sure the medication is mixed.
+    Remove the protective cover from the applicator tip. Be careful to hold the bottle by the neck so that the medication will not leak out of the bottle.
+    Lie on your left side with your lower (left) leg straight and your right leg bent toward your chest for balance. You can also kneel on a bed, resting your upper chest and one arm on the bed.
+    Gently insert the applicator tip into your rectum, pointing it slightly toward your navel (belly button). If this causes pain or irritation, try putting a small amount of personal lubricating jelly or petroleum jelly on the tip of the applicator before you insert it.
+    Hold the bottle firmly and tilt it slightly so that the nozzle is aimed toward your back. Squeeze the bottle slowly and steadily to release the medicine.
+    Withdraw the applicator. Remain in the same position for at least 30 minutes to allow the medicine to spread through your intestine. Try to keep the medicine inside of your body for about 8 hours (while you sleep).
+    Dispose of the bottle safely, so that is out of the reach of children and pets. Each bottle contains only one dose and should not be reused.
+    If using a mesalamine suppository, follow these steps:
+Try to have a bowel movement just before using the suppository. The medication will work best if your bowels are empty.
+Separate one suppository from the strip of suppositories. Hold the suppository upright and use your fingers to peel off the plastic wrapper. Try to handle the suppository as little as possible to avoid melting it with the heat of your hands.
+You may put a small amount of personal lubricant jelly or Vaseline on the tip of the suppository so that it will be easier to insert.
+Lie down on your left side and raise your right knee to your chest. (If you are left-handed, lie on your right side and raise your left knee.)
+Using your finger, insert the suppository into the rectum, pointed end first. Use gentle pressure to insert the suppository completely. Try to keep it in place for 1 to 3 hours or longer if possible.
+Wash your hands thoroughly before you resume your normal activities.
+If you will be using mesalamine enemas or suppositories, ask your pharmacist or doctor for a copy of the manufacturer's information for the patient that comes with the medication.
+    `,
+  },
+  {
+    productId: 413,
+    name: "Generic Azulfidine",
+    categoryName: "GASTROINTESTINAL",
+    activeIngredient: "Sulfasalazine",
+    rating: 84,
+    star: 4,
+    price: "1.43",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: asacol,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 50.64, pricePerBottle: 1.69 },
+          { count: 60, price: 92.77, pricePerBottle: 1.55 },
+          { count: 120, price: 177.02, pricePerBottle: 1.48 },
+          { count: 240, price: 345.53, pricePerBottle: 1.44 },
+          { count: 300, price: 429.79, pricePerBottle: 1.43 },
+        ],
+      },
+    ],
+    prescription: `Sulfasalazine is used to treat bowel inflammation, diarrhea (stool frequency), rectal bleeding, and abdominal pain in patients with ulcerative colitis, a condition in which the bowel is inflamed. Sulfasalazine delayed-release (Azulfidine EN-tabs) is also used to treat rheumatoid arthritis in adults and children whose disease has not responded well to other medications. Sulfasalazine is in a class of medications called anti-inflammatory drugs. It works by reducing inflammation (swelling) inside the body.`,
+    howToUse: `Sulfasalazine comes as regular and delayed-release (releases the medication in the intestine to prevent irritation to the stomach and to allow the medication to work in the intestine where its effects are needed) tablets. It usually is taken four times a day in evenly spaced doses throughout the day so that no more than 8 hours separates any two doses, if possible. Take sulfasalazine after a meal or with a light snack, then drink a full glass of water. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sulfasalazine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow tablets whole; do not crush or chew them.`,
+    additionalDetials: `Drink plenty of fluids (at least six to eight glasses of water or other beverage per day) while taking sulfasalazine.
+
+    Continue to take sulfasalazine even if you feel well. Do not stop taking sulfasalazine without talking to your doctor.`,
+  },
+  {
+    productId: 414,
+    name: "Generic Colospa",
+    categoryName: "GASTROINTESTINAL",
+    activeIngredient: "Mebeverine hydrochloride",
+    rating: 135,
+    star: 4,
+    price: "1.17",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: colospa,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "135",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 44.86, pricePerBottle: 1.5 },
+          { count: 60, price: 78.92, pricePerBottle: 1.32 },
+          { count: 120, price: 147.03, pricePerBottle: 1.23 },
+          { count: 240, price: 283.24, pricePerBottle: 1.18 },
+          { count: 300, price: 351.35, pricePerBottle: 1.17 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 415,
+    name: "Generic Dulcolax",
+    categoryName: "GASTROINTESTINAL",
+    activeIngredient: "Bisacodyl",
+    rating: 112,
+    star: 4,
+    price: "0.42",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: dulcolax,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 37.04, pricePerBottle: 0.62 },
+          { count: 120, price: 59.26, pricePerBottle: 0.49 },
+          { count: 240, price: 103.7, pricePerBottle: 0.43 },
+          { count: 300, price: 125.93, pricePerBottle: 0.42 },
+        ],
+      },
+    ],
+    prescription: `Rectal bisacodyl is used on a short-term basis to treat constipation. It also is used to empty the bowels before surgery and certain medical procedures. Bisacodyl is in a class of medications called stimulant laxatives. It works by increasing activity of the intestines to cause a bowel movement.`,
+    howToUse: `Rectal bisacodyl comes as a suppository and enema to use rectally. It is usually used at the time that a bowel movement is desired. The suppositories usually cause a bowel movement within 15 to 60 minutes and the enema within 5 to 20 minutes. Do not use bisacodyl more than once a day or for more than 1 week without talking to your doctor. Follow the directions on the package or on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use rectal bisacodyl exactly as directed. Frequent or continued use of bisacodyl may make you dependent on laxatives and cause your bowels to lose their normal activity. If you do not have a regular bowel movement after using bisacodyl, do not use this medication again and talk to your doctor.`,
+    additionalDetials: `If the suppository is soft, hold it under cool water or place it in the refrigerator for a few minutes to harden it before removing the wrapper.
+    Remove the wrapper.
+    If you were told to use half of the suppository, cut it lengthwise with a clean, sharp knife or blade.
+    Lie down on your left side and raise your right knee to your chest.
+    Using your finger, insert the suppository, pointed end first, into your rectum until it passes the muscular sphincter of the rectum, about 1 inch (2.5 centimeters) in adults. If not inserted past this sphincter, the suppository may pop out.
+    Hold it in place for as long as possible.
+    Wash your hands thoroughly.
+    If using a bisacodyl enema, follow these steps:
+    Shake the enema bottle well.
+    Remove the protective shield from the tip.
+    Lie down on your left side and raise your right knee to your chest or kneel and lean forward so that your head and chest are resting comfortably.
+    Gently insert the enema bottle into the rectum with the tip pointing toward the navel.
+    Squeeze the bottle gently until the bottle is nearly empty.
+    Remove the enema bottle from the rectum. Hold the enema contents in place as long as possible, for up to 10 minutes.
+    Wash your hands thoroughly.`,
+  },
+  {
+    productId: 416,
+    name: "Generic Duphalac",
+    categoryName: "GASTROINTESTINAL",
+    activeIngredient: "Lactulose",
+    rating: 60,
+    star: 5,
+    price: "24.65",
+    type: "bottle",
+    typeName: "bottle",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: duphalac,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "ml",
+        bottle: [
+          { count: 1, price: 46.71, pricePerBottle: 46.71 },
+          { count: 2, price: 69.88, pricePerBottle: 34.94 },
+          { count: 4, price: 116.24, pricePerBottle: 29.06 },
+          { count: 8, price: 208.94, pricePerBottle: 26.12 },
+          { count: 16, price: 394.35, pricePerBottle: 24.65 },
+        ],
+      },
+    ],
+    prescription: `Lactulose is a synthetic sugar used to treat constipation. It is broken down in the colon into products that pull water out from the body and into the colon. This water softens stools. Lactulose is also used to reduce the amount of ammonia in the blood of patients with liver disease. It works by drawing ammonia from the blood into the colon where it is removed from the body.
+
+    This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Lactulose comes as liquid to take by mouth. It usually is taken once a day for treatment of constipation and three or four times a day for liver disease. Your prescription label tells you how much medicine to take at each dose. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take lactulose exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: ``,
+  },
+  {
+    productId: 417,
+    name: "Acamprol",
+    categoryName: "GENERAL HEALTH",
+    activeIngredient: "Acamprosate",
+    rating: 159,
+    star: 4,
+    price: "56.69",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Sun Pharmaceuticals Industries",
+    image: duphalac,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "42 tabs / pack 333",
+        unit: "ml",
+        bottle: [
+          { count: 1, price: 69.04, pricePerBottle: 69.04 },
+          { count: 2, price: 123.26, pricePerBottle: 61.63 },
+          { count: 4, price: 231.7, pricePerBottle: 57.93 },
+          { count: 6, price: 340.15, pricePerBottle: 56.69 },
+        ],
+      },
+    ],
+    prescription: `Acamprosate is used along with counseling and social support to help people who have stopped drinking large amounts of alcohol (alcoholism) to avoid drinking alcohol again. Drinking alcohol for a long time changes the way the brain works. Acamprosate works by helping the brains of people who have drunk large amounts of alcohol to work normally again. Acamprosate does not prevent the withdrawal symptoms that people may experience when they stop drinking alcohol. Acamprosate has not been shown to work in people who have not stopped drinking alcohol or in people who drink large amounts of alcohol and also overuse or abuse other substances such as street drugs or prescription medications`,
+    howToUse: `Acamprosate comes as a delayed-release (releases the medication in the intestine) tablet to take by mouth. It is usually taken with or without food three times a day. To help you remember to take acamprosate, take it around the same times every day. Taking acamprosate with breakfast, lunch, and dinner may help you to remember all three doses. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take acamprosate exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the tablets whole; do not split, chew, or crush them.`,
+    additionalDetials: `Acamprosate helps to prevent you from drinking alcohol only as long as you are taking it. Continue to take acamprosate even if you do not think you are likely to start drinking alcohol again. Do not stop taking acamprosate without talking to your doctor.
+
+    If you drink alcohol while you are taking acamprosate, continue to take the medication and call your doctor. Acamprosate will not cause you to have an unpleasant reaction if you drink alcohol during treatment.`,
+  },
+  {
+    productId: 418,
+    name: "Aldactone",
+    categoryName: "GENERAL HEALTH",
+    activeIngredient: "Acamprosate",
+    rating: 80,
+    star: 4,
+    price: "0.49",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "RPG Life Sciences",
+    image: aldactone,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "25",
+        unit: "ml",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Spironolactone is used to treat certain patients with hyperaldosteronism (the body produces too much aldosterone, a naturally occurring hormone); low potassium levels; heart failure; and in patients with edema (fluid retention) caused by various conditions, including liver, or kidney disease. It is also used alone or with other medications to treat high blood pressure. Spironolactone is in a class of medications called aldosterone receptor antagonists. It causes the kidneys to eliminate unneeded water and sodium from the body into the urine but reduces the loss of potassium from the body.
+    
+    High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `Spironolactone comes as a tablet and suspension (liquid; Carospir) to take by mouth. It usually is taken once or twice a day. Take spironolactone suspension consistently either with food or without food each time. Take spironolactone at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take spironolactone exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Shake the oral suspension well before each use to mix the medication evenly.
+    
+    Your doctor may start you on a low dose of spironolactone and gradually increase your dose.
+    
+    Spironolactone tablets and suspension release the medication differently in your body and cannot be substituted for one another. Only take the spironolactone product prescribed by your doctor and do not switch to a different spironolactone product unless your doctor says that you should.`,
+    additionalDetials: `Spironolactone controls high blood pressure, edema, heart failure, and hyperaldosteronism but does not cure these conditions. It may take about 2 weeks or longer before the full effect of spironolactone occurs. Continue to take spironolactone even if you feel well. Do not stop taking spironolactone without talking to your doctor.`,
+  },
+  {
+    productId: 419,
+    name: "Arimidex",
+    categoryName: "GENERAL HEALTH",
+    activeIngredient: "Anastrozole",
+    rating: 105,
+    star: 4,
+    price: "500",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "AstraZeneca",
+    image: arimidex,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: " 28 tabs / pack 1",
+        unit: "mg",
+        bottle: [{ count: 1, price: 500, pricePerBottle: 500 }],
+      },
+    ],
+    prescription: `Anastrozole is used with other treatments, such as surgery or radiation, to treat early breast cancer in women who have experienced menopause (change of life; end of monthly menstrual periods). This medication is also used in women, who have experienced menopause, as a first treatment of breast cancer that has spread within the breast or to other areas of the body. This medication is also used to treat breast cancer in women whose breast cancer has worsened after taking tamoxifen (Nolvadex). Anastrozole is in a class of medications called nonsteroidal aromatase inhibitors. It works by decreasing the amount of estrogen the body makes. This can slow or stop the growth of many types of breast cancer cells that need estrogen to grow.`,
+    howToUse: `Anastrozole comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take anastrozole at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take anastrozole exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    You may need to take anastrozole for several years or longer. Continue to take anastrozole even if you feel well. Do not stop taking anastrozole without talking to your doctor.`,
+    additionalDetials: `Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 420,
+    name: "Asthalin HFA Inhaler",
+    categoryName: "GENERAL HEALTH",
+    activeIngredient: "Salbutamol",
+    rating: 110,
+    star: 4,
+    price: "15.44",
+    type: "inhaler",
+    typeName: "inhaler",
+    ManufacturedBy: "Cipla",
+    image: AsthalinHFAInhaler,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "200MD 100",
+        unit: "mcg",
+        bottle: [
+          { count: 2, price: 50.43, pricePerBottle: 25.21 },
+          { count: 4, price: 83.83, pricePerBottle: 20.96 },
+          { count: 8, price: 150.61, pricePerBottle: 18.83 },
+          { count: 16, price: 284.18, pricePerBottle: 17.76 },
+        ],
+      },
+    ],
+    prescription: `Albuterol is used to prevent and treat difficulty breathing, wheezing, shortness of breath, coughing, and chest tightness caused by lung diseases such as asthma and chronic obstructive pulmonary disease (COPD; a group of diseases that affect the lungs and airways). Albuterol inhalation aerosol and powder for oral inhalation is also used to prevent breathing difficulties during exercise. Albuterol inhalation aerosol (Proair HFA, Proventil HFA, Ventolin HFA) is used in adults and children 4 years of age and older. Albuterol powder for oral inhalation (Proair Respiclick) is used in children 12 years of age and older. Albuterol solution for oral inhalation is used in adults and children 2 years of age and older. Albuterol is in a class of medications called bronchodilators. It works by relaxing and opening air passages to the lungs to make breathing easier.`,
+    howToUse: `Albuterol comes as a solution (liquid) to inhale by mouth using a special jet nebulizer (machine that turns medication into a mist that can be inhaled) and as an aerosol or powder to inhale by mouth using an inhaler. When the inhalation aerosol or powder for oral inhalation is used to treat or prevent symptoms of lung disease, it is usually used every 4 to 6 hours as needed. When the inhalation aerosol or powder for oral inhalation is used to prevent breathing difficulty during exercise, it is usually used 15 to 30 minutes before exercise. The nebulizer solution is usually used three or four times a day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use albuterol exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Call your doctor if your symptoms worsen or if you feel that albuterol inhalation no longer controls your symptoms. If you were told to use albuterol as needed to treat your symptoms and you find that you need to use the medication more often than usual, call your doctor.
+    
+    Albuterol controls symptoms of asthma and other lung diseases but does not cure them. Do not stop using albuterol without talking to your doctor.
+    
+    Each albuterol aerosol inhaler is designed to provide 60 or 200 inhalations, depending on its size. Each albuterol powder inhaler is designed to provide 200 inhalations. After the labeled number of inhalations has been used, later inhalations may not contain the correct amount of medication. Dispose of the aerosol inhaler after you have used the labeled number of inhalations, even if it still contains some liquid and continues to release a spray when it is pressed. Dispose of the powder inhaler 13 months after you open the foil wrapper, after the expiration date on the package, or after you have used the labeled number of inhalation, whichever comes first.`,
+    additionalDetials: `Your inhaler may come with an attached counter that keeps track of the number of inhalations you have used. The counter also tells you when to call your doctor or pharmacist to refill your prescription and when there are no inhalations left in the inhaler. Read the manufacturer's instructions to learn how to use the counter. If you have this type of inhaler, you should not try to change the numbers or remove the counter from the inhaler.
+
+    If your inhaler does not come with an attached counter, you will need to keep track of the number of inhalations you have used. You can divide the number of inhalations in your inhaler by the number of inhalations you use each day to find out how many days your inhaler will last. Do not float the canister in water to see if it still contains medication.
+    
+    The inhaler that comes with albuterol aerosol is designed for use only with a canister of albuterol. Never use it to inhale any other medication, and do not use any other inhaler to inhale albuterol.
+    
+    Be careful not to get albuterol inhalation into your eyes.
+    
+    Do not use your albuterol inhaler when you are near a flame or source of heat. The inhaler may explode if it is exposed to very high temperatures.
+    
+    Before you use albuterol inhaler or jet nebulizer for the first time, read the written instructions that come with the inhaler or nebulizer. Ask your doctor, pharmacist, or respiratory therapist to show you how to use it. Practice using the inhaler or nebulizer while he or she watches.
+    
+    If your child will be using the inhaler, be sure that he or she knows how to use it. Watch your child each time he or she uses the inhaler to be sure that he or she is using it correctly.
+    To inhale the powder using the inhaler, follow these steps. Do not use the Respiclick inhaler with a spacer:
+If you will be using a new inhaler for the first time, remove it from the foil wrapper. Look at the dose counter at the back of the inhaler and check that you see the number 200 in the window.
+Holding the inhaler upright, with the cap on the bottom and the inhaler pointing upwards, load the dose by opening the protective dust cap at the end of the mouthpiece until it clicks. Do not open the cap unless you are ready to use the inhaler. Every time the protective cap is opened, a dose is ready to inhale. You will see the number in the dose counter go down. Do not waste doses by opening the inhaler unless you are inhaling a dose.
+Breathe out as completely as possible through your mouth. Do not blow or exhale into the inhaler.
+Place the mouthpiece between your lips well into your mouth. Close your lips tightly around the mouthpiece. Inhale slowly and deeply through your mouth. Do not breath in through your nose. Make sure that your fingers or lips do not block the vent above the mouthpiece.
+Remove the inhaler from your mouth and hold your breath for 10 seconds or as long as you comfortably can. Do not blow or exhale through the inhaler.
+Close the cap firmly over the mouthpiece.
+If you are to inhale 2 puffs, repeat steps 2-6.
+Keep the inhaler clean and dry at all times. To clean your inhaler, use a clean, dry tissue or cloth. Do not wash or put any part of your inhaler in water.
+To inhale the solution using a nebulizer, follow these steps;
+Remove one vial of albuterol solution from the foil pouch. Leave the rest of the vials in the pouch until you are ready to use them.
+Look at the liquid in the vial. It should be clear and colorless. Do not use the vial if the liquid is cloudy or discolored.
+Twist off the top of the vial and squeeze all of the liquid into the nebulizer reservoir. If you are using your nebulizer to inhale other medications, ask your doctor or pharmacist if you can place the other medications in the reservoir along with albuterol.
+Connect the nebulizer reservoir to the mouthpiece or face mask.
+Connect the nebulizer to the compressor.
+Place the mouthpiece in your mouth or put on the face mask. Sit in an upright, comfortable position and turn on the compressor.
+Breathe in calmly, deeply, and evenly for about 5-15 minutes until mist stops forming in the nebulizer chamber.
+Clean your nebulizer regularly. Follow the manufacturer's directions carefully and ask your doctor or pharmacist if you have any questions about cleaning your nebulizer.
+    `,
+  },
+  {
+    productId: 421,
+    name: "Axepta",
+    categoryName: "GENERAL HEALTH",
+    activeIngredient: "Atomoxetine",
+    rating: 83,
+    star: 4,
+    price: "0.86",
+    type: "cap",
+    typeName: "cap",
+    ManufacturedBy: "Intas Pharmaceuticals Ltd",
+    image: Axepta,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 39.26, pricePerBottle: 1.31 },
+          { count: 60, price: 63.7, pricePerBottle: 1.06 },
+          { count: 120, price: 112.59, pricePerBottle: 0.94 },
+          { count: 240, price: 210.37, pricePerBottle: 0.88 },
+          { count: 300, price: 259.26, pricePerBottle: 0.86 },
+        ],
+      },
+    ],
+    prescription: `Atomoxetine is used as part of a total treatment program to increase the ability to pay attention and decrease impulsiveness and hyperactivity in children and adults with ADHD. Atomoxetine is in a class of medications called selective norepinephrine reuptake inhibitors. It works by increasing the levels of norepinephrine, a natural substance in the brain that is needed to control behavior.`,
+    howToUse: `Atomoxetine comes as a capsule to take by mouth. It is usually taken either once a day in the morning, or twice a day in the morning and late afternoon or early evening. Atomoxetine may be taken with or without food. Take atomoxetine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take atomoxetine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow atomoxetine capsules whole; do not open, chew, or crush them. If a capsule is accidentally broken or opened, wash away the loose powder with water right away. Try not to touch the powder and be especially careful not to get the powder in your eyes. If you do get powder in your eyes, rinse them with water right away and call your doctor.
+    
+    Your doctor will probably start you on a low dose of atomoxetine and increase your dose after at least 3 days. Your doctor may increase your dose again after 2-4 weeks. You may notice improvement in your symptoms during the first week of your treatment, but it may take up to one month for you to feel the full benefit of atomoxetine.`,
+    additionalDetials: `Atomoxetine may help to control the symptoms of ADHD but will not cure the condition. Continue to take atomoxetine even if you feel well. Do not stop taking atomoxetine without talking to your doctor.`,
+  },
+  {
+    productId: 422,
+    name: "Betnesol",
+    categoryName: "GENERAL HEALTH",
+    activeIngredient: "Betamethasone",
+    rating: 187,
+    star: 4,
+    price: "12.32",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "GSK GlaxoSmithKline",
+    image: Betnesol,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100 tabs / pack 0.5",
+        unit: "mg",
+        bottle: [
+          { count: 2, price: 30.43, pricePerBottle: 15.22 },
+          { count: 3, price: 36.96, pricePerBottle: 12.32 },
+        ],
+      },
+    ],
+    prescription: `Betamethasone topical is used to treat the itching, redness, dryness, crusting, scaling, inflammation, and discomfort of various skin conditions, including psoriasis (a skin disease in which red, scaly patches form on some areas of the body) and eczema (a skin disease that causes the skin to be dry and itchy and to sometimes develop red, scaly rashes). Betamethasone is in a class of medications called corticosteroids. It works by activating natural substances in the skin to reduce swelling, redness, and itching.`,
+    howToUse: `Betamethasone comes in ointment, cream, lotion, gel, and aerosol (spray) in various strengths for use on the skin and as a foam to apply to the scalp. It is usually applied once or twice daily. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use betamethasone exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor. Do not apply it to other areas of your body or use it to treat other skin conditions unless directed to do so by your doctor.
+
+    Your skin condition should improve during the first 2 weeks of your treatment. Call your doctor if your symptoms do not improve during this time.
+    
+    To use betamethasone topical, apply a small amount of ointment, cream, solution, gel, or lotion to cover the affected area of skin with a thin even film and rub it in gently.
+    
+    To use the foam on your scalp, part your hair, apply a small amount of the medicine on the affected area, and rub it in gently. You may wash your hair as usual but not right after applying the medicine.
+    
+    Betamethasone foam may catch fire. Stay away from open fire, flames, and do not smoke while you are applying betamethasone foam, and for a short time afterward.
+    
+    This medication is only for use on the skin. Do not let betamethasone topical get into your eyes or mouth and do not swallow it. Avoid use in the genital and rectal areas and in skin creases and armpits unless directed by your doctor.
+    
+    If you are using betamethasone on a child's diaper area, do not use tight-fitting diapers or plastic pants. Such use may increase side effects.`,
+    additionalDetials: `Do not apply other skin preparations or products on the treated area without talking with your doctor.
+
+    Do not wrap or bandage the treated area unless your doctor tells you that you should. Such use may increase side effects.
+    
+    Call your doctor if the treated area gets worse or if burning, swelling, redness, or oozing of pus develops.`,
+  },
+  {
+    productId: 423,
+    name: "Caberlin",
+    categoryName: "GENERAL HEALTH",
+    activeIngredient: "Cabergoline",
+    rating: 104,
+    star: 5,
+    price: "8.54",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Sun Pharmaceuticals Industries",
+    image: Caberlin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.25",
+        unit: "mg",
+        bottle: [
+          { count: 2, price: 32, pricePerBottle: 16 },
+          { count: 4, price: 49.19, pricePerBottle: 12.3 },
+          { count: 6, price: 66.37, pricePerBottle: 11.06 },
+          { count: 8, price: 83.56, pricePerBottle: 10.45 },
+          { count: 10, price: 100.74, pricePerBottle: 10.07 },
+        ],
+      },
+    ],
+    prescription: `Cabergoline is used to treat hyperprolactinemia (high levels of prolactin, a natural substance that helps breast-feeding women produce milk but can cause symptoms such as infertility, sexual problems, and bone loss in women who are not breast-feeding or men). Cabergoline is in a class of medications called dopamine receptor agonists. It works by decreasing the amount of prolactin in the body.`,
+    howToUse: `Cabergoline comes as a tablet to take by mouth. It is usually taken with or without food two times a week. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cabergoline exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on a low dose of cabergoline and gradually increase your dose, not more often than once every 4 weeks.`,
+    additionalDetials: `Do not stop taking cabergoline without talking to your doctor. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 424,
+    name: "Cabgolin",
+    categoryName: "GENERAL HEALTH",
+    activeIngredient: "Cabergoline",
+    rating: 65,
+    star: 4,
+    price: "9.21",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Sun Pharmaceuticals Industries",
+    image: Caberlin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 283.7, pricePerBottle: 9.46 },
+          { count: 60, price: 552.59, pricePerBottle: 9.21 },
+        ],
+      },
+    ],
+    prescription: `Cabergoline is used to treat hyperprolactinemia (high levels of prolactin, a natural substance that helps breast-feeding women produce milk but can cause symptoms such as infertility, sexual problems, and bone loss in women who are not breast-feeding or men). Cabergoline is in a class of medications called dopamine receptor agonists. It works by decreasing the amount of prolactin in the body.`,
+    howToUse: `Cabergoline comes as a tablet to take by mouth. It is usually taken with or without food two times a week. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cabergoline exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on a low dose of cabergoline and gradually increase your dose, not more often than once every 4 weeks.`,
+    additionalDetials: `Do not stop taking cabergoline without talking to your doctor. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 425,
+    name: "Generic Actonel",
+    categoryName: "HEALTHY BONES",
+    activeIngredient: "Calcium Carbonate + Risedronate",
+    rating: 155,
+    star: 4,
+    price: "6.16",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: actonel,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "35",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 70.27, pricePerBottle: 7.03 },
+          { count: 20, price: 129.73, pricePerBottle: 6.49 },
+          { count: 30, price: 189.19, pricePerBottle: 6.31 },
+          { count: 40, price: 248.65, pricePerBottle: 6.22 },
+          { count: 50, price: 308.11, pricePerBottle: 6.16 },
+        ],
+      },
+    ],
+    prescription: `Risedronate tablets and delayed-release (long-acting tablets) are used to prevent and treat osteoporosis (a condition in which the bones become thin and weak and break easily) in women who have undergone menopause (''change of life,'' end of menstrual periods). Risedronate tablets are also used to treat osteoporosis in men, and in men and women who are taking glucocorticoids (a type of corticosteroid medication that may cause osteoporosis). Risedronate tablets are also used to treat Paget's disease of bone (a condition in which the bones are soft and weak and may be deformed, painful, or easily broken). Risedronate is in a class of medications called bisphosphonates. It works by preventing bone breakdown and increasing bone density (thickness).`,
+    howToUse: `Risedronate comes as a tablet and a delayed-release tablet to take by mouth. The delayed-release tablets are usually taken once a week in the morning, immediately after breakfast. The tablets are usually taken on an empty stomach once a day in the morning, once a week in the morning, once monthly in the morning, or once monthly for two mornings in a row depending on your condition and the dosage prescribed by your doctor. If you are taking risedronate once a week, once monthly, or once monthly for 2 days in a row, take it on the same day every week or month or the same 2 days in a row every month. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take risedronate exactly as directed. Do not take more or less of it or take it more often or for a longer period of time than prescribed by your doctor.`,
+    additionalDetials: `Risedronate may not work properly and may damage the esophagus (tube that connects the mouth and stomach) or cause sores in the mouth if it is not taken according to the following instructions. Tell your doctor if you do not understand, you do not think you will remember, or you are unable to follow these instructions:
+    You must take risedronate tablets immediately after you get out of bed in the morning and before you eat or drink anything. You must take risedronate delayed-release tablets immediately after breakfast. Never take risedronate at bedtime or before you wake up and get out of bed for the day.
+    Swallow the tablets with a full glass (6 to 8 ounces [180 to 240 mL]) of plain water while you are sitting or standing. Swallow the delayed-release tablets with at least 4 ounces (120 mL) of plain water while you are sitting or standing. Never take risedronate with tea, coffee, juice, mineral water, milk, other dairy drinks, or any liquid other than plain water.
+    Swallow the tablets and delayed-release tablets whole. Do not split, chew, or crush them. Do not suck on the tablets or hold them in your mouth for any length of time.
+    After you take risedronate, do not eat, drink, or take any other medications for at least 30 minutes. Do not lie down for at least 30 minutes after you take risedronate. Sit upright or stand upright until at least 30 minutes have passed.
+    Risedronate controls osteoporosis and Paget's disease of bone but does not cure these conditions. Risedronate helps to treat and prevent osteoporosis only as long as it is taken regularly. Continue to take risedronate even if you feel well. Do not stop taking risedronate without talking to your doctor, but talk to your doctor from time to time about whether you still need to take risedronate.
+    
+    Your doctor or pharmacist will give you the manufacturer's patient information sheet (Medication Guide) when you begin treatment with risedronate and each time you refill your prescription. Read the information carefully and ask your doctor or pharmacist if you have any questions. You can also visit the Food and Drug Administration (FDA) website (http://www.fda.gov/Drugs/DrugSafety/ucm085729.htm) or the manufacturer's website to obtain the Medication Guide.`,
+  },
+  {
+    productId: 426,
+    name: "Generic Arava",
+    categoryName: "GENERAL HEALTH",
+    activeIngredient: "Leflunomide",
+    rating: 122,
+    star: 5,
+    price: "1.60",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: Caberlin,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 283.7, pricePerBottle: 9.46 },
+          { count: 60, price: 552.59, pricePerBottle: 9.21 },
+          { count: 30, price: 283.7, pricePerBottle: 9.46 },
+          { count: 60, price: 552.59, pricePerBottle: 9.21 },
+          { count: 60, price: 552.59, pricePerBottle: 9.21 },
+        ],
+      },
+    ],
+    prescription: `Cabergoline is used to treat hyperprolactinemia (high levels of prolactin, a natural substance that helps breast-feeding women produce milk but can cause symptoms such as infertility, sexual problems, and bone loss in women who are not breast-feeding or men). Cabergoline is in a class of medications called dopamine receptor agonists. It works by decreasing the amount of prolactin in the body.`,
+    howToUse: `Cabergoline comes as a tablet to take by mouth. It is usually taken with or without food two times a week. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take cabergoline exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor will probably start you on a low dose of cabergoline and gradually increase your dose, not more often than once every 4 weeks.`,
+    additionalDetials: `Do not stop taking cabergoline without talking to your doctor. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 427,
+    name: "Generic Calcium Carbonate",
+    categoryName: "HEALTHY BONES",
+    activeIngredient: "Calcium Carbonate",
+    rating: 114,
+    star: 4,
+    price: "1.16",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: calciumCarbonate,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 48.15, pricePerBottle: 1.61 },
+          { count: 60, price: 81.48, pricePerBottle: 1.36 },
+          { count: 120, price: 148.15, pricePerBottle: 1.23 },
+          { count: 240, price: 281.48, pricePerBottle: 1.17 },
+          { count: 300, price: 348.15, pricePerBottle: 1.16 },
+        ],
+      },
+    ],
+    prescription: `Calcium carbonate is a dietary supplement used when the amount of calcium taken in the diet is not enough. Calcium is needed by the body for healthy bones, muscles, nervous system, and heart. Calcium carbonate also is used as an antacid to relieve heartburn, acid indigestion, and upset stomach. It is available with or without a prescription.
+
+    This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Calcium carbonate comes as a tablet, chewable tablet, capsule, and liquid to take by mouth. It is usually taken three or four times a day. Follow the directions on your prescription or package label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take calcium carbonate exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor. When using this medicine as a dietary supplement, take it with food or following meals.
+
+    Chewable tablets should be chewed thoroughly before being swallowed; do not swallow them whole. Drink a full glass of water after taking either the regular or chewable tablets or capsules. Some liquid forms of calcium carbonate must be shaken well before use.`,
+    additionalDetials: `Do not take calcium carbonate as an antacid for more than 2 weeks unless your doctor tells you to.`,
+  },
+  {
+    productId: 428,
+    name: "Generic Cartidin",
+    categoryName: "HEALTHY BONES",
+    activeIngredient: "Diacerein",
+    rating: 182,
+    star: 5,
+    price: "1.09",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericLidoderm,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 45.93, pricePerBottle: 1.53 },
+          { count: 60, price: 77.04, pricePerBottle: 1.28 },
+          { count: 120, price: 139.26, pricePerBottle: 1.16 },
+          { count: 240, price: 263.7, pricePerBottle: 1.1 },
+          { count: 300, price: 325.93, pricePerBottle: 1.09 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 429,
+    name: "Generic Colchicine",
+    categoryName: "HEALTHY BONES",
+    activeIngredient: "Colchicine",
+    rating: 116,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: colchicine_b,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Colchicine is used to prevent gout attacks (sudden, severe pain in one or more joints caused by abnormally high levels of a substance called uric acid in the blood) in adults, and to relieve the pain of gout attacks when they occur. Colchicine is also used to treat familial Mediterranean fever (FMF; an inborn condition that causes episodes of fever, pain, and swelling of the stomach area, lungs, and joints) in adults and children 4 years of age and older. Colchicine is not a pain reliever and cannot be used to treat pain that is not caused by gout or FMF. Colchicine is in a class of medications called anti-gout agents. It works by stopping the natural processes that cause swelling and other symptoms of gout and FMF.`,
+    howToUse: `Colchicine comes as a tablet to take by mouth with or without food. When colchicine is used to prevent gout attacks or to treat FMF, it is usually taken once or twice a day. When colchicine is used to relieve the pain of a gout attack, one dose is usually taken at the first sign of pain and a second, smaller dose is usually taken one hour later. If you do not experience relief or have another attack within several days after treatment, talk to your doctor before taking additional doses of medication. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take colchicine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are taking colchicine to treat FMF, your doctor may start you on a low dose and gradually increase your dose. Your doctor may decrease your dose if you experience side effects.
+    
+    If you are taking colchicine to prevent gout attacks, call your doctor right away if you experience a gout attack during your treatment. Your doctor may tell you to take an extra dose of colchicine, followed by a smaller dose one hour later. If you take extra doses of colchicine to treat a gout attack, you should not take your next scheduled dose of colchicine until at least 12 hours have passed since you took the extra doses.`,
+    additionalDetials: `Colchicine can prevent attacks of gout and control FMF only as long as you take the medication. Continue to take colchicine even if you feel well. Do not stop taking colchicine without talking to your doctor.`,
+  },
+  {
+    productId: 430,
+    name: "Generic Fosamax",
+    categoryName: "HEALTHY BONES",
+    activeIngredient: "Alendronate",
+    rating: 72,
+    star: 4,
+    price: "2.79",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: fosamax,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "35",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 97.04, pricePerBottle: 3.23 },
+          { count: 60, price: 179.26, pricePerBottle: 2.99 },
+          { count: 120, price: 343.7, pricePerBottle: 2.86 },
+          { count: 240, price: 672.59, pricePerBottle: 2.8 },
+          { count: 300, price: 148.15, pricePerBottle: 2.79 },
+        ],
+      },
+    ],
+    prescription: `Alendronate is used to treat and prevent osteoporosis (a condition in which the bones become thin and weak and break easily) in women who have undergone menopause (''change of life,'' end of menstrual periods) and to treat osteoporosis in men. Alendronate is also used to treat osteoporosis in men and women who are taking corticosteroids (a type of medication that may cause osteoporosis in some patients). Alendronate is also used to treat Paget's disease of bone (a condition in which the bones are soft and weak and may be deformed, painful, or easily broken). Alendronate is in a class of medications called bisphosphonates. It works by preventing bone breakdown and increasing bone density (thickness).`,
+    howToUse: `Alendronate comes as a tablet and a solution (liquid) to take by mouth. The solution is usually taken on an empty stomach once a week in the morning. The 5-mg and 10-mg tablets are usually taken on an empty stomach once a day in the morning, and the 35-mg and 70-mg tablets are usually taken on an empty stomach once a week in the morning. The 40-mg tablets are usually taken once a day in the morning for six months to treat Paget's disease of bone. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take alendronate exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Alendronate may not work properly and may damage the esophagus (tube between the mouth and stomach) or cause sores in the mouth if it is not taken according to the following instructions. Tell your doctor if you do not understand, you do not think you will remember, or you are unable to follow these instructions:
+    You must take alendronate just after you get out of bed in the morning, before you eat or drink anything. Never take alendronate at bedtime or before you wake up and get out of bed for the day.
+    Swallow alendronate tablets with a full glass (6 to 8 ounces [180 to 240 mL]) of plain water. Drink at least a quarter of a cup (2 ounces [60 mL]) of plain water after you take alendronate solution. Never take alendronate tablets or solution with tea, coffee, juice, milk, mineral water, sparkling water, or any liquid other than plain water.
+    Swallow the tablets whole; do not split, chew or crush them. Do not suck on the tablets.
+    After you take alendronate, do not eat, drink, or take any other medications (including vitamins or antacids) for at least 30 minutes. Do not lie down for at least 30 minutes after you take alendronate. Sit upright or stand upright until at least 30 minutes have passed and you have eaten your first food of the day.
+    Alendronate controls osteoporosis and Paget's disease of bone but does not cure these conditions. It may take 3 months or longer before your bone density begins to increase. Alendronate helps to treat and prevent osteoporosis only as long as it is taken regularly. Continue to take alendronate even if you feel well. Do not stop taking alendronate without talking to your doctor, but talk to your doctor from time to time about whether you still need to take alendronate.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 431,
+    name: "Entavir",
+    categoryName: "HEPATITIS B",
+    activeIngredient: "Entecavir",
+    rating: 152,
+    star: 4,
+    price: "70.59",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "35",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 83.56, pricePerBottle: 83.56 },
+          { count: 2, price: 152.3, pricePerBottle: 76.15 },
+          { count: 4, price: 289.78, pricePerBottle: 72.45 },
+          { count: 8, price: 564.74, pricePerBottle: 70.59 },
+        ],
+      },
+    ],
+    prescription: `Entecavir is used to treat chronic (long-term) hepatitis B infection (swelling of the liver caused by a virus) in adults and children 2 years of age and older who have liver damage. Entecavir is in a class of medications called nucleoside analogs. It works by decreasing the amount of hepatitis B virus (HBV) in the body. Entecavir does not cure HBV and may not prevent complications of chronic hepatitis B such as cirrhosis of the liver or liver cancer. Entecavir does not prevent the spread of HBV to other people.`,
+    howToUse: `Entecavir comes as a tablet and solution (liquid) to take by mouth. It is usually taken once a day on an empty stomach, at least 2 hours after a meal and at least 2 hours before the next meal. Take entecavir at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take entecavir exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `To use the entecavir oral solution, follow these steps:
+    Hold the spoon that came with your medication upright and slowly fill it with entecavir solution up to the mark that matches your dose.
+    Hold the spoon with the volume marks facing you and check to see that the top of the liquid is level with the mark that matches your dose.
+    Swallow the medication right from the measuring spoon. Do not mix the medication with water or any other liquid.
+    Rinse the spoon with water after each use, and allow it to air dry.
+    Put the spoon in a safe place where it will not get lost because you will need to use it every time you take your medication. If you do lose the dosing spoon, call your doctor or pharmacist.`,
+  },
+  {
+    productId: 432,
+    name: "Duprost",
+    categoryName: "MEN`S HEALTH",
+    activeIngredient: "Dutasteride",
+    rating: 78,
+    star: 4,
+    price: "2.12",
+    type: "cap",
+    typeName: "cap",
+    ManufacturedBy: "Cipla",
+    image: duprost,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 77.04, pricePerBottle: 2.57 },
+          { count: 60, price: 139.26, pricePerBottle: 2.32 },
+          { count: 120, price: 263.7, pricePerBottle: 2.2 },
+          { count: 240, price: 512.59, pricePerBottle: 2.14 },
+          { count: 300, price: 637.04, pricePerBottle: 2.12 },
+        ],
+      },
+    ],
+    prescription: `Dutasteride is used alone or with another medication (tamsulosin [Flomax]) to treat benign prostatic hyperplasia (BPH; enlargement of the prostate gland). Dutasteride is used to treat symptoms of BPH and may reduce the chance of developing acute urinary retention (sudden inability to urinate). Dutasteride may also decrease the chance that prostate surgery will be needed. Dutasteride is in a class of medications called 5-alpha reductase inhibitors. It works by blocking the production of a natural substance that enlarges the prostate.`,
+    howToUse: `Dutasteride comes as a capsule to take by mouth. It is usually taken once a day with or without food. Take dutasteride at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take dutasteride exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the capsules whole; do not open chew, or crush them.
+    
+    Your symptoms may improve after you have taken dutasteride for 3 months, but it may take 6 months or longer for you to see the full benefit of dutasteride. Talk to your doctor about how you are feeling during your treatment.`,
+    additionalDetials: `Dutasteride may control your symptoms but will not cure your condition. Continue to take dutasteride even if you feel well. Do not stop taking dutasteride without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 433,
+    name: "Dutagen",
+    categoryName: "MEN`S HEALTH",
+    activeIngredient: "Dutasteride",
+    rating: 96,
+    star: 4,
+    price: "2.94",
+    type: "cap",
+    typeName: "cap",
+    ManufacturedBy: "Ranbaxy",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 101.48, pricePerBottle: 3.38 },
+          { count: 60, price: 188.15, pricePerBottle: 3.14 },
+          { count: 120, price: 361.48, pricePerBottle: 3.01 },
+          { count: 240, price: 708.15, pricePerBottle: 2.95 },
+          { count: 300, price: 881.48, pricePerBottle: 2.94 },
+        ],
+      },
+    ],
+    prescription: `Dutasteride is used alone or with another medication (tamsulosin [Flomax]) to treat benign prostatic hyperplasia (BPH; enlargement of the prostate gland). Dutasteride is used to treat symptoms of BPH and may reduce the chance of developing acute urinary retention (sudden inability to urinate). Dutasteride may also decrease the chance that prostate surgery will be needed. Dutasteride is in a class of medications called 5-alpha reductase inhibitors. It works by blocking the production of a natural substance that enlarges the prostate.`,
+    howToUse: `Dutasteride comes as a capsule to take by mouth. It is usually taken once a day with or without food. Take Dutasteride at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Dutasteride exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the capsules whole; do not open chew, or crush them.
+    
+    Your symptoms may improve after you have taken Dutasteride for 3 months, but it may take 6 months or longer for you to see the full benefit of Dutasteride. Talk to your doctor about how you are feeling during your treatment.`,
+    additionalDetials: `Dutasteride may control your symptoms but will not cure your condition. Continue to take Dutasteride even if you feel well. Do not stop taking Dutasteride without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 434,
+    name: "Dutas",
+    categoryName: "MEN`S HEALTH",
+    activeIngredient: "Dutasteride",
+    rating: 51,
+    star: 4,
+    price: "2.12",
+    type: "cap",
+    typeName: "cap",
+    ManufacturedBy: "Ranbaxy",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 77.04, pricePerBottle: 2.57 },
+          { count: 60, price: 139.26, pricePerBottle: 2.32 },
+          { count: 120, price: 263.7, pricePerBottle: 2.2 },
+          { count: 240, price: 512.59, pricePerBottle: 2.14 },
+          { count: 300, price: 637.04, pricePerBottle: 2.12 },
+        ],
+      },
+    ],
+    prescription: `Dutasteride is used alone or with another medication (tamsulosin [Flomax]) to treat benign prostatic hyperplasia (BPH; enlargement of the prostate gland). Dutasteride is used to treat symptoms of BPH and may reduce the chance of developing acute urinary retention (sudden inability to urinate). Dutasteride may also decrease the chance that prostate surgery will be needed. Dutasteride is in a class of medications called 5-alpha reductase inhibitors. It works by blocking the production of a natural substance that enlarges the prostate.`,
+    howToUse: `Dutasteride comes as a capsule to take by mouth. It is usually taken once a day with or without food. Take Dutasteride at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take Dutasteride exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the capsules whole; do not open chew, or crush them.
+    
+    Your symptoms may improve after you have taken Dutasteride for 3 months, but it may take 6 months or longer for you to see the full benefit of Dutasteride. Talk to your doctor about how you are feeling during your treatment.`,
+    additionalDetials: `Dutasteride may control your symptoms but will not cure your condition. Continue to take Dutasteride even if you feel well. Do not stop taking Dutasteride without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 435,
+    name: "Dutas",
+    categoryName: "MEN`S HEALTH",
+    activeIngredient: "dutasteride + tamsolusin",
+    rating: 180,
+    star: 5,
+    price: "3.02",
+    type: "cap",
+    typeName: "cap",
+    ManufacturedBy: "Dr. Reddy's",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.5",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 192.59, pricePerBottle: 3.21 },
+          { count: 120, price: 370.37, pricePerBottle: 3.09 },
+          { count: 240, price: 548.15, pricePerBottle: 3.05 },
+          { count: 300, price: 725.93, pricePerBottle: 3.02 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 436,
+    name: "Fenered",
+    categoryName: "MEN`S HEALTH",
+    activeIngredient: "Finasteride",
+    rating: 180,
+    star: 4,
+    price: "0.49",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "RSM Enterprises",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Finasteride (Proscar) is used alone or in combination with another medication (doxazosin [Cardura]) to treat benign prostatic hypertrophy (BPH, enlargement of the prostate gland). Finasteride is used to treat symptoms of BPH such as frequent and difficult urination and may reduce the chance of acute urinary retention (sudden inability to urinate). It also may decrease the chance that prostate surgery will be needed. Finasteride (Propecia) is also used to treat male pattern hair loss (gradual thinning of the hair on the scalp, leading to a receding hairline or balding on the top of the head in men.) Finasteride (Propecia) has not been shown to treat thinning hair at the temples and is not used to treat hair loss in women or children. Finasteride is in a class of medications called 5-alpha reductase inhibitors. Finasteride treats BPH by blocking the body's production of a male hormone that causes the prostate to enlarge. Finasteride treats male pattern hair loss by blocking the body's production of a male hormone in the scalp that stops hair growth.`,
+    howToUse: `Finasteride comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take finasteride at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take finasteride exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are taking finasteride to treat BPH, you should know that finasteride may control your condition, but will not cure it. It may take at least 6 months before your symptoms improve. Continue to take finasteride even if you feel well. Do not stop taking finasteride without talking to your doctor.
+    
+    If you are taking finasteride to treat male pattern hair loss, it may take at least 3 months before you see any improvement because hair loss and growth happen slowly over time. However, you should expect to see improvement during the first 12 months of your treatment. If you have taken finasteride for 12 months and have not noticed any improvement, further treatment probably will not help. Talk to your doctor about whether you should continue your treatment.`,
+    additionalDetials: `Finasteride will only slow hair loss while you are taking the medication. Continue to take finasteride even if you have already noticed an improvement. Do not stop taking finasteride without talking to your doctor. You will probably lose any hair that grew back while you were taking finasteride during the first 12 months after you stop taking the medication..
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 437,
+    name: "Finalo",
+    categoryName: "MEN`S HEALTH",
+    activeIngredient: "Finasteride",
+    rating: 126,
+    star: 5,
+    price: "49.82",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Intas Pharmaceuticals Ltd",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100 tabs / pack 1",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 63.7, pricePerBottle: 63.7 },
+          { count: 2, price: 112.59, pricePerBottle: 56.3 },
+          { count: 4, price: 210.37, pricePerBottle: 52.59 },
+          { count: 8, price: 405.93, pricePerBottle: 50.74 },
+          { count: 16, price: 797.04, pricePerBottle: 49.82 },
+        ],
+      },
+    ],
+    prescription: `Finasteride (Proscar) is used alone or in combination with another medication (doxazosin [Cardura]) to treat benign prostatic hypertrophy (BPH, enlargement of the prostate gland). Finasteride is used to treat symptoms of BPH such as frequent and difficult urination and may reduce the chance of acute urinary retention (sudden inability to urinate). It also may decrease the chance that prostate surgery will be needed. Finasteride (Propecia) is also used to treat male pattern hair loss (gradual thinning of the hair on the scalp, leading to a receding hairline or balding on the top of the head in men.) Finasteride (Propecia) has not been shown to treat thinning hair at the temples and is not used to treat hair loss in women or children. Finasteride is in a class of medications called 5-alpha reductase inhibitors. Finasteride treats BPH by blocking the body's production of a male hormone that causes the prostate to enlarge. Finasteride treats male pattern hair loss by blocking the body's production of a male hormone in the scalp that stops hair growth.`,
+    howToUse: `Finasteride comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take finasteride at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take finasteride exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are taking finasteride to treat BPH, you should know that finasteride may control your condition, but will not cure it. It may take at least 6 months before your symptoms improve. Continue to take finasteride even if you feel well. Do not stop taking finasteride without talking to your doctor.
+    
+    If you are taking finasteride to treat male pattern hair loss, it may take at least 3 months before you see any improvement because hair loss and growth happen slowly over time. However, you should expect to see improvement during the first 12 months of your treatment. If you have taken finasteride for 12 months and have not noticed any improvement, further treatment probably will not help. Talk to your doctor about whether you should continue your treatment..
+    
+    If you are taking finasteride to treat male pattern hair loss, it may take at least 3 months before you see any improvement because hair loss and growth happen slowly over time. However, you should expect to see improvement during the first 12 months of your treatment. If you have taken finasteride for 12 months and have not noticed any improvement, further treatment probably will not help. Talk to your doctor about whether you should continue your treatment.`,
+    additionalDetials: `Finasteride will only slow hair loss while you are taking the medication. Continue to take finasteride even if you have already noticed an improvement. Do not stop taking finasteride without talking to your doctor. You will probably lose any hair that grew back while you were taking finasteride during the first 12 months after you stop taking the medication..
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 438,
+    name: "Finast",
+    categoryName: "MEN`S HEALTH",
+    activeIngredient: "Finasteride",
+    rating: 120,
+    star: 5,
+    price: "1.75",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Dr. Reddy's",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 65.93, pricePerBottle: 2.2 },
+          { count: 60, price: 117.04, pricePerBottle: 1.95 },
+          { count: 120, price: 219.26, pricePerBottle: 1.83 },
+          { count: 240, price: 423.7, pricePerBottle: 1.77 },
+          { count: 300, price: 525.93, pricePerBottle: 0.175 },
+        ],
+      },
+    ],
+    prescription: `Finasteride (Proscar) is used alone or in combination with another medication (doxazosin [Cardura]) to treat benign prostatic hypertrophy (BPH, enlargement of the prostate gland). Finasteride is used to treat symptoms of BPH such as frequent and difficult urination and may reduce the chance of acute urinary retention (sudden inability to urinate). It also may decrease the chance that prostate surgery will be needed. Finasteride (Propecia) is also used to treat male pattern hair loss (gradual thinning of the hair on the scalp, leading to a receding hairline or balding on the top of the head in men.) Finasteride (Propecia) has not been shown to treat thinning hair at the temples and is not used to treat hair loss in women or children. Finasteride is in a class of medications called 5-alpha reductase inhibitors. Finasteride treats BPH by blocking the body's production of a male hormone that causes the prostate to enlarge. Finasteride treats male pattern hair loss by blocking the body's production of a male hormone in the scalp that stops hair growth.`,
+    howToUse: `Finasteride comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take finasteride at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take finasteride exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are taking finasteride to treat BPH, you should know that finasteride may control your condition, but will not cure it. It may take at least 6 months before your symptoms improve. Continue to take finasteride even if you feel well. Do not stop taking finasteride without talking to your doctor.
+    
+    If you are taking finasteride to treat male pattern hair loss, it may take at least 3 months before you see any improvement because hair loss and growth happen slowly over time. However, you should expect to see improvement during the first 12 months of your treatment. If you have taken finasteride for 12 months and have not noticed any improvement, further treatment probably will not help. Talk to your doctor about whether you should continue your treatment..
+    
+    If you are taking finasteride to treat male pattern hair loss, it may take at least 3 months before you see any improvement because hair loss and growth happen slowly over time. However, you should expect to see improvement during the first 12 months of your treatment. If you have taken finasteride for 12 months and have not noticed any improvement, further treatment probably will not help. Talk to your doctor about whether you should continue your treatment.`,
+    additionalDetials: `Finasteride will only slow hair loss while you are taking the medication. Continue to take finasteride even if you have already noticed an improvement. Do not stop taking finasteride without talking to your doctor. You will probably lose any hair that grew back while you were taking finasteride during the first 12 months after you stop taking the medication..
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 439,
+    name: "Finast",
+    categoryName: "MEN`S HEALTH",
+    activeIngredient: "Finasteride",
+    rating: 192,
+    star: 4,
+    price: "0.27",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Dr. Reddy's",
+    image: vilitra,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1",
+        unit: "mg",
+        bottle: [
+          { count: 120, price: 41.48, pricePerBottle: 0.35 },
+          { count: 240, price: 68.15, pricePerBottle: 0.28 },
+          { count: 300, price: 81.48, pricePerBottle: 0.27 },
+        ],
+      },
+    ],
+    prescription: `Finasteride (Proscar) is used alone or in combination with another medication (doxazosin [Cardura]) to treat benign prostatic hypertrophy (BPH, enlargement of the prostate gland). Finasteride is used to treat symptoms of BPH such as frequent and difficult urination and may reduce the chance of acute urinary retention (sudden inability to urinate). It also may decrease the chance that prostate surgery will be needed. Finasteride (Propecia) is also used to treat male pattern hair loss (gradual thinning of the hair on the scalp, leading to a receding hairline or balding on the top of the head in men.) Finasteride (Propecia) has not been shown to treat thinning hair at the temples and is not used to treat hair loss in women or children. Finasteride is in a class of medications called 5-alpha reductase inhibitors. Finasteride treats BPH by blocking the body's production of a male hormone that causes the prostate to enlarge. Finasteride treats male pattern hair loss by blocking the body's production of a male hormone in the scalp that stops hair growth.`,
+    howToUse: `Finasteride comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take finasteride at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take finasteride exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    If you are taking finasteride to treat BPH, you should know that finasteride may control your condition, but will not cure it. It may take at least 6 months before your symptoms improve. Continue to take finasteride even if you feel well. Do not stop taking finasteride without talking to your doctor.
+    
+    If you are taking finasteride to treat male pattern hair loss, it may take at least 3 months before you see any improvement because hair loss and growth happen slowly over time. However, you should expect to see improvement during the first 12 months of your treatment. If you have taken finasteride for 12 months and have not noticed any improvement, further treatment probably will not help. Talk to your doctor about whether you should continue your treatment..
+    
+    If you are taking finasteride to treat male pattern hair loss, it may take at least 3 months before you see any improvement because hair loss and growth happen slowly over time. However, you should expect to see improvement during the first 12 months of your treatment. If you have taken finasteride for 12 months and have not noticed any improvement, further treatment probably will not help. Talk to your doctor about whether you should continue your treatment.`,
+    additionalDetials: `Finasteride will only slow hair loss while you are taking the medication. Continue to take finasteride even if you have already noticed an improvement. Do not stop taking finasteride without talking to your doctor. You will probably lose any hair that grew back while you were taking finasteride during the first 12 months after you stop taking the medication..
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 440,
+    name: "Cobix",
+    categoryName: "PAIN RELIEF",
+    activeIngredient: "Celecoxib",
+    rating: 109,
+    star: 5,
+    price: "0.49",
+    type: "cap",
+    typeName: "cap",
+    ManufacturedBy: "Cipla",
+    image: Cobix,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Celecoxib is used to relieve pain, tenderness, swelling and stiffness caused by osteoarthritis (arthritis caused by a breakdown of the lining of the joints), rheumatoid arthritis (arthritis caused by swelling of the lining of the joints), and ankylosing spondylitis (arthritis that mainly affects the spine). It is also used to treat juvenile rheumatoid arthritis (a type of arthritis that affects children) in children 2 years of age and older. Celecoxib is also used to treat painful menstrual periods and to relieve other types of short-term pain including pain caused by injuries, surgery and other medical or dental procedures, or medical conditions that last for a limited time. Celecoxib is in a class of NSAIDs called COX-2 inhibitors. It works by stopping the body's production of a substance that causes pain and inflammation.`,
+    howToUse: `Celecoxib comes as a capsule to take by mouth. It is usually taken once or twice a day. If you are taking up to 200 mg of celecoxib at a time, you may take the medication with or without food. If you are taking more than 200 mg of celecoxib at a time, you should take the medication with food. Ask your doctor or pharmacist if you are not sure if you need to take your medication with food. To help you remember to take celecoxib, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take celecoxib exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `If you cannot swallow the capsules or if you are giving this medication to a child, you may open the capsules and sprinkle the contents over a teaspoon of cold or room temperature applesauce. You may prepare the mixture in advance and store it for up to 6 hours in a refrigerator. When you are ready to take your medication, swallow all of the mixture. Then drink water to wash down the mixture and be sure that you have swallowed all of it.`,
   },
 ];
