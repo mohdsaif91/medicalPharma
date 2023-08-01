@@ -263,6 +263,62 @@ import colchicine_b from "../images/products/colchicine_b.gif";
 import fosamax from "../images/products/fosamax.gif";
 import duprost from "../images/products/duprost.gif";
 import Cobix from "../images/products/Cobix.gif";
+import Elipran from "../images/products/Elipran.gif";
+import GenericBenemid from "../images/products/GenericBenemid.gif";
+import celebrex from "../images/products/celebrex.gif";
+import GenericEtodolac from "../images/products/GenericEtodolac.gif";
+import Genericfildena from "../images/products/fildena.gif";
+import imdur from "../images/products/imdur.gif";
+import imitrex from "../images/products/imitrex.gif";
+import Clofranil from "../images/products/Clofranil.gif";
+import ClonilSR from "../images/products/ClonilSR.gif";
+import accutane from "../images/products/accutane.gif";
+import AzidermCream from "../images/products/AzidermCream.gif";
+import BenzacACGel from "../images/products/BenzacACGel.gif";
+import DesowenLotion from "../images/products/DesowenLotion.gif";
+import DiprovatePluscream from "../images/products/DiprovatePluscream.gif";
+import elocon from "../images/products/elocon.gif";
+import EtizolaPlus from "../images/products/EtizolaPlus.gif";
+import meloset from "../images/products/meloset.jpg";
+import GenericXenical from "../images/products/GenericXenical.gif";
+import diane35 from "../images/products/diane-35.gif";
+import Femalegra from "../images/products/Femalegra.gif";
+import Fempro from "../images/products/Fempro.gif";
+import Iverheal12Mg_1 from "../images/products/Iverheal12Mg-1.webp";
+import Ivervid from "../images/products/Ivervid12Mg_2.webp";
+import Iverheal6Mg from "../images/products/Iverheal6Mg.webp";
+import Ivervid6MG from "../images/products/Ivervid6MG.webp";
+import Iverhuman12Mg from "../images/products/Iverhuman12Mg.webp";
+import Iverjohn12Mg from "../images/products/Iverjohn12Mg.webp";
+import IvermectinCream from "../images/products/IvermectinCream.webp";
+import Iverjohn6Mg from "../images/products/Iverjohn6Mg.webp";
+import covimectin_12mg from "../images/products/covimectin-12mg.webp";
+import Iverheal3Mg from "../images/products/Iverheal3Mg.jpg";
+import Ivervid_3 from "../images/products/Ivervid-3.webp";
+import Iversun_12mg from "../images/products/Iversun_12mg.png";
+import ivermectol12_mg_Tablets from "../images/products/ivermectol-12-mg-Tablets.png";
+import Iverjohn3mg_tablets from "../images/products/Iverjohn-3mg-tablets.webp";
+import Iversun_6_mg from "../images/products/Iversun-6-mg.jpg";
+import ImrotabIvermectin12Mg from "../images/products/ImrotabIvermectin12Mg.jpg";
+import AstroIvermectin6Mg from "../images/products/AstroIvermectin6Mg.png";
+import Ivecop12Mg from "../images/products/Ivecop12Mg.webp";
+import Ivecop3Mg from "../images/products/Ivecop3Mg.png";
+import Vermact12 from "../images/products/Vermact12.webp";
+import Ivermectinlotion from "../images/products/Ivermectin-lotion.bmp";
+import HCQS200Mg from "../images/products/HCQS200Mg.png";
+import HCQS_400 from "../images/products/HCQS-400.webp";
+import Hqcheal200 from "../images/products/Hqcheal200.webp";
+import hqcheal400 from "../images/products/hqcheal400.webp";
+import cipmox500mg from "../images/products/cipmox500mg.webp";
+import Cipmox250Mg from "../images/products/Cipmox250Mg.png";
+import azee_500_mg from "../images/products/azee_500_mg.png";
+import Azipro500mg from "../images/products/Azipro500mg.webp";
+import Azax500mg from "../images/products/Azax500mg.webp";
+import Azax250 from "../images/products/Azax250.jpg";
+import Azee250mg from "../images/products/Azee250mg.jpg";
+import azee1000mg from "../images/products/azee1000mg.png";
+import DoxycyclineCapsules100 from "../images/products/DoxycyclineCapsules100.webp";
+import AstroIvermectin12mg from "../images/products/AstroIvermectin12mg.webp";
 
 export const category = [
   "AIDS or HIV Treatment",
@@ -281,6 +337,7 @@ export const category = [
   "ANTIOXIDANT",
   "BLOOD PRESSURE",
   "CHOLESTEROL",
+  "COVID 19",
   "ERECTILE DYSFUNCTION",
   "EYE CARE",
   "GASTROINTESTINAL",
@@ -20265,5 +20322,2985 @@ Clean your nebulizer regularly. Follow the manufacturer's directions carefully a
     prescription: `Celecoxib is used to relieve pain, tenderness, swelling and stiffness caused by osteoarthritis (arthritis caused by a breakdown of the lining of the joints), rheumatoid arthritis (arthritis caused by swelling of the lining of the joints), and ankylosing spondylitis (arthritis that mainly affects the spine). It is also used to treat juvenile rheumatoid arthritis (a type of arthritis that affects children) in children 2 years of age and older. Celecoxib is also used to treat painful menstrual periods and to relieve other types of short-term pain including pain caused by injuries, surgery and other medical or dental procedures, or medical conditions that last for a limited time. Celecoxib is in a class of NSAIDs called COX-2 inhibitors. It works by stopping the body's production of a substance that causes pain and inflammation.`,
     howToUse: `Celecoxib comes as a capsule to take by mouth. It is usually taken once or twice a day. If you are taking up to 200 mg of celecoxib at a time, you may take the medication with or without food. If you are taking more than 200 mg of celecoxib at a time, you should take the medication with food. Ask your doctor or pharmacist if you are not sure if you need to take your medication with food. To help you remember to take celecoxib, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take celecoxib exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
     additionalDetials: `If you cannot swallow the capsules or if you are giving this medication to a child, you may open the capsules and sprinkle the contents over a teaspoon of cold or room temperature applesauce. You may prepare the mixture in advance and store it for up to 6 hours in a refrigerator. When you are ready to take your medication, swallow all of the mixture. Then drink water to wash down the mixture and be sure that you have swallowed all of it.`,
+  },
+  {
+    productId: 441,
+    name: "Elipran",
+    categoryName: "PAIN RELIEF",
+    activeIngredient: "Eletriptan",
+    rating: 111,
+    star: 4,
+    price: "46.26",
+    type: "blister",
+    typeName: "blister",
+    ManufacturedBy: "Intas Pharma",
+    image: Elipran,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "4 tabs / blister 40",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 60.15, pricePerBottle: 0.69 },
+          { count: 2, price: 105.48, pricePerBottle: 52.74 },
+          { count: 4, price: 196.15, pricePerBottle: 49.04 },
+          { count: 8, price: 377.48, pricePerBottle: 47.19 },
+          { count: 16, price: 740.15, pricePerBottle: 46.26 },
+        ],
+      },
+    ],
+    prescription: `Eletriptan is used to treat the symptoms of migraine headaches (severe throbbing headaches that sometimes are accompanied by nausea and sensitivity to sound and light). Eletriptan is in a class of medications called selective serotonin receptor agonists. It works by narrowing blood vessels in the brain, stopping pain signals from being sent to the brain, and blocking the release of certain natural substances that cause pain, nausea, and other symptoms of migraine. Eletriptan does not prevent migraine attacks or reduce the number of headaches you have`,
+    howToUse: `Eletriptan comes as a tablet to take by mouth. It is usually taken at the first sign of a migraine headache. If your symptoms improve after you take eletriptan but return after 2 hours or longer, you may take a second tablet. However, if your symptoms do not improve after you take eletriptan, do not take a second tablet before calling your doctor. Your doctor will tell you the maximum number of tablets you may take in a 24-hour period. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take eletriptan exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    You may take your first dose of eletriptan in a doctor's office or other medical facility where you can be monitored for serious reactions.
+    
+    Call your doctor if your headaches do not get better or occur more frequently after taking eletriptan.`,
+    additionalDetials: `If you take eletriptan more often or for longer than the recommended period of time, your headaches may get worse or may occur more frequently. You should not take eletriptan or any other headache medication for more than 10 days per month. Call your doctor if you need to take eletriptan to treat more than three headaches in a 1-month period.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 442,
+    name: "Generic Benemid",
+    categoryName: "PAIN RELIEF",
+    activeIngredient: "Probenecid",
+    rating: 69,
+    star: 4,
+    price: "0.64",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericBenemid,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 32.59, pricePerBottle: 1.09 },
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+    ],
+    prescription: `Probenecid is used to treat chronic gout and gouty arthritis. It is used to prevent attacks related to gout, not treat them once they occur. It acts on the kidneys to help the body eliminate uric acid. Probenecid is also used to make certain antibiotics more effective by preventing the body from passing them in the urine.
+
+    This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Probenecid comes in a tablet to take by mouth. It usually is taken two times a day when prescribed for chronic gout or gouty arthritis and four times a day when prescribed with antibiotics to make them more effective. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take probenecid exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Probenecid may increase the frequency of gout attacks during the first 6 to 12 months that you take it, although it will eventually prevent them. Another drug, such as colchicine, may be prescribed to decrease this effect.`,
+  },
+  {
+    productId: 443,
+    name: "Generic Celebrex",
+    categoryName: "PAIN RELIEF",
+    activeIngredient: "Celecoxib",
+    rating: 104,
+    star: 4,
+    price: "0.49",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: celebrex,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "100",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 41.48, pricePerBottle: 0.69 },
+          { count: 120, price: 68.15, pricePerBottle: 0.57 },
+          { count: 240, price: 121.48, pricePerBottle: 0.51 },
+          { count: 300, price: 148.15, pricePerBottle: 0.49 },
+        ],
+      },
+    ],
+    prescription: `Celecoxib is used to relieve pain, tenderness, swelling and stiffness caused by osteoarthritis (arthritis caused by a breakdown of the lining of the joints), rheumatoid arthritis (arthritis caused by swelling of the lining of the joints), and ankylosing spondylitis (arthritis that mainly affects the spine). It is also used to treat juvenile rheumatoid arthritis (a type of arthritis that affects children) in children 2 years of age and older. Celecoxib is also used to treat painful menstrual periods and to relieve other types of short-term pain including pain caused by injuries, surgery and other medical or dental procedures, or medical conditions that last for a limited time. Celecoxib is in a class of NSAIDs called COX-2 inhibitors. It works by stopping the body's production of a substance that causes pain and inflammation.`,
+    howToUse: `Celecoxib comes as a capsule to take by mouth. It is usually taken once or twice a day. If you are taking up to 200 mg of celecoxib at a time, you may take the medication with or without food. If you are taking more than 200 mg of celecoxib at a time, you should take the medication with food. Ask your doctor or pharmacist if you are not sure if you need to take your medication with food. To help you remember to take celecoxib, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take celecoxib exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `If you cannot swallow the capsules or if you are giving this medication to a child, you may open the capsules and sprinkle the contents over a teaspoon of cold or room temperature applesauce. You may prepare the mixture in advance and store it for up to 6 hours in a refrigerator. When you are ready to take your medication, swallow all of the mixture. Then drink water to wash down the mixture and be sure that you have swallowed all of it.`,
+  },
+  {
+    productId: 444,
+    name: "Generic Etodolac",
+    categoryName: "PAIN RELIEF",
+    activeIngredient: "Etodolac",
+    rating: 67,
+    star: 4,
+    price: "1.09",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericEtodolac,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "400",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 112.59, pricePerBottle: 3.75 },
+          { count: 60, price: 210.37, pricePerBottle: 3.51 },
+          { count: 120, price: 405.93, pricePerBottle: 3.38 },
+          { count: 240, price: 797.04, pricePerBottle: 3.32 },
+        ],
+      },
+    ],
+    prescription: `Etodolac tablets, capsules, and extended-release (long-acting) tablets are used to relieve pain, tenderness, swelling, and stiffness caused by osteoarthritis (arthritis caused by a breakdown of the lining of the joints) and rheumatoid arthritis (arthritis caused by swelling of the lining of the joints). Etodolac tablets and capsules are also used to relieve pain from other causes. Etodolac is in a class of medications called NSAIDs. It works by stopping the body's production of a substance that causes pain, fever, and inflammation.`,
+    howToUse: `Etodolac comes as a tablet, a capsule, and an extended-release tablet to take by mouth. To treat arthritis, the tablet and capsule are usually taken two to three times a day and the extended-release tablet is usually taken once a day. To relieve pain from other causes, the tablets and capsules are usually taken every 6 to 8 hours. Take etodolac at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take etodolac exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor`,
+    additionalDetials: `Swallow the extended-release tablets whole; do not split, chew, or crush them.
+
+    If you are taking etodolac for arthritis, your doctor may start you on a high dose and decrease your dose once your symptoms are controlled. It may take 1 to 2 weeks for you to feel the full benefit of this medication.`,
+  },
+  {
+    productId: 445,
+    name: "Generic Feldene",
+    categoryName: "PAIN RELIEF",
+    activeIngredient: "Piroxicam",
+    rating: 184,
+    star: 5,
+    price: "0.79",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: Genericfildena,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 37.04, pricePerBottle: 1.23 },
+          { count: 60, price: 59.26, pricePerBottle: 0.99 },
+          { count: 120, price: 103.7, pricePerBottle: 0.86 },
+          { count: 240, price: 192.59, pricePerBottle: 0.8 },
+          { count: 300, price: 237.04, pricePerBottle: 0.79 },
+        ],
+      },
+    ],
+    prescription: `Piroxicam is used to relieve pain, tenderness, swelling, and stiffness caused by osteoarthritis (arthritis caused by a breakdown of the lining of the joints) and rheumatoid arthritis (arthritis caused by swelling of the lining of the joints). Piroxicam is in a class of medications called NSAIDs. It works by stopping the body's production of a substance that causes pain, fever, and inflammation.`,
+    howToUse: `Piroxicam comes as a capsule to take by mouth. It is usually taken once or twice a day. Take piroxicam at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take piroxicam exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Piroxicam will help control your symptoms but will not cure your condition. It may take 8 to 12 weeks or longer before you feel the full benefit of piroxicam.`,
+  },
+  {
+    productId: 446,
+    name: "Generic Imdur",
+    categoryName: "PAIN RELIEF",
+    activeIngredient: "Isosorbide mononitrate",
+    rating: 109,
+    star: 5,
+    price: "1.53",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: imdur,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "40",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 59.26, pricePerBottle: 1.98 },
+          { count: 60, price: 103.7, pricePerBottle: 1.73 },
+          { count: 120, price: 192.59, pricePerBottle: 1.6 },
+          { count: 240, price: 370.37, pricePerBottle: 1.54 },
+          { count: 300, price: 459.26, pricePerBottle: 1.53 },
+        ],
+      },
+    ],
+    prescription: `The combination of captopril and hydrochlorothiazide is used to treat high blood pressure. Captopril is in a class of medications called angiotensin-converting enzyme (ACE) inhibitors. It works by decreasing certain chemicals that tighten the blood vessels, so blood flows more smoothly. Hydrochlorothiazide is in a class of medications called diuretics ('water pills'). It works by causing the kidneys to get rid of unneeded water and salt from the body into the urine.
+
+    High blood pressure is a common condition, and when not treated it can cause damage to the brain, heart, blood vessels, kidneys, and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.`,
+    howToUse: `The combination of captopril and hydrochlorothiazide comes as a tablet to take by mouth. It is usually taken once or twice a day on an empty stomach, 1 hour before meals. To help you remember to take captopril and hydrochlorothiazide, take it around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take captopril and hydrochlorothiazide exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Your doctor may start you on a low dose of captopril and hydrochlorothiazide and gradually increase your dose, not more than once every 6 to 8 weeks.
+
+    Captopril and hydrochlorothiazide controls high blood pressure but does not cure it. Continue to take captopril and hydrochlorothiazide even if you feel well. Do not stop taking captopril and hydrochlorothiazide without talking to your doctor`,
+  },
+  {
+    productId: 447,
+    name: "Generic Imitrex",
+    categoryName: "PAIN RELIEF",
+    activeIngredient: "Sumatriptan Succinate",
+    rating: 93,
+    star: 5,
+    price: "3.14",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: imitrex,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "50",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 191.58, pricePerBottle: 6.39 },
+          { count: 60, price: 362.11, pricePerBottle: 6.04 },
+          { count: 120, price: 703.16, pricePerBottle: 5.86 },
+        ],
+      },
+    ],
+    prescription: `Sumatriptan injection is used to treat the symptoms of migraine headaches (severe, throbbing headaches that sometimes are accompanied by nausea and sensitivity to sound and light). Sumatriptan injection is also used to treat the symptoms of cluster headaches (severe headaches usually on one side of the head or around one eye). Sumatriptan is in a class of medications called selective serotonin receptor agonists. It works by narrowing blood vessels in the brain, stopping pain signals from being sent to the brain, and blocking the release of certain natural substances that cause pain, nausea, and other symptoms of migraine or cluster headaches. Sumatriptan does not prevent migraine attacks or reduce the number of headaches you have.`,
+    howToUse: `Sumatriptan injection comes as a solution (liquid) to inject subcutaneously (just under your skin). It is usually used at the first sign of a migraine headache. If your symptoms improve after you use sumatriptan but return after 1 hour or longer, you may use a second dose of sumatriptan. However, if your symptoms do not improve after you use sumatriptan, do not use a second injection without talking to your doctor. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use sumatriptan exactly as directed. Do not use more or less of it or take it more often than prescribed by your doctor.
+
+    Sumatriptan injection comes in a pre-filled auto-injection device and in vials to be used with disposable syringes. If you are using vials of sumatriptan injection, your doctor or pharmacist will tell you what type of syringe you should use. Do not use any other type of syringe because you may not get the right amount of medication.
+    
+    You can inject your sumatriptan in the outer side of your thigh or upper arm. Do not inject sumatriptan through clothing. Never inject sumatriptan into a vein or muscle.
+    
+    You may use your first dose of sumatriptan injection in a doctor's office or other medical facility where you can be monitored for serious reactions. Carefully read the instructions that come with your device, and ask your doctor or pharmacist to show you how to use it.
+    
+    Call your doctor if your headaches do not get better or occur more frequently after using sumatriptan injection.`,
+    additionalDetials: `If you use sumatriptan more often or for longer than the recommended period of time, your headaches may get worse or may occur more frequently. You should not use sumatriptan injection or take any other headache medication for more than 10 days per month. Call your doctor if you need to use sumatriptan injection to treat more than four headaches in 1-month period.
+
+    Do not use prefilled injection devices or vials of sumatriptan injection more than once. Dispose of used syringes in a puncture-resistant container. Ask your doctor or pharmacist how to dispose of the puncture-resistant container.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 448,
+    name: "Climax Spray",
+    categoryName: "PREMATURE EJACULATION",
+    activeIngredient: "Lidocaine",
+    rating: 44,
+    star: 5,
+    price: "26.93",
+    type: "vial",
+    typeName: "vial",
+    ManufacturedBy: "Midas-Care",
+    image: genericAdvairDiskusAccuhaler,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10% 12",
+        unit: "g",
+        bottle: [
+          { count: 1, price: 40.81, pricePerBottle: 40.81 },
+          { count: 2, price: 66.81, pricePerBottle: 33.41 },
+          { count: 4, price: 118.11, pricePerBottle: 29.7 },
+          { count: 8, price: 222.81, pricePerBottle: 27.85 },
+          { count: 16, price: 430.81, pricePerBottle: 26.93 },
+        ],
+      },
+    ],
+    prescription: `Lidocaine patches are used to relieve the pain of post-herpetic neuralgia (PHN; the burning, stabbing pains, or aches that may last for months or years after a shingles infection). Lidocaine is in a class of medications called local anesthetics. It works by stopping nerves from sending pain signals.`,
+    howToUse: `Lidocaine comes as a patch to apply to the skin. It is applied only once a day as needed for pain. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use lidocaine patches exactly as directed.
+
+    Your doctor will tell you how many lidocaine patches you may use at one time and the length of time you may wear the patches. Never apply more than three patches at one time, and never wear patches for more than 12 hours per day. Using too many patches or leaving patches on for too long may cause serious side effects.`,
+    additionalDetials: `To apply the patches, follow these steps:
+    Look at the skin that you plan to cover with a lidocaine patch. If the skin is broken or blistered, do not apply a patch to that area.
+    Use scissors to remove the outer seal from the package. Then pull apart the zipper seal.
+    Remove up to three patches from the package and press the zipper seal tightly together. The remaining patches may dry out if the zipper seal is not tightly closed.
+    Cut patch(es) to the size and shape that will cover your most painful area.
+    Peel the transparent liner off the back of the patch(es).
+    Press the patch(es) firmly onto your skin. If you are applying a patch to your face, be careful not to let it touch your eyes. If you do get lidocaine in your eye, wash it with plenty of water or saline solution.
+    Wash your hands after handling lidocaine patches.
+    Do not reuse lidocaine patches. After you are finished using a patch, remove it and dispose of it out of reach of children and pets. Used patches contain enough medication to seriously harm a child or pet.`,
+  },
+  {
+    productId: 449,
+    name: "Clofranil",
+    categoryName: "PREMATURE EJACULATION",
+    activeIngredient: "Clomipramine",
+    rating: 173,
+    star: 5,
+    price: "0.72",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Midas-Care",
+    image: Clofranil,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 174.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+    ],
+    prescription: `Clomipramine is used to treat people with obsessive-compulsive disorder (a condition that causes repeated unwanted thoughts and the need to perform certain behaviors over and over). Clomipramine is in a group of medications called tricyclic antidepressants. It works by increasing the amount of serotonin, a natural substance in the brain that is needed to maintain mental balance.`,
+    howToUse: `Clomipramine comes as a capsule to take by mouth. At the beginning of treatment, clomipramine is usually taken three times a day with meals as the body adjusts to the medication. After several weeks of treatment, clomipramine is usually taken once a day at bedtime. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take clomipramine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of clomipramine and gradually increase your dose.`,
+    additionalDetials: `It may take several weeks or longer for you to feel the full benefit of clomipramine. Continue to take clomipramine even if you feel well. Do not stop taking clomipramine without talking to your doctor. If you suddenly stop taking clomipramine, you may experience withdrawal symptoms such as dizziness, nausea, vomiting, headache, weakness, sleep problems, fever, and irritability. Your doctor probably will decrease your dose gradually.`,
+  },
+  {
+    productId: 450,
+    name: "Clofranil SR",
+    categoryName: "PREMATURE EJACULATION",
+    activeIngredient: "Clomipramine",
+    rating: 120,
+    star: 5,
+    price: "2.57",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Midas-Care",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "75",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 90.37, pricePerBottle: 3.01 },
+          { count: 60, price: 165.93, pricePerBottle: 2.77 },
+          { count: 120, price: 317.04, pricePerBottle: 2.64 },
+          { count: 240, price: 619.26, pricePerBottle: 2.58 },
+          { count: 300, price: 770.37, pricePerBottle: 2.57 },
+        ],
+      },
+    ],
+    prescription: `Clomipramine is used to treat people with obsessive-compulsive disorder (a condition that causes repeated unwanted thoughts and the need to perform certain behaviors over and over). Clomipramine is in a group of medications called tricyclic antidepressants. It works by increasing the amount of serotonin, a natural substance in the brain that is needed to maintain mental balance.`,
+    howToUse: `Clomipramine comes as a capsule to take by mouth. At the beginning of treatment, clomipramine is usually taken three times a day with meals as the body adjusts to the medication. After several weeks of treatment, clomipramine is usually taken once a day at bedtime. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take clomipramine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of clomipramine and gradually increase your dose.`,
+    additionalDetials: `It may take several weeks or longer for you to feel the full benefit of clomipramine. Continue to take clomipramine even if you feel well. Do not stop taking clomipramine without talking to your doctor. If you suddenly stop taking clomipramine, you may experience withdrawal symptoms such as dizziness, nausea, vomiting, headache, weakness, sleep problems, fever, and irritability. Your doctor probably will decrease your dose gradually.`,
+  },
+  {
+    productId: 451,
+    name: "Clonil SR",
+    categoryName: "PREMATURE EJACULATION",
+    activeIngredient: "Clomipramine",
+    rating: 138,
+    star: 5,
+    price: "2.20",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Consern Pharma",
+    image: ClonilSR,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "75",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 79.26, pricePerBottle: 2.64 },
+          { count: 60, price: 143.7, pricePerBottle: 2.4 },
+          { count: 120, price: 272.59, pricePerBottle: 2.27 },
+          { count: 240, price: 530.37, pricePerBottle: 2.21 },
+          { count: 300, price: 659.26, pricePerBottle: 2.2 },
+        ],
+      },
+    ],
+    prescription: `Clomipramine is used to treat people with obsessive-compulsive disorder (a condition that causes repeated unwanted thoughts and the need to perform certain behaviors over and over). Clomipramine is in a group of medications called tricyclic antidepressants. It works by increasing the amount of serotonin, a natural substance in the brain that is needed to maintain mental balance.`,
+    howToUse: `Clomipramine comes as a capsule to take by mouth. At the beginning of treatment, clomipramine is usually taken three times a day with meals as the body adjusts to the medication. After several weeks of treatment, clomipramine is usually taken once a day at bedtime. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take clomipramine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of clomipramine and gradually increase your dose.`,
+    additionalDetials: `It may take several weeks or longer for you to feel the full benefit of clomipramine. Continue to take clomipramine even if you feel well. Do not stop taking clomipramine without talking to your doctor. If you suddenly stop taking clomipramine, you may experience withdrawal symptoms such as dizziness, nausea, vomiting, headache, weakness, sleep problems, fever, and irritability. Your doctor probably will decrease your dose gradually.`,
+  },
+  {
+    productId: 452,
+    name: "Cozac",
+    categoryName: "PREMATURE EJACULATION",
+    activeIngredient: "Fluoxetine",
+    rating: 172,
+    star: 4,
+    price: "2.20",
+    type: "cap",
+    typeName: "cap",
+    ManufacturedBy: "Consern Pharma",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 32.59, pricePerBottle: 0.54 },
+          { count: 120, price: 50.37, pricePerBottle: 0.42 },
+          { count: 240, price: 85.93, pricePerBottle: 0.36 },
+          { count: 300, price: 103.7, pricePerBottle: 0.35 },
+        ],
+      },
+    ],
+    prescription: `Fluoxetine (Prozac) is used to treat depression, obsessive-compulsive disorder (bothersome thoughts that won't go away and the need to perform certain actions over and over), some eating disorders, and panic attacks (sudden, unexpected attacks of extreme fear and worry about these attacks). Fluoxetine (Sarafem) is used to relieve the symptoms of premenstrual dysphoric disorder, including mood swings, irritability, bloating, and breast tenderness. It is also used along with olanzapine (Zyprexa) to treat depression that did not respond to other medications and episodes of depression in people with bipolar I disorder (manic-depressive disorder; a disease that causes episodes of depression, episodes of mania, and other abnormal moods). Fluoxetine is in a class of medications called selective serotonin reuptake inhibitors (SSRIs). It works by increasing the amount of serotonin, a natural substance in the brain that helps maintain mental balance.`,
+    howToUse: `Fluoxetine (Prozac) comes as a capsule, a tablet, a delayed-release (releases the medication in the intestine) capsule, and a solution (liquid) to take by mouth. Fluoxetine may be taken with or without food. Fluoxetine (Sarafem) comes as a capsule to take by mouth. Fluoxetine (Prozac) capsules, tablets, and liquid are usually taken once a day in the morning or twice a day in the morning and at noon. Fluoxetine delayed-released capsules are usually taken once a week. Fluoxetine (Sarafem) is usually taken once a day, either every day of the month or on certain days of the month. Take fluoxetine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take fluoxetine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of fluoxetine and gradually increase your dose.`,
+    additionalDetials: `It may take 4 to 5 weeks or longer before you feel the full benefit of fluoxetine. Continue to take fluoxetine even if you feel well. Do not stop taking fluoxetine without talking to your doctor. If you suddenly stop taking fluoxetine, you may experience withdrawal symptoms such as mood changes, irritability, agitation, dizziness, numbness or tingling in the hands or feet, anxiety, sweating, confusion, headache, tiredness, and difficulty falling asleep or staying asleep. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 453,
+    name: "Duralast",
+    categoryName: "PREMATURE EJACULATION",
+    activeIngredient: "Dapoxetine",
+    rating: 69,
+    star: 4,
+    price: "4.76",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Sun Pharma",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "30",
+        unit: "mg",
+        bottle: [
+          { count: 4, price: 32, pricePerBottle: 8 },
+          { count: 8, price: 49.19, pricePerBottle: 6.15 },
+          { count: 12, price: 66.37, pricePerBottle: 5.53 },
+          { count: 16, price: 83.56, pricePerBottle: 5.22 },
+          { count: 32, price: 152.3, pricePerBottle: 4.76 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 454,
+    name: "Fluoxecare",
+    categoryName: "PREMATURE EJACULATION",
+    activeIngredient: "Fluoxetine",
+    rating: 140,
+    star: 4,
+    price: "1.01",
+    type: "cap",
+    typeName: "cap",
+    ManufacturedBy: "Lifecare",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 43.7, pricePerBottle: 1.46 },
+          { count: 60, price: 72.59, pricePerBottle: 1.21 },
+          { count: 120, price: 130.37, pricePerBottle: 1.09 },
+          { count: 240, price: 245.93, pricePerBottle: 1.02 },
+          { count: 300, price: 303.7, pricePerBottle: 1.01 },
+        ],
+      },
+    ],
+    prescription: `Fluoxetine (Prozac) is used to treat depression, obsessive-compulsive disorder (bothersome thoughts that won't go away and the need to perform certain actions over and over), some eating disorders, and panic attacks (sudden, unexpected attacks of extreme fear and worry about these attacks). Fluoxetine (Sarafem) is used to relieve the symptoms of premenstrual dysphoric disorder, including mood swings, irritability, bloating, and breast tenderness. It is also used along with olanzapine (Zyprexa) to treat depression that did not respond to other medications and episodes of depression in people with bipolar I disorder (manic-depressive disorder; a disease that causes episodes of depression, episodes of mania, and other abnormal moods). Fluoxetine is in a class of medications called selective serotonin reuptake inhibitors (SSRIs). It works by increasing the amount of serotonin, a natural substance in the brain that helps maintain mental balance.`,
+    howToUse: `Fluoxetine (Prozac) comes as a capsule, a tablet, a delayed-release (releases the medication in the intestine) capsule, and a solution (liquid) to take by mouth. Fluoxetine may be taken with or without food. Fluoxetine (Sarafem) comes as a capsule to take by mouth. Fluoxetine (Prozac) capsules, tablets, and liquid are usually taken once a day in the morning or twice a day in the morning and at noon. Fluoxetine delayed-released capsules are usually taken once a week. Fluoxetine (Sarafem) is usually taken once a day, either every day of the month or on certain days of the month. Take fluoxetine at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take fluoxetine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Your doctor may start you on a low dose of fluoxetine and gradually increase your dose.`,
+    additionalDetials: `It may take 4 to 5 weeks or longer before you feel the full benefit of fluoxetine. Continue to take fluoxetine even if you feel well. Do not stop taking fluoxetine without talking to your doctor. If you suddenly stop taking fluoxetine, you may experience withdrawal symptoms such as mood changes, irritability, agitation, dizziness, numbness or tingling in the hands or feet, anxiety, sweating, confusion, headache, tiredness, and difficulty falling asleep or staying asleep. Your doctor will probably decrease your dose gradually.`,
+  },
+  {
+    productId: 455,
+    name: "Mucopain Gel",
+    categoryName: "PREMATURE EJACULATION",
+    activeIngredient: "Benzocaine",
+    rating: 162,
+    star: 4,
+    price: "7.07",
+    type: "tube",
+    typeName: "tube",
+    ManufacturedBy: "Lifecare",
+    image: GenericOraqixGel,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "15 g tube 20",
+        unit: "%",
+        bottle: [
+          { count: 4, price: 39.41, pricePerBottle: 9.85 },
+          { count: 8, price: 64, pricePerBottle: 8 },
+          { count: 16, price: 113.19, pricePerBottle: 7.07 },
+        ],
+      },
+    ],
+    prescription: `Antipyrine and benzocaine otic is used to relieve ear pain and swelling caused by middle ear infections. It may be used along with antibiotics to treat an ear infection. It is also used to help remove a build up of ear wax in the ear. Antipyrine and benzocaine are in a class of medications called analgesics. The combination of antipyrine and benzocaine works by reducing pain and discomfort in the ear.`,
+    howToUse: `Antipyrine and benzocaine otic comes as a solution (liquid) to place into the ear. When antipyrine and benzocaine is used to relieve ear pain, it is usually used every 1 to 2 hours as needed. When antipyrine and benzocaine is used to help in the removal of ear wax, it is usually used 3 times daily for 2-3 days. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use antipyrine and benzocaine otic exactly as directed.
+
+    Antipyrine and benzocaine otic is for use only in the ears.`,
+    additionalDetials: `Hold the bottle in your hand for 1 or 2 minutes to warm the solution.
+    Place the prescribed number of drops into your ear.
+    Be careful not to touch the tip to your ear, fingers, or any other surface.
+    Moisten a small piece of cotton with the drops and insert into the outer ear.
+    Repeat steps 2-4 for the opposite ear if necessary.`,
+  },
+  {
+    productId: 456,
+    name: "Accutane",
+    categoryName: "SKIN CARE",
+    activeIngredient: "Isotretinoin",
+    rating: 153,
+    star: 4,
+    price: "41.67",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Roche",
+    image: accutane,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "30 caps / pack 10",
+        unit: "%",
+        bottle: [
+          { count: 1, price: 55.56, pricePerBottle: 55.56 },
+          { count: 2, price: 96.3, pricePerBottle: 48.15 },
+          { count: 4, price: 177.78, pricePerBottle: 44.45 },
+          { count: 8, price: 340.74, pricePerBottle: 42.59 },
+          { count: 16, price: 666.67, pricePerBottle: 41.67 },
+        ],
+      },
+    ],
+    prescription: `Isotretinoin is used to treat severe recalcitrant nodular acne (a certain type of severe acne) that has not been helped by other treatments, such as antibiotics. Isotretinoin is in a class of medications called retinoids. It works by slowing the production of certain natural substances that can cause acne.`,
+    howToUse: `Isotretinoin comes as a capsule to take by mouth. Isotretinoin is usually taken twice a day with meals for 4 to 5 months at a time. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take isotretinoin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the capsules whole with a full glass of liquid. Do not chew or suck on the capsules.
+    
+    Your doctor will probably start you on an average dose of isotretinoin and increase or decrease your dose depending on how well you respond to the medication and the side effects you experience. Follow these directions carefully and ask your doctor or pharmacist if you are not sure how much isotretinoin you should take.`,
+    additionalDetials: `It may take several weeks or longer for you to feel the full benefit of isotretinoin. Your acne may get worse during the beginning of your treatment with isotretinoin. This is normal and does not mean that the medication is not working. Your acne may continue to improve even after you finish your treatment with isotretinoin.`,
+  },
+  {
+    productId: 457,
+    name: "Adaferin Gel",
+    categoryName: "SKIN CARE",
+    activeIngredient: "Adapalene",
+    rating: 78,
+    star: 4,
+    price: "37.44",
+    type: "tube",
+    typeName: "tube",
+    ManufacturedBy: "Lifecare",
+    image: GenericOraqixGel,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "15g 0.1",
+        unit: "%",
+        bottle: [
+          { count: 1, price: 51.33, pricePerBottle: 51.33 },
+          { count: 2, price: 87.85, pricePerBottle: 43.93 },
+          { count: 4, price: 160.89, pricePerBottle: 40.22 },
+          { count: 8, price: 306.96, pricePerBottle: 38.37 },
+          { count: 16, price: 599.11, pricePerBottle: 37.44 },
+        ],
+      },
+    ],
+    prescription: `Adapalene is used to treat acne. Adapalene is in a class of medications called retinoid-like compounds. It works by stopping pimples from forming under the surface of the skin.`,
+    howToUse: `Prescription adapalene comes as a gel, a solution (liquid), and a cream to apply to the skin. The solution comes in a glass bottle with an applicator and as individual pledgets (medicated wipes for one time use). Nonprescription (over the counter) adapalene comes as a gel to apply to the skin. Adapalene is usually applied once a day at bedtime. Follow the directions on your prescription label or the package label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Apply adapalene exactly as directed. Do not apply more or less of it or apply it more often than prescribed by your doctor or stated on the package. Applying more adapalene or applying adaplene more often than recommended will not speed up or improve results, but it may irritate your skin.
+
+    Adapalene controls acne but does not cure it. Your acne may get worse during the first few weeks of treatment, and it may take 8 to 12 weeks or longer before you feel the full benefit of adapalene. Pimples can take 6 to 8 weeks to form under the skin, and during the first weeks of your treatment, adapalene may bring these pimples to the skin surface. Continue to use adapalene even if your acne worsens or you do not see much improvement at first.
+    
+    Do not apply adapalene to skin that is sunburned, broken, or covered with eczema (a skin disease). If you have any of these conditions, do not apply adapalene until your skin has healed.
+    
+    Be careful not to get adapalene in your eyes, nose, or mouth. If you do get adapalene in your eyes, wash them with plenty of water and call your doctor. Your eyes may become irritated, swollen, or infected.`,
+    additionalDetials: `To use the cream, gel, or solution, follow these steps:
+    Gently wash the affected skin with a mild soap or soapless cleanser and pat dry with a soft towel. Do not use harsh or abrasive cleansers, and do not scrub your skin vigorously. Ask your doctor or pharmacist to recommend a gentle cleanser.
+    If you are using the gel or cream, use your fingers to spread a thin film of medication over the affected area. If you are using a pledget, remove it from the foil pouch and gently wipe the affected area. If you are using the glass bottle of solution, apply a thin layer to the affected area using the applicator provided. Adapalene should be applied to the entire affected area, not only to a single pimple or spot.
+    You may feel a slight warmth or stinging in the place where you applied adapalene. This feeling is normal and should go away by itself in a short time.
+    If you used a pledget, discard it after use. Do not save it to use again.`,
+  },
+  {
+    productId: 458,
+    name: "Aziderm Cream",
+    categoryName: "SKIN CARE",
+    activeIngredient: "Azelaic Acid Topical",
+    rating: 160,
+    star: 4,
+    price: "27.67",
+    type: "tube",
+    typeName: "tube",
+    ManufacturedBy: "Micro Labs Ltd",
+    image: AzidermCream,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "15 g tube w/w 20",
+        unit: "%",
+        bottle: [
+          { count: 1, price: 41.56, pricePerBottle: 41.56 },
+          { count: 2, price: 68.3, pricePerBottle: 34.15 },
+          { count: 4, price: 121.78, pricePerBottle: 30.45 },
+          { count: 8, price: 228.74, pricePerBottle: 28.59 },
+          { count: 16, price: 442.67, pricePerBottle: 27.67 },
+        ],
+      },
+    ],
+    prescription: `Azelaic acid gel and foam is used to clear the bumps, lesions, and swelling caused by rosacea (a skin disease that causes redness, flushing, and pimples on the face). Azelaic acid cream is used to treat the pimples and swelling caused by acne. Azelaic acid is in a class of medications called dicarboxylic acids. It works to treat rosacea by decreasing the swelling and redness of the skin. It works to treat acne by killing the bacteria that infect pores and by decreasing production of keratin, a natural substance that can lead to the development of acne.`,
+    howToUse: `Azelaic acid comes as a gel, foam, and a cream to apply to the skin. It is usually applied twice a day, in the morning and the evening. To help you remember to use azelaic acid, use it at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use azelaic acid exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    Be careful not to get azelaic acid in your eyes or mouth. If you do get azelaic acid in your eyes, wash with plenty of water and call your doctor if your eyes are irritated.
+    
+    Azelaic acid foam is flammable. Stay away from open fire, flames, and do not smoke while you are applying azelaic acid foam, and for a short time afterwards.`,
+    additionalDetials: `Wash the affected skin with water and a mild soap or soapless cleansing lotion and pat dry with a soft towel. Ask your doctor to recommend a cleanser, and avoid alcoholic cleansers, tinctures, abrasives, astringents, and peeling agents, especially if you have rosacea.
+    Shake the azelaic acid foam well before use.
+    Apply a thin layer of gel, or cream to the affected skin. Gently and thoroughly massage it into the skin. Apply a thin layer of foam to the entire face including cheeks, chin, forehead, and nose.
+    Do not cover the affected area with any bandages, dressings, or wrappings.
+    You may apply make-up to your face after the medication is dry.
+    Wash your hands with soap and water after you finish handling the medication.`,
+  },
+  {
+    productId: 459,
+    name: "Benzac AC Gel",
+    categoryName: "SKIN CARE",
+    activeIngredient: "Benzoyl peroxide topical",
+    rating: 137,
+    star: 4,
+    price: "15.82",
+    type: "tube",
+    typeName: "tube",
+    ManufacturedBy: "Micro Labs Ltd",
+    image: BenzacACGel,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20g w/v 5 20",
+        unit: "%",
+        bottle: [
+          { count: 2, price: 44.59, pricePerBottle: 22.3 },
+          { count: 4, price: 74.37, pricePerBottle: 18.59 },
+          { count: 8, price: 133.93, pricePerBottle: 16.74 },
+          { count: 16, price: 253.04, pricePerBottle: 15.82 },
+        ],
+      },
+    ],
+    prescription: `The combination of erythromycin and benzoyl peroxide is used to treat acne. Erythromycin and benzoyl peroxide are in a class of medications called topical antibiotics. The combination of erythromycin and benzoyl peroxide works by killing the bacteria that cause acne`,
+    howToUse: `The combination of erythromycin and benzoyl peroxide comes as a gel to apply to the skin. It is usually applied twice a day, in the morning and evening. To help you remember to use erythromycin and benzoyl peroxide gel, apply it at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use erythromycin and benzoyl peroxide gel exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor.
+
+    It may take several weeks or longer before you feel the full benefit of this medication. Continue to use this medication even if you do not see much improvement at first.`,
+    additionalDetials: `To use the gel, follow these steps:
+    Wash the affected areas with a mild soapless cleanser and gently pat dry with a clean towel.
+    If your medication comes in a large jar, remove a pea-sized dab with your finger and go on to step 5.
+    If your medication comes in small pouches, use scissors or your fingers to tear off the top at the notched tab. Do not open the pouch with your teeth.
+    Squeeze the contents of the pouch onto your palm. You will see a clear gel and a white gel. Use your fingertip to blend the gels with 5-10 circular motions.
+    Use your fingertips to spread a thin layer of gel evenly over the affected area. Avoid getting the gel in your eyes, nose, mouth, or other body openings. If you do get the gel in your eyes, wash with warm water.
+    Look in the mirror. If you see a white film on your skin, you have used too much medication.
+    Dispose of the empty pouch and wash your hands.`,
+  },
+  {
+    productId: 460,
+    name: "Desowen Lotion",
+    categoryName: "SKIN CARE",
+    activeIngredient: "Desonide",
+    rating: 109,
+    star: 4,
+    price: "19.67",
+    type: "bottle",
+    typeName: "bottle",
+    ManufacturedBy: "Micro Labs Ltd",
+    image: DesowenLotion,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "0.05% w/w 30",
+        unit: "ml",
+        bottle: [
+          { count: 1, price: 33.56, pricePerBottle: 33.56 },
+          { count: 2, price: 52.3, pricePerBottle: 26.15 },
+          { count: 4, price: 89.78, pricePerBottle: 22.45 },
+          { count: 8, price: 164.74, pricePerBottle: 20.59 },
+          { count: 16, price: 314.67, pricePerBottle: 19.67 },
+        ],
+      },
+    ],
+    prescription: `Desonide is used to treat the redness, swelling, itching, and discomfort of various skin conditions, including psoriasis (a skin disease in which red, scaly patches form on some areas of the body and eczema (a skin disease that causes the skin to be dry and itchy and to sometimes develop red, scaly rashes). Desonide is in a class of medications called topical corticosteroids. It works by activating natural substances in the skin to reduce swelling, redness, and itching.`,
+    howToUse: `Desonide comes as a cream, ointment, gel, foam, and lotion to apply to the skin. Desonide topical is usually applied two to four times a day. Apply it at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use desonide exactly as directed. Do not apply more or less of it or apply it more often than prescribed by your doctor. Do not apply it to other areas of your body or use it to treat other skin conditions unless directed to do so by your doctor.
+
+    Your skin condition should improve during the first 2 weeks of your treatment with the cream, ointment, or lotion or during the first 4 weeks of your treatment with the gel or foam. Call your doctor if your symptoms do not improve during this time.
+    
+    Shake the lotion well before each use to mix the medication evenly.
+    
+    This medication is only for use on the skin. Do not let desonide topical get into your eyes, nose, or mouth and do not swallow it. Avoid use in the genital and rectal areas, and in skin creases and armpits unless directed by your doctor.
+    
+    To use desonide topical, apply a small amount of ointment, cream, gel, or lotion to cover the affected area of the skin with a thin even film and rub it in gently.
+    
+    To use desonide foam, shake well before each use, and apply a small amount of foam to cover the affected area of the skin with a thin even film and rub it in gently. To use desonide foam on your face, apply foam into your hands and gently rub the medicine into affected areas of face; do not apply desonide foam directly to your face. You should wash your hands after applying desonide foam.`,
+    additionalDetials: `If you are applying desonide to a child's diaper area, do not cover the area with tight fitting diapers or plastic pants.
+
+    Do not wrap or bandage the treated area unless your doctor tells you that you should. Such use may increase side effects.
+    
+    Desonide foam may catch fire. Stay away from open fire, flames, and do not smoke while you are applying desonide foam, and for a short time afterward.`,
+  },
+  {
+    productId: 461,
+    name: "Diprovate Plus cream",
+    categoryName: "SKIN CARE",
+    activeIngredient:
+      "Betamethasone dipropionate 0.05 % w/v, Zinc sulphate 0.5 % w/v",
+    rating: 148,
+    star: 4,
+    price: "8.41",
+    type: "jar",
+    typeName: "jar",
+    ManufacturedBy: "Avalon Pharma Pvt. Ltd.",
+    image: DiprovatePluscream,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "20g jar 0.05% / 0.5",
+        unit: "%",
+        bottle: [
+          { count: 4, price: 44.74, pricePerBottle: 11.19 },
+          { count: 8, price: 74.67, pricePerBottle: 9.33 },
+          { count: 16, price: 134.52, pricePerBottle: 8.41 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 462,
+    name: "Eflora Cream",
+    categoryName: "SKIN CARE",
+    activeIngredient: "Eflornithine Hydrochloride",
+    rating: 59,
+    star: 4,
+    price: "107.41",
+    type: "tube",
+    typeName: "tube",
+    ManufacturedBy: "Ranbaxy",
+    image: DiprovatePluscream,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "15g tube 13.9",
+        unit: "%",
+        bottle: [
+          { count: 1, price: 120.37, pricePerBottle: 120.37 },
+          { count: 2, price: 225.93, pricePerBottle: 112.97 },
+          { count: 4, price: 437.04, pricePerBottle: 109.26 },
+          { count: 8, price: 859.26, pricePerBottle: 107.41 },
+        ],
+      },
+    ],
+    prescription: `Eflornithine is used to slow the growth of unwanted hair on the face in women, usually around the lips or under the chin. Eflornithine works by blocking a natural substance that is needed for hair to grow and is located in your hair follicle (the sac where each hair grows).`,
+    howToUse: `Eflornithine comes as a cream to apply to the skin. It is usually applied twice a day. To help you remember to apply eflornithine cream, apply it around the same times every day, such as in the morning and in the evening. You should wait at least 8 hours between applications of eflornithine. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Apply eflornithine cream exactly as directed. Do not apply more or less of it or apply it more often than prescribed by your doctor.
+
+    Eflornithine cream slows hair growth but does not prevent it. You should continue to use your current method of hair removal (e.g., shaving, plucking, cutting) or treatment while using eflornithine cream. It may take four weeks or longer before you see the full benefit of eflornithine cream. Do not stop applying eflornithine without talking to your doctor. Stopping use of eflornithine will cause hair to grow as it did before treatment. You should notice improvement (less time spent using your current method of hair removal) within 6 months of beginning treatment with eflornithine. If no improvement is seen, your doctor will likely ask you to stop using eflornithine.`,
+    additionalDetials: `To use eflornithine cream, follow these steps:
+    Wash and dry the affected area(s).
+    Apply a thin layer to affected area(s) and rub in until absorbed.
+    Apply eflornithine cream only to affected skin areas. Do not allow the cream to get into your eyes, mouth, or vagina.
+    You should wait at least 4 hours after applying eflornithine cream before washing the area where it was applied.
+    You should wait at least 5 minutes after using your current method of hair removal before applying eflornithine.
+    You may apply cosmetics or sunscreen after an application of eflornithine cream has dried.
+    
+    You may feel temporary stinging or burning if you apply eflornithine to broken skin.`,
+  },
+  {
+    productId: 463,
+    name: "Elocon Cream",
+    categoryName: "SKIN CARE",
+    activeIngredient: "Mometasone Furoate",
+    rating: 166,
+    star: 5,
+    price: "17.07",
+    type: "tube",
+    typeName: "tube",
+    ManufacturedBy: "MSD",
+    image: elocon,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10 g tube 0.1",
+        unit: "%",
+        bottle: [
+          { count: 1, price: 30.96, pricePerBottle: 30.96 },
+          { count: 2, price: 47.11, pricePerBottle: 23.56 },
+          { count: 4, price: 79.41, pricePerBottle: 19.85 },
+          { count: 8, price: 144, pricePerBottle: 18 },
+          { count: 16, price: 273.19, pricePerBottle: 17.07 },
+        ],
+      },
+    ],
+    prescription: `Mometasone topical is used to relieve the redness, swelling, itching and inflammation and discomfort of various skin conditions, including psoriasis (a skin disease in which red, scaly patches form on some areas of the body and eczema (a skin disease that causes the skin to be dry and itchy and to sometimes develop red, scaly rashes). Mometasone is in a class of medications called corticosteroids. It works by activating natural substances in the skin to reduce swelling, redness, and itching.`,
+    howToUse: `Mometasone comes as a cream, ointment, and lotion for use on the skin. It usually is applied once a day. Apply it at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use mometasone exactly as directed. Do not apply more or less of it or apply it more often than prescribed by your doctor. Do not apply it to other areas of your body or use it to treat other skin conditions unless directed to do so by your doctor.
+
+    Your skin condition should improve during the first 2 weeks of your treatment. Call your doctor if your symptoms do not improve during this time.
+    
+    To use mometasone cream or ointment, apply a small amount of cream or ointment to cover the affected area of skin with a thin film.
+    
+    To apply the lotion, place a few drops on the affected areas and massage lightly until it disappears.
+    
+    This medication is only for use on the skin. Do not let mometasone topical get into your eyes or mouth and do not swallow it. Avoid use on the face, in the genital and rectal areas, and in skin creases and armpits unless directed by your doctor.`,
+    additionalDetials: `Do not apply other skin preparations on the treated area without talking with your doctor.
+
+    Do not wrap or bandage the treated area unless your doctor tells you that you should. Such use may increase side effects.
+    
+    Do not use on a child's diaper area unless your doctor tells you that you should; do not use tight-fitting diapers or plastic pants. Such use may increase side effects.`,
+  },
+  {
+    productId: 464,
+    name: "Elocon Cream",
+    categoryName: "SLEEPING AID",
+    activeIngredient: "Etizolam + Escitalopram",
+    rating: 138,
+    star: 5,
+    price: "124.69",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "MSD",
+    image: EtizolaPlus,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10 g tube 0.1",
+        unit: "%",
+        bottle: [
+          { count: 1, price: 30.96, pricePerBottle: 30.96 },
+          { count: 2, price: 47.11, pricePerBottle: 23.56 },
+          { count: 4, price: 79.41, pricePerBottle: 19.85 },
+          { count: 8, price: 144, pricePerBottle: 18 },
+          { count: 16, price: 273.19, pricePerBottle: 17.07 },
+        ],
+      },
+    ],
+    prescription: `Mometasone topical is used to relieve the redness, swelling, itching and inflammation and discomfort of various skin conditions, including psoriasis (a skin disease in which red, scaly patches form on some areas of the body and eczema (a skin disease that causes the skin to be dry and itchy and to sometimes develop red, scaly rashes). Mometasone is in a class of medications called corticosteroids. It works by activating natural substances in the skin to reduce swelling, redness, and itching.`,
+    howToUse: `Mometasone comes as a cream, ointment, and lotion for use on the skin. It usually is applied once a day. Apply it at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use mometasone exactly as directed. Do not apply more or less of it or apply it more often than prescribed by your doctor. Do not apply it to other areas of your body or use it to treat other skin conditions unless directed to do so by your doctor.
+
+    Your skin condition should improve during the first 2 weeks of your treatment. Call your doctor if your symptoms do not improve during this time.
+    
+    To use mometasone cream or ointment, apply a small amount of cream or ointment to cover the affected area of skin with a thin film.
+    
+    To apply the lotion, place a few drops on the affected areas and massage lightly until it disappears.
+    
+    This medication is only for use on the skin. Do not let mometasone topical get into your eyes or mouth and do not swallow it. Avoid use on the face, in the genital and rectal areas, and in skin creases and armpits unless directed by your doctor.`,
+    additionalDetials: `Do not apply other skin preparations on the treated area without talking with your doctor.
+
+    Do not wrap or bandage the treated area unless your doctor tells you that you should. Such use may increase side effects.
+    
+    Do not use on a child's diaper area unless your doctor tells you that you should; do not use tight-fitting diapers or plastic pants. Such use may increase side effects.`,
+  },
+  {
+    productId: 464,
+    name: "Meloset",
+    categoryName: "SLEEPING AID",
+    activeIngredient: "Melatonin",
+    rating: 144,
+    star: 5,
+    price: "0.72",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Aristo Pharma",
+    image: meloset,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "3",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 34.81, pricePerBottle: 1.16 },
+          { count: 60, price: 54.81, pricePerBottle: 0.91 },
+          { count: 120, price: 94.81, pricePerBottle: 0.79 },
+          { count: 240, price: 74.81, pricePerBottle: 0.73 },
+          { count: 300, price: 214.81, pricePerBottle: 0.72 },
+        ],
+      },
+    ],
+    prescription: `Ramelteon is used to help patients who have sleep-onset insomnia (difficulty falling asleep) fall asleep more quickly. Ramelteon is in a class of medications called melatonin receptor agonists. It works similarly to melatonin, a natural substance in the brain that is needed for sleep.`,
+    howToUse: `Ramelteon comes as a tablet to take by mouth. It is usually taken once a day, no earlier than 30 minutes before bedtime. Do not take ramelteon with or shortly after a meal. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ramelteon exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    Swallow the tablets whole; do not split, chew, or crush them.
+    
+    You may become sleepy soon after you take ramelteon. After you take ramelteon, you should complete any necessary bedtime preparations and go to bed. Do not plan any other activities for this time. Do not take ramelteon if you will be unable to remain asleep for 7 to 8 hours after taking the medication.
+    
+    Your insomnia should improve within 7 to 10 days after you begin treatment with ramelteon. Call your doctor if your insomnia does not improve during this time or gets worse at any time during your treatment`,
+    additionalDetials: `Your doctor or pharmacist will give you the manufacturer's patient information sheet (Medication Guide) when you begin treatment with ramelteon and each time you refill your prescription. Read the information carefully and ask your doctor or pharmacist if you have any questions. You can also visit the Food and Drug Administration (FDA) website (http://www.fda.gov/Drugs) or the manufacturer's website to obtain the Medication Guide.`,
+  },
+  {
+    productId: 465,
+    name: "Amifull Forte",
+    categoryName: "VITAMINS",
+    activeIngredient: "Amino Acid, Vitamin and Minerals",
+    rating: 47,
+    star: 4,
+    price: "1.01",
+    type: "CAP",
+    typeName: "CAP",
+    ManufacturedBy: "Bionova",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "3",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 43.7, pricePerBottle: 1.46 },
+          { count: 60, price: 72.59, pricePerBottle: 1.21 },
+          { count: 120, price: 130.37, pricePerBottle: 1.09 },
+          { count: 240, price: 245.93, pricePerBottle: 1.02 },
+          { count: 300, price: 303.7, pricePerBottle: 1.01 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 466,
+    name: "Celin",
+    categoryName: "VITAMINS",
+    activeIngredient: "Ascorbic Acid",
+    rating: 199,
+    star: 4,
+    price: "5.11",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "GSK GlaxoSmithKline",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 62.96, pricePerBottle: 6.3 },
+          { count: 20, price: 111.11, pricePerBottle: 5.56 },
+          { count: 30, price: 159.26, pricePerBottle: 5.31 },
+          { count: 40, price: 207.41, pricePerBottle: 5.19 },
+          { count: 50, price: 255.56, pricePerBottle: 5.11 },
+        ],
+      },
+    ],
+    prescription: `Ascorbic acid is used to prevent and treat scurvy, a disease caused by a lack of vitamin C in the body.
+
+    This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.`,
+    howToUse: `Ascorbic acid comes in extended-release (long-acting) capsules and tablets, lozenges, syrup, chewable tablets, and liquid drops to be given by mouth. It usually is taken once a day. Follow the directions on the package or on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ascorbic acid exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `Some tablets should be chewed; other tablets and capsules should be swallowed with a full glass of water.
+
+    It may take up to 3 weeks for symptoms of scurvy to improve.`,
+  },
+  {
+    productId: 465,
+    name: "Amifull Forte",
+    categoryName: "VITAMINS",
+    activeIngredient: "Amino Acid, Vitamin and Minerals",
+    rating: 47,
+    star: 4,
+    price: "1.01",
+    type: "CAP",
+    typeName: "CAP",
+    ManufacturedBy: "Bionova",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "3",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 43.7, pricePerBottle: 1.46 },
+          { count: 60, price: 72.59, pricePerBottle: 1.21 },
+          { count: 120, price: 130.37, pricePerBottle: 1.09 },
+          { count: 240, price: 245.93, pricePerBottle: 1.02 },
+          { count: 300, price: 303.7, pricePerBottle: 1.01 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 467,
+    name: "Neurobion Forte",
+    categoryName: "VITAMINS",
+    activeIngredient: "B-Vitamins complex + Benzyl Alcohol + Water",
+    rating: 81,
+    star: 5,
+    price: "1.70",
+    type: "vial",
+    typeName: "vial",
+    ManufacturedBy: "Merck",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: " injection 2",
+        unit: "ml",
+        bottle: [
+          { count: 20, price: 42.96, pricePerBottle: 2.15 },
+          { count: 30, price: 57.04, pricePerBottle: 1.9 },
+          { count: 40, price: 71.11, pricePerBottle: 1.78 },
+          { count: 50, price: 85.19, pricePerBottle: 1.7 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 468,
+    name: "Generic Xenical",
+    categoryName: "WEIGHT LOSS",
+    activeIngredient: "Orlistat",
+    rating: 77,
+    star: 5,
+    price: "1.09",
+    type: "pill",
+    typeName: "pill",
+    ManufacturedBy: "Any on stock available manufacturer",
+    image: GenericXenical,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 45.93, pricePerBottle: 1.53 },
+          { count: 60, price: 77.04, pricePerBottle: 1.28 },
+          { count: 120, price: 139.26, pricePerBottle: 1.16 },
+          { count: 240, price: 263.7, pricePerBottle: 1.1 },
+          { count: 300, price: 325.93, pricePerBottle: 1.09 },
+        ],
+      },
+    ],
+    prescription: `Orlistat (prescription and nonprescription) is used with an individualized low-calorie, low-fat diet and exercise program to help people lose weight. Prescription orlistat is used in overweight people who may also have high blood pressure, diabetes, high cholesterol, or heart disease. Orlistat is also used after weight-loss to help people keep from gaining back that weight. Orlistat is in a class of medications called lipase inhibitors. It works by preventing some of the fat in foods eaten from being absorbed in the intestines. This unabsorbed fat is then removed from the body in the stool.`,
+    howToUse: `Orlistat comes as a capsule and a nonprescription capsule to take by mouth. It is usually taken three times a day with each main meal that contains fat. Take orlistat during a meal or up to 1 hour after a meal. If a meal is missed or does not have fat, you may skip your dose. Follow the directions on your prescription label or the package label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take orlistat exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor or stated on the package.`,
+    additionalDetials: `Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient if orlistat is prescribed for you. For additional information about the nonprescription product, visit http://www.MyAlli.com.`,
+  },
+  {
+    productId: 469,
+    name: "Olisat",
+    categoryName: "WEIGHT LOSS",
+    activeIngredient: "Orlistat",
+    rating: 44,
+    star: 5,
+    price: "4.0",
+    type: "cap",
+    typeName: "cap",
+    ManufacturedBy: "Biocon Limited",
+    image: GenericXenical,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "120",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 51.85, pricePerBottle: 5.19 },
+          { count: 20, price: 88.89, pricePerBottle: 4.44 },
+          { count: 30, price: 125.93, pricePerBottle: 4.2 },
+          { count: 40, price: 162.96, pricePerBottle: 4.07 },
+          { count: 50, price: 200, pricePerBottle: 4 },
+        ],
+      },
+    ],
+    prescription: `Orlistat (prescription and nonprescription) is used with an individualized low-calorie, low-fat diet and exercise program to help people lose weight. Prescription orlistat is used in overweight people who may also have high blood pressure, diabetes, high cholesterol, or heart disease. Orlistat is also used after weight-loss to help people keep from gaining back that weight. Orlistat is in a class of medications called lipase inhibitors. It works by preventing some of the fat in foods eaten from being absorbed in the intestines. This unabsorbed fat is then removed from the body in the stool.`,
+    howToUse: `Orlistat comes as a capsule and a nonprescription capsule to take by mouth. It is usually taken three times a day with each main meal that contains fat. Take orlistat during a meal or up to 1 hour after a meal. If a meal is missed or does not have fat, you may skip your dose. Follow the directions on your prescription label or the package label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take orlistat exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor or stated on the package.`,
+    additionalDetials: `Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient if orlistat is prescribed for you. For additional information about the nonprescription product, visit http://www.MyAlli.com.`,
+  },
+  {
+    productId: 470,
+    name: "Orligal",
+    categoryName: "WEIGHT LOSS",
+    activeIngredient: "Orlistat",
+    rating: 161,
+    star: 5,
+    price: "1.92",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Signature Pharmaseuticals Ltd.",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: " 84 tabs / pack 120",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 169.63, pricePerBottle: 169.63 },
+          { count: 2, price: 324.44, pricePerBottle: 162.22 },
+          { count: 3, price: 479.26, pricePerBottle: 159.75 },
+        ],
+      },
+    ],
+    prescription: `Orlistat (prescription and nonprescription) is used with an individualized low-calorie, low-fat diet and exercise program to help people lose weight. Prescription orlistat is used in overweight people who may also have high blood pressure, diabetes, high cholesterol, or heart disease. Orlistat is also used after weight-loss to help people keep from gaining back that weight. Orlistat is in a class of medications called lipase inhibitors. It works by preventing some of the fat in foods eaten from being absorbed in the intestines. This unabsorbed fat is then removed from the body in the stool.`,
+    howToUse: `Orlistat comes as a capsule and a nonprescription capsule to take by mouth. It is usually taken three times a day with each main meal that contains fat. Take orlistat during a meal or up to 1 hour after a meal. If a meal is missed or does not have fat, you may skip your dose. Follow the directions on your prescription label or the package label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take orlistat exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor or stated on the package.`,
+    additionalDetials: `Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient if orlistat is prescribed for you. For additional information about the nonprescription product, visit http://www.MyAlli.com.`,
+  },
+  {
+    productId: 471,
+    name: "Slim Trim Active",
+    categoryName: "WEIGHT LOSS",
+    activeIngredient: "Orlistat",
+    rating: 63,
+    star: 5,
+    price: "1.68",
+    type: "cap",
+    typeName: "cap",
+    ManufacturedBy: "German Remedies",
+    image: EtizolaPlus,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "60",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 63.7, pricePerBottle: 2.12 },
+          { count: 60, price: 112.59, pricePerBottle: 1.88 },
+          { count: 120, price: 210.37, pricePerBottle: 1.75 },
+          { count: 240, price: 405.93, pricePerBottle: 1.69 },
+          { count: 300, price: 503.7, pricePerBottle: 1.68 },
+        ],
+      },
+    ],
+    prescription: `Orlistat (prescription and nonprescription) is used with an individualized low-calorie, low-fat diet and exercise program to help people lose weight. Prescription orlistat is used in overweight people who may also have high blood pressure, diabetes, high cholesterol, or heart disease. Orlistat is also used after weight-loss to help people keep from gaining back that weight. Orlistat is in a class of medications called lipase inhibitors. It works by preventing some of the fat in foods eaten from being absorbed in the intestines. This unabsorbed fat is then removed from the body in the stool.`,
+    howToUse: `Orlistat comes as a capsule and a nonprescription capsule to take by mouth. It is usually taken three times a day with each main meal that contains fat. Take orlistat during a meal or up to 1 hour after a meal. If a meal is missed or does not have fat, you may skip your dose. Follow the directions on your prescription label or the package label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take orlistat exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor or stated on the package.`,
+    additionalDetials: `Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient if orlistat is prescribed for you. For additional information about the nonprescription product, visit http://www.MyAlli.com.`,
+  },
+  {
+    productId: 472,
+    name: "Vyfat",
+    categoryName: "WEIGHT LOSS",
+    activeIngredient: "Orlistat",
+    rating: 97,
+    star: 5,
+    price: "58.89",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Intas Pharma",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "10 caps / pack 120",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 71.85, pricePerBottle: 71.85 },
+          { count: 2, price: 128.89, pricePerBottle: 64.45 },
+          { count: 4, price: 242.96, pricePerBottle: 60.74 },
+          { count: 8, price: 471.11, pricePerBottle: 58.89 },
+        ],
+      },
+    ],
+    prescription: `Orlistat (prescription and nonprescription) is used with an individualized low-calorie, low-fat diet and exercise program to help people lose weight. Prescription orlistat is used in overweight people who may also have high blood pressure, diabetes, high cholesterol, or heart disease. Orlistat is also used after weight-loss to help people keep from gaining back that weight. Orlistat is in a class of medications called lipase inhibitors. It works by preventing some of the fat in foods eaten from being absorbed in the intestines. This unabsorbed fat is then removed from the body in the stool.`,
+    howToUse: `Orlistat comes as a capsule and a nonprescription capsule to take by mouth. It is usually taken three times a day with each main meal that contains fat. Take orlistat during a meal or up to 1 hour after a meal. If a meal is missed or does not have fat, you may skip your dose. Follow the directions on your prescription label or the package label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take orlistat exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor or stated on the package.`,
+    additionalDetials: `Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient if orlistat is prescribed for you. For additional information about the nonprescription product, visit http://www.MyAlli.com.`,
+  },
+  {
+    productId: 473,
+    name: "Anabrez",
+    categoryName: "WOMEN'S HEALTH",
+    activeIngredient: "Anastrozole",
+    rating: 85,
+    star: 4,
+    price: "7.63",
+    type: "TAB",
+    typeName: "TAB",
+    ManufacturedBy: "Sun Pharmaceuticals Industries",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 88.15, pricePerBottle: 8.82 },
+          { count: 20, price: 161.48, pricePerBottle: 8.07 },
+          { count: 30, price: 234.81, pricePerBottle: 7.83 },
+          { count: 40, price: 308.15, pricePerBottle: 7.7 },
+          { count: 50, price: 381.48, pricePerBottle: 7.63 },
+        ],
+      },
+    ],
+    prescription: `Anastrozole is used with other treatments, such as surgery or radiation, to treat early breast cancer in women who have experienced menopause (change of life; end of monthly menstrual periods). This medication is also used in women, who have experienced menopause, as a first treatment of breast cancer that has spread within the breast or to other areas of the body. This medication is also used to treat breast cancer in women whose breast cancer has worsened after taking tamoxifen (Nolvadex). Anastrozole is in a class of medications called nonsteroidal aromatase inhibitors. It works by decreasing the amount of estrogen the body makes. This can slow or stop the growth of many types of breast cancer cells that need estrogen to grow.`,
+    howToUse: `Anastrozole comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take anastrozole at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take anastrozole exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    You may need to take anastrozole for several years or longer. Continue to take anastrozole even if you feel well. Do not stop taking anastrozole without talking to your doctor.`,
+    additionalDetials: `Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 474,
+    name: "Armotraz",
+    categoryName: "WOMEN'S HEALTH",
+    activeIngredient: "Anastrozole",
+    rating: 40,
+    star: 5,
+    price: "5.41",
+    type: "TAB",
+    typeName: "TAB",
+    ManufacturedBy: "Cipla",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "1",
+        unit: "mg",
+        bottle: [
+          { count: 10, price: 65.93, pricePerBottle: 6.59 },
+          { count: 20, price: 117.04, pricePerBottle: 5.85 },
+          { count: 30, price: 168.15, pricePerBottle: 5.61 },
+          { count: 40, price: 219.26, pricePerBottle: 5.48 },
+          { count: 50, price: 270.37, pricePerBottle: 5.41 },
+        ],
+      },
+    ],
+    prescription: `Anastrozole is used with other treatments, such as surgery or radiation, to treat early breast cancer in women who have experienced menopause (change of life; end of monthly menstrual periods). This medication is also used in women, who have experienced menopause, as a first treatment of breast cancer that has spread within the breast or to other areas of the body. This medication is also used to treat breast cancer in women whose breast cancer has worsened after taking tamoxifen (Nolvadex). Anastrozole is in a class of medications called nonsteroidal aromatase inhibitors. It works by decreasing the amount of estrogen the body makes. This can slow or stop the growth of many types of breast cancer cells that need estrogen to grow.`,
+    howToUse: `Anastrozole comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take anastrozole at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take anastrozole exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+
+    You may need to take anastrozole for several years or longer. Continue to take anastrozole even if you feel well. Do not stop taking anastrozole without talking to your doctor.`,
+    additionalDetials: `Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 475,
+    name: "Cerazette",
+    categoryName: "WOMEN'S HEALTH",
+    activeIngredient: "Desogestrel",
+    rating: 73,
+    star: 5,
+    price: "52.85",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Organon",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "28 tabs / pack 0.075",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 66.74, pricePerBottle: 66.74 },
+          { count: 2, price: 118.67, pricePerBottle: 59.34 },
+          { count: 4, price: 222.52, pricePerBottle: 55.63 },
+          { count: 8, price: 430.22, pricePerBottle: 53.78 },
+          { count: 16, price: 854.63, pricePerBottle: 52.85 },
+        ],
+      },
+    ],
+    prescription: `Oral contraceptives (birth-control pills) are used to prevent pregnancy. Estrogen and progestin are two female sex hormones. Combinations of estrogen and progestin work by preventing ovulation (the release of eggs from the ovaries). They also change the lining of the uterus (womb) to prevent pregnancy from developing and change the mucus at the cervix (opening of the uterus) to prevent sperm (male reproductive cells) from entering. Oral contraceptives are a very effective method of birth control, but they do not prevent the spread of human immunodeficiency virus (HIV, the virus that causes acquired immunodeficiency syndrome [AIDS]) and other sexually transmitted diseases.
+
+    Some brands of oral contraceptives are also used to treat acne in certain patients. Oral contraceptives treat acne by decreasing the amounts of certain natural substances that can cause acne.
+    
+    Some oral contraceptives (Beyaz, Yaz) are also used to relieve the symptoms of premenstrual dysphoric disorder (physical and emotional symptoms that occur before the menstrual period each month) in women who have chosen to use an oral contraceptive to prevent pregnancy.`,
+    howToUse: `Oral contraceptives come in packets of 21, 28, or 91 tablets to take by mouth once a day, every day or almost every day of a regular cycle. To avoid nausea, take oral contraceptives with food or milk. Take your oral contraceptive at the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take your oral contraceptive exactly as directed. Do not take more or less of it, take it more often, or take it for a longer time than prescribed by your doctor.
+
+    Oral contraceptives come in many different brands. Different brands of oral contraceptives contain slightly different medications or doses, are taken in slightly different ways, and have different risks and benefits. Be sure that you know which brand of oral contraceptives you are using and exactly how you should use it. Ask your doctor or pharmacist for a copy of the manufacturer's information for the patient and read it carefully.
+    
+    If you have a 21-tablet packet, take 1 tablet daily for 21 days and then none for 7 days. Then start a new packet.
+    
+    If you have a 28-tablet packet, take 1 tablet daily for 28 days in a row in the order specified in your packet. Start a new packet the day after you take your 28th tablet. The tablets in most 28-tablet packets may have different colors. Many 28-tablet packets have certain color tablets that contain different amounts of estrogen and progestin, but also may have other color tablets which contain an inactive ingredient or a folate supplement.
+    
+    If you have a 91-day tablet packet, take 1 tablet daily for 91 days. Your packet will contain three trays of tablets. Start with the first tablet on the first tray and continue taking 1 tablet every day in the order specified on the packet until you have taken all of the tablets on all of the trays. The last set of tablets are a different color. These tablets may contain an inactive ingredient, or they may contain a very low dose of estrogen. Start your new packet the day after you take your 91st tablet.
+    
+    Your doctor will tell you when you should start taking your oral contraceptive. Oral contraceptives are usually started on the first or fifth day of your menstrual period or on the first Sunday after or on which bleeding begins. Your doctor will also tell you whether you need to use another method of birth control during the first 7 to 9 days that you take your oral contraceptive and will help you choose a method. Follow these directions carefully.
+    
+    You will probably experience withdrawal bleeding similar to a menstrual period while you are taking the inactive tablets or the low dose estrogen tablets or during the week that you do not take your oral contraceptive. If you are taking the type of packet that only contains active tablets, you will not experience any scheduled bleeding, but you may experience unexpected bleeding and spotting, especially at the beginning of your treatment. Be sure to start taking your new packet on schedule even if you are still bleeding.`,
+    additionalDetials: `You may need to use a backup method of birth control if you vomit or have diarrhea while you are taking an oral contraceptive. Talk to your doctor about this before you begin to take your oral contraceptive so that you can prepare a backup method of birth control in case it is needed. If you vomit or have diarrhea while you are taking an oral contraceptive, call your doctor to find out how long you should use the backup method.
+
+    If you have recently given birth, wait until 4 weeks after delivery to begin taking oral contraceptives. If you have had an abortion or miscarriage, talk to your doctor about when you should begin taking oral contraceptives.
+    
+    Oral contraceptives will work only as long as they are taken regularly. Continue to take oral contraceptives every day even if you are spotting or bleeding, have an upset stomach, or do not think that you are likely to become pregnant. Do not stop taking oral contraceptives without talking to your doctor.`,
+  },
+  {
+    productId: 476,
+    name: "Cerazette",
+    categoryName: "WOMEN'S HEALTH",
+    activeIngredient: "Desogestrel",
+    rating: 73,
+    star: 5,
+    price: "52.85",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Organon",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "28 tabs / pack 0.075",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 66.74, pricePerBottle: 66.74 },
+          { count: 2, price: 118.67, pricePerBottle: 59.34 },
+          { count: 4, price: 222.52, pricePerBottle: 55.63 },
+          { count: 8, price: 430.22, pricePerBottle: 53.78 },
+          { count: 16, price: 854.63, pricePerBottle: 52.85 },
+        ],
+      },
+    ],
+    prescription: `Oral contraceptives (birth-control pills) are used to prevent pregnancy. Estrogen and progestin are two female sex hormones. Combinations of estrogen and progestin work by preventing ovulation (the release of eggs from the ovaries). They also change the lining of the uterus (womb) to prevent pregnancy from developing and change the mucus at the cervix (opening of the uterus) to prevent sperm (male reproductive cells) from entering. Oral contraceptives are a very effective method of birth control, but they do not prevent the spread of human immunodeficiency virus (HIV, the virus that causes acquired immunodeficiency syndrome [AIDS]) and other sexually transmitted diseases.
+
+    Some brands of oral contraceptives are also used to treat acne in certain patients. Oral contraceptives treat acne by decreasing the amounts of certain natural substances that can cause acne.
+    
+    Some oral contraceptives (Beyaz, Yaz) are also used to relieve the symptoms of premenstrual dysphoric disorder (physical and emotional symptoms that occur before the menstrual period each month) in women who have chosen to use an oral contraceptive to prevent pregnancy.`,
+    howToUse: `Oral contraceptives come in packets of 21, 28, or 91 tablets to take by mouth once a day, every day or almost every day of a regular cycle. To avoid nausea, take oral contraceptives with food or milk. Take your oral contraceptive at the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take your oral contraceptive exactly as directed. Do not take more or less of it, take it more often, or take it for a longer time than prescribed by your doctor.
+
+    Oral contraceptives come in many different brands. Different brands of oral contraceptives contain slightly different medications or doses, are taken in slightly different ways, and have different risks and benefits. Be sure that you know which brand of oral contraceptives you are using and exactly how you should use it. Ask your doctor or pharmacist for a copy of the manufacturer's information for the patient and read it carefully.
+    
+    If you have a 21-tablet packet, take 1 tablet daily for 21 days and then none for 7 days. Then start a new packet.
+    
+    If you have a 28-tablet packet, take 1 tablet daily for 28 days in a row in the order specified in your packet. Start a new packet the day after you take your 28th tablet. The tablets in most 28-tablet packets may have different colors. Many 28-tablet packets have certain color tablets that contain different amounts of estrogen and progestin, but also may have other color tablets which contain an inactive ingredient or a folate supplement.
+    
+    If you have a 91-day tablet packet, take 1 tablet daily for 91 days. Your packet will contain three trays of tablets. Start with the first tablet on the first tray and continue taking 1 tablet every day in the order specified on the packet until you have taken all of the tablets on all of the trays. The last set of tablets are a different color. These tablets may contain an inactive ingredient, or they may contain a very low dose of estrogen. Start your new packet the day after you take your 91st tablet.
+    
+    Your doctor will tell you when you should start taking your oral contraceptive. Oral contraceptives are usually started on the first or fifth day of your menstrual period or on the first Sunday after or on which bleeding begins. Your doctor will also tell you whether you need to use another method of birth control during the first 7 to 9 days that you take your oral contraceptive and will help you choose a method. Follow these directions carefully.
+    
+    You will probably experience withdrawal bleeding similar to a menstrual period while you are taking the inactive tablets or the low dose estrogen tablets or during the week that you do not take your oral contraceptive. If you are taking the type of packet that only contains active tablets, you will not experience any scheduled bleeding, but you may experience unexpected bleeding and spotting, especially at the beginning of your treatment. Be sure to start taking your new packet on schedule even if you are still bleeding.`,
+    additionalDetials: `You may need to use a backup method of birth control if you vomit or have diarrhea while you are taking an oral contraceptive. Talk to your doctor about this before you begin to take your oral contraceptive so that you can prepare a backup method of birth control in case it is needed. If you vomit or have diarrhea while you are taking an oral contraceptive, call your doctor to find out how long you should use the backup method.
+
+    If you have recently given birth, wait until 4 weeks after delivery to begin taking oral contraceptives. If you have had an abortion or miscarriage, talk to your doctor about when you should begin taking oral contraceptives.
+    
+    Oral contraceptives will work only as long as they are taken regularly. Continue to take oral contraceptives every day even if you are spotting or bleeding, have an upset stomach, or do not think that you are likely to become pregnant. Do not stop taking oral contraceptives without talking to your doctor.`,
+  },
+  {
+    productId: 477,
+    name: "Clofert",
+    categoryName: "WOMEN'S HEALTH",
+    activeIngredient: "Clomiphene",
+    rating: 105,
+    star: 5,
+    price: "2.15",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Svizera Healthcare",
+    image: "",
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "25",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 119.26, pricePerBottle: 3.98 },
+          { count: 60, price: 223.7, pricePerBottle: 3.73 },
+          { count: 120, price: 432.59, pricePerBottle: 3.6 },
+          { count: 240, price: 850.37, pricePerBottle: 3.54 },
+        ],
+      },
+    ],
+    prescription: `Clomiphene is used to induce ovulation (egg production) in women who do not produce ova (eggs) but wish to become pregnant (infertility). Clomiphene is in a class of medications called ovulatory stimulants. It works similarly to estrogen, a female hormone that causes eggs to develop in the ovaries and be released.`,
+    howToUse: `Clomiphene comes as a tablet to take by mouth. It is usually taken once a day for 5 days, beginning on or about day 5 of the cycle. To help you remember to take clomiphene, take it around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take clomiphene exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: ``,
+  },
+  {
+    productId: 478,
+    name: "Diane",
+    categoryName: "WOMEN'S HEALTH",
+    activeIngredient: "Cyproterone acetate + Ethinylestradiol",
+    rating: 130,
+    star: 5,
+    price: "33.52",
+    type: "pack",
+    typeName: "pack",
+    ManufacturedBy: "Bayer",
+    image: diane35,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: " 35 21 tabs / pack 2.035",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 47.41, pricePerBottle: 47.41 },
+          { count: 2, price: 80, pricePerBottle: 40 },
+          { count: 4, price: 145.19, pricePerBottle: 36.3 },
+          { count: 8, price: 275.56, pricePerBottle: 34.45 },
+          { count: 16, price: 536.3, pricePerBottle: 33.52 },
+        ],
+      },
+    ],
+    prescription: ``,
+    howToUse: ``,
+    additionalDetials: ``,
+  },
+  {
+    productId: 479,
+    name: "Elinal",
+    categoryName: "WOMEN'S HEALTH",
+    activeIngredient: "Anastrozole",
+    rating: 54,
+    star: 5,
+    price: "2.57",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Emcure Pharmaceuticals Ltd.",
+    image: diane35,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: " 1",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 90.37, pricePerBottle: 3.01 },
+          { count: 60, price: 165.93, pricePerBottle: 2.77 },
+          { count: 120, price: 317.04, pricePerBottle: 2.64 },
+          { count: 240, price: 619.26, pricePerBottle: 2.58 },
+          { count: 300, price: 770.37, pricePerBottle: 2.57 },
+        ],
+      },
+    ],
+    prescription: `Anastrozole is used with other treatments, such as surgery or radiation, to treat early breast cancer in women who have experienced menopause (change of life; end of monthly menstrual periods). This medication is also used in women, who have experienced menopause, as a first treatment of breast cancer that has spread within the breast or to other areas of the body. This medication is also used to treat breast cancer in women whose breast cancer has worsened after taking tamoxifen (Nolvadex). Anastrozole is in a class of medications called nonsteroidal aromatase inhibitors. It works by decreasing the amount of estrogen the body makes. This can slow or stop the growth of many types of breast cancer cells that need estrogen to grow.`,
+    howToUse: `Anastrozole comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take anastrozole at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take anastrozole exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.`,
+    additionalDetials: `You may need to take anastrozole for several years or longer. Continue to take anastrozole even if you feel well. Do not stop taking anastrozole without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 480,
+    name: "Femalegra",
+    categoryName: "WOMEN'S HEALTH",
+    activeIngredient: "Sildenafil Citrate",
+    rating: 182,
+    star: 4,
+    price: "0.64",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Ajanta Pharma Limited",
+    image: Femalegra,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: " 100",
+        unit: "mg",
+        bottle: [
+          { count: 60, price: 50.37, pricePerBottle: 0.84 },
+          { count: 120, price: 85.93, pricePerBottle: 0.72 },
+          { count: 240, price: 157.04, pricePerBottle: 0.65 },
+          { count: 300, price: 192.59, pricePerBottle: 0.64 },
+        ],
+      },
+    ],
+    prescription: `Sildenafil (Viagra) is used to treat erectile dysfunction (impotence; inability to get or keep an erection) in men. Sildenafil (Revatio) is used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH; high blood pressure in the vessels carrying blood to the lungs, causing shortness of breath, dizziness, and tiredness). Children should not usually take sildenafil, but in some cases, a doctor may decide that sildenafil (Revatio) is the best medication to treat a child's condition. Sildenafil is in a class of medications called phosphodiesterase (PDE) inhibitors. Sildenafil treats erectile dysfunction by increasing blood flow to the penis during sexual stimulation. This increased blood flow can cause an erection. Sildenafil treats PAH by relaxing the blood vessels in the lungs to allow blood to flow easily.
+
+    If you are taking sildenafil to treat erectile dysfunction, you should know that it does not cure erectile dysfunction or increase sexual desire. Sildenafil does not prevent pregnancy or the spread of sexually transmitted diseases such as human immunodeficiency virus (HIV).`,
+    howToUse: `Sildenafil comes as a tablet and suspension (liquid; Revatio only) to take by mouth.
+
+    If you are taking sildenafil to treat erectile dysfunction, follow your doctor's directions and the guidelines in this paragraph. Take sildenafil as needed before sexual activity. The best time to take sildenafil is about 1 hour before sexual activity, but you can take the medication any time from 4 hours to 30 minutes before sexual activity. Sildenafil usually should not be taken more than once every 24 hours. If you have certain health conditions or are taking certain medications, your doctor may tell you to take sildenafil less often. You can take sildenafil with or without food. However, if you take sildenafil with a high-fat meal, it will take longer for the medication to start to work.
+    
+    If you are taking sildenafil to treat PAH, follow your doctor's directions and the guidelines in this paragraph. You will probably take sildenafil three times a day with or without food. Take sildenafil at around the same times every day, and space your doses about 4 to 6 hours apart.
+    
+    Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take sildenafil exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor.
+    
+    Shake the liquid well for 10 seconds before each use to mix the medication evenly. Use the oral syringe provided with your medication to measure and take your dose. Follow the manufacturer's directions to use and clean the oral syringe. Do not mix the liquid with other medications or add anything to flavor the medication.`,
+    additionalDetials: `If you are taking sildenafil for erectile dysfunction, your doctor will probably start you on an average dose of sildenafil and increase or decrease your dose depending on your response to the medication. Tell your doctor if sildenafil is not working well or if you are experiencing side effects.
+
+    If you are taking sildenafil for PAH, you should know that sildenafil controls PAH but does not cure it. Continue to take sildenafil even if you feel well. Do not stop taking sildenafil without talking to your doctor.
+    
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 481,
+    name: "Fempro",
+    categoryName: "WOMEN'S HEALTH",
+    activeIngredient: "Letrozole",
+    rating: 85,
+    star: 4,
+    price: "1.01",
+    type: "tab",
+    typeName: "tab",
+    ManufacturedBy: "Cipla",
+    image: Fempro,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "2.5",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 43.7, pricePerBottle: 1.46 },
+          { count: 60, price: 72.59, pricePerBottle: 1.21 },
+          { count: 120, price: 130.37, pricePerBottle: 1.09 },
+          { count: 240, price: 245.93, pricePerBottle: 1.02 },
+          { count: 300, price: 303.7, pricePerBottle: 1.01 },
+        ],
+      },
+    ],
+    prescription: `Letrozole is used treat early breast cancer in women who have experienced menopause (change of life; end of monthly menstrual periods) and who have had other treatments, such as radiation or surgery to remove the tumor. It is also used to treat early breast cancer in women who have experienced menopause and who have already been treated with a medication called tamoxifen (Nolvadex) for 5 years. Letrozole is also used in women who have experienced menopause as a first treatment of breast cancer that has spread within the breast or to other areas of the body or in women whose breast cancer has worsened while they were taking tamoxifen. Letrozole is in a class of medications called nonsteroidal aromatase inhibitors. It works by decreasing the amount of estrogen produced by the body. This can slow or stop the growth of some types of breast cancer cells that need estrogen to grow.`,
+    howToUse: `Letrozole comes as a tablet to take by mouth once a day with or without food. Take letrozole at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take letrozole exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor`,
+    additionalDetials: `You may need to take letrozole for several years or longer. Continue to take letrozole even if you feel well. Do not stop taking letrozole without talking to your doctor.
+
+    Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.`,
+  },
+  {
+    productId: 482,
+    name: "Iverheal 12 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 90,
+    star: 4,
+    price: "0.80",
+    type: "piece",
+    typeName: "piece",
+    ManufacturedBy: "Fortune Healthcare Pvt. Ltd",
+    image: Iverheal12Mg_1,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 42, pricePerBottle: 1.4 },
+          { count: 60, price: 65, pricePerBottle: 1.3 },
+          { count: 120, price: 120, pricePerBottle: 1.2 },
+          { count: 240, price: 220, pricePerBottle: 1.1 },
+          { count: 300, price: 300, pricePerBottle: 1 },
+          { count: 500, price: 450, pricePerBottle: 0.9 },
+          { count: 1000, price: 800, pricePerBottle: 0.8 },
+        ],
+      },
+    ],
+    prescription: `Iverheal 12 mg is an antiparasitic drug used to treat parasitic illnesses such as roundworms, scabies Strongyloidiasis, onchocerciasis, lymphatic filariasis, and other parasitic infections. When it comes to the usage of Ivermectin for certain illnesses, there is some disagreement. However, it has been found that using Iverheal to treat symptoms of some illnesses in patients has resulted in a positive reaction. Ivermectin, the main ingredient of Iverheal 12, has been shown to be effective in eradicating a variety of parasite illnesses, including pandemic-inducing ones.
+
+    Iverheal 12 is an antiparasitic drug that is commonly used to treat parasitic infections of the eyes, skin, and intestines. Ivermectin can effectively cure parasite infections and reduce the risk of life-threatening illnesses in persons with inadequate immunity. As a result, it is useful in the treatment of parasitic diseases.`,
+    howToUse: `These days, Iverheal 12mg is indicated for the veterinary usage of important virus. The mechanism’s specific process is unknown, although it is thought to work on the virus’s cells. Ivermectin is a fast-acting antibiotic that stops the spread of infectious illness.
+
+    Ivermectin, the active ingredient, inhibits the importin Karyopherin, which leads to protein transport to the virus. This medicine also prevents the virus from forming a protein coating around the cells on which it feeds and develops. Iverheal 12 captures the parasite, causing it to become paralysed and die. This medicine reduces parasitic intestinal activity and prevents the parasite from laying eggs. The use of Iverheal 12mg in critical virus patients has resulted in a significant decrease in viral RNA molecule and cells in the same bracket. It takes 30-60 minutes for the drug to enter the body and begin working.`,
+    additionalDetials: `Iverheal 12  comes in three different strengths: 3 mg, 6 mg, and 12 mg. Your dosage will be determine by your doctor based on your medical condition and needs. The dosage will be changed according to the severity of the parasitic infestation. Weight and age are sometimes take into account while administering this drug.
+
+    Buy Ivermectin Online should be taken on an empty stomach, and alcohol should be avoid because it can exacerbate some of the drug’s negative effects.
+    
+    Prescription and over-the-counter medications, as well as vitamins and minerals, may interact with this medication. As a result, it’s critical to inform your healthcare professionals about all medications you’re taking currently, as well as any new or discontinued medications.
+    
+    more info where to buy ivermectin for humans`,
+  },
+  {
+    name: "Ivervid 12 Mg",
+    productId: 483,
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 90,
+    star: 4,
+    price: "0.80",
+    type: "piece",
+    typeName: "piece",
+    ManufacturedBy: "Fortune Healthcare Pvt. Ltd",
+    image: Ivervid,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 42, pricePerBottle: 1.4 },
+          { count: 60, price: 65, pricePerBottle: 1.3 },
+          { count: 120, price: 120, pricePerBottle: 1.2 },
+          { count: 240, price: 220, pricePerBottle: 1.1 },
+          { count: 300, price: 300, pricePerBottle: 1 },
+          { count: 500, price: 450, pricePerBottle: 0.9 },
+          { count: 1000, price: 800, pricePerBottle: 0.8 },
+        ],
+      },
+    ],
+    prescription: `Iverheal 12 mg is an antiparasitic drug used to treat parasitic illnesses such as roundworms, scabies Strongyloidiasis, onchocerciasis, lymphatic filariasis, and other parasitic infections. When it comes to the usage of Ivermectin for certain illnesses, there is some disagreement. However, it has been found that using Iverheal to treat symptoms of some illnesses in patients has resulted in a positive reaction. Ivermectin, the main ingredient of Iverheal 12, has been shown to be effective in eradicating a variety of parasite illnesses, including pandemic-inducing ones.
+
+    Iverheal 12 is an antiparasitic drug that is commonly used to treat parasitic infections of the eyes, skin, and intestines. Ivermectin can effectively cure parasite infections and reduce the risk of life-threatening illnesses in persons with inadequate immunity. As a result, it is useful in the treatment of parasitic diseases.`,
+    howToUse: `These days, Iverheal 12mg is indicated for the veterinary usage of important virus. The mechanism’s specific process is unknown, although it is thought to work on the virus’s cells. Ivermectin is a fast-acting antibiotic that stops the spread of infectious illness.
+
+    Ivermectin, the active ingredient, inhibits the importin Karyopherin, which leads to protein transport to the virus. This medicine also prevents the virus from forming a protein coating around the cells on which it feeds and develops. Iverheal 12 captures the parasite, causing it to become paralysed and die. This medicine reduces parasitic intestinal activity and prevents the parasite from laying eggs. The use of Iverheal 12mg in critical virus patients has resulted in a significant decrease in viral RNA molecule and cells in the same bracket. It takes 30-60 minutes for the drug to enter the body and begin working.`,
+    additionalDetials: `Iverheal 12  comes in three different strengths: 3 mg, 6 mg, and 12 mg. Your dosage will be determine by your doctor based on your medical condition and needs. The dosage will be changed according to the severity of the parasitic infestation. Weight and age are sometimes take into account while administering this drug.
+
+    Buy Ivermectin Online should be taken on an empty stomach, and alcohol should be avoid because it can exacerbate some of the drug’s negative effects.
+    
+    Prescription and over-the-counter medications, as well as vitamins and minerals, may interact with this medication. As a result, it’s critical to inform your healthcare professionals about all medications you’re taking currently, as well as any new or discontinued medications.
+    
+    more info where to buy ivermectin for humans`,
+  },
+  {
+    productId: 484,
+    name: "Iverheal 6 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 90,
+    star: 4,
+    price: "0.80",
+    type: "Tablet",
+    typeName: "Tablet",
+    ManufacturedBy: "Fortune Healthcare Pvt. Ltd",
+    image: Iverheal6Mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "6",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 36, pricePerBottle: 1.2 },
+          { count: 60, price: 55, pricePerBottle: 1.1 },
+          { count: 120, price: 100, pricePerBottle: 1 },
+          { count: 240, price: 180, pricePerBottle: 0.9 },
+          { count: 300, price: 240, pricePerBottle: 0.8 },
+        ],
+      },
+    ],
+    prescription: `Iverheal 12 mg is an antiparasitic drug used to treat parasitic illnesses such as roundworms, scabies Strongyloidiasis, onchocerciasis, lymphatic filariasis, and other parasitic infections. When it comes to the usage of Ivermectin for certain illnesses, there is some disagreement. However, it has been found that using Iverheal to treat symptoms of some illnesses in patients has resulted in a positive reaction. Ivermectin, the main ingredient of Iverheal 12, has been shown to be effective in eradicating a variety of parasite illnesses, including pandemic-inducing ones.
+
+    Iverheal 12 is an antiparasitic drug that is commonly used to treat parasitic infections of the eyes, skin, and intestines. Ivermectin can effectively cure parasite infections and reduce the risk of life-threatening illnesses in persons with inadequate immunity. As a result, it is useful in the treatment of parasitic diseases.`,
+    howToUse: `These days, Iverheal 12mg is indicated for the veterinary usage of important virus. The mechanism’s specific process is unknown, although it is thought to work on the virus’s cells. Ivermectin is a fast-acting antibiotic that stops the spread of infectious illness.
+
+    Ivermectin, the active ingredient, inhibits the importin Karyopherin, which leads to protein transport to the virus. This medicine also prevents the virus from forming a protein coating around the cells on which it feeds and develops. Iverheal 12 captures the parasite, causing it to become paralysed and die. This medicine reduces parasitic intestinal activity and prevents the parasite from laying eggs. The use of Iverheal 12mg in critical virus patients has resulted in a significant decrease in viral RNA molecule and cells in the same bracket. It takes 30-60 minutes for the drug to enter the body and begin working.`,
+    additionalDetials: `Iverheal 12  comes in three different strengths: 3 mg, 6 mg, and 12 mg. Your dosage will be determine by your doctor based on your medical condition and needs. The dosage will be changed according to the severity of the parasitic infestation. Weight and age are sometimes take into account while administering this drug.
+
+    Buy Ivermectin Online should be taken on an empty stomach, and alcohol should be avoid because it can exacerbate some of the drug’s negative effects.
+    
+    Prescription and over-the-counter medications, as well as vitamins and minerals, may interact with this medication. As a result, it’s critical to inform your healthcare professionals about all medications you’re taking currently, as well as any new or discontinued medications.
+    
+    more info where to buy ivermectin for humans`,
+  },
+  {
+    productId: 485,
+    name: "Ivervid 6 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 90,
+    star: 4,
+    price: "0.80",
+    type: "Tablet",
+    typeName: "Tablet",
+    ManufacturedBy: "Fortune Healthcare Pvt. Ltd",
+    image: Ivervid6MG,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "6",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 36, pricePerBottle: 1.2 },
+          { count: 60, price: 55, pricePerBottle: 1.1 },
+          { count: 120, price: 100, pricePerBottle: 1 },
+          { count: 240, price: 180, pricePerBottle: 0.9 },
+          { count: 300, price: 240, pricePerBottle: 0.8 },
+        ],
+      },
+    ],
+    prescription: `Iverheal 12 mg is an antiparasitic drug used to treat parasitic illnesses such as roundworms, scabies Strongyloidiasis, onchocerciasis, lymphatic filariasis, and other parasitic infections. When it comes to the usage of Ivermectin for certain illnesses, there is some disagreement. However, it has been found that using Iverheal to treat symptoms of some illnesses in patients has resulted in a positive reaction. Ivermectin, the main ingredient of Iverheal 12, has been shown to be effective in eradicating a variety of parasite illnesses, including pandemic-inducing ones.
+
+    Iverheal 12 is an antiparasitic drug that is commonly used to treat parasitic infections of the eyes, skin, and intestines. Ivermectin can effectively cure parasite infections and reduce the risk of life-threatening illnesses in persons with inadequate immunity. As a result, it is useful in the treatment of parasitic diseases.`,
+    howToUse: `These days, Iverheal 12mg is indicated for the veterinary usage of important virus. The mechanism’s specific process is unknown, although it is thought to work on the virus’s cells. Ivermectin is a fast-acting antibiotic that stops the spread of infectious illness.
+
+    Ivermectin, the active ingredient, inhibits the importin Karyopherin, which leads to protein transport to the virus. This medicine also prevents the virus from forming a protein coating around the cells on which it feeds and develops. Iverheal 12 captures the parasite, causing it to become paralysed and die. This medicine reduces parasitic intestinal activity and prevents the parasite from laying eggs. The use of Iverheal 12mg in critical virus patients has resulted in a significant decrease in viral RNA molecule and cells in the same bracket. It takes 30-60 minutes for the drug to enter the body and begin working.`,
+    additionalDetials: `Iverheal 12  comes in three different strengths: 3 mg, 6 mg, and 12 mg. Your dosage will be determine by your doctor based on your medical condition and needs. The dosage will be changed according to the severity of the parasitic infestation. Weight and age are sometimes take into account while administering this drug.
+
+    Buy Ivermectin Online should be taken on an empty stomach, and alcohol should be avoid because it can exacerbate some of the drug’s negative effects.
+    
+    Prescription and over-the-counter medications, as well as vitamins and minerals, may interact with this medication. As a result, it’s critical to inform your healthcare professionals about all medications you’re taking currently, as well as any new or discontinued medications.
+    
+    more info where to buy ivermectin for humans`,
+  },
+  {
+    productId: 486,
+    name: "Iverhuman 12 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 90,
+    star: 4,
+    price: "0.90",
+    type: "Tablet",
+    typeName: "Tablet",
+    ManufacturedBy: "Fortune Healthcare Pvt. Ltd",
+    image: Iverhuman12Mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 42, pricePerBottle: 1.4 },
+          { count: 60, price: 65, pricePerBottle: 1.3 },
+          { count: 120, price: 120, pricePerBottle: 1.2 },
+          { count: 240, price: 220, pricePerBottle: 1.1 },
+          { count: 300, price: 300, pricePerBottle: 1 },
+          { count: 500, price: 450, pricePerBottle: 0.9 },
+        ],
+      },
+    ],
+    prescription: `Iverhuman 12 mg is an antiparasitic drug used to treat parasitic illnesses such as roundworms, scabies Strongyloidiasis, onchocerciasis, lymphatic filariasis, and other parasitic infections. When it comes to the usage of Ivermectin for certain illnesses, there is some disagreement. However, it has been found that using Iverhuman to treat symptoms of some illnesses in patients has resulted in a positive reaction. Ivermectin, the main ingredient of Iverhuman 12, has been shown to be effective in eradicating a variety of parasite illnesses, including pandemic-inducing ones.
+
+    Iverhuman 12 is an antiparasitic drug that is commonly used to treat parasitic infections of the eyes, skin, and intestines. Ivermectin can effectively cure parasite infections and reduce the risk of life-threatening illnesses in persons with inadequate immunity. As a result, it is useful in the treatment of parasitic diseases.`,
+    howToUse: `These days, Iverhuman 12mg is indicated for the veterinary usage of important virus. The mechanism’s specific process is unknown, although it is thought to work on the virus’s cells. Ivermectin is a fast-acting antibiotic that stops the spread of infectious illness.
+
+    Ivermectin, the active ingredient, inhibits the importin Karyopherin, which leads to protein transport to the virus. This medicine also prevents the virus from forming a protein coating around the cells on which it feeds and develops. Iverhuman 12 captures the parasite, causing it to become paralysed and die. This medicine reduces parasitic intestinal activity and prevents the parasite from laying eggs. The use of Iverhuman 12mg in critical virus patients has resulted in a significant decrease in viral RNA molecule and cells in the same bracket. It takes 30-60 minutes for the drug to enter the body and begin working.`,
+    additionalDetials: `Iverhuman 12  comes in three different strengths: 3 mg, 6 mg, and 12 mg. Your dosage will be determine by your doctor based on your medical condition and needs. The dosage will be changed according to the severity of the parasitic infestation. Weight and age are sometimes take into account while administering this drug.
+
+    Buy Ivermectin Online should be taken on an empty stomach, and alcohol should be avoid because it can exacerbate some of the drug’s negative effects.
+    
+    Prescription and over-the-counter medications, as well as vitamins and minerals, may interact with this medication. As a result, it’s critical to inform your healthcare professionals about all medications you’re taking currently, as well as any new or discontinued medications.
+    
+    more info where to buy ivermectin for humans`,
+  },
+  {
+    productId: 487,
+    name: "Iverjhon 12 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 90,
+    star: 4,
+    price: "0.90",
+    type: "Tablet",
+    typeName: "Tablet",
+    ManufacturedBy: "Fortune Healthcare Pvt. Ltd",
+    image: Iverjohn12Mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 42, pricePerBottle: 1.4 },
+          { count: 60, price: 65, pricePerBottle: 1.3 },
+          { count: 120, price: 120, pricePerBottle: 1.2 },
+          { count: 240, price: 220, pricePerBottle: 1.1 },
+          { count: 300, price: 300, pricePerBottle: 1 },
+          { count: 500, price: 450, pricePerBottle: 0.9 },
+        ],
+      },
+    ],
+    prescription: `The tablet Iverjohn 12 is a medicine to treat worms. It is utilized for the treatment of worms. This is a source of ivermectin, which is its active ingredient. It is used for the treatment of worms within your digestive tract. Iverjohn 12 Tablets should be taken according to the directions of your doctor, and in doses and duration that are prescribed by the doctor. It is recommended to take it prior to eating. Avoid taking this medication when you have an allergy to it or suffer from liver, heart or kidney disease. You Can Buy Ivermectin Online at buyivermectin.store. Benefits Of Iverjohn 12 Tablet
+    In the treatment of parasitic infections
+    
+    Iverjohn 12mg Tablet is used to combat a variety of parasite-related infections that affect the intestinal tract eye, skin, and eyes. It acts by paralyzing and eliminating those parasites responsible for the infection. The medicine typically helps you feel better quickly. But, it is important to take it until it’s prescribed, even if you feel better. This ensures that all parasites are eradicated and that they do not develop resistance.`,
+    howToUse: `You should take this medication according to your doctor’s instructions for dosage and duration. Inhale it all in one go. Don’t chew or crush it. Iverjohn 12mg Tablets should be taken with a full stomach. Take Iverjohn 12 by mouth with an ounce of water one hour prior to eating. The medication is administered in the form of a series of dosages or as single doses, based on the level of the patient’s condition and according to the direction of the physician.
+
+    Ivermectin 12 dosage is based on body’s weight response to treatment as well as the medical state that the person is suffering from. Inform your doctor about negative effects of the medication if they last for a long time.`,
+    additionalDetials: `It is when these channels open that they are accelerated by increasing the flow of chloride ions and this causes hyperpolarization of cells’ membranes. Invertebrates are killed because hyperpolarization leads to paralysis of the affected tissue. Ivermectin is not able to traverse the blood-brain barrier.
+
+    Iverjohn 12 has a binding affinity to it, and blocks interaction with IMP B1; it is a target for its IMPa part of the IMP heterodimer a/b1, which blocks protein nuclear transport. So, normal cells are able to have an antiviral effect.`,
+  },
+  {
+    productId: 488,
+    name: "Ivermectin Cream",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 90,
+    star: 4,
+    price: "10",
+    type: "cream",
+    typeName: "cream",
+    ManufacturedBy: "Fortune Healthcare Pvt. Ltd",
+    image: IvermectinCream,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 1, price: 25, pricePerBottle: 12.5 },
+          { count: 2, price: 46, pricePerBottle: 11.5 },
+          { count: 3, price: 60, pricePerBottle: 10 },
+        ],
+      },
+    ],
+    prescription: `The tablet Iverjohn 12 is a medicine to treat worms. It is utilized for the treatment of worms. This is a source of ivermectin, which is its active ingredient. It is used for the treatment of worms within your digestive tract. Iverjohn 12 Tablets should be taken according to the directions of your doctor, and in doses and duration that are prescribed by the doctor. It is recommended to take it prior to eating. Avoid taking this medication when you have an allergy to it or suffer from liver, heart or kidney disease. You Can Buy Ivermectin Online at buyivermectin.store. Benefits Of Iverjohn 12 Tablet
+    In the treatment of parasitic infections
+    
+    Iverjohn 12mg Tablet is used to combat a variety of parasite-related infections that affect the intestinal tract eye, skin, and eyes. It acts by paralyzing and eliminating those parasites responsible for the infection. The medicine typically helps you feel better quickly. But, it is important to take it until it’s prescribed, even if you feel better. This ensures that all parasites are eradicated and that they do not develop resistance.`,
+    howToUse: `You should take this medication according to your doctor’s instructions for dosage and duration. Inhale it all in one go. Don’t chew or crush it. Iverjohn 12mg Tablets should be taken with a full stomach. Take Iverjohn 12 by mouth with an ounce of water one hour prior to eating. The medication is administered in the form of a series of dosages or as single doses, based on the level of the patient’s condition and according to the direction of the physician.
+
+    Ivermectin 12 dosage is based on body’s weight response to treatment as well as the medical state that the person is suffering from. Inform your doctor about negative effects of the medication if they last for a long time.`,
+    additionalDetials: `It is when these channels open that they are accelerated by increasing the flow of chloride ions and this causes hyperpolarization of cells’ membranes. Invertebrates are killed because hyperpolarization leads to paralysis of the affected tissue. Ivermectin is not able to traverse the blood-brain barrier.
+
+    Iverjohn 12 has a binding affinity to it, and blocks interaction with IMP B1; it is a target for its IMPa part of the IMP heterodimer a/b1, which blocks protein nuclear transport. So, normal cells are able to have an antiviral effect.`,
+  },
+  {
+    productId: 489,
+    name: "Iverijohn 6 MG",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 90,
+    star: 4,
+    price: "0.8",
+    type: "cream",
+    typeName: "cream",
+    ManufacturedBy: "Fortune Healthcare Pvt. Ltd",
+    image: Iverjohn6Mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "6",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 36, pricePerBottle: 1.2 },
+          { count: 60, price: 55, pricePerBottle: 1.1 },
+          { count: 120, price: 100, pricePerBottle: 1 },
+          { count: 240, price: 180, pricePerBottle: 0.9 },
+          { count: 300, price: 240, pricePerBottle: 0.8 },
+        ],
+      },
+    ],
+    prescription: `The tablet Iverijohn 6  is a medicine to treat worms. It is utilized for the treatment of worms. This is a source of ivermectin, which is its active ingredient. It is used for the treatment of worms within your digestive tract. Iverijohn 6  Tablets should be taken according to the directions of your doctor, and in doses and duration that are prescribed by the doctor. It is recommended to take it prior to eating. Avoid taking this medication when you have an allergy to it or suffer from liver, heart or kidney disease. You Can Buy Ivermectin Online at buyivermectin.store. Benefits Of Iverijohn 6  Tablet
+    In the treatment of parasitic infections
+    
+    Iverijohn 6 mg Tablet is used to combat a variety of parasite-related infections that affect the intestinal tract eye, skin, and eyes. It acts by paralyzing and eliminating those parasites responsible for the infection. The medicine typically helps you feel better quickly. But, it is important to take it until it’s prescribed, even if you feel better. This ensures that all parasites are eradicated and that they do not develop resistance.`,
+    howToUse: `You should take this medication according to your doctor’s instructions for dosage and duration. Inhale it all in one go. Don’t chew or crush it. Iverijohn 6 mg Tablets should be taken with a full stomach. Take Iverijohn 6  by mouth with an ounce of water one hour prior to eating. The medication is administered in the form of a series of dosages or as single doses, based on the level of the patient’s condition and according to the direction of the physician.
+
+    Ivermectin 6  dosage is based on body’s weight response to treatment as well as the medical state that the person is suffering from. Inform your doctor about negative effects of the medication if they last for a long time.`,
+    additionalDetials: `It is when these channels open that they are accelerated by increasing the flow of chloride ions and this causes hyperpolarization of cells’ membranes. Invertebrates are killed because hyperpolarization leads to paralysis of the affected tissue. Ivermectin is not able to traverse the blood-brain barrier.
+
+    Iverijohn 6  has a binding affinity to it, and blocks interaction with IMP B1; it is a target for its IMPa part of the IMP heterodimer a/b1, which blocks protein nuclear transport. So, normal cells are able to have an antiviral effect.`,
+  },
+  {
+    productId: 490,
+    name: "Iverijohn 6 MG",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 90,
+    star: 4,
+    price: "0.8",
+    type: "cream",
+    typeName: "cream",
+    ManufacturedBy: "Fortune Healthcare Pvt. Ltd",
+    image: Iverjohn6Mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "6",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 36, pricePerBottle: 1.2 },
+          { count: 60, price: 55, pricePerBottle: 1.1 },
+          { count: 120, price: 100, pricePerBottle: 1 },
+          { count: 240, price: 180, pricePerBottle: 0.9 },
+          { count: 300, price: 240, pricePerBottle: 0.8 },
+        ],
+      },
+    ],
+    prescription: `The tablet Iverijohn 6  is a medicine to treat worms. It is utilized for the treatment of worms. This is a source of ivermectin, which is its active ingredient. It is used for the treatment of worms within your digestive tract. Iverijohn 6  Tablets should be taken according to the directions of your doctor, and in doses and duration that are prescribed by the doctor. It is recommended to take it prior to eating. Avoid taking this medication when you have an allergy to it or suffer from liver, heart or kidney disease. You Can Buy Ivermectin Online at buyivermectin.store. Benefits Of Iverijohn 6  Tablet
+    In the treatment of parasitic infections
+    
+    Iverijohn 6 mg Tablet is used to combat a variety of parasite-related infections that affect the intestinal tract eye, skin, and eyes. It acts by paralyzing and eliminating those parasites responsible for the infection. The medicine typically helps you feel better quickly. But, it is important to take it until it’s prescribed, even if you feel better. This ensures that all parasites are eradicated and that they do not develop resistance.`,
+    howToUse: `You should take this medication according to your doctor’s instructions for dosage and duration. Inhale it all in one go. Don’t chew or crush it. Iverijohn 6 mg Tablets should be taken with a full stomach. Take Iverijohn 6  by mouth with an ounce of water one hour prior to eating. The medication is administered in the form of a series of dosages or as single doses, based on the level of the patient’s condition and according to the direction of the physician.
+
+    Ivermectin 6  dosage is based on body’s weight response to treatment as well as the medical state that the person is suffering from. Inform your doctor about negative effects of the medication if they last for a long time.`,
+    additionalDetials: `It is when these channels open that they are accelerated by increasing the flow of chloride ions and this causes hyperpolarization of cells’ membranes. Invertebrates are killed because hyperpolarization leads to paralysis of the affected tissue. Ivermectin is not able to traverse the blood-brain barrier.
+
+    Iverijohn 6  has a binding affinity to it, and blocks interaction with IMP B1; it is a target for its IMPa part of the IMP heterodimer a/b1, which blocks protein nuclear transport. So, normal cells are able to have an antiviral effect.`,
+  },
+  {
+    productId: 491,
+    name: "Covimectin 12 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 120,
+    star: 5,
+    price: "1",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Fortune Healthcare Pvt. Ltd",
+    image: covimectin_12mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 42, pricePerBottle: 1.4 },
+          { count: 50, price: 65, pricePerBottle: 1.3 },
+          { count: 100, price: 120, pricePerBottle: 1.2 },
+          { count: 300, price: 300, pricePerBottle: 1 },
+        ],
+      },
+    ],
+    prescription: `Covimectin 12 mg is a medication that is commonly used to treat parasitic roundworm infestations. Treating parasite infections can make people feel better, especially if their immune systems are weak. Roundworm infections can be treated to help limit the risk of serious or even fatal contamination. Covimectin 12 mg is mostly made up of Ivermectin. Ivermectin is an anthelmintic, which means it kills worms. Parasites are disabled and polished away, demonstrating its efficiency.
+
+    Sun Pharmaceutical Industries Ltd. manufactures Covimectin 12, a highly effective prescription drug. It is an FDA-approved medication. This medication’s strength is that it can treat scabies, vision impairment, Strongyloides, ticks, and even reduce the spread of intestinal ailment.`,
+    howToUse: `Covimectin 12 Tablets are prescription drugs used to treat viral infections. It should only be used as directed by a doctor. Self-medication is strongly advised against. To avoid any hazards, follow the instructions on the medicine container. Use extreme caution when taking this drug. Covimectin 12 mg should be taken with a full glass of water or milk on an empty stomach (8 ounces or 240 milliliters). If you wish to take it after supper, wait 1 hour after you’ve completed eating before taking it. Use the drug with dry hands at all times to avoid the pill becoming softened as a result of contact with water.`,
+    additionalDetials: `How to Take Covimectin 12 mg?
+    Covimectin 12 mg is a prescription medication that must be taken exactly as prescribed by your doctor. This drug should not be self-prescribe. Ivermectin 12 is taken with a glass of water or milk. The pill should not be crushed or snorted; it should be swallow whole. To get the greatest effects, according to the dose instructions. Your doctor will choose the dose and strength of Covimectin 12 depending on a number of factors, including your age, weight, health restrictions, and kind of ailment.
+    
+    Depending on the type of infection, your doctor may prescribe a single dose or many doses throughout the course of the day. To avoid a recurrence of the infection, doctors recommend taking it till the bacteria are kill. Take no more than one Covimectin 12 tablets at a time. Overdosing can occur as a result of this. If you miss a dosage of Ivermectin 12, take it as soon as you remember; if your next dose is approaching, skip the missing dose.
+    
+    Buy Ivermectin Online in the USA, UK, and Australia at buyivermectin store.`,
+  },
+  {
+    productId: 492,
+    name: "Iverheal 3 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 123,
+    star: 4,
+    price: "0.7",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Healing Pharma, India",
+    image: Iverheal3Mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33, pricePerBottle: 1.1 },
+          { count: 50, price: 50, pricePerBottle: 1 },
+          { count: 100, price: 90, pricePerBottle: 0.9 },
+          { count: 200, price: 160, pricePerBottle: 0.8 },
+          { count: 300, price: 210, pricePerBottle: 0.7 },
+        ],
+      },
+    ],
+    prescription: `Iverheal 3 is a medication that is widely used to treat parasitic infections. You can take this medication if you have an infection in your intestines, skin, or eyes. Before beginning your medication with Ivermectin, you should consult with your doctor. There is some information include in the medicine package. You can read all of the instructions, and they will give you some ideas about how to think about medicine. Iverheal 3mg is manufactured by Healing Pharma India Pvt. Ltd. Along with this medicine, this company manufactures a variety of related products to keep people healthy and fit.`,
+    howToUse: `Iverheal 3 mg is used to treat parasitic infections of the skin, eyes, and gastrointestinal tract. The parasitic infection-causing bacteria are rendered paralyzed by this medication. It binds all of the parasite’s parts and eventually kills them. It aids in the prevention of the development of larvae by another adult parasite. As a result, in cases of parasitic infection, this medicine provides the best treatment.`,
+    additionalDetials: `What is the mechanism of action of Iverheal 3 mg?
+    This medication works by tying all of the parasites’ internal parts together. It reduces their ability to produce larvae. After paralysing the parties, it kills them and quickly makes them feel fit and fine.`,
+  },
+  {
+    productId: 493,
+    name: "Ivervid 3 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 99,
+    star: 5,
+    price: "0.7",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Fortune Healthcare Pvt. Ltd.",
+    image: Ivervid_3,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33, pricePerBottle: 1.1 },
+          { count: 50, price: 50, pricePerBottle: 1 },
+          { count: 100, price: 90, pricePerBottle: 0.9 },
+          { count: 200, price: 160, pricePerBottle: 0.8 },
+          { count: 300, price: 210, pricePerBottle: 0.7 },
+        ],
+      },
+    ],
+    prescription: `Ivervid 3 is a medication that is widely used to treat parasitic infections. You can take this medication if you have an infection in your intestines, skin, or eyes. Before beginning your medication with Ivermectin, you should consult with your doctor. There is some information include in the medicine package. You can read all of the instructions, and they will give you some ideas about how to think about medicine. Ivervid 3mg is manufactured by Healing Pharma India Pvt. Ltd. Along with this medicine, this company manufactures a variety of related products to keep people healthy and fit.`,
+    howToUse: `Ivervid 3 mg is used to treat parasitic infections of the skin, eyes, and gastrointestinal tract. The parasitic infection-causing bacteria are rendered paralyzed by this medication. It binds all of the parasite’s parts and eventually kills them. It aids in the prevention of the development of larvae by another adult parasite. As a result, in cases of parasitic infection, this medicine provides the best treatment.`,
+    additionalDetials: `What is the mechanism of action of Ivervid 3 mg?
+    This medication works by tying all of the parasites’ internal parts together. It reduces their ability to produce larvae. After paralysing the parties, it kills them and quickly makes them feel fit and fine.`,
+  },
+  {
+    productId: 494,
+    name: "Iversun 12 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 109,
+    star: 5,
+    price: "0.8",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Sunrise remedies",
+    image: Iversun_12mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 42, pricePerBottle: 1.4 },
+          { count: 50, price: 65, pricePerBottle: 1.3 },
+          { count: 100, price: 120, pricePerBottle: 1.2 },
+          { count: 300, price: 300, pricePerBottle: 1 },
+          { count: 500, price: 450, pricePerBottle: 0.9 },
+          { count: 1000, price: 800, pricePerBottle: 0.8 },
+        ],
+      },
+    ],
+    prescription: `Iversun 12 is a medication that is widely used to treat parasitic infections. You can take this medication if you have an infection in your intestines, skin, or eyes. Before beginning your medication with Ivermectin, you should consult with your doctor. There is some information include in the medicine package. You can read all of the instructions, and they will give you some ideas about how to think about medicine. Iversun 12mg is manufactured by Healing Pharma India Pvt. Ltd. Along with this medicine, this company manufactures a variety of related products to keep people healthy and fit.`,
+    howToUse: `Iversun 12 mg is used to treat parasitic infections of the skin, eyes, and gastrointestinal tract. The parasitic infection-causing bacteria are rendered paralyzed by this medication. It binds all of the parasite’s parts and eventually kills them. It aids in the prevention of the development of larvae by another adult parasite. As a result, in cases of parasitic infection, this medicine provides the best treatment.`,
+    additionalDetials: `What is the mechanism of action of Iversun 12 mg?
+    This medication works by tying all of the parasites’ internal parts together. It reduces their ability to produce larvae. After paralysing the parties, it kills them and quickly makes them feel fit and fine.`,
+  },
+  {
+    productId: 495,
+    name: "Ivermectol 12 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 90,
+    star: 5,
+    price: "2.1",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Sun Pharmaceutical Industries Ltd",
+    image: ivermectol12_mg_Tablets,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 50, pricePerBottle: 2.5 },
+          { count: 40, price: 92, pricePerBottle: 2.3 },
+          { count: 60, price: 126, pricePerBottle: 2.1 },
+        ],
+      },
+    ],
+    prescription: `Ivermectol 12 is a medication that is widely used to treat parasitic infections. You can take this medication if you have an infection in your intestines, skin, or eyes. Before beginning your medication with Ivermectin, you should consult with your doctor. There is some information include in the medicine package. You can read all of the instructions, and they will give you some ideas about how to think about medicine. Ivermectol 12mg is manufactured by Healing Pharma India Pvt. Ltd. Along with this medicine, this company manufactures a variety of related products to keep people healthy and fit.`,
+    howToUse: `Ivermectol 12 mg is used to treat parasitic infections of the skin, eyes, and gastrointestinal tract. The parasitic infection-causing bacteria are rendered paralyzed by this medication. It binds all of the parasite’s parts and eventually kills them. It aids in the prevention of the development of larvae by another adult parasite. As a result, in cases of parasitic infection, this medicine provides the best treatment.`,
+    additionalDetials: `What is the mechanism of action of Ivermectol 12 mg?
+    This medication works by tying all of the parasites’ internal parts together. It reduces their ability to produce larvae. After paralysing the parties, it kills them and quickly makes them feel fit and fine.`,
+  },
+  {
+    productId: 496,
+    name: "Iverjohn 3 mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 78,
+    star: 4,
+    price: "0.8",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Johnlee Pharmaceuticals Pvt Ltd",
+    image: Iverjohn3mg_tablets,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33, pricePerBottle: 1.1 },
+          { count: 50, price: 50, pricePerBottle: 1 },
+          { count: 100, price: 90, pricePerBottle: 0.9 },
+          { count: 200, price: 160, pricePerBottle: 0.8 },
+        ],
+      },
+    ],
+    prescription: `Iverjohn 3 is a medication that is widely used to treat parasitic infections. You can take this medication if you have an infection in your intestines, skin, or eyes. Before beginning your medication with Ivermectin, you should consult with your doctor. There is some information include in the medicine package. You can read all of the instructions, and they will give you some ideas about how to think about medicine. Iverjohn 3mg is manufactured by Healing Pharma India Pvt. Ltd. Along with this medicine, this company manufactures a variety of related products to keep people healthy and fit.`,
+    howToUse: `Iverjohn 3 mg is used to treat parasitic infections of the skin, eyes, and gastrointestinal tract. The parasitic infection-causing bacteria are rendered paralyzed by this medication. It binds all of the parasite’s parts and eventually kills them. It aids in the prevention of the development of larvae by another adult parasite. As a result, in cases of parasitic infection, this medicine provides the best treatment.`,
+    additionalDetials: `What is the mechanism of action of Iverjohn 3 mg?
+    This medication works by tying all of the parasites’ internal parts together. It reduces their ability to produce larvae. After paralysing the parties, it kills them and quickly makes them feel fit and fine.`,
+  },
+  {
+    productId: 497,
+    name: "Astro Ivermectin 12 mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 97,
+    star: 5,
+    price: "1.4",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Austro Labs Ltd. (India)",
+    image: AstroIvermectin12mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 60, pricePerBottle: 1.1 },
+          { count: 50, price: 95, pricePerBottle: 1 },
+          { count: 100, price: 160, pricePerBottle: 0.9 },
+          { count: 200, price: 280, pricePerBottle: 0.8 },
+        ],
+      },
+    ],
+    prescription: `Astro Ivermectin 12 is a medication that is widely used to treat parasitic infections. You can take this medication if you have an infection in your intestines, skin, or eyes. Before beginning your medication with Ivermectin, you should consult with your doctor. There is some information include in the medicine package. You can read all of the instructions, and they will give you some ideas about how to think about medicine. Astro Ivermectin 12mg is manufactured by Healing Pharma India Pvt. Ltd. Along with this medicine, this company manufactures a variety of related products to keep people healthy and fit.`,
+    howToUse: `Astro Ivermectin 12 mg is used to treat parasitic infections of the skin, eyes, and gastrointestinal tract. The parasitic infection-causing bacteria are rendered paralyzed by this medication. It binds all of the parasite’s parts and eventually kills them. It aids in the prevention of the development of larvae by another adult parasite. As a result, in cases of parasitic infection, this medicine provides the best treatment.`,
+    additionalDetials: `What is the mechanism of action of Astro Ivermectin 12 mg?
+    This medication works by tying all of the parasites’ internal parts together. It reduces their ability to produce larvae. After paralysing the parties, it kills them and quickly makes them feel fit and fine.`,
+  },
+  {
+    productId: 498,
+    name: "Iversun 6 mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 78,
+    star: 4,
+    price: "0.8",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Sunrise remedies",
+    image: Iversun_6_mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "6",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 60, pricePerBottle: 1.1 },
+          { count: 50, price: 95, pricePerBottle: 1 },
+          { count: 100, price: 160, pricePerBottle: 0.9 },
+          { count: 200, price: 280, pricePerBottle: 0.8 },
+        ],
+      },
+    ],
+    prescription: `Iversun 6 is a medication that is widely used to treat parasitic infections. You can take this medication if you have an infection in your intestines, skin, or eyes. Before beginning your medication with Ivermectin, you should consult with your doctor. There is some information include in the medicine package. You can read all of the instructions, and they will give you some ideas about how to think about medicine. Iversun 6mg is manufactured by Healing Pharma India Pvt. Ltd. Along with this medicine, this company manufactures a variety of related products to keep people healthy and fit.`,
+    howToUse: `Iversun 6 mg is used to treat parasitic infections of the skin, eyes, and gastrointestinal tract. The parasitic infection-causing bacteria are rendered paralyzed by this medication. It binds all of the parasite’s parts and eventually kills them. It aids in the prevention of the development of larvae by another adult parasite. As a result, in cases of parasitic infection, this medicine provides the best treatment.`,
+    additionalDetials: `What is the mechanism of action of Iversun 6 mg?
+    This medication works by tying all of the parasites’ internal parts together. It reduces their ability to produce larvae. After paralysing the parties, it kills them and quickly makes them feel fit and fine.`,
+  },
+  {
+    productId: 499,
+    name: "Imrotab Ivermectin 12 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 97,
+    star: 4,
+    price: "1.4",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Knoll Healthcare, INDIA",
+    image: ImrotabIvermectin12Mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 60, pricePerBottle: 1.1 },
+          { count: 50, price: 95, pricePerBottle: 1 },
+          { count: 100, price: 160, pricePerBottle: 0.9 },
+          { count: 200, price: 280, pricePerBottle: 0.8 },
+        ],
+      },
+    ],
+    prescription: `Imrotab Ivermectin 12 is a medication that is widely used to treat parasitic infections. You can take this medication if you have an infection in your intestines, skin, or eyes. Before beginning your medication with Ivermectin, you should consult with your doctor. There is some information include in the medicine package. You can read all of the instructions, and they will give you some ideas about how to think about medicine. Imrotab Ivermectin 12mg is manufactured by Healing Pharma India Pvt. Ltd. Along with this medicine, this company manufactures a variety of related products to keep people healthy and fit.`,
+    howToUse: `Imrotab Ivermectin 12 mg is used to treat parasitic infections of the skin, eyes, and gastrointestinal tract. The parasitic infection-causing bacteria are rendered paralyzed by this medication. It binds all of the parasite’s parts and eventually kills them. It aids in the prevention of the development of larvae by another adult parasite. As a result, in cases of parasitic infection, this medicine provides the best treatment.`,
+    additionalDetials: `What is the mechanism of action of Imrotab Ivermectin 12 mg?
+    This medication works by tying all of the parasites’ internal parts together. It reduces their ability to produce larvae. After paralysing the parties, it kills them and quickly makes them feel fit and fine.`,
+  },
+  {
+    productId: 500,
+    name: "Astro Ivermectin 6 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 77,
+    star: 4,
+    price: "1.2",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Austro Labs Ltd. (India)",
+    image: AstroIvermectin6Mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 48, pricePerBottle: 1.6 },
+          { count: 50, price: 75, pricePerBottle: 1.5 },
+          { count: 100, price: 140, pricePerBottle: 1.4 },
+          { count: 200, price: 240, pricePerBottle: 1.2 },
+        ],
+      },
+    ],
+    prescription: `Astro Ivermectin 6 is a medication that is widely used to treat parasitic infections. You can take this medication if you have an infection in your intestines, skin, or eyes. Before beginning your medication with Ivermectin, you should consult with your doctor. There is some information include in the medicine package. You can read all of the instructions, and they will give you some ideas about how to think about medicine. Astro Ivermectin 6mg is manufactured by Healing Pharma India Pvt. Ltd. Along with this medicine, this company manufactures a variety of related products to keep people healthy and fit.`,
+    howToUse: `Astro Ivermectin 6 mg is used to treat parasitic infections of the skin, eyes, and gastrointestinal tract. The parasitic infection-causing bacteria are rendered paralyzed by this medication. It binds all of the parasite’s parts and eventually kills them. It aids in the prevention of the development of larvae by another adult parasite. As a result, in cases of parasitic infection, this medicine provides the best treatment.`,
+    additionalDetials: `What is the mechanism of action of Astro Ivermectin 6 mg?
+    This medication works by tying all of the parasites’ internal parts together. It reduces their ability to produce larvae. After paralysing the parties, it kills them and quickly makes them feel fit and fine.`,
+  },
+  {
+    productId: 501,
+    name: "Ivecop 12 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 67,
+    star: 4,
+    price: "1.8",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Menarini India Pvt Ltd",
+    image: Ivecop12Mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 44, pricePerBottle: 2.2 },
+          { count: 50, price: 105, pricePerBottle: 2.1 },
+          { count: 100, price: 200, pricePerBottle: 2 },
+          { count: 300, price: 540, pricePerBottle: 1.8 },
+        ],
+      },
+    ],
+    prescription: `Ivecop 12 is a medication that is widely used to treat parasitic infections. You can take this medication if you have an infection in your intestines, skin, or eyes. Before beginning your medication with Ivermectin, you should consult with your doctor. There is some information include in the medicine package. You can read all of the instructions, and they will give you some ideas about how to think about medicine. Ivecop 12mg is manufactured by Healing Pharma India Pvt. Ltd. Along with this medicine, this company manufactures a variety of related products to keep people healthy and fit.`,
+    howToUse: `Ivecop 12 mg is used to treat parasitic infections of the skin, eyes, and gastrointestinal tract. The parasitic infection-causing bacteria are rendered paralyzed by this medication. It binds all of the parasite’s parts and eventually kills them. It aids in the prevention of the development of larvae by another adult parasite. As a result, in cases of parasitic infection, this medicine provides the best treatment.`,
+    additionalDetials: `What is the mechanism of action of Ivecop 12 mg?
+    This medication works by tying all of the parasites’ internal parts together. It reduces their ability to produce larvae. After paralysing the parties, it kills them and quickly makes them feel fit and fine.`,
+  },
+  {
+    productId: 501,
+    name: "Ivecop 6 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 87,
+    star: 4,
+    price: "1.5",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Menarini India Pvt Ltd",
+    image: Ivecop12Mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 38, pricePerBottle: 1.9 },
+          { count: 50, price: 85, pricePerBottle: 1.7 },
+          { count: 100, price: 160, pricePerBottle: 1.6 },
+          { count: 200, price: 300, pricePerBottle: 1.5 },
+        ],
+      },
+    ],
+    prescription: `Ivecop 6 is a medication that is widely used to treat parasitic infections. You can take this medication if you have an infection in your intestines, skin, or eyes. Before beginning your medication with Ivermectin, you should consult with your doctor. There is some information include in the medicine package. You can read all of the instructions, and they will give you some ideas about how to think about medicine. Ivecop 6mg is manufactured by Healing Pharma India Pvt. Ltd. Along with this medicine, this company manufactures a variety of related products to keep people healthy and fit.`,
+    howToUse: `Ivecop 6 mg is used to treat parasitic infections of the skin, eyes, and gastrointestinal tract. The parasitic infection-causing bacteria are rendered paralyzed by this medication. It binds all of the parasite’s parts and eventually kills them. It aids in the prevention of the development of larvae by another adult parasite. As a result, in cases of parasitic infection, this medicine provides the best treatment.`,
+    additionalDetials: `What is the mechanism of action of Ivecop 6 mg?
+    This medication works by tying all of the parasites’ internal parts together. It reduces their ability to produce larvae. After paralysing the parties, it kills them and quickly makes them feel fit and fine.`,
+  },
+  {
+    productId: 502,
+    name: "Imrotab Ivermectin 6 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 94,
+    star: 5,
+    price: "1.2",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Knoll Healthcare, INDIA",
+    image: ImrotabIvermectin12Mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 48, pricePerBottle: 1.6 },
+          { count: 50, price: 75, pricePerBottle: 1.5 },
+          { count: 100, price: 140, pricePerBottle: 1.4 },
+          { count: 200, price: 240, pricePerBottle: 1.2 },
+        ],
+      },
+    ],
+    prescription: `Imrotab Ivermectin 6 is a medication that is widely used to treat parasitic infections. You can take this medication if you have an infection in your intestines, skin, or eyes. Before beginning your medication with Ivermectin, you should consult with your doctor. There is some information include in the medicine package. You can read all of the instructions, and they will give you some ideas about how to think about medicine. Imrotab Ivermectin 6mg is manufactured by Healing Pharma India Pvt. Ltd. Along with this medicine, this company manufactures a variety of related products to keep people healthy and fit.`,
+    howToUse: `Imrotab Ivermectin 6 mg is used to treat parasitic infections of the skin, eyes, and gastrointestinal tract. The parasitic infection-causing bacteria are rendered paralyzed by this medication. It binds all of the parasite’s parts and eventually kills them. It aids in the prevention of the development of larvae by another adult parasite. As a result, in cases of parasitic infection, this medicine provides the best treatment.`,
+    additionalDetials: `What is the mechanism of action of Imrotab Ivermectin 6 mg?
+    This medication works by tying all of the parasites’ internal parts together. It reduces their ability to produce larvae. After paralysing the parties, it kills them and quickly makes them feel fit and fine.`,
+  },
+  {
+    productId: 503,
+    name: "Ivecop 3 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 88,
+    star: 4,
+    price: "1.4",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Menarini India Pvt Ltd",
+    image: Ivecop3Mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 32, pricePerBottle: 1.6 },
+          { count: 50, price: 75, pricePerBottle: 1.5 },
+          { count: 100, price: 140, pricePerBottle: 1.4 },
+        ],
+      },
+    ],
+    prescription: `Ivecop 3 is a medication that is widely used to treat parasitic infections. You can take this medication if you have an infection in your intestines, skin, or eyes. Before beginning your medication with Ivermectin, you should consult with your doctor. There is some information include in the medicine package. You can read all of the instructions, and they will give you some ideas about how to think about medicine. Ivecop 3mg is manufactured by Healing Pharma India Pvt. Ltd. Along with this medicine, this company manufactures a variety of related products to keep people healthy and fit.`,
+    howToUse: `Ivecop 3 mg is used to treat parasitic infections of the skin, eyes, and gastrointestinal tract. The parasitic infection-causing bacteria are rendered paralyzed by this medication. It binds all of the parasite’s parts and eventually kills them. It aids in the prevention of the development of larvae by another adult parasite. As a result, in cases of parasitic infection, this medicine provides the best treatment.`,
+    additionalDetials: `What is the mechanism of action of Ivecop 3 mg?
+    This medication works by tying all of the parasites’ internal parts together. It reduces their ability to produce larvae. After paralysing the parties, it kills them and quickly makes them feel fit and fine.`,
+  },
+  {
+    productId: 504,
+    name: "Vermact 12 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 79,
+    star: 4,
+    price: "2.5",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Mankind Pharma",
+    image: Vermact12,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 30, pricePerBottle: 3 },
+          { count: 50, price: 81, pricePerBottle: 2.7 },
+          { count: 60, price: 150, pricePerBottle: 2.5 },
+        ],
+      },
+    ],
+    prescription: `Ivecop 3 is a medication that is widely used to treat parasitic infections. You can take this medication if you have an infection in your intestines, skin, or eyes. Before beginning your medication with Ivermectin, you should consult with your doctor. There is some information include in the medicine package. You can read all of the instructions, and they will give you some ideas about how to think about medicine. Ivecop 3mg is manufactured by Healing Pharma India Pvt. Ltd. Along with this medicine, this company manufactures a variety of related products to keep people healthy and fit.`,
+    howToUse: `Ivecop 3 mg is used to treat parasitic infections of the skin, eyes, and gastrointestinal tract. The parasitic infection-causing bacteria are rendered paralyzed by this medication. It binds all of the parasite’s parts and eventually kills them. It aids in the prevention of the development of larvae by another adult parasite. As a result, in cases of parasitic infection, this medicine provides the best treatment.`,
+    additionalDetials: `What is the mechanism of action of Ivecop 3 mg?
+    This medication works by tying all of the parasites’ internal parts together. It reduces their ability to produce larvae. After paralysing the parties, it kills them and quickly makes them feel fit and fine.`,
+  },
+  {
+    productId: 505,
+    name: "Ivermectin Lotion",
+    categoryName: "COVID 19",
+    activeIngredient: "Ivermectin",
+    rating: 111,
+    star: 5,
+    price: "10",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Ajanta Pharma Ltd",
+    image: Ivermectinlotion,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "12",
+        unit: "mg",
+        bottle: [
+          { count: 2, price: 25, pricePerBottle: 12.5 },
+          { count: 4, price: 46, pricePerBottle: 11.5 },
+          { count: 6, price: 60, pricePerBottle: 10 },
+        ],
+      },
+    ],
+    prescription: `Ivermectin Lotion is a medication that is widely used to treat parasitic infections. You can take this medication if you have an infection in your intestines, skin, or eyes. Before beginning your medication with Ivermectin, you should consult with your doctor. There is some information include in the medicine package. You can read all of the instructions, and they will give you some ideas about how to think about medicine. Ivermectin Lotionmg is manufactured by Healing Pharma India Pvt. Ltd. Along with this medicine, this company manufactures a variety of related products to keep people healthy and fit.`,
+    howToUse: `Ivermectin Lotion is used to treat parasitic infections of the skin, eyes, and gastrointestinal tract. The parasitic infection-causing bacteria are rendered paralyzed by this medication. It binds all of the parasite’s parts and eventually kills them. It aids in the prevention of the development of larvae by another adult parasite. As a result, in cases of parasitic infection, this medicine provides the best treatment.`,
+    additionalDetials: `What is the mechanism of action of Ivermectin Lotion?
+    This medication works by tying all of the parasites’ internal parts together. It reduces their ability to produce larvae. After paralysing the parties, it kills them and quickly makes them feel fit and fine.`,
+  },
+  {
+    productId: 506,
+    name: "HCQS 200 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Hydroxychloroquine",
+    rating: 111,
+    star: 5,
+    price: "1",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Ipca Laboratories",
+    image: HCQS200Mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 45, pricePerBottle: 1.5 },
+          { count: 60, price: 84, pricePerBottle: 1.4 },
+          { count: 120, price: 156, pricePerBottle: 1.3 },
+          { count: 200, price: 252, pricePerBottle: 1.2 },
+          { count: 300, price: 300, pricePerBottle: 1 },
+        ],
+      },
+    ],
+    prescription: `HCQS 200 mg tablets
+    Antimicrobials, such as HCQS 200, are drugs used to control plasmodium symptoms. Plasmodium is a potentially fatal infection transmitted by direct contact with an infected ‘Anopheles mosquito.
+    
+    Whenever an infected mosquito bites a healthier individual, the ‘Severe malaria’ is transferred into the circulation, affecting blood cells and hepatocytes, puncturing them over time.
+    
+    Plasmodium indications include shivering tremors, high fever, excessive perspiration, migraine, sickness, vomiting, stomach pain, feces, anemic, muscle spasms, seizures, unconsciousness, and bloody diarrhea.
+    
+    They typically appear ten days to four weeks after the illness. Hydroxyurea, the main chemical in HCQS 200mg, belongs to the drug class of ciprofloxacin medications. Buy Hcqs 200 Online In USA and Other Country.
+    
+    It kills the worm and prevents the pathogen from producing the harmless cofactor molecule safe and cost-effective. The pathogen dies due to the poisonous metabolic end generated throughout hemoglobin breakdown. HCQS 200mg belongs to a class of drugs called antibiotics, which are used to reduce the risk of developing plasmodium. The HCQS includes Hydroxychloroquine, a tetrahydro medication that prevents the pathogen from producing the harmless cofactor precursor safe and economical.
+
+    The pathogen died due to its poisonous metabolic end generated during hemoglobin breakdown. Osteoarthritis and lobed or autoimmune are also treated with Hydroxychloroquine. This is ineffective against any malaria type.
+    
+    Order Hcqs 200 online at online pharmacy Buyivermectinstore at Cheap Price with Free and fast Shipping.`,
+    howToUse: `For optimal effects, take HCQS 200 mg precisely as prescribed by the doctor periodically throughout the day.
+
+    To prevent gastrointestinal discomfort, take this after lunch or with milk or as the doctor defines. HCQS 400 dosing quantity varies among individuals patient’s medical state and the intensity of their illness.`,
+    additionalDetials: `Side Effects of HCQS 200 mg
+    Puking, diarrhea, loss of hair, and itching scalp are some of the adverse effects that a patient using HCQS 200 mg could face. Yet not everyone is aware of these adverse effects, and some of them do not necessitate medical care.
+    Alteration in the appearance of your eyes, distortion, photophobia, surface eruptions, stinging, tummy pain, looking unwell, getting ill, dysentery, decreased appetite, migraine, mood swings are all possible adverse effects of HCQS White Pill Tablet 15’s. Most of the chloroquine’s negative impacts do not necessitate medical care and fade away over time. Yet, if the adverse effects do not go away, visit Dr. James Garcia.
+    Doctor will advise you on how to alleviate or avoid these problems.`,
+  },
+  {
+    productId: 507,
+    name: "HCQS 400 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Hydroxychloroquine",
+    rating: 199,
+    star: 5,
+    price: "1.4",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Ipca Laboratories",
+    image: HCQS_400,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 54, pricePerBottle: 1.8 },
+          { count: 60, price: 85, pricePerBottle: 1.7 },
+          { count: 120, price: 160, pricePerBottle: 1.6 },
+          { count: 200, price: 300, pricePerBottle: 1.5 },
+          { count: 300, price: 420, pricePerBottle: 1.4 },
+        ],
+      },
+    ],
+    prescription: `HCQS 400 mg tablets
+    Antimicrobials, such as HCQS 400, are drugs used to control plasmodium symptoms. Plasmodium is a potentially fatal infection transmitted by direct contact with an infected ‘Anopheles mosquito.
+    
+    Whenever an infected mosquito bites a healthier individual, the ‘Severe malaria’ is transferred into the circulation, affecting blood cells and hepatocytes, puncturing them over time.
+    
+    Plasmodium indications include shivering tremors, high fever, excessive perspiration, migraine, sickness, vomiting, stomach pain, feces, anemic, muscle spasms, seizures, unconsciousness, and bloody diarrhea.
+    
+    They typically appear ten days to four weeks after the illness. Hydroxyurea, the main chemical in HCQS 400mg, belongs to the drug class of ciprofloxacin medications. Buy Hcqs 400 Online In USA and Other Country.
+    
+    It kills the worm and prevents the pathogen from producing the harmless cofactor molecule safe and cost-effective. The pathogen dies due to the poisonous metabolic end generated throughout hemoglobin breakdown. HCQS 400mg belongs to a class of drugs called antibiotics, which are used to reduce the risk of developing plasmodium. The HCQS includes Hydroxychloroquine, a tetrahydro medication that prevents the pathogen from producing the harmless cofactor precursor safe and economical.
+
+    The pathogen died due to its poisonous metabolic end generated during hemoglobin breakdown. Osteoarthritis and lobed or autoimmune are also treated with Hydroxychloroquine. This is ineffective against any malaria type.
+    
+    Order Hcqs 400 online at online pharmacy Buyivermectinstore at Cheap Price with Free and fast Shipping.`,
+    howToUse: `For optimal effects, take HCQS 400 mg precisely as prescribed by the doctor periodically throughout the day.
+
+    To prevent gastrointestinal discomfort, take this after lunch or with milk or as the doctor defines. HCQS 400 dosing quantity varies among individuals patient’s medical state and the intensity of their illness.`,
+    additionalDetials: `Side Effects of HCQS 400 mg
+    Puking, diarrhea, loss of hair, and itching scalp are some of the adverse effects that a patient using HCQS 200 mg could face. Yet not everyone is aware of these adverse effects, and some of them do not necessitate medical care.
+    Alteration in the appearance of your eyes, distortion, photophobia, surface eruptions, stinging, tummy pain, looking unwell, getting ill, dysentery, decreased appetite, migraine, mood swings are all possible adverse effects of HCQS White Pill Tablet 15’s. Most of the chloroquine’s negative impacts do not necessitate medical care and fade away over time. Yet, if the adverse effects do not go away, visit Dr. James Garcia.
+    Doctor will advise you on how to alleviate or avoid these problems.`,
+  },
+  {
+    productId: 508,
+    name: "Hqcheal 200 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Hydroxychloroquine",
+    rating: 169,
+    star: 4,
+    price: "0.95",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Healing Pharma",
+    image: Hqcheal200,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 43.5, pricePerBottle: 1.45 },
+          { count: 60, price: 81, pricePerBottle: 1.35 },
+          { count: 120, price: 150, pricePerBottle: 1.25 },
+          { count: 200, price: 242, pricePerBottle: 1.15 },
+          { count: 300, price: 285, pricePerBottle: 0.95 },
+        ],
+      },
+    ],
+    prescription: `Hqcheal 200 mg tablets
+    Antimicrobials, such as Hqcheal 200, are drugs used to control plasmodium symptoms. Plasmodium is a potentially fatal infection transmitted by direct contact with an infected ‘Anopheles mosquito.
+    
+    Whenever an infected mosquito bites a healthier individual, the ‘Severe malaria’ is transferred into the circulation, affecting blood cells and hepatocytes, puncturing them over time.
+    
+    Plasmodium indications include shivering tremors, high fever, excessive perspiration, migraine, sickness, vomiting, stomach pain, feces, anemic, muscle spasms, seizures, unconsciousness, and bloody diarrhea.
+    
+    They typically appear ten days to four weeks after the illness. Hydroxyurea, the main chemical in Hqcheal 200mg, belongs to the drug class of ciprofloxacin medications. Buy Hqcheal 200 Online In USA and Other Country.
+    
+    It kills the worm and prevents the pathogen from producing the harmless cofactor molecule safe and cost-effective. The pathogen dies due to the poisonous metabolic end generated throughout hemoglobin breakdown. Hqcheal 200mg belongs to a class of drugs called antibiotics, which are used to reduce the risk of developing plasmodium. The HCQS includes Hydroxychloroquine, a tetrahydro medication that prevents the pathogen from producing the harmless cofactor precursor safe and economical.
+
+    The pathogen died due to its poisonous metabolic end generated during hemoglobin breakdown. Osteoarthritis and lobed or autoimmune are also treated with Hydroxychloroquine. This is ineffective against any malaria type.
+    
+    Order Hqcheal 200 online at online pharmacy Buyivermectinstore at Cheap Price with Free and fast Shipping.`,
+    howToUse: `For optimal effects, take Hqcheal 200 mg precisely as prescribed by the doctor periodically throughout the day.
+
+    To prevent gastrointestinal discomfort, take this after lunch or with milk or as the doctor defines. Hqcheal 200 dosing quantity varies among individuals patient’s medical state and the intensity of their illness.`,
+    additionalDetials: `Side Effects of Hqcheal 200 mg
+    Puking, diarrhea, loss of hair, and itching scalp are some of the adverse effects that a patient using Hqcheal 200 mg could face. Yet not everyone is aware of these adverse effects, and some of them do not necessitate medical care.
+    Alteration in the appearance of your eyes, distortion, photophobia, surface eruptions, stinging, tummy pain, looking unwell, getting ill, dysentery, decreased appetite, migraine, mood swings are all possible adverse effects of HCQS White Pill Tablet 15’s. Most of the chloroquine’s negative impacts do not necessitate medical care and fade away over time. Yet, if the adverse effects do not go away, visit Dr. James Garcia.
+    Doctor will advise you on how to alleviate or avoid these problems.`,
+  },
+  {
+    productId: 509,
+    name: "Hqcheal 400 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Hydroxychloroquine",
+    rating: 169,
+    star: 4,
+    price: "1.3",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Healing Pharma",
+    image: hqcheal400,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 51, pricePerBottle: 1.7 },
+          { count: 50, price: 80, pricePerBottle: 1.6 },
+          { count: 100, price: 150, pricePerBottle: 1.5 },
+          { count: 200, price: 280, pricePerBottle: 1.4 },
+          { count: 300, price: 390, pricePerBottle: 1.3 },
+        ],
+      },
+    ],
+    prescription: `Hqcheal 400 mg tablets
+    Antimicrobials, such as Hqcheal 400, are drugs used to control plasmodium symptoms. Plasmodium is a potentially fatal infection transmitted by direct contact with an infected ‘Anopheles mosquito.
+    
+    Whenever an infected mosquito bites a healthier individual, the ‘Severe malaria’ is transferred into the circulation, affecting blood cells and hepatocytes, puncturing them over time.
+    
+    Plasmodium indications include shivering tremors, high fever, excessive perspiration, migraine, sickness, vomiting, stomach pain, feces, anemic, muscle spasms, seizures, unconsciousness, and bloody diarrhea.
+    
+    They typically appear ten days to four weeks after the illness. Hydroxyurea, the main chemical in Hqcheal 400mg, belongs to the drug class of ciprofloxacin medications. Buy Hqcheal 400 Online In USA and Other Country.
+    
+    It kills the worm and prevents the pathogen from producing the harmless cofactor molecule safe and cost-effective. The pathogen dies due to the poisonous metabolic end generated throughout hemoglobin breakdown. Hqcheal 400mg belongs to a class of drugs called antibiotics, which are used to reduce the risk of developing plasmodium. The HCQS includes Hydroxychloroquine, a tetrahydro medication that prevents the pathogen from producing the harmless cofactor precursor safe and economical.
+
+    The pathogen died due to its poisonous metabolic end generated during hemoglobin breakdown. Osteoarthritis and lobed or autoimmune are also treated with Hydroxychloroquine. This is ineffective against any malaria type.
+    
+    Order Hqcheal 400 online at online pharmacy Buyivermectinstore at Cheap Price with Free and fast Shipping.`,
+    howToUse: `For optimal effects, take Hqcheal 400 mg precisely as prescribed by the doctor periodically throughout the day.
+
+    To prevent gastrointestinal discomfort, take this after lunch or with milk or as the doctor defines. Hqcheal 400 dosing quantity varies among individuals patient’s medical state and the intensity of their illness.`,
+    additionalDetials: `Side Effects of Hqcheal 400 mg
+    Puking, diarrhea, loss of hair, and itching scalp are some of the adverse effects that a patient using Hqcheal 400 mg could face. Yet not everyone is aware of these adverse effects, and some of them do not necessitate medical care.
+    Alteration in the appearance of your eyes, distortion, photophobia, surface eruptions, stinging, tummy pain, looking unwell, getting ill, dysentery, decreased appetite, migraine, mood swings are all possible adverse effects of HCQS White Pill Tablet 15’s. Most of the chloroquine’s negative impacts do not necessitate medical care and fade away over time. Yet, if the adverse effects do not go away, visit Dr. James Garcia.
+    Doctor will advise you on how to alleviate or avoid these problems.`,
+  },
+  {
+    productId: 510,
+    name: "Hqcheal 400 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Hydroxychloroquine",
+    rating: 169,
+    star: 4,
+    price: "1.3",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Healing Pharma",
+    image: hqcheal400,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 51, pricePerBottle: 1.7 },
+          { count: 50, price: 80, pricePerBottle: 1.6 },
+          { count: 100, price: 150, pricePerBottle: 1.5 },
+          { count: 200, price: 280, pricePerBottle: 1.4 },
+          { count: 300, price: 390, pricePerBottle: 1.3 },
+        ],
+      },
+    ],
+    prescription: `Hqcheal 400 mg tablets
+    Antimicrobials, such as Hqcheal 400, are drugs used to control plasmodium symptoms. Plasmodium is a potentially fatal infection transmitted by direct contact with an infected ‘Anopheles mosquito.
+    
+    Whenever an infected mosquito bites a healthier individual, the ‘Severe malaria’ is transferred into the circulation, affecting blood cells and hepatocytes, puncturing them over time.
+    
+    Plasmodium indications include shivering tremors, high fever, excessive perspiration, migraine, sickness, vomiting, stomach pain, feces, anemic, muscle spasms, seizures, unconsciousness, and bloody diarrhea.
+    
+    They typically appear ten days to four weeks after the illness. Hydroxyurea, the main chemical in Hqcheal 400mg, belongs to the drug class of ciprofloxacin medications. Buy Hqcheal 400 Online In USA and Other Country.
+    
+    It kills the worm and prevents the pathogen from producing the harmless cofactor molecule safe and cost-effective. The pathogen dies due to the poisonous metabolic end generated throughout hemoglobin breakdown. Hqcheal 400mg belongs to a class of drugs called antibiotics, which are used to reduce the risk of developing plasmodium. The HCQS includes Hydroxychloroquine, a tetrahydro medication that prevents the pathogen from producing the harmless cofactor precursor safe and economical.
+
+    The pathogen died due to its poisonous metabolic end generated during hemoglobin breakdown. Osteoarthritis and lobed or autoimmune are also treated with Hydroxychloroquine. This is ineffective against any malaria type.
+    
+    Order Hqcheal 400 online at online pharmacy Buyivermectinstore at Cheap Price with Free and fast Shipping.`,
+    howToUse: `For optimal effects, take Hqcheal 400 mg precisely as prescribed by the doctor periodically throughout the day.
+
+    To prevent gastrointestinal discomfort, take this after lunch or with milk or as the doctor defines. Hqcheal 400 dosing quantity varies among individuals patient’s medical state and the intensity of their illness.`,
+    additionalDetials: `Side Effects of Hqcheal 400 mg
+    Puking, diarrhea, loss of hair, and itching scalp are some of the adverse effects that a patient using Hqcheal 400 mg could face. Yet not everyone is aware of these adverse effects, and some of them do not necessitate medical care.
+    Alteration in the appearance of your eyes, distortion, photophobia, surface eruptions, stinging, tummy pain, looking unwell, getting ill, dysentery, decreased appetite, migraine, mood swings are all possible adverse effects of HCQS White Pill Tablet 15’s. Most of the chloroquine’s negative impacts do not necessitate medical care and fade away over time. Yet, if the adverse effects do not go away, visit Dr. James Garcia.
+    Doctor will advise you on how to alleviate or avoid these problems.`,
+  },
+  {
+    productId: 511,
+    name: "Cipmox 500 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Hydroxychloroquine",
+    rating: 169,
+    star: 4,
+    price: "0.8",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Cipla Ltd",
+    image: cipmox500mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 36, pricePerBottle: 1.2 },
+          { count: 50, price: 66, pricePerBottle: 1.1 },
+          { count: 100, price: 120, pricePerBottle: 1 },
+          { count: 200, price: 189, pricePerBottle: 0.9 },
+          { count: 300, price: 240, pricePerBottle: 0.8 },
+        ],
+      },
+    ],
+    prescription: `Hqcheal 400 mg tablets
+    Antimicrobials, such as Hqcheal 400, are drugs used to control plasmodium symptoms. Plasmodium is a potentially fatal infection transmitted by direct contact with an infected ‘Anopheles mosquito.
+    
+    Whenever an infected mosquito bites a healthier individual, the ‘Severe malaria’ is transferred into the circulation, affecting blood cells and hepatocytes, puncturing them over time.
+    
+    Plasmodium indications include shivering tremors, high fever, excessive perspiration, migraine, sickness, vomiting, stomach pain, feces, anemic, muscle spasms, seizures, unconsciousness, and bloody diarrhea.
+    
+    They typically appear ten days to four weeks after the illness. Hydroxyurea, the main chemical in Hqcheal 400mg, belongs to the drug class of ciprofloxacin medications. Buy Hqcheal 400 Online In USA and Other Country.
+    
+    It kills the worm and prevents the pathogen from producing the harmless cofactor molecule safe and cost-effective. The pathogen dies due to the poisonous metabolic end generated throughout hemoglobin breakdown. Hqcheal 400mg belongs to a class of drugs called antibiotics, which are used to reduce the risk of developing plasmodium. The HCQS includes Hydroxychloroquine, a tetrahydro medication that prevents the pathogen from producing the harmless cofactor precursor safe and economical.
+
+    The pathogen died due to its poisonous metabolic end generated during hemoglobin breakdown. Osteoarthritis and lobed or autoimmune are also treated with Hydroxychloroquine. This is ineffective against any malaria type.
+    
+    Order Hqcheal 400 online at online pharmacy Buyivermectinstore at Cheap Price with Free and fast Shipping.`,
+    howToUse: `For optimal effects, take Hqcheal 400 mg precisely as prescribed by the doctor periodically throughout the day.
+
+    To prevent gastrointestinal discomfort, take this after lunch or with milk or as the doctor defines. Hqcheal 400 dosing quantity varies among individuals patient’s medical state and the intensity of their illness.`,
+    additionalDetials: `Side Effects of Hqcheal 400 mg
+    Puking, diarrhea, loss of hair, and itching scalp are some of the adverse effects that a patient using Hqcheal 400 mg could face. Yet not everyone is aware of these adverse effects, and some of them do not necessitate medical care.
+    Alteration in the appearance of your eyes, distortion, photophobia, surface eruptions, stinging, tummy pain, looking unwell, getting ill, dysentery, decreased appetite, migraine, mood swings are all possible adverse effects of HCQS White Pill Tablet 15’s. Most of the chloroquine’s negative impacts do not necessitate medical care and fade away over time. Yet, if the adverse effects do not go away, visit Dr. James Garcia.
+    Doctor will advise you on how to alleviate or avoid these problems.`,
+  },
+  {
+    productId: 512,
+    name: "Cipmox 250 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Hydroxychloroquine",
+    rating: 169,
+    star: 4,
+    price: "0.7",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Cipla Ltd",
+    image: Cipmox250Mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 33, pricePerBottle: 1.1 },
+          { count: 60, price: 60, pricePerBottle: 1 },
+          { count: 120, price: 108, pricePerBottle: 0.9 },
+          { count: 210, price: 168, pricePerBottle: 0.8 },
+          { count: 300, price: 210, pricePerBottle: 0.7 },
+        ],
+      },
+    ],
+    prescription: `Cipmox 250 mg tablets
+    Antimicrobials, such as Cipmox 250, are drugs used to control plasmodium symptoms. Plasmodium is a potentially fatal infection transmitted by direct contact with an infected ‘Anopheles mosquito.
+    
+    Whenever an infected mosquito bites a healthier individual, the ‘Severe malaria’ is transferred into the circulation, affecting blood cells and hepatocytes, puncturing them over time.
+    
+    Plasmodium indications include shivering tremors, high fever, excessive perspiration, migraine, sickness, vomiting, stomach pain, feces, anemic, muscle spasms, seizures, unconsciousness, and bloody diarrhea.
+    
+    They typically appear ten days to four weeks after the illness. Hydroxyurea, the main chemical in Cipmox 250mg, belongs to the drug class of ciprofloxacin medications. Buy Cipmox 250 Online In USA and Other Country.
+    
+    It kills the worm and prevents the pathogen from producing the harmless cofactor molecule safe and cost-effective. The pathogen dies due to the poisonous metabolic end generated throughout hemoglobin breakdown. Cipmox 250mg belongs to a class of drugs called antibiotics, which are used to reduce the risk of developing plasmodium. The HCQS includes Hydroxychloroquine, a tetrahydro medication that prevents the pathogen from producing the harmless cofactor precursor safe and economical.
+
+    The pathogen died due to its poisonous metabolic end generated during hemoglobin breakdown. Osteoarthritis and lobed or autoimmune are also treated with Hydroxychloroquine. This is ineffective against any malaria type.
+    
+    Order Cipmox 250 online at online pharmacy Buyivermectinstore at Cheap Price with Free and fast Shipping.`,
+    howToUse: `For optimal effects, take Cipmox 250 mg precisely as prescribed by the doctor periodically throughout the day.
+
+    To prevent gastrointestinal discomfort, take this after lunch or with milk or as the doctor defines. Cipmox 250 dosing quantity varies among individuals patient’s medical state and the intensity of their illness.`,
+    additionalDetials: `Side Effects of Cipmox 250 mg
+    Puking, diarrhea, loss of hair, and itching scalp are some of the adverse effects that a patient using Cipmox 250 mg could face. Yet not everyone is aware of these adverse effects, and some of them do not necessitate medical care.
+    Alteration in the appearance of your eyes, distortion, photophobia, surface eruptions, stinging, tummy pain, looking unwell, getting ill, dysentery, decreased appetite, migraine, mood swings are all possible adverse effects of HCQS White Pill Tablet 15’s. Most of the chloroquine’s negative impacts do not necessitate medical care and fade away over time. Yet, if the adverse effects do not go away, visit Dr. James Garcia.
+    Doctor will advise you on how to alleviate or avoid these problems.`,
+  },
+  {
+    productId: 513,
+    name: "Azee 500 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Azithromycin",
+    rating: 169,
+    star: 4,
+    price: "1.6",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Cipla Ltd",
+    image: azee_500_mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 54, pricePerBottle: 1.8 },
+          { count: 60, price: 102, pricePerBottle: 1.7 },
+          { count: 90, price: 144, pricePerBottle: 1.6 },
+        ],
+      },
+    ],
+    prescription: `Azee 500 (Azithromycin) is a wide-ranging erythromycin antibacterial commonly used to diagnose or manage infectious diseases such as human respiratory ailments, epidermal and gentle illnesses, and some highly contagious illnesses. It was the first of a novel subtype of erythromycin termed azalides, developed in the early 1950s.
+
+    The United States (FDA) authorized Azee 500 in late 1991 as the very first at first when antiviral drug with a 5-day treatment regimen for common infectious acute exacerbations, society pneumonitis, focus on those areas, relatively superficial epidermis, and skin type of configuration, utis and cystitis, penile peptic illness in male, and acute otitis mainstream press in kids. You can Azee 500 buy online in USA from Buyivermectin Store.
+    
+    Current studies have discovered off-label usage of Azee 500mg to reduce coronary events, and there could be a link between Mycoplasma pneumonia disease and endothelial dysfunction.
+    Azee 500 Tablet is much more efficient towards Escherichia coli (e. coli infections (e.g., Mycoplasma pneumonia zoonotic disease, Hib parainfluenza, Pasteurella catarrhalis, and Canine distemper cough) and have superior metabolic qualities than parental macrolide Azithromycin.`,
+    howToUse: `Orally, 1 hr beforehand or 2 hours after dinner, Azee 500mg and Azee 250 is consume. As Dr. James Garcia recommends, it can be use routinely at uniformly space time frames. Although if you feel good, you need not miss any dosages and complete the entire treatment plan. Taking the treatment too soon can cause the illness to recur or aggravate.`,
+    additionalDetials: `Diarrhea, sickness, stomach aches, and constipation are all possible side effects of this medication. These are generally only transient and go away once the treatment is finish. If these adverse effects bother you or last for an extend period, seek medical advice. Before taking this prescription, consult Dr. James Garcia if you have a past of allergies or cardiac problems. Expectant mothers or lactating must seek medical advice before taking this medication.`,
+  },
+  {
+    productId: 514,
+    name: "Azipro 500 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Azithromycin",
+    rating: 159,
+    star: 5,
+    price: "1.5",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Cipla Ltd",
+    image: Azipro500mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "200",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 54, pricePerBottle: 1.8 },
+          { count: 60, price: 102, pricePerBottle: 1.7 },
+          { count: 120, price: 180, pricePerBottle: 1.5 },
+        ],
+      },
+    ],
+    prescription: `Azipro 500 (Azithromycin) is a wide-ranging erythromycin antibacterial commonly used to diagnose or manage infectious diseases such as human respiratory ailments, epidermal and gentle illnesses, and some highly contagious illnesses. It was the first of a novel subtype of erythromycin termed azalides, developed in the early 1950s.
+
+    The United States (FDA) authorized Azipro 500 in late 1991 as the very first at first when antiviral drug with a 5-day treatment regimen for common infectious acute exacerbations, society pneumonitis, focus on those areas, relatively superficial epidermis, and skin type of configuration, utis and cystitis, penile peptic illness in male, and acute otitis mainstream press in kids. You can Azipro 500 buy online in USA from Buyivermectin Store.
+    
+    Current studies have discovered off-label usage of Azipro 500mg to reduce coronary events, and there could be a link between Mycoplasma pneumonia disease and endothelial dysfunction.
+    Azipro 500 Tablet is much more efficient towards Escherichia coli (e. coli infections (e.g., Mycoplasma pneumonia zoonotic disease, Hib parainfluenza, Pasteurella catarrhalis, and Canine distemper cough) and have superior metabolic qualities than parental macrolide Azithromycin.`,
+    howToUse: `Orally, 1 hr beforehand or 2 hours after dinner, Azipro 500mg and Azee 250 is consume. As Dr. James Garcia recommends, it can be use routinely at uniformly space time frames. Although if you feel good, you need not miss any dosages and complete the entire treatment plan. Taking the treatment too soon can cause the illness to recur or aggravate.`,
+    additionalDetials: `Diarrhea, sickness, stomach aches, and constipation are all possible side effects of this medication. These are generally only transient and go away once the treatment is finish. If these adverse effects bother you or last for an extend period, seek medical advice. Before taking this prescription, consult Dr. James Garcia if you have a past of allergies or cardiac problems. Expectant mothers or lactating must seek medical advice before taking this medication.`,
+  },
+  {
+    productId: 515,
+    name: "Azax 500 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Azithromycin",
+    rating: 159,
+    star: 5,
+    price: "1.6",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Sun Pharmaceuticals, India",
+    image: Azax500mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "500",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 54, pricePerBottle: 1.8 },
+          { count: 60, price: 102, pricePerBottle: 1.7 },
+          { count: 90, price: 144, pricePerBottle: 1.6 },
+        ],
+      },
+    ],
+    prescription: `Azax 500 (Azithromycin) is a wide-ranging erythromycin antibacterial commonly used to diagnose or manage infectious diseases such as human respiratory ailments, epidermal and gentle illnesses, and some highly contagious illnesses. It was the first of a novel subtype of erythromycin termed azalides, developed in the early 1950s.
+
+    The United States (FDA) authorized Azax 500 in late 1991 as the very first at first when antiviral drug with a 5-day treatment regimen for common infectious acute exacerbations, society pneumonitis, focus on those areas, relatively superficial epidermis, and skin type of configuration, utis and cystitis, penile peptic illness in male, and acute otitis mainstream press in kids. You can Azax 500 buy online in USA from Buyivermectin Store.
+    
+    Current studies have discovered off-label usage of Azax 500mg to reduce coronary events, and there could be a link between Mycoplasma pneumonia disease and endothelial dysfunction.
+    Azax 500 Tablet is much more efficient towards Escherichia coli (e. coli infections (e.g., Mycoplasma pneumonia zoonotic disease, Hib parainfluenza, Pasteurella catarrhalis, and Canine distemper cough) and have superior metabolic qualities than parental macrolide Azithromycin.`,
+    howToUse: `Orally, 1 hr beforehand or 2 hours after dinner, Azax 500mg and Azee 250 is consume. As Dr. James Garcia recommends, it can be use routinely at uniformly space time frames. Although if you feel good, you need not miss any dosages and complete the entire treatment plan. Taking the treatment too soon can cause the illness to recur or aggravate.`,
+    additionalDetials: `Diarrhea, sickness, stomach aches, and constipation are all possible side effects of this medication. These are generally only transient and go away once the treatment is finish. If these adverse effects bother you or last for an extend period, seek medical advice. Before taking this prescription, consult Dr. James Garcia if you have a past of allergies or cardiac problems. Expectant mothers or lactating must seek medical advice before taking this medication.`,
+  },
+  {
+    productId: 516,
+    name: "Azax 250 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Azithromycin",
+    rating: 159,
+    star: 5,
+    price: "1.3",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Sun Pharmaceuticals, India",
+    image: Azax250,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 45, pricePerBottle: 1.5 },
+          { count: 60, price: 84, pricePerBottle: 1.4 },
+          { count: 90, price: 117, pricePerBottle: 1.3 },
+        ],
+      },
+    ],
+    prescription: `Azax 250  (Azithromycin) is a wide-ranging erythromycin antibacterial commonly used to diagnose or manage infectious diseases such as human respiratory ailments, epidermal and gentle illnesses, and some highly contagious illnesses. It was the first of a novel subtype of erythromycin termed azalides, developed in the early 1950s.
+
+    The United States (FDA) authorized Azax 250  in late 1991 as the very first at first when antiviral drug with a 5-day treatment regimen for common infectious acute exacerbations, society pneumonitis, focus on those areas, relatively superficial epidermis, and skin type of configuration, utis and cystitis, penile peptic illness in male, and acute otitis mainstream press in kids. You can Azax 250  buy online in USA from Buyivermectin Store.
+    
+    Current studies have discovered off-label usage of Azax 250 mg to reduce coronary events, and there could be a link between Mycoplasma pneumonia disease and endothelial dysfunction.
+    Azax 250  Tablet is much more efficient towards Escherichia coli (e. coli infections (e.g., Mycoplasma pneumonia zoonotic disease, Hib parainfluenza, Pasteurella catarrhalis, and Canine distemper cough) and have superior metabolic qualities than parental macrolide Azithromycin.`,
+    howToUse: `Orally, 1 hr beforehand or 2 hours after dinner, Azax 250 mg and Azee 250 is consume. As Dr. James Garcia recommends, it can be use routinely at uniformly space time frames. Although if you feel good, you need not miss any dosages and complete the entire treatment plan. Taking the treatment too soon can cause the illness to recur or aggravate.`,
+    additionalDetials: `Diarrhea, sickness, stomach aches, and constipation are all possible side effects of this medication. These are generally only transient and go away once the treatment is finish. If these adverse effects bother you or last for an extend period, seek medical advice. Before taking this prescription, consult Dr. James Garcia if you have a past of allergies or cardiac problems. Expectant mothers or lactating must seek medical advice before taking this medication.`,
+  },
+  {
+    productId: 517,
+    name: "Azee 250 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Azithromycin",
+    rating: 129,
+    star: 4,
+    price: "1.3",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Cipla Limited",
+    image: Azee250mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 45, pricePerBottle: 1.5 },
+          { count: 60, price: 84, pricePerBottle: 1.4 },
+          { count: 90, price: 117, pricePerBottle: 1.3 },
+        ],
+      },
+    ],
+    prescription: `Azee 250  (Azithromycin) is a wide-ranging erythromycin antibacterial commonly used to diagnose or manage infectious diseases such as human respiratory ailments, epidermal and gentle illnesses, and some highly contagious illnesses. It was the first of a novel subtype of erythromycin termed azalides, developed in the early 1950s.
+
+    The United States (FDA) authorized Azee 250  in late 1991 as the very first at first when antiviral drug with a 5-day treatment regimen for common infectious acute exacerbations, society pneumonitis, focus on those areas, relatively superficial epidermis, and skin type of configuration, utis and cystitis, penile peptic illness in male, and acute otitis mainstream press in kids. You can Azee 250  buy online in USA from Buyivermectin Store.
+    
+    Current studies have discovered off-label usage of Azee 250 mg to reduce coronary events, and there could be a link between Mycoplasma pneumonia disease and endothelial dysfunction.
+    Azee 250  Tablet is much more efficient towards Escherichia coli (e. coli infections (e.g., Mycoplasma pneumonia zoonotic disease, Hib parainfluenza, Pasteurella catarrhalis, and Canine distemper cough) and have superior metabolic qualities than parental macrolide Azithromycin.`,
+    howToUse: `Orally, 1 hr beforehand or 2 hours after dinner, Azee 250 mg and Azee 250 is consume. As Dr. James Garcia recommends, it can be use routinely at uniformly space time frames. Although if you feel good, you need not miss any dosages and complete the entire treatment plan. Taking the treatment too soon can cause the illness to recur or aggravate.`,
+    additionalDetials: `Diarrhea, sickness, stomach aches, and constipation are all possible side effects of this medication. These are generally only transient and go away once the treatment is finish. If these adverse effects bother you or last for an extend period, seek medical advice. Before taking this prescription, consult Dr. James Garcia if you have a past of allergies or cardiac problems. Expectant mothers or lactating must seek medical advice before taking this medication.`,
+  },
+  {
+    productId: 518,
+    name: "Azee 1000 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Azithromycin",
+    rating: 129,
+    star: 4,
+    price: "2",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Cipla Limited",
+    image: azee1000mg,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 20, price: 44, pricePerBottle: 2.2 },
+          { count: 40, price: 84, pricePerBottle: 2.1 },
+          { count: 60, price: 120, pricePerBottle: 2 },
+        ],
+      },
+    ],
+    prescription: `Azee 1000 (Azithromycin) is a wide-ranging erythromycin antibacterial commonly used to diagnose or manage infectious diseases such as human respiratory ailments, epidermal and gentle illnesses, and some highly contagious illnesses. It was the first of a novel subtype of erythromycin termed azalides, developed in the early 1950s.
+
+    The United States (FDA) authorized Azee 1000  in late 1991 as the very first at first when antiviral drug with a 5-day treatment regimen for common infectious acute exacerbations, society pneumonitis, focus on those areas, relatively superficial epidermis, and skin type of configuration, utis and cystitis, penile peptic illness in male, and acute otitis mainstream press in kids. You can Azee 1000  buy online in USA from Buyivermectin Store.
+    
+    Current studies have discovered off-label usage of Azee 1000 mg to reduce coronary events, and there could be a link between Mycoplasma pneumonia disease and endothelial dysfunction.
+    Azee 1000  Tablet is much more efficient towards Escherichia coli (e. coli infections (e.g., Mycoplasma pneumonia zoonotic disease, Hib parainfluenza, Pasteurella catarrhalis, and Canine distemper cough) and have superior metabolic qualities than parental macrolide Azithromycin.`,
+    howToUse: `Orally, 1 hr beforehand or 2 hours after dinner, Azee 1000 mg and Azee 250 is consume. As Dr. James Garcia recommends, it can be use routinely at uniformly space time frames. Although if you feel good, you need not miss any dosages and complete the entire treatment plan. Taking the treatment too soon can cause the illness to recur or aggravate.`,
+    additionalDetials: `Diarrhea, sickness, stomach aches, and constipation are all possible side effects of this medication. These are generally only transient and go away once the treatment is finish. If these adverse effects bother you or last for an extend period, seek medical advice. Before taking this prescription, consult Dr. James Garcia if you have a past of allergies or cardiac problems. Expectant mothers or lactating must seek medical advice before taking this medication.`,
+  },
+  {
+    productId: 519,
+    name: "Doxycycline 100 Mg",
+    categoryName: "COVID 19",
+    activeIngredient: "Azithromycin",
+    rating: 129,
+    star: 4,
+    price: "0.8",
+    type: "tablet",
+    typeName: "tablet",
+    ManufacturedBy: "Omega Pharma",
+    image: DoxycyclineCapsules100,
+    currency: "$",
+    productCount: 100,
+    productVariants: [
+      {
+        mg: "250",
+        unit: "mg",
+        bottle: [
+          { count: 30, price: 36, pricePerBottle: 1.2 },
+          { count: 50, price: 55, pricePerBottle: 1.1 },
+          { count: 100, price: 100, pricePerBottle: 1 },
+          { count: 200, price: 180, pricePerBottle: 0.9 },
+          { count: 300, price: 240, pricePerBottle: 0.8 },
+        ],
+      },
+    ],
+    prescription: `Doxycycline is a verbal tablet specified by the doctor under the brand name drugs Acticlate, Doryx, and Doryx MPC. It is obtainable in a generic version also. Generic drugs are usually cost negligible, as they are not tagged with their brand name. In some cases, you will not find every strength in a generic version other than in a brand name version. Buy Doxycycline tablets have come in two categories i.e. immediate release and delayed-release. This capsule also comes in other forms like capsule or oral. In addition, It is also available for injection, which is only provided by healthcare or an expert doctor.`,
+    howToUse: `This is an oral medication tablet. All the available dosages and drug forms are not suitable for specific people. Your dosage, drug form, and how frequently you can devour it, relies on the subsequent criteria:
+
+    Your age
+    How your body reacts from your first dose
+    Additional medical condition
+    How unbearable your condition is
+    The method used for treating a particular condition
+    Buy Doxycycline Online is a short-term treatment method. It comes with many major or minor side effects if you are not taking it according to the doctor’s prescription. Your infection will not go away in one day. If you are having this tablet for treating malaria, then stopping this drug will certainly not protect you from further infections. Your medication may not work if you miss a dose or take the dose according to your schedule. Always try to take the medication according to the doctor’s prescription. Ignoring or forgetting to finish the full duration of treatment may decrease the efficacy of the treatment. Sometimes it may also cause antibiotic resistance which means that your body will not respond to doxycycline 100 mg or any antibiotics in near future.`,
+    additionalDetials: `Side effects of Doxycycline
+    Minor side effects
+    Doxycycline is an oral tablet that may cause some common side effects. They are termed as common because they will fade with time. They are:
+    
+    Lose appetite
+    Vomiting
+    Now Shea
+    Diarrhea
+    Sensitive to sunlight
+    Itchiness and rashes on the skin
+    Temporary yellowishness of teeth
+    All these common symptoms will go away for a few days. If they are severe then talk or take advice from your health expert`,
   },
 ];
